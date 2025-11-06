@@ -17,3 +17,5 @@ code/__pycache__/
 # Données sources
 code/base_test/base_test_cgt/Domaine*/
 Domaine*/
+
+models/
