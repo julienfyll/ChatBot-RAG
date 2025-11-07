@@ -1,4 +1,4 @@
-from retrival_langchain import retrival
+from code.retrieval import retrieval
 import uuid
 from pathlib import Path
 from vectorizor import vectorizor

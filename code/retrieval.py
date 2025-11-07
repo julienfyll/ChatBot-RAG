@@ -10,11 +10,9 @@ from datetime import datetime
 import getpass
 from langchain_text_splitters import RecursiveCharacterTextSplitter  
 from config import PROCESSED_TEXTS_DIR, ROOT_DATA_PATH
-
-# NOUVEL IMPORT
 from document_processor import DocumentProcessor
 
-class retrival :
+class retrieval :
     def __init__(self, 
              path_doc = ROOT_DATA_PATH, 
              chroma_persist_dir: str = "./chroma_db_local",

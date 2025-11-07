@@ -1,4 +1,4 @@
-from retrival_langchain import retrival
+from code.retrieval import retrieval
 import time
 from typing import List, Dict, Any
 
