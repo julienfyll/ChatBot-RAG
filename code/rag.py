@@ -1,6 +1,6 @@
 import numpy as np
 from llm import llm
-from retrival_langchain import retrival
+from code.retrieval import retrieval
 from pathlib import Path
 from config import ROOT_DATA_PATH, CHROMA_PERSIST_DIR, DEFAULT_LLM_MODEL, LLM_BASE_URL
 
