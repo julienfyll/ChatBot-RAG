@@ -1,0 +1,3637 @@
+=== Page 1 ===
+
+ENSDIS
+Note interne
+Direction RH Transformation
+Santé Sécurité
+Pré ti d = d’ iti SL = te:
+revention des risques expos IOn G l'OMIONTE:
+analyse des risques, modes opératoires, formation
+Identification: Enedis-NMO-SS 004
+Nb. de pages: 89
+Résumé / Avertissement
+En application de la politique de prévention des risques d'exposition l'amiante d’Enedis, la présente note
+identifie Les interventions réalisables par les salariés d'Enedis sur des matériaux, des équipements, des
+matériels ou des articles susceptibles de provoquer l'émission de fibres d'amiante.
+Elle décrit les modes opératoires et Les notices de poste applicables pour réaliser ces interventions et précise
+les conditions de traçabilité des interventions. Elle rappelle les modalités de formation des salariés.
+Document(s) associé(s) et annexe(s): voir annexe 8
+VEN | Date d'application | Nature de la modification | Mu EL
+Ajout des e-learning, mise jour des modes
+Accessibilité
+| Libre M Interne [ Restreinte [ Confidentielle
+Validation
+LTÉE | Vérificateur | EN ttc ts
+Gilles COMBE CES COMBE. AODIE ARARD Olivier TERRAL OUVIER TERRAL
+LT. Elodie EVRARD. at,
+Chef de mission Santé Gus come.. | aoxww | Directeur Prévention Santé
+Lie Pat 202. Juriste Droit Social Pate 202) LT ac OUVIER TERRAL
+Sécurité Sécurité Pre pen na
+Enedis-NMO-SS_004 Page: 1/89
+1.0 24/02/2023
+
+=== Page 2 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+SOMMAIRE
+1— Introduction... rrnrnrrrrrrrnnnnnrennnnnennennnennnesnnnnnnesnnn eme nesnn eme esse eme eeseneeneeesneenesemenenessee À
+2 — Différents rôles... nnnnrrrrrnnrnnrrennnmnnnennnennnesnnnnnnnennnnnnnnesnnn eme nes eme eesnnenneeesnnenesenenenesesee À
+3 — Préparation des interventions …. nnnnnnrnrrnrrennnnrnnnnennnnennnnsnnnennnnennnesnnnennneennnennnennes D
+8.1. Analyse du risque de présence d'amiante inner D
+8.2. Préparation de l'intervention ou de l’activité eee À
+3.2.1. Interventions sur des matériaux amiantés (« sous-section 4 » de la section amiante du code du
+TTAVAIL) nnnrrrrrrrsrrrrnrsnnenansnnenansnnenansnnensansnnanansnnanansnnanansanannansanennansenenanennananennantaneenen ananas ane ananenannanenananenannannnns À
+8.2.2. Autres activités dans un local contenant de l'amiante nn Ô
+8.3. Cas particulier des interventions de dépannage ou de sécurité rennes À
+4 — Réalisation des interventions sur des matériaux amiantés sr ©
+4.1. Conditions d'intervention nine À
+4.2. Choix des Equipements de Protection Individuelle (EPI) ss /
+4.2.1. Modes opératoires dont Le niveau d'empoussièrement est inférieur ou égal 5 fibres par litre... 7
+4.2.2. Modes opératoires dont Le niveau d'empoussièrement est supérieur 5 fibres par litre (et
+inférieur 100 fibres par litre)... /
+5 — Formation et information des salariés... nnrrrnnrrrenneeennnmeesnnmnesnnmnesneneenneneenneneennnee 2
+5.1. Salariés concernés par les formations ou par l'information... iesesnennennnnnrO
+5.2. Réalisation des interventions. À
+5.3. Modalités des formations réglementaires inner ©
+5.4. Formation des chargés de projets et salariés jouant Le rôle de donneur d'ordre...
+6 — Fiche d'EXPOSITION mmnmrnnrnmeenmeemmnnmnnenneennenennnnnneennnnnnnnennnennnennsnnesnnennnennnsnensnnennennnnes ©
+7 — Annexe 1 - INTERVENTIONS SUR DES MATERIAUX AMIANTES sen: 1O
+8 — Annexe 2 - EQUIPEMENTS DE PROTECTION INDIVIDUELLE ET MOYENS DE
+PROTECTION COLLECTIVE nnnnnnnnnnnnnnnnnrrrennnnmnnnennnnnnnesnnnenenennnnnneesnnneneeeseneenesesnneneeemnnennene TT
+9 — Annexe 3 - NOTICE DE POSTE 1 (modes opératoires avec un niveau
+d'empoussièrement > 5 fibres/litre). nnsssrnrrenenennenenenennenennneenenennennneennennneee 19
+Enedis-NMO-SS_004 Page: 2/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 3 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+
+10 — Annexe 4 - NOTICE DE POSTE 2 (modes opératoires avec un niveau
+d'empoussièrement < 5 fibres/litre). nnnnnrnrnrersrrenenenenneeanenenenenenenenenneeneeennennneee TD
+11 — Annexe 5 - MODES OPERATOIRES et CONSIGNES …. nninsmnmenmnmnnmnmennenveess T7
+12 — Annexe 6 - EVALUATION DU NIVEAU D'EMPOUSSIEREMENT DES PROCESSUS 84
+13 — Annexe 7 - MEMENTO REGLEMENTAIRE mnnnnnsernrnenerneeneeemennrerenneeneeenrere OO
+14 — Annexe 8 - DOCUMENTS ASSOCIES. nnnnrnmenmenenenneneeneenenenrnernneenneenrere QD
+Enedis-NMO-SS_004 Page: 3/89
+1.0 24/02/2023
+
+EN2DIS
+
+=== Page 4 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+1— Introduction
+Le terme « amiante » désigne communément les variétés fibreuses et flexibles de minéraux silicatés tels que
+les serpentines et les amphiboles, les deux principales variétés d'amiante. C'est une roche naturelle
+indestructible, dont Les fibres sont naturellement présentes dans l’eau, l’air et Le sol.
+En moyenne une fibre d'amiante est de 400 2000 fois plus petite qu’un cheveu humain et n’est pas décelable l'œil nu. Dans un cercle d'un millimètre de diamètre il est possible de faire rentrer de 15 30 fibres de cheveux
+alors que, selon le type d'amiante, il est possible d'y faire rentrer de 90 000 150 000 fibres d'amiante. Seule
+une observation au microscope électronique permet d’en percevoir la présence.
+Dans le cadre de ses activités industrielles, Enedis prend des mesures de prévention du risque amiante trois
+titres: en tant que propriétaire d'immeubles bâtis contenant de l'amiante, en tant que donneur d'ordre et en tant
+qu'employeur.
+Après un rappel succinct du rôle d’Enedis en tant que propriétaire et donneur d'ordre, la présente note décline
+les prescriptions applicables par Enedis dans son rôle d’employeur, lorsque des salariés réalisent des
+interventions sur des matériaux amiantés (code du travail art. R. 4412-94 2°). Afin de faciliter la lecture de La
+note, l'expression « intervention sur des matériaux, des équipements, des matériels ou des articles susceptibles
+de provoquer l'émission de fibres d'amiante » est remplacée par « intervention sur des matériaux amiantés »
+dans la suite de la note.
+Elle précise la conduite tenir pour prévenir le risque lié l’inhalation de poussières d'amiante en:
+e identifiant les interventions sur des matériaux amiantés (annexes 1):
+e _listant les EPI retenus conformes la réglementation (annexe 2):
+° proposant deux notices de poste (annexes 3 et 4);
+e définissant des modes opératoires adaptés aux différents processus de travail mettre en œuvre. Un
+processus inclut le mode opératoire, la nature du matériau contenant de l'amiante (MCA) et les moyens
+de protection collective mis en œuvre comme par exemple le travail l'humide (annexe 5).
+Elle rappelle les obligations en matière de formation issues de l'arrêté du 28 février 2012, donne des
+recommandations en matière d’information des salariés et précise les conditions de rédaction des fiches
+d'exposition.
+2 — Différents rôles
+Enedis est confrontée au risque amiante trois titres.
+En tant que propriétaire d'immeubles bâtis usage industriel, Enedis fait réaliser Le repérage des matériaux et
+produits contenant de l'amiante prévu par le Code de la santé publique, établit et met jour les Dossiers
+Technique Amiante (DTA). Le résultat du repérage est tracé dans une base de données. Il est tenu disposition
+notamment des représentants du personnel et du médecin du travail.
+Selon le cas, de façon délibérée (par exemple, campagne de désamiantage des postes sources) ou l’occasion
+de travaux programmés (par exemple, suppression des dalles en fibro-ciment l'occasion d'interventions
+d'exploitation), Enedis retire les matériaux, matériels ou installations contenant de l'amiante de façon supprimer définitivement Le risque. Le rôle de propriétaire fait l’objet des notes PRDE C.6.3-02 (postes HTA-BT
+et réseau) et PRDE C.6.3-01 (postes sources).
+En tant que donneur d'ordre, pour des travaux nécessitant des interventions sur des matériaux amiantés, Enedis
+joint les DTA ou documents équivalents permettant le repérage de l'amiante au dossier de consultation des
+entreprises prestataires pour leur permettre de procéder leur propre évaluation des risques. En fonction de
+l'analyse de risque qu'elle effectue, Enedis fait réaliser un repérage avant travaux pour compléter l’analyse de
+risque de présence d'amiante dans l'emprise des travaux.
+Dans le cadre de la coordination de sécurité mise en œuvre par Enedis en tant qu’entreprise utilisatrice, Le risque
+lié La présence d'amiante est pris en compte. Ceci s'applique lors de travaux effectués dans des immeubles
+appartenant Enedis, dans des immeubles appartenant des tiers, ainsi que pour les interventions sur des
+enrobés routiers contenant de l'amiante.
+Enedis-NMO-SS_004 Page: 4/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 5 ===
+
+Prévention des risques d'exposition l’amiante:
+
+analyse des risques, modes opératoires, formation
+Le rôle de donneur d'ordre fait l’objet de La note PRDE G.2 - 04.
+En tant qu’'employeur, Enedis met en œuvre les prescriptions du Code du travail (issues du décret 2012-639 du
+4 mai 2012) relatives aux interventions sur des matériaux amiantés. La suite de cette note décline les
+prescriptions applicables par Enedis dans son rôle d’employeur.
+3 — Préparation des interventions
+
+8.1. Analyse du risque de présence d'amiante
+
+Lors de la préparation détaillée du chantier, conformément aux exigences du code du travail, l'employeur
+procède une analyse des risques dont le risque de présence d'amiante dans les matériels, équipements ou
+matériaux impactés par les travaux.
+Selon la nature de l'intervention réaliser, il peut notamment être amené répondre aux questions suivantes:
+
+- Intervention sur un matériel où un équipement:
+
+o le matériel ou l'équipement est-il répertorié parmi ceux contenant de l'amiante?
+- Intervention sur des matériaux:
+o le bâtiment ou les locaux dans lesquels se situe l'intervention ont-ils fait l’objet d’un permis de
+construire délivré avant Le 1° juillet 1997?
+o le dossier technique amiante (DTA) du bâtiment concerné est-il disponible?
+o en l’absence d'éléments tangibles vis-à-vis du risque amiante, des éléments d'évaluation du
+niveau de risque (exemple: murs en pierres) sont-ils disponibles?
+Le résultat de l’analyse ci-dessus conduit identifier trois situations potentielles (voir logigramme ci-après):
+
+-_ Absence d'amiante confirmée. Dans ce cas, aucune précaution spécifique au risque amiante n'est prendre.
+
+- Présence d'amiante soupçonnée. En fonction de l’activité réaliser, on recherche prioritairement une
+solution alternative permettant d'éviter Le risque supposé. Selon la nature du chantier, des démarches
+complémentaires telles qu’un repérage avant travaux sont mises en œuvre. Elles permettent de
+conclure soit l'absence d'amiante, soit la présence d'amiante avérée. En l’absence de démarche
+complémentaire permettant de lever le doute, Le chantier est traité comme un chantier avec présence
+d'amiante avérée.
+
+- Présence d'amiante avérée. Selon l’activité réalisée, on recherche une solution alternative permettant
+en priorité de supprimer (retrait du matériau amianté) ou d'éviter le risque. En l’absence d’une telle
+solution alternative, une préparation spécifique de l’intervention où de l’activité est effectuée.
+
+d'amiante d'amiante d'amiante
+
+avérée soupçonnée confirmée
+permettant de supprimer
+ou d'éviter le risque?
+travaux
+d'amiante?
+permettant de supprimer
+
+ou d'éviter le risque?
+Enedis-NMO-SS_004 Page: 5/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 6 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+3.2. Préparation de l'intervention ou de l’activité
+Lorsque l'analyse de risque a conclu une présence d'amiante avérée (ou en cas de doute) et qu'il n'existe
+aucune solution alternative permettant d'éviter Le risque, deux situations se présentent, suivant que l’activité réaliser est:
+- une intervention sur des matériaux amiantés,
+- ouune autre activité dans un local contenant de l’amiante.
+3.2.1. Interventions sur des matériaux amiantés (« sous-section 4 » de la section amiante du
+code du travail)
+Il s'agit des interventions décrites en annexe 1. Lorsqu'elles ne peuvent pas être évitées, ces interventions
+sont réalisées en appliquant les prescriptions de la présente note (salariés formés, modes opératoires,
+traçabilité des interventions).
+8.2.2. Autres activités dans un local contenant de l'amiante
+Il s’agit d'activités réalisées dans un local comportant des matériaux contenant de l’amiante sans action
+directe sur ceux-ci (exemples: mutations de transformateurs, manœuvre d’un interrupteur non amianté,
+etc.).
+Ces activités sont réalisées:
+- en évitant les contacts directs avec le matériau contenant de l’amiante par balisage ou mise en place
+d’une protection, etc.
+-___enévitant les vibrations de nature fragiliser les matériaux contenant de l’amiante ou leurs effets (par
+exemple en pulvérisant du fixateur sur le matériau concerné).
+Si ce n’est pas possible, Le retrait des matériaux contenant de l’amiante est envisagé ou une autre solution
+est recherchée préalablement la réalisation de l’activité.
+Nota: au cours de la réalisation, si une situation imprévue (non prise en compte lors de la préparation)
+apparaît, un point d'arrêt est observé.
+8.8. Cas particulier des interventions de dépannage ou de sécurité
+Lorsqu'une intervention sur des matériaux amiantés doit être mise en œuvre sans préparation préalable
+dans le cadre d’une intervention de dépannage ou de sécurité, le salarié observe un point d'arrêt et fait
+appel sa hiérarchie ou au responsable d'exploitation.
+A— Réalisation des interventions sur des matériaux amiantés
+Seules les interventions de premier niveau d'empoussièrement (inférieur 100 fibres par litre) sont réalisées
+par des salariés d'Enedis. Pour les interventions de deuxième ou troisième niveaux d’empoussièrement, les
+unités font systématiquement appel des entreprises prestataires compétentes lorsque les interventions ne
+peuvent pas être évitées.
+4.1. Conditions d'intervention
+Ces interventions sont réalisées par des salariés formés (voir 8 V) qui appliquent l’un des modes opératoires de
+l'annexe 5.
+Chaque mode opératoire est composé de 9 paragraphes: 1° La nature de l'intervention 2° Les matériaux
+concernés 3° La fréquence et les modalités de contrôle du niveau d'empoussièrement du processus mis en
+œuvre et du respect de la valeur limite d'exposition professionnelle 4° Le descriptif des méthodes de travail
+et moyens techniques mis en œuvre 5° Les notices de poste 6° Les caractéristiques des équipements utilisés
+pour la protection et la décontamination des travailleurs ainsi que celles des moyens de protection des autres
+personnes qui se trouvent sur le lieu ou proximité de l'intervention 7° Les procédures de décontamination des
+travailleurs et des équipements 8° Les procédures de gestion des déchets 9° Les durées et temps de travail.
+Enedis-NMO-SS_004 Page: 6/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 7 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Pour chaque mode opératoire, les résultats des mesures d'empoussièrement effectuées ont permis d'effectuer
+l'évaluation de son niveau d'empoussièrement.
+Si un salarié se trouve confronté la réalisation d’une intervention sur des matériaux amiantés sans avoir été
+au préalable formé, il ne doit pas effectuer cette intervention. IL fait un point d'arrêt et contacte son
+hiérarchique: s’il apparait, après l'échange avec le hiérarchique, qu'aucune solution alternative la réalisation
+d’une intervention sur des matériaux amiantés n’est possible, l'intervention est suspendue. Le hiérarchique
+réorganise l'intervention en faisant appel des salariés formés.
+Afin de réduire au niveau le plus bas techniquement possible la durée et Le niveau d'exposition des salariés,
+chaque mode opératoire est établi en utilisant des moyens de protection collective (par exemple le travail l'humide). Ces modes opératoires sont soumis l'avis des médecins du travail siégeant en CSE-Central et l'avis
+du CSE-Central. Ils sont ensuite transmis l'inspecteur du travail du siège d'Enedis. Chaque établissement:
+- __informele CSE concerné (selon les modalités définies en DR) et les médecins du travail de son territoire
+sur les modes opératoires mis en œuvre par ses salariés - les annexe dans son document unique d'évaluation des risques.
+Les moyens de protection collective sont précisés de façon générique par des pictogrammes dans les notices
+de poste et explicités au paragraphe 6 de chaque mode opératoire.
+Deux notices de poste destinées informer les salariés des risques auxquels leur travail peut les exposer et des
+dispositions prises pour les éviter (moyens de protection collective et équipement de protection individuelle)
+sont établies. Elles sont transmises aux médecins du travail siégeant en CSE-Central pour avis. Ces avis sont
+ensuite communiqués au CSE-Central.
+4.2. Choix des Equipements de Protection Individuelle (EP)
+Le type d'équipement de protection individuelle (EPI) requis dépend du niveau d'empoussièrement évalué.
+En application de la politique de prévention des risques d’exposition l'amiante d’Enedis, un appareil de
+protection respiratoire (APR) filtrant avec demi-masque équipé de filtre(s) P3 est remis, par sa hiérarchie chaque salarié opérateur de chantier formé et titulaire d’une attestation de compétence. Au plus tard un an
+après sa première utilisation, l'APR est remplacé. Il est recommandé de limiter le port de cet APR une durée
+d’une heure consécutive une pause est donc effectuée après une durée de port d’une heure consécutive.
+S'agissant du port des EPI, deux cas doivent être considérés:
+4.2.1. Modes opératoires dont Le niveau d'empoussièrement est inférieur ou égal 5 fibres par
+Selon la réglementation sur les EPI amiante (arrêté du 7 mars 2013), il est possible de mettre en œuvre ces
+modes opératoires sans EPI spécifique amiante. Toutefois, Enedis a pris la décision:
+-_ deremettre systématiquement (avant chaque intervention) des kits allégés contenant des filtres P3 aux
+salariés afin qu'ils utilisent l'appareil de protection respiratoire (APR) dont ils sont dotés:
+-__ derendre systématique le port de l’'APR afin d'éviter toute potentialité d'exposition en cas d’évènement
+accidentel survenant au cours de la mise en œuvre du mode opératoire.
+4.2.2. Modes opératoires dont le niveau d'empoussièrement est supérieur 5 fibres par litre (et
+inférieur 100 fibres par litre)
+Ces modes opératoires sont mis œuvre en portant Les EPI décrits en annexes 2 et 3.
+5 — Formation et information des salariés
+L'arrêté du 23 février 2012 définit les modalités de la formation des travailleurs la prévention des risques liés l'amiante. Enedis est concernée par les dispositions relatives aux interventions sur des matériaux amiantés.
+Enedis-NMO-SS_004 Page: 7/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 8 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+5.1. Salariés concernés par les formations ou par l'information
+Les salariés potentiellement concernés sont ceux appartenant aux métiers suivants (non exhaustif): technicien
+d'intervention polyvalent, technicien d’AIS (poste source, comptages), préparateur, chargé de projet et leur
+encadrement.
+Deux catégories de salariés d’'Enedis (cf. annexe 1) sont concernées, pour les fonctions:
+-__ d’opérateur de chantier. À Enedis, il s'agit, par exemple, des techniciens d'intervention polyvalents, qui
+sont amenés réaliser des interventions sur des matériaux amiantés:
+-__ d’encadrant. À Enedis, il s’agit, par exemple, des encadrants, des préparateurs, des Gestionnaire de
+Dépannage ou AMTI (Astreinte Managériale Technique d'interventions) et des chargés de projets ayant préparer où valider des interventions sur des matériaux amiantés réalisées par des opérateurs
+d'Enedis.
+Seuls Les opérateurs ayant reçu la formation d'opérateur de chantier peuvent réaliser des interventions sur des
+matériaux amiantés. De même, seuls les «encadrants » formés peuvent préparer ces interventions. Par
+«encadrant», on entend les salariés en charge de la préparation des chantiers ou des interventions
+(Responsable identifié de la préparation, etc.).
+Tout nouvel arrivant susceptible de réaliser des interventions sur des matériaux amiantés est directement
+inscrit La formation préalable. Cette formation obligatoire fait alors partie de son cursus d'entrée dans la
+fonction.
+Des séances d’information (sensibilisation) sont par ailleurs systématiquement organisées par les directions
+régionales pour permettre aux salariés non formés et pouvant être concernés par le risque amiante (notamment
+les nouveaux arrivants dans des emplois concernés):
+-_ d'identifier Les situations comportant des risques d'émission de fibres d'amiante - d’être informés des dispositions mises en place Enedis pour prévenir le risque amiante.
+Pour ce faire, un e-learning de sensibilisation au risque amiante « Amiante: les fondamentaux » est disponible
+sur Ecampus Experience, plate-forme de formation en ligne d'Enedis.
+5.2. Réalisation des interventions
+Selon leur organisation, les unités font réaliser les interventions sur des matériaux amiantés par:
+- un nombre restreint de salariés formés. Dans ce cas, il est interdit aux autres salariés de réaliser ces
+interventions - l’ensemble des salariés de l’unité exerçant les emplois concernés. Dans ce cas, tous ces salariés sont
+formés - des salariés formés d’une autre unité ou d’un prestataire externe compétent Quelle que soit l’organisation, les unités s’assurent que l'information évoquée au paragraphe 5.1 a bien été
+dispensée aux autres salariés potentiellement concernés.
+5.8. Modalités des formations réglementaires
+L'arrêté précité définit Les prescriptions minimales et la durée des formations préalables et des recyclages
+associés.
+Formation Recvclage
+préalable YC'a8
+Cumul des fonctions | 5 jours 1 jour
+d'encadrant et d'opérateur
+Enedis-NMO-SS_004 Page: 8/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 9 ===
+
+Prévention des risques d'exposition l’amiante:
+
+analyse des risques, modes opératoires, formation
+Pour des questions de souplesse d'organisation des sessions de formation mais aussi de polyvalence, Enedis a
+choisi d'inscrire les encadrants la formation « cumul des fonctions ».
+Les formations préalables et les recyclages sont dispensés par un organisme de formation. Afin de conserver
+la continuité d'exercice des compétences d’opérateur ou d’encadrant, le recyclage intervient au plus tard avant
+le 3°" anniversaire de la formation préalable, puis avant le 3°" anniversaire du recyclage.
+L'inscription ces formations est conditionnée la présentation d’un avis d'aptitude médical au poste de travail
+délivré par le Médecin du Travail en cours de validité.
+A l'issue de chaque session de formation préalable ou de recyclage, l'organisme de formation (ou le formateur-
+relais) procède l'évaluation des acquis du stage et délivre chaque salarié formé une attestation de
+compétences répondant aux exigences réglementaires.
+
+5.4. Formation des chargés de projets et salariés jouant Le rôle de donneur d’ordre
+
+Pour Le rôle de donneur d'ordre d’un chantier ou d’une intervention nécessitant une intervention sur un matériau
+ou un matériel susceptible de libérer des fibres d'amiante, un e-learning spécifique « Amiante: Les obligations
+du donneur d'ordre de travaux » est disposition sur Ecampus Experience. Il est prescrit pour tous les salariés
+jouant ce rôle (notamment Ingénierie, Raccordement ou Opérations) pour des chantiers nécessitant une
+intervention sur un matériau ou un matériel susceptible de libérer des fibres d'amiante.
+6 — Fiche d'exposition
+Les modalités relatives au suivi et La remise de la fiche au salarié font l’objet d’une note distincte.
+Les fiches d'exposition sont saisies et validées dans Webamiante. Cet outil garantit la mise disposition des
+fiches d'exposition aux différents acteurs (médecin du travail, RH).
+Une exposition l'amiante est systématiquement saisie dans l'outil Webamiante la première fois qu’un salarié
+formé met en œuvre l’un des modes opératoires en vigueur. La première ligne de sa fiche d'exposition est alors
+renseignée automatiquement par Webamiante.
+Une nouvelle exposition par vacation est saisie dans Webamiante chaque fois qu'un salarié met en œuvre un
+mode opératoire. Cette nouvelle exposition vient ajouter une nouvelle ligne la fiche d'exposition du salarié. Il
+convient de le faire pour tous les modes opératoires, y compris ceux dont le niveau d’empoussièrement est
+inférieur 5 fibres par litre.
+Conduite tenir en cas d'exposition accidentelle
+Lors d’une exposition accidentelle, c'est-à-dire lorsqu'un événement a empêché le travail de se dérouler
+conformément un mode opératoire en vigueur ou lorsqu'un salarié non formé a été exposé de façon
+accidentelle l'amiante, une ligne précisant cette exposition accidentelle est renseignée dans la fiche
+d'exposition (ou une nouvelle fiche est ouverte, selon le cas) dans Webamiante et une analyse de l'événement
+est réalisée par le manager avec l’appui d’un préventeur et jointe La fiche d'exposition.
+Le médecin du travail et Le CSE concernés sont informés le plus rapidement possible de toute exposition
+accidentelle.
+Enedis-NMO-SS_004 Page: 9/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 10 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+7— Annexe ]1-INTERVENTIONS SUR DES MATERIAUX AMIANTES
+Personnel d'encadrement: responsable identifié de préparation (RIP), préparateur de chantier, manager chargé
+du brief/debrief, responsable signataire du bon de travail, chargé de projets raccordement, chargé de projets
+réseau, chargé de projet poste source, Gestionnaire de Dépannage ou AMTI (Astreinte Managériale Technique
+d'interventions,
+Personnel opérateur de chantier: technicien d'intervention polyvalent, technicien T. S. T., technicien postes
+sources, technicien comptage mesure
+Les interventions sur flocage ou calorifugeage sont proscrites.
+Les activités dans un local comportant un flocage ou un calorifugeage sont réalisées en évitant les contacts
+directs et les vibrations de nature les fragiliser. Si ce n’est pas possible, une autre solution est recherchée.
+Activités susceptibles de créer un risque d’inhalation de Numéro du mode
+poussières d'amiante opératoire ou consigne (annexe 5)
+Pose de tableaux de comptage (ou autre matériel) ou
+fixation de câble par perçage sur parois pouvant être Suivant analyse de risque:
+amiantées MO 01 ou MO 02
+Intervention (tirage ou fixation des câbles) dans des parois
+pouvant être amiantées (amiante-ciment,..) MO 02 + MO 06
+Traversée par percement dans des parois pouvant être
+amiantées pour réaliser un branchement où passer des MO 01 + MO 06
+câbles
+Intervention sur coffret CCP d'immeuble en fonte avec
+intercalaires contenant de l'amiante: remplacement ou
+' MO 03
+dépannage
+Intervention sur coffrets bois avec plaque amiantée (CCI):
+remplacement ou dépannage MO 04
+Manutention manuelle de dalles en amiante-ciment MO 05
+Tirage de câble dans un fourreau en amiante-ciment MO 06
+Casse de fourreaux en amiante-ciment pour faciliter,,. ne MO 07
+passage d’un câble et évacuation débris
+Dépose de parafoudres de première génération avec joint MO 12
+amianté
+Manœuvre d’interrupteur HTA amianté MO 13
+Dépose d'interrupteur HTA amianté MO 14
+Dépose d'IACM 2,4 ou 2,5 ou 31,5 A avec joint amianté MO 15
+Dépose de matériels non démontables contenant de |Cette activité fait l’objet de la consigne CO 01
+l'amiante (exemple: fusibles SOCOMEC, cf. PRDE C.6.3-02)
+Evacuation (retour de chantier) des déchets amiantés | Cette activité fait l’objet de la consigne CO 02
+conditionnés
+Enedis-NMO-SS_004 Page: 10/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 11 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+8— Annexe 2 - EQUIPEMENTS DE PROTECTION INDIVIDUELLE ET MOYENS DE
+PROTECTION COLLECTIVE
+L'’Appareil de Protection Respiratoire (APR) est remis par sa hiérarchie chaque salarié opérateur de chantier
+formé et titulaire d’une attestation de compétence. Au plus tard un an après sa première utilisation, l'APR est
+remplacé.
+ILest disponible sur Dauphin et sur SERVAL.
+8.1 - Modes opératoires dont le niveau d’empoussièrement est supérieur 5 fibres par litre
+Pour les modes opératoires de premier niveau d’empoussièrement dont le niveau d'empoussièrement est
+supérieur 5 fibres par litre, les équipements de protection individuelle retenus (conformément l'arrêté du 7
+mars 2013) sont les suivants:
+combinaison de protection usage unique avec capuche de type 5 aux coutures recouvertes ou soudées
+fermée au cou, aux chevilles et aux poignets gants étanches usage unique compatibles avec l’activité exercée * sur chaussures usage unique * lunette-masque usage unique * Appareil de Protection Respiratoire (APR) filtrant avec demi-masque équipé de filtres PS3.
+Les EPI autres que l’APR sont regroupés dans un kit spécifique disponible sur Dauphin et SERVAL.
+% Combinaison type 5 usage unique
+* Sur chaussures usage unique (intégrées la combinaison)
+Gants étanches usage unique
++2 filtres P3 pour APR
+«spécifique » Lunette-masque usage unique
+pq * Lingettes (pour décontamination de l’APR)
++ Adhésif
++ Emballage kit (servant au double ensachage des déchets)
+Sac déchets marqué amiante 40 cm x 60 cm
+* Notice d'utilisation du kit
+8.2 - Modes opératoires dont le niveau d’empoussièrement est inférieur ou égal 5 fibres par litre
+Pour les modes opératoires de premier niveau d’empoussièrement dont le niveau d'empoussièrement est
+inférieur ou égal 5 fibres par litre, Les EPI retenus sont les suivants:
+Gants étanches usage unique
++2 filtres P3 pour APR
+* Lingettes (pour décontamination de l’APR)
+«allégé » + Adhésif
++ Emballage kit (servant au double ensachage des déchets)
+Sac déchets marqué amiante 40 cm x 60 cm
+* Notice d'utilisation du kit
+Enedis-NMO-SS_004 Page: 11/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 12 ===
+
+Prévention des risques d'exposition l’amiante:
+
+analyse des risques, modes opératoires, formation
+8.3 - Références (à date) des Equipements (EPI et autres équipements)
+Commande PGI: EPICAP
+Réf fournisseur PGI: 681937
+
+(ET ER Neo le EP PE ET 37 18 681
+
+Enedis-NMO-SS_004 Page: 12/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 13 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+9— Annexe 3 - NOTICE DE POSTE 1 (modes opératoires avec un niveau
+d’empoussièrement > 5 fibres/litre)
+NOTICE DE POSTE 1: Interventions sur des matériaux, des équipements ou des
+matériels susceptibles de provoquer l'émission de fibres d'amiante
+Modes opératoires dont Le niveau d’'empoussièrement est > 5 fibres/litre
+Une analyse de risques prenant en compte l’ensemble des risques est effectuée avant d'intervenir. La présente
+notice traite uniquement du risque amiante.
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de La journée de travail.
+OUTILS RECOMMANDES MESURES DE PREVENTION COLLECTIVE
+Outils manuels et perceuse électrique
+avec variateur utilisée vitesse lente _—
+pour éviter la mise en suspension des | UE sé
+fibres. US NS
+ani Cm
+(417 ce n re
+7 Lingettes polyane
+= OÙ
+vaporisateur pulvérisateur
+PORT DES EPI usage unique
+| —
+Aÿsh) ) L Sur-chaussures combinaison gants
+wlN - = -Ææ 5e ES
+Protection respiratoire:?
+Appareil de protection |
+respiratoire (APR) filtrant
+avec demi-masque
+équipé de filtre(s) P3
+Enedis-NMO-SS_004 Page: 13/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 14 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Gestion de l’'APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Vérification d'ajustement de l’APR
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la notice
+d'utilisation du fournisseur.
+Un rasage approprié conditionne l'efficacité de l’APR.
+Procédure de retrait des EPI
+Après l'opération, humidification de la combinaison et retrait des EPI, hors zone de travail, dans l’ordre suivant:
+combinaison - sur chaussures -gants - APR.
+Phases de travail | Risques | Moyens d'éviter ces risques
+- _ Perçage des matériaux -_ Mise en suspension de Respect des modes opératoires
+amiantés (MO O1) fibres, - Mise en place des moyens
+-_ Tirage de câbles dans des -__Inhalation de fibres, de protection collective
+fourreaux en amiante-ciment - Contamination des -_ Utilisation des outils
+(MO 06) vêtements de travail et recommandés
+des parties apparentes du | - Port des EP
+visage -_ Humidification de La
+combinaison avant retrait
+-_ Décontamination du visage
+et de l’APR
+-_ Respect de l’ordre de
+retrait des EPI
+Le contenu de cette notice est intégré chaque mode opératoire auquel elle se rapporte.
+Enedis-NMO-SS_004 Page: 14/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 15 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+10 — Annexe 4 - NOTICE DE POSTE 2 (modes opératoires avec un niveau
+d’empoussièrement < 5 fibres/litre)
+NOTICE DE POSTE 2: Interventions sur des matériaux, des équipements ou des
+matériels susceptibles de provoquer l'émission de fibres d'amiante
+Modes opératoires dont Le niveau d'empoussièrement est < 5 fibres/litre
+Une analyse de risques prenant en compte l’ensemble des risques est effectuée avant d'intervenir. La présente
+notice traite uniquement du risque amiante.
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de La journée de travail.
+OUTILS RECOMMANDES MESURES DE PREVENTION COLLECTIVE
+Outils manuels et perceuse électrique avec
+variateur utilisée vitesse lente pour éviter la IG Es
+mise en suspension des fibres. l (4 2) “4 ©...
+FER 4 £
+- Lingettes polyane poche de gel hydrique
+snPn2 x
+£ ) PF j |
+do Ze ##
+% - Le. - l
+‘sr OU
+vaporisateur pulvérisateur
+EPI À
+Appareil de protection respiratoire (APR) filtrant:
+avec demi-masque équipé de filtre(s)
+Kit allégé
+Le kit allégé est mis disposition des salariés afin qu'ils utilisent l'appareil de protection respiratoire (APR) individuel
+dont ils sont dotés.
+Port de l’APR systématique afin d'éviter une éventuelle exposition en cas d’évènement accidentel survenant au cours
+de la mise en œuvre du mode opératoire.
+Gestion de l'APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Enedis-NMO-SS_004 Page: 15/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 16 ===
+
+Prévention des risques d’exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Vérification d'ajustement de l’APR
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la procédure
+du fournisseur.
+Un rasage approprié conditionne l'efficacité de l’APR.
+Procédure de retrait des EPI
+Après l'opération, retrait des EPI, hors zone de travail, dans l’ordre suivant: gants - APR.
+Phases de travail | Risques | Moyens d'éviter ces risques
+-__ Perçage des matériaux amiantés - Miseen Respect des modes opératoires
+(MO 02) suspension de - Mise en place des moyens de
+- Interventions sur coffrets fibres protection collective
+électriques en fonte (CCP) (MO 03) - Inhalation de -_ Utilisation des outils
+et en bois (CCI) (MO 04) contenant fibres recommandés
+des matériaux amiantés - Port du 2 masque équipé de
+- Manutention manuelle de dalles en filtres P3 afin d'éviter une
+amiante-ciment (MO 05) éventuelle exposition en cas
+- Casse de fourreau (MO 07) d’évènement accidentel
+-_ Dépose de parafoudres HTA de 1ère survenant au cours de la
+génération ou d'IACM 2,4 où 2,5 ou mise en œuvre du mode
+31,5 À avec joint amianté (MO 12 et opératoire.
+MO 15) - _ Décontamination de l’'APR
+-__ Manœurvre d’un interrupteur HTA
+amianté (MO 13)
+- _ Dépose d’un interrupteur HTA flasques amiantés (MO 14)
+Le contenu de cette notice est intégré chaque mode opératoire auquel elle se rapporte.
+Enedis-NMO-SS_004 Page: 16/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 17 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+11— Annexe 5 - MODES OPERATOIRES et CONSIGNES
+8-1: Tableau des modes opératoires détaillés pour la réalisation des interventions sur des matériaux amiantés
+Toute intervention sur des matériaux amiantés doit être réalisée dans le respect de l’un des modes opératoires
+suivants.
+La notice de poste (annexe 3 ou annexe À) fait partie intégrante du mode opératoire retenu. Pour chaque mode
+opératoire, les résultats des mesures d'empoussièrement effectuées (annexe 6) ont permis d'effectuer
+l'évaluation de son niveau d'empoussièrement.
+MO o1 Perçage de parois vitesse lente | Intervention | Technicien d'intervention
+avec humidification pour: clientèle polyvalent NOTICE DE
+- pose de tableau de comptage | Travaux de | Technicien comptages-mesures POSTE 1
+-_ modification / rénovation de réseau Annexe 3
+colonne montante
+- pénétration d'immeuble pour
+branchement
+MO 02 Perçage de parois vitesse lente | Intervention | Technicien d'intervention travers une poche de gel | clientèle polyvalent NOTICE DE
+hydrique pour: Travaux de | Technicien comptages-mesures POSTE 2
+- pose de tableau de comptage | réseau Annexe 4
+-_ modification / rénovation de
+colonne montante
+MO 03 Intervention pour remplacement Intervention Technicien d'intervention | NOTICE DE
+ou dépannage sur CCP clientèle polyvalent POSTE 2
+d'immeuble en fonte avec Technicien comptages-mesures Annexe 4
+intercalaires amiante Travaux de
+réseau
+MO 04 Intervention pour remplacement Intervention Technicien d'intervention | NOTICE DE
+ou dépannage sur coffrets bois clientèle polyvalent POSTE 2
+avec plaque amiante (CCI) Technicien comptages-mesures Annexe 4
+Travaux de
+réseau
+MO 05 Manutention manuelle de dalles Intervention | Technicien d'intervention | NOTICE DE
+en amiante-ciment clientèle polyvalent POSTE 2
+Technicien comptages-mesures Annexe 4
+Travaux de | Technicien postes sources
+réseau
+Tirage de câble dans un fourreau | Travaux de | Technicien d'intervention | NOTICE DE
+MO 06..
+en amiante-ciment réseau polyvalent POSTE 1
+SR +
+ciment et évacuation débris réseau polyvalent POSTE 2
+Annexe 4
+Dépose de parafoudres HTA de Travaux de | Technicien d'intervention | NOTICE DE
+MO 12 Ne nr de 4. Le!
+18e génération avec joint amianté | réseau polyvalent POSTE 2
+RÉ ml
+flasques amiantés électricité polyvalent POSTE 2
+Annexe 4
+Dépose d'interrupteur HTA Travaux de | Technicien d'intervention | NOTICE DE
+MO 14 Le!
+flasques amiantés réseau polyvalent POSTE 2
+I -
+Enedis-NMO-SS_004 Page:17/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 18 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Dépose d'IACM 2,4 ou 2,5 ou 31,5 | Travaux de | Technicien d'intervention | NOTICE DE
+MO 15..
+À avec joint amianté réseau polyvalent POSTE 2
+Technicien TSTHTA Annexe 4
+NB: Les MO n°8 11 sont des MO de GRDF. Enedis n'est donc pas concernée
+8-2: Tableau des consignes détaillées pour la réalisation des activités susceptibles de créer un risque pour
+l'environnement du fait de la présence de matériaux amiantés.
+Les consignes suivantes concernent des activités qui ne sont pas des interventions sur des matériaux amiantés elles doivent néanmoins être mises en œuvre pour préserver l’environnement.
+La mise en œuvre de ces consignes ne nécessite ni formation spécifique amiante, ni port d’EPI, ni rédaction
+d’une fiche d'exposition pour le salarié concerné.
+Toutefois, Les salariés concernés ont reçu une information en participant une sensibilisation amiante.
+[NO avé 7] Mées | saane |
+Dépose de matériels contenant | Intervention Technicien d'intervention
+CO 01 Je, Us
+de l’amiante enfermé clientèle polyvalent
+Travaux de | Technicien comptages-
+réseau mesures
+Evacuation des déchets de | Intervention Technicien d'intervention
+CO 02. ' Us
+chantier préalablement placés | clientèle polyvalent
+sous double emballage Travaux de | Technicien comptages-
+réseau mesures
+Technicien postes sources
+8-3: Modes opératoires et consignes
+Enedis-NMO-SS_004 Page: 18/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 19 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+MO 01 - PERCAGE de PAROIS VITESSE LENTE avec
+Avertissement: ce mode opératoire est mis en œuvre lorsque l’analyse de risque n’a pas permis de trouver une
+solution alternative au perçage d’une paroi susceptible de libérer des fibres d'amiante.
+Autres solutions:
+e Percer une autre paroi non amiantée
+e Utiliser une autre solution technique (coller, etc.).
+1- Nature de l'opération
+Perçage de parois (cloisons, murs, etc.) contenant de l’amiante pour:
+-_ pose de tableaux de comptage, de platine support de concentrateurs, de boîtiers, etc.
+-__ modification/rénovation de colonne montante, etc.
+- pénétrations de branchement.
+2 - Matériaux concernés
+Enduit amianté
+Amiante-ciment
+Peinture amiantée
+Plâtre amianté
+8 - Fréquence et modalités de contrôle du niveau d’empoussièrement des processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces mesures, le niveau d'empoussièrement des processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 100 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P8 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+Enedis-NMO-SS_004 Page: 19/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 20 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+= Outillage main (perceuse avec variateur)
+= Rouleau de film polyane
+= Ruban adhésif avec logo amiante + ruban adhésif orange
+“" Vaporisateur produit fixateur ou pulvérisateur (utilisable avec du produit fixateur ou de l'eau)
+" 2 masque filtres P3
+= Kit spécifique amiante (contenant notamment une combinaison de protection usage unique, des
+gants étanches usage unique et des sur chaussures usage unique, des lunettes-masque usage unique,
+2 filtres P3, des lingettes humides, de l'adhésif, ainsi que l'emballage kit (servant au double ensachage des
+déchets) et Le sac déchets marqué amiante 40 cm x 60 cm) " Gants de manutention
+= 2 étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+= 1 Big bag (ou container) logoté amiante pour le transport des déchets dans le véhicule
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Baliser La zone de travail par pose de ruban adhésif avec logo
+amiante pour délimiter la zone de travail et empêcher l'approche de personnes externes eo
+Protéger les surfaces susceptibles d'être polluées avec du
+polyane K 4
+Appliquer au sol un polyane fixé l’aide de scotch sur la zone de:
+perçage, afin de pouvoir récupérer facilement le liquide.
+Repérer les emplacements des trous percer
+S'équiper des EP:
+Mettre la combinaison jetable sans mettre la capuche
+Mettre Les surchaussures 3
+Installer les deux filtres P3 présents dans le kit sur l'APR f. °
+Mettre le demi-masque cartouche P3 en suivant la notice } | + 4
+d'utilisation 4
+Mettre les gants de manutention N°
+Mettre les gants usage unique
+Remonter la capuche sur la tête 12 i:
+Mettre le ruban adhésif (lien entre les gants et La combinaison, lien Q
+entre les sur chaussures et la combinaison)
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé, KM = ÿ ©
+vérifier la bonne étanchéité du masque au visage par pression r
+négative des pouces sur chacun des filtres (suivant notice du di q
+fabricant).
+Enedis-NMO-SS_004 Page: 20/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 21 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+ler opérateur: humidifier en continu l'entrée du trou pendant toute #
+la durée du percement pour éviter la mise en suspension des fibres.
+2" opérateur: percer l’aide d’une perceuse électrique variateur =.
+utilisée vitesse lente (vitesse la plus réduite possible) L ë
+Une fois le ou les perçages réalisés, humidifier Les trous. = À
+Insérer les chevilles, l’aide d'un maillet si nécessaire. >
+A la fin de l'opération, préparer le sac déchets logoté amiante
+inclus dans le kit:
+-_ Nettoyer le foret, Le corps de la perceuse, Le cordon et la UE ÿ
+massette avec les lingettes humides, déposer les lingettes ITS
+utilisées dans le sac déchets EPI amiante re | > ÿ
+- Déposer le balisage dans le sac déchets EPI amiante puis F ë US. a
+fermer l’ensemble avec du ruban adhésif.
+Après l'opération, déshabillage et décontamination selon la
+procédure décrite au 87.
+Au retour sur le site Enedis, déposer les sacs déchets amiante
+dans la zone identifiée de manière spécifique et exclusivement
+réservée au stockage temporaire des produits amiantés. | ee = =
+Les sacs ne sont pas tirés même le sol. | |
+Rappel: Ces déchets « amiante » seront traités par des entreprises fr:
+spécialisées disposant des autorisations administratives. Leur ' ËL
+destruction est tracée au moyen d'un BSDA (Bordereau de Suivi des
+Déchets Amiante).
+Ce mode opératoire est mis en œuvre par deux salariés disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE Î
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de La journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Enedis-NMO-SS_004 Page: 21/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 22 ===
+
+Prévention des risques d’exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Phases de travail | Risques Moyens d'éviter ces risques
+- Perçage des -_ Mise en suspension de Respect du mode opératoire
+matériaux amiantés fibres, -__ Humidification en continu
+-__Inhalation de fibres, -_ Utilisation des outils recommandés (voir
+- _Contamination des 84)
+vêtements de travail et - _ Port des EPI
+des parties apparentes du -_ Humidification de La combinaison avant
+visage retrait
+- Décontamination du visage et de l’'APR
+-_ Retrait des EPI dans l’ordre suivant:
+combinaison - sur chaussures - gants -
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur Le lieu ou proximité de l'intervention
+EPI amiante:
+| PORT DES EPI usage unique
+2
+f, 4 |
+RE W2 PT
+et _ 44 1 aù
+aSAÿ 7 3 4 (es HS
++ & RTS
+DES _ Appareil de protection respiratoire (APR) filtrant ]
+avec demi-masque
+À équipé de filtres P3! 4
+Protection collective: a
+Pose de ruban adhésif avec logo amiante pour baliser la pro
+zone de Pose de ruban adhésif avec logo amiante pour at
+baliser la zone de travail et empêcher l'approche de £
+personnes externes. ee === r:
+Mise en place de film polyane l'emplacement de
+l'intervention, pour protéger la zone de travail.
+Humidification en continu l’aide de produit humidifiant e nr
+(sous réserve d'absence de risque électrique). 4 À
+Pulvérisation de fixateur après perçage et avant r-
+installation de chevilles.
+Enedis-NMO-SS_004 Page: 22/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 23 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+7 - Procédures de décontamination des travailleurs et des équipements
+Décontaminer les outils et matériels (perceuse y compris le câble P
+d'alimentation, pulvérisateur, maillet, etc.) l’aide de lingettes de l'A _—
+« toilette » jetables. », | “ 2
+Après l'opération, humidification de la combinaison et retrait des (a FR EPI, hors zone de travail, dans l’ordre suivant: combinaison - sur un
+chaussures -gants - APR.
+Nota: effectuer ce déshabillage au plus près de la zone de travail. UEZ z
+Commencer par installer un polyane au sol l'endroit du UE ÿ
+déshabillage. CR
+1/ En conservant l’'APR porté, passer une lingette sur l’'APR. VE â
+2/ Eliminer la lingette dans le sac transparent contenant les
+dernières lingettes. 3
+3/ Retirer Le scotch (lien combinaison gants et surchaussures)
+4/ Eliminer le scotch dans le sac transparent précédent 1 27
+5/ Retirer la combinaison (peau de lapin), les surchaussures et les. "A
+lunettes Mettre la combinaison, les surchaussures et les lunettes 4 W
+ainsi que le polyane dans le sac transparent.
+6/ Retirer les gants usage unique en veillant les retourner et.
+ne pas toucher l'extérieur (technique des chirurgiens)
+7/ Eliminer les gants usage unique dans le même sac transparent
+8/ Passer une lingette sur les gants de manutention et l’éliminer Q
+dans le sac transparent D.
+9/ Retirer les gants de manutention et les ranger O
+10/ Retirer l’'APR en dernier, passer une lingette dessus y compris. rt F
+sur les sangles, passer une lingette sur les parties non protégées $
+du visage z
+11/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis les > éliminer dans le sac transparent. 12/ Procéder la fermeture du sac transparent par un col de cygne
+13/ Mettre le sac transparent dans le sac déchet (sac du kit).
+14/ Fermer le sac avec un col de cygne
+15/ Ranger l’'APR
+8 - Procédure de gestion des déchets
+1 - Ramasser les éventuels débris de matériaux amiantés, les BALAI ET ASPIRATEUR INTERDITS
+déposer dans un sac plastique (en utilisant les chiffons humides si
+nécessaire) et fermer le sac avec du ruban adhésif.
+= ©
+2 - Récupérer le film polyane en le repliant délicatement sur lui- MATE
+même et en le maintenant fermé avec du ruban adhésif.
+3 - Placer le sac des déchets et le film polyane replié dans un sac
+plastique transparent étiqueté « amiante », l'identifier (date, lieu du
+chantier, nature des déchets) et Le fermer avec du ruban adhésif. a
+4 - Déposer le balisage, les chiffons, les lingettes, puis la Cu combinaison, les sur bottes, les cartouches du demi-masque filtre EE EE
+P3 et les gants vinyle dans un sac plastique et fermer Le sac avec du — |
+ruban adhésif. Etiquette
+autocollante
+Enedis-NMO-SS_004 Page: 23/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 24 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+5 - Placer le sac des chiffons, balisage et EPI dans un sac plastique, ( 4 { ST
+transparent étiqueté « amiante », l'identifier (date, lieu du chantier, PR)
+nature des déchets) et Le fermer avec du ruban adhésif. r \ |
+6 - Déposer les sacs plastiques transparents étiquetés « amiante » d' ® À
+dans le container où big-bag amiante dans le véhicule. ' (2 4 I...
+Sac déchets Big bag
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de perçage sont limitées 3 vacations par /2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Habillage y compris mise en place de l'appareil de protection 10 minutes
+respiratoire
+Réalisation de l’activité risque (perçage et opérations annexes)
+Déshabillage y compris conditionnement des EPI jetables
+Temps de pause de 20 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour les opérateurs qui ont
+mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 24/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 25 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+MO 02 - PERCAGE de PAROIS VITESSE LENTE TRAVERS une
+POCHE de GEL HYDRIQUE
+
+Avertissement: ce mode opératoire est mis en œuvre lorsque l'analyse de risque n’a pas permis de trouver une
+solution alternative au perçage d’une paroi susceptible de libérer des fibres d'amiante.
+Autre solutions:
+- Percer une autre paroi non amiantée
+- Utiliser une autre solution technique (coller, etc.).
+1- Nature de l'opération
+Perçage de parois (cloisons, murs, gaines, etc.) contenant de l'amiante pour:
+-__ pose de tableaux de comptage, de platine support de concentrateurs, de boîtiers, etc.
+-_ modification/rénovation de colonne montante, etc.
+2 - Matériaux concernés
+Enduit
+Amiante-ciment
+Peinture
+Plâtre amianté
+Colle amiantée
+3 - Fréquence et modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Avis favorable de la Commission CEVALIA (Avis n° 2017-001) prenant en compte les résultats de nombreuses
+mesures d’empoussièrement sur opérateur.
+Compte tenu de ces éléments, le niveau d’empoussièrement des processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedlis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P8 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+Enedis-NMO-SS_004 Page: 25/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 26 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+= Outillage main (perceuse avec variateur)
+= Rouleau de film polyane
+= Ruban adhésif avec logo amiante + ruban adhésif orange
+= Vaporisateur ou pulvérisateur produit fixateur
+= Boîte de lingettes humides
+" 2 masque filtres P3
+= Kit allégé amiante (contenant notamment des gants étanches usage unique, 2 filtres P3, des
+lingettes humides, de l'adhésif, ainsi que l'emballage kit (servant au double ensachage des déchets) et le
+sac déchets marqué amiante 40 cm x 60 cm):
+" Gants de manutention
+= 2 étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+= 1 Big bag (ou container) logoté amiante pour le transport des déchets dans le véhicule
+= Autant de poches de gel que de trous effectuer
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par un ou deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Baliser La zone de travail par pose de ruban adhésif avec logo
+amiante pour délimiter la zone de travail et empêcher l'approche de personnes externes eo
+Appliquer au sol un polyane fixé l’aide de scotch sur la zone de perçage, afin de pouvoir récupérer facilement Les éventuels ’
+débris..
+Repérer les emplacements des trous percer
+S'équiper des EP:
+Mettre les gants de manutention
+Installer les deux filtres P3 présents dans le kit spécifique sur l’'APR r
+Mettre le demi-masque cartouche P3 en suivant la notice QÀŒ
+d'utilisation -
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé, ©
+vérifier la bonne étanchéité du masque au visage par pression
+négative des pouces sur chacun des filtres (suivant notice du
+fabricant).
+Prendre une poche de gel et retirer Le film protecteur de la surface
+collante. €.
+Coller la poche de gel l'emplacement préalablement repéré de N &
+chaque perçage +
+Percer l’aide d’une perceuse électrique variateur utilisée vitesse lente (vitesse la plus réduite possible) travers la poche de Ye) pe
+gel. (précision: Le foret devra être en rotation avant contact avec la - Æ
+poche de gel.
+A la fin de chaque percement: É ’
+- retirer Le foret du mur et de La poche,
+- nettoyer le foret avec la lingette,
+- éliminer la lingette dans le sac transparent du kit,
+- éliminer la poche de gel dans le sac transparent en dessous,
+Enedis-NMO-SS_004 Page: 26/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 27 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+- essuyer les résidus de gel sur Le mur avec une lingette jeter dans j
+le sac transparent, —— __—
+Insérer Les chevilles l’aide d’un maillet si nécessaire \
+Essuyer les résidus de gel sur Le mur avec une lingette jeter dans
+le sac transparent. | 1
+À la fin de l'opération, préparer le sac déchets logoté amiante TES L
+inclus dans le kit: > f
+- Nettoyer le foret, Le corps de la perceuse, Le cordon et le w QUES. â:.. '. eo +
+maillet avec les lingettes humides, déposer les lingettes
+utilisées dans le sac transparent contenant les poches
+utilisées.
+- Déposer le balisage, replier Le polyane délicatement sur lui-
+même et les mettre dans le sac transparent.
+Après l'opération, déshabillage et décontamination selon la
+procédure décrite au 87.
+Au retour sur le site Enedis, déposer Les sacs déchets
+amiante dans la zone identifiée de manière spécifique et un —
+exclusivement réservée au stockage temporaire des produits = 9]
+amiantés. |
+Les sacs ne sont pas tirés même le sol. El
+Rappel: Ces déchets « amiante » seront traités par des e
+entreprises spécialisées disposant des autorisations
+administratives. Leur destruction est tracée au moyen d’un
+BSDA (Bordereau de Suivi des Déchets Amiante).
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de la journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Enedis-NMO-SS_004 Page: 27/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 28 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Phases de travail | Risques | Moyens d'éviter ces risques
+- Perçage des -_ Mise en suspension de Respect du mode opératoire
+matériaux amiantés fibres, -_ Collage d’une poche de gel hydrique -__Inhalation de fibres, l'emplacement du perçage
+-_ Utilisation des outils recommandés
+- Port du 2 masque équipé de filtres P3
+pendant le perçage
+- _ Décontamination de l’'APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur Le lieu ou proximité de l'intervention
+Kit allégé mis disposition des salariés afin qu'ils utilisent l'appareil de protection respiratoire (APR) individuel
+dont ils sont dotés.
+Port de l’APR systématique lors du perçage.
+EPI amiante: #.
+Appareil de protection respiratoire (APR) filtrant avec
+demi-masque équipé de filtre(s) P3
+Protection collective:
+Pose de ruban adhésif avec logo amiante pour baliser la ù | Lg
+zone de travail et empêcher l'approche de personnes nn... “+
+externes. 2
+Percement travers une poche de gel hydrique
+7 - Procédures de décontamination des travailleurs et des équipements
+Décontaminer les outils et matériels (perceuse y compris le câble ITÉ “
+d'alimentation, maillet, etc.) l’aide de lingettes de «toilette » tr >) ÿ
+jetables. ® ESS Après l'opération, retrait des EPI, hors zone de travail.
+Nota: effectuer ce retrait au plus près de la zone de travail. ue ÿ
+Commencer par installer un polyane au sol l'endroit du retrait. IClme + ÿ
+1/ En conservant l’APR porté, passer une lingette sur l’'APR UE a
+2/ Eliminer la lingette dans le sac transparent. Mettre le polyane "
+dans le sac transparent.
+3/ Passer une lingette sur les gants et les retirer. Q x
+4/ Retirer l’APR, passer une lingette dessus y compris sur les >) ÿ
+sangles
+
+Enedis-NMO-SS_004 Page: 28/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 29 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+5/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis les
+éliminer dans le sac transparent.
+6/ Procéder la fermeture du sac transparent par un col de cygne
+7/ Mettre le sac transparent dans le sac déchet (sac du kit).
+8/ Fermer le sac avec un col de cygne
+9/ Ranger l'APR
+8 - Procédure de gestion des déchets
+1 - Récupérer les poches de gel hydrique, les chiffons humides, a
+le balisage, Le polyane et les filtres P3, les déposer dans un sac.
+plastique et fermer Le sac avec du ruban adhésif (col de cygne). ETES
+2 - Placer le sac des déchets dans un sac plastique transparent re ee
+étiqueté « amiante », l'identifier (date, lieu du chantier, nature Etiquette
+des déchets) et le fermer avec du ruban adhésif (col de cygne). | autocollante
+3 - Déposer le sac plastique transparent étiqueté « amiante » DQ dans le container où big bag amiante dans le véhicule. 24 4 E):
+F1 À
+LC "4 Les À
+Sac déchets Big bag
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de perçage sont limitées 5 vacations par!2 journée de travail sans dépasser 9 vacations par
+journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Mise en place de l'appareil de protection respiratoire
+Réalisation de l’activité risque (perçage et opérations annexes)
+Décontamination et retrait de l'APR
+Temps de pause de 15 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 29/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 30 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+Avertissement: ce mode opératoire est mis en œuvre lorsque l'analyse de risque n’a pas permis de trouver une
+solution alternative l'intervention sur CCP (coupe-circuit principal) amiantés.
+Les interventions en dépannage se font dans le respect de la décision du directoire de décembre 2015. Compte
+tenu de la présence d'ouvrages potentiellement fragilisés, La règle pour les dépannages est de réaliser les
+opérations hors tension. Par exception, une intervention pour le remplacement des intercalaires amiante pourra
+être décidée en présence de tension, après analyse des risques et validation de la préparation avec le
+hiérarchique, et échanges avec le chargé d'exploitation selon les procédures métier en vigueur.
+1- Nature de l'opération
+Intervention sur CCP d'immeuble en fonte avec intercalaires en amiante-ciment pour remplacement du CCP ou
+dépannage.
+PL+ YTeNi. pe
+A "4
+e. ve A
+LdD! L | ai — Intercalaires en
+er nn.
+AUTELE ET amiante-ciment
+0 Ci. _ a +:
+re et "AÀ
+Dr 108 %e.
+2 - Matériaux concernés
+Plaques intercalaires en amiante-ciment.
+3 - Fréquence et modalités de contrôle du niveau d’empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces éléments, le niveau d’empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+Enedis-NMO-SS_004 Page: 30/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 31 ===
+
+Prévention des risques d'exposition l’amiante:
+
+analyse des risques, modes opératoires, formation
+
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P8 utilisés systématiquement (FPA =10),
+
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+
+" Matériel / outillage:
+
+= Ruban adhésif avec logo amiante
+
+= Boîte de lingettes humides
+
+" 2 masque filtres P3
+
+= Kit allégé amiante (contenant notamment des gants étanches usage unique, 2 filtres P3, des
+
+lingettes humides, de l'adhésif, ainsi que l'emballage kit (servant au double ensachage des déchets) et le
+
+sac déchets marqué amiante 40 cm x 60 cm):
+
+" Casque de sécurité compatible avec le 2 masque
+
+= 2 étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+
+= 1 Big bag (ou container) logoté amiante pour le transport des déchets dans le véhicule
+
+" Méthode de travail:
+
+Ce mode opératoire est mis en œuvre par un ou deux salariés disposant d’une attestation de compétence
+
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+
+Baliser La zone de travail par pose de ruban adhésif avec logo
+
+amiante pour délimiter la zone de travail et empêcher l'approche )
+
+de personnes externes ee
+
+S'équiper des EP:
+
+Installer les deux filtres P3 présents dans le kit spécifique sur l’'APR
+
+Mettre le demi-masque cartouche P3 en suivant la notice
+
+d'utilisation
+
+Si Le coffret n’est pas consigné: | )
+
+- Mettre un casque de sécurité compatible avec le port du 2 r 4
+masque, par exemple le casque CATU, (cf. photo) et baisser la QfT- ÎL. | |
+visière j; F /
+
+- mettre les gants TST BTFT107 OÈ
+
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé,
+
+vérifier la bonne étanchéité du masque au visage par pression
+
+négative des pouces sur chacun des filtres (suivant notice du
+
+fabricant).
+
+Enlever chaque intercalaire en amiante-ciment en vue du
+
+remplacement du CCP ou du dépannage selon les procédures
+
+métier en vigueur (port des EPI électriques).
+
+Poser l’intercalaire amianté délicatement dans un sac déchet
+
+amiante.
+
+Le remplacer par un intercalaire non amianté, afin d'éviter le
+
+risque lors d'interventions ultérieures.
+Enedis-NMO-SS_004 Page: 31/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 32 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+À la fin de l'opération, préparer Le sac déchets logoté amiante s
+inclus dans le kit et y déposer les intercalaires amiantés et le > ÿ
+balisage. © a
+Après l'opération, hors zone de travail, retrait des EPI et
+décontamination selon la procédure décrite au 87.
+1
+Au retour sur le site Enedis, déposer Les sacs déchets
+amiante dans la zone identifiée de manière spécifique et
+exclusivement réservée au stockage temporaire des produits === 7 =
+amiantés. n | a
+Les sacs ne sont pas tirés même le sol. | ve ue
+Rappel: Ces déchets « amiante » seront traités par des ° ÉL.
+entreprises spécialisées disposant des autorisations
+administratives. Leur destruction est tracée au moyen d’un
+BSDA (Bordereau de Suivi des Déchets Amiante).
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de La journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Phases de travail | Risques | Moyens d'éviter ces risques
+- Interventions sur -_ Mise en suspension de Respect du mode opératoire
+coffrets électriques fibres, - Port du 2 masque équipé
+en fonte (CCP) -_ _Inhalation de fibres, de filtres P3 lors de
+l'enlèvement de
+l'intercalaire.
+- Décontamination de l’'APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur Le lieu ou proximité de l'intervention
+Kit allégé mis disposition des salariés afin qu'ils utilisent l'appareil de protection respiratoire (APR) individuel
+dont ils sont dotés.
+Port de l’APR systématique lors de La manutention de l’intercalaire
+Enedis-NMO-SS_004 Page: 32/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 33 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+EPI amiante: ru
+Appareil de protection respiratoire (APR) filtrant avec |)
+demi-masque équipé de filtre(s) P3
+Protection collective:
+Pose de ruban adhésif avec logo amiante pour baliser la ù
+zone de travail et empêcher l'approche de personnes ee
+externes.
+7 - Procédures de décontamination des travailleurs et des équipements
+Après l'opération, retrait des EPI, hors zone de travail.
+|: | (4: ur
+Nota: effectuer ce retrait au plus près de la zone de travail. VE:... 4 GI L ÿ
+Commencer par installer un polyane au sol l'endroit du retrait. (Ce >
+Ch u Q
+1/ Retirer Le casque "
+2/ En conservant l’APR porté, passer une lingette sur l’APR, sur le
+casque et sur les gants TST. Q x
+3/ Eliminer la lingette dans le sac transparent. Mettre le polyane >) ÿ
+dans le sac transparent.
+4/ Retirer les gants TST aa
+5/ Retirer l’'APR en dernier, passer une lingette dessus y compris sur
+les sangles
+6/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis les
+éliminer dans le sac transparent.
+7/ Procéder la fermeture du sac transparent par un col de cygne
+8/ Mettre le sac transparent dans le sac déchet (sac du kit).
+9/ Fermer le sac avec un col de cygne
+10/ Ranger l’'APR
+8 - Procédure de gestion des déchets
+1 - Ensacher les intercalaires amiantés avec le balisage et Les
+filtres P3 éventuels dans un sac déchets et Le fermer avec du
+ruban adhésif (col de cygne). Eur
+2 - Placer le sac contenant les intercalaires dans un sac En 2e
+plastique transparent étiqueté « amiante », l'identifier (date, lieu | Etiquette autocollante
+du chantier, nature des déchets) et le fermer avec du ruban —
+adhésif (col de cygne). ju ("TER
+3 - Déposer le sac plastique transparent étiqueté « amiante » "+ de ÀÊ \
+dans le container ou le big bag amiante dans le véhicule. ' ÀF 4 2 |
+Sac déchets Big bag
+Enedis-NMO-SS_004 Page: 33/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 34 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les interventions sur CCP sont limitées 10 vacations par 2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Mise en place de l'appareil de protection respiratoire
+Réalisation de l’activité risque (dépose de l'intercalaire)
+Décontamination et retrait de l’'APR
+Temps de pause de 10 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 34/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 35 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Avertissement: ce mode opératoire est mis en œuvre lorsque l'analyse de risque n’a pas permis de trouver une
+solution alternative l'intervention sur CCI amiantés.
+Les interventions en dépannage se font dans le respect de la décision du directoire de décembre 2015. Compte
+tenu de la présence d'ouvrages potentiellement fragilisés, la règle pour les dépannages est de réaliser les
+opérations hors tension. Par exception, une intervention dans un CCI amianté pourra être décidée en présence
+de tension, après analyse des risques et validation de la préparation avec le hiérarchique, et échanges avec le
+chargé d'exploitation selon les procédures métier en vigueur.
+1- Nature de l'opération
+Intervention l’intérieur d’un coffret bois avec plaque amiantée (CCI) pour une opération de remplacement du
+coffret ou de dépannage.
+UE TEE
+Carton amianté Ja
+l'intérieur du Ë 2
+couvercle te -
+É cpu
+2 - Matériaux concernés
+Carton amianté
+3 - Fréquence et modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces éléments, le niveau d’empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P3 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+Enedis-NMO-SS_004 Page: 35/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 36 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+= Ruban adhésif avec logo amiante
+= Boîte de lingettes humides
+" 2 masque filtres P3
+= Kit allégé amiante (contenant notamment des gants étanches usage unique, 2 filtres P3, des
+lingettes humides, de l'adhésif, ainsi que l'emballage kit (servant au double ensachage des déchets) et le
+sac déchets marqué amiante 40 cm x 60 cm):
+= Casque de sécurité compatible avec le 2 masque
+= 2 étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+= 1 Big bag (ou container) logoté amiante pour le transport des déchets dans le véhicule
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par un ou deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Baliser la zone de travail par pose de ruban adhésif avec logo
+amiante pour délimiter la zone de travail et empêcher l'approche de personnes externes eo
+S'équiper des EP:
+Installer les deux filtres P3 présents dans le kit spécifique sur l’'APR
+Mettre le demi-masque cartouche P3 en suivant la notice
+d'utilisation
+Si Le coffret n’est pas consigné: )
+- Mettre un casque de sécurité compatible avec le }2 masque, Te DY
+par exemple le casque CATU, (cf. photo) et baisser la visière Q | + Î. | |
+- Mettre les gants TST BT FT 107 (: /
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé, ©
+vérifier la bonne étanchéité du masque au visage par pression
+négative des pouces sur chacun des filtres (suivant notice du
+fabricant).
+- Enlever délicatement Le couvercle du CCI amianté sur lequel est
+fixé la plaque en amiante-ciment selon les procédures métier en
+vigueur (port des EPI électriques si ouvrage non consigné) et le
+poser au sol sans choc.
+- Effectuer l'opération de remplacement du coffret ou de
+dépannage l'intérieur du coffret
+- Remettre le couvercle délicatement (si coffret non remplacé).
+A la fin de l'opération, préparer le sac déchets logoté amiante ÿ
+inclus dans le kit et y déposer le couvercle du coffret (si le coffret z
+est remplacé) et le balisage. > ë
+Après l'opération, retrait des EPI et décontamination, hors zone de
+travail selon la procédure décrite au 87.
+Enedis-NMO-SS_004 Page: 36/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 37 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Au retour sur le site Enedis, déposer les sacs déchets
+amiante dans la zone identifiée de manière spécifique et
+exclusivement réservée au stockage temporaire des produits pu — =
+amiantés. n |
+Les sacs ne sont pas tirés même le sol. 4
+Rappel: Ces déchets « amiante » seront traités par des L
+entreprises spécialisées disposant des autorisations
+administratives. Leur destruction est tracée au moyen d’un
+BSDA (Bordereau de Suivi des Déchets Amiante).
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard La fin de la journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Phases de travail | Risques Moyens d'éviter ces risques
+- Interventions sur -_ Mise en suspension de Respect du mode opératoire
+coffrets électriques fibres, -_ Port du 2 masque
+en bois (CCI) -_ _Inhalation de fibres, équipé de filtres P3 lors
+de la manutention du
+couvercle.
+- Décontamination de
+l'APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur Le lieu ou proximité de l'intervention
+Kit allégé mis disposition des salariés afin qu'ils utilisent l'appareil de protection respiratoire (APR) individuel
+dont ils sont dotés.
+Port de l’APR systématique lors de La manutention du couvercle et de l'intervention l'intérieur du coffret bois.
+EPI amiante: 4 1
+Appareil de protection respiratoire (APR)
+filtrant avec demi-masque équipé de
+filtre(s) P3
+Enedis-NMO-SS_004 Page: 37/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 38 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+En cas de dépose du CCI, Le couvercle contenant la plaque de fibro-ciment est directement ensaché dans un sac
+plastique.
+Protection collective:
+Pose de ruban adhésif avec logo amiante pour baliser la
+zone de travail et empêcher l'approche de personnes À
+externes. ee
+7 - Procédures de décontamination des travailleurs et des équipements
+Après l'opération, retrait des EPI et décontamination, hors zone de
+travail (re ÿ
+Nota: effectuer ce retrait au plus près de la zone de travail. l 4 +. 3
+Commencer par installer un polyane au sol l'endroit du retrait. (fre > ë
+(JE 1/ Retirer Le casque "
+2/ En conservant l’APR porté, passer une lingette sur l’APR, sur le
+casque et sur les gants TST. Q x
+3/ Eliminer la lingette dans le sac transparent. >) ÿ
+4/ Retirer les gants TST. Mettre le polyane dans le sac transparent. O
+5/ Retirer l’'APR en dernier, passer une lingette dessus y compris sur a
+les sangles
+6/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis les
+éliminer dans le sac transparent.
+7/ Procéder la fermeture du sac transparent par un col de cygne
+8/ Mettre le sac transparent dans le sac déchet (sac du kit).
+9/ Fermer le sac avec un col de cygne
+10/ Ranger l’'APR
+Décontaminer l'appareil de protection respiratoire, le casque UEZ
+et les gants TST l’aide de lingettes de « toilette » jetables. 10
+(JE &
+Enedis-NMO-SS_004 Page: 38/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 39 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+8 - Procédure de gestion des déchets
+1 - En cas de dépose du CCI, ensacher le couvercle contenant la
+plaque en amiante-ciment et le balisage dans un sac déchets et a
+le fermer avec du ruban adhésif. "
+2 - Placer le sac contenant le couvercle dans un sac plastique -
+transparent étiqueté «amiante», l'identifier (date, lieu du re ee
+chantier, nature des déchets) et Le fermer avec du ruban adhésif. Etiquette
+autocollante
+3 - Déposer le sac plastique transparent étiqueté « amiante » dans
+le container où big bag amiante du véhicule. 4 Q 2
+SA |
+' "4 2 À
+Sac déchets Big bag
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les interventions sur CCI sont limitées 10 vacations par /2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Mise en place de l'appareil de protection respiratoire
+Réalisation de l’activité risque (dépose du couvercle et repose 5 minutes
+éventuelle)
+Décontamination et retrait de l'APR
+Temps de pause de 10 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 39/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 40 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+MO 05 - MANUTENTION de DALLES en AMIANTE-
+Avertissement: ce mode opératoire est mis en œuvre lorsque l'analyse de risque n’a pas permis de trouver une
+solution alternative la manutention de dalles en amiante-ciment.
+1- Nature de l'opération
+Manutention de dalles en amiante-ciment recouvrant des fosses, des caniveaux où des chemins de câbles dans
+des postes de transformation électricité (postes HTA-BT ou postes sources).
+2 - Matériaux concernés
+Dalles en amiante-ciment
+3 - Fréquence et modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces éléments, le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P8 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+= Rouleau de film polyane
+= Ruban adhésif avec logo amiante
+= Boîte de lingettes humides
+“" Vaporisateur produit fixateur ou pulvérisateur (utilisable avec du produit fixateur ou de l'eau)
+" 2 masque filtres P3
+= Kit allégé amiante (contenant notamment des gants étanches usage unique, 2 filtres P3, des
+lingettes humides, de l'adhésif, ainsi que l'emballage kit (servant au double ensachage des déchets) et le
+sac déchets marqué amiante 40 cm x 60 cm):
+" Gants de manutention
+= 2 étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+= 1 Big bag (ou container) logoté amiante pour le transport des déchets dans le véhicule
+Enedis-NMO-SS_004 Page: 40/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 41 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Méthode de travail:
+Ce mode opératoire est mis en œuvre par un ou deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant ».
+Baliser la zone de travail par pose de ruban adhésif avec logo amiante
+pour délimiter la zone de travail et empêcher l'approche de personnes )
+externes ee
+Evaluer le risque électrique et napper Le tableau BT si nécessaire
+S'équiper des EP:
+Installer Les deux filtres P3 présents dans le kit spécifique sur l’'APR r
+Mettre Le demi-masque cartouche P3 en suivant la notice d'utilisation Q | Œ
+Mettre les gants de manutention
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé, vérifier ©
+la bonne étanchéité du masque au visage par pression négative des pouces
+sur chacun des filtres (suivant notice du fabricant).
+Humidifier en totalité La surface des dalles (sans les épousseter) et la
+zone de dépose des dalles l’aide de produit humidifiant
+Manutentionner délicatement (sans choc ni frottement) les dalles en.
+amiante-ciment recouvrant les chemins de câbles ou caniveaux. Les 4
+déposer impérativement dans la zone humidifiée préalablement. \
+Humidifier la feuillure (cornières) l’aide de produit humidifiant.
+Lorsqu'on dispose de dalles de remplacement non amiantées, Ÿ”.:
+remplacement des dalles amiantées par des dalles non amiantées en RÉ …
+respectant la procédure suivante: E | _
+e disposer du film polyane en double couche l'emplacement de " OÙ
+l'intervention (pour protection de la zone de travail et
+récupération et emballage des dalles) e _emballer Les dalles et Les déchets éventuels dans le film polyane
+(double enveloppe):
+e fermer l'emballage avec du ruban adhésif e coller Le logo « amiante » et l'identifier (date, lieu du chantier,
+nature des déchets):
+e _sile nombre de dalles est trop important pour les évacuer, les
+stocker sur palette pour enlèvement ultérieur par un prestataire
+spécialisé, sinon, les évacuer immédiatement en déposant les
+dalles emballées dans le véhicule.
+Lorsqu'on ne dispose pas de dalles de remplacement non amiantées,
+reposer délicatement (sans choc ni frottement) les dalles en amiante-
+ciment sur le chemin de câbles, la fosse ou le caniveau.
+Pas d'utilisation d'outils.
+A la fin de l'opération, préparer le sac déchets logoté amiante inclus
+dans le kit et y déposer le balisage.
+Enedis-NMO-SS_004 Page: 41/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 42 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation:
+Après l'opération, hors zone de travail, retrait des EPl et décontamination
+selon la procédure décrite au 87.
+Au retour sur le site Enedis, déposer Les sacs déchets amiante dans
+la zone identifiée de manière spécifique et exclusivement réservée au:
+stockage temporaire des produits amiantés. === 7 ==
+Les sacs ne sont pas tirés même le sol. Ê | d
+Rappel: Ces déchets « amiante » seront traités par des entreprises fi cc
+spécialisées disposant des autorisations administratives. Leur ' u pe
+destruction est tracée au moyen d’un BSDA (Bordereau de Suivi des
+Déchets Amiante).
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de la journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Phases de travail | Risques | Moyens d'éviter ces risques
+- Manutention de - Mise en suspension de Respect du mode opératoire
+dalles en amiante- fibres, -__ Humidification des dalles et de la
+ciment -__Inhalation de fibres, zone de stockage des dalles
+- Port du 2 masque équipé de filtres
+P3 lors de la manutention des dalles.
+- _ Décontamination de l’APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur Le lieu ou proximité de l'intervention
+Kit allégé mis disposition des salariés afin qu'ils puissent utiliser l'appareil de protection respiratoire (APR)
+individuel dont ils sont dotés.
+Port de l’APR systématique lors de La manutention des dalles.
+Enedis-NMO-SS_004 Page: 42/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 43 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+EPI amiante: f Appareil de protection respiratoire (APR) filtrant avec
+demi-masque équipé de filtre(s) P3
+Protection collective:
+Pour l'emballage et le stockage éventuel de dalles, Fe
+disposer du film polyane en double couche FE + #
+l'emplacement de l'intervention et envelopper les dalles. EE:
+Pose de ruban adhésif avec logo amiante pour baliser la = =
+zone de travail et empêcher l'approche de personnes
+externes. ké Humidification l’aide de produit humidifiant ùt”
+(a E
+7 - Procédures de décontamination des travailleurs et des équipements
+Après l'opération, retrait des EPI, hors zone de travail.
+Nota: effectuer ce retrait au plus près de la zone de travail. UE ÿ
+Commencer par installer un polyane au sol l'endroit du retrait ICE ÿ
+FE —
+1/ En conservant l’'APR porté, passer une lingette sur l’'APR. ESS. a
+2/ Eliminer la lingette dans le sac transparent. Mettre le polyane dans le " |
+sac transparent. QZ
+3/ Passer une lingette sur les gants et les retirer. —) ÿ
+4/ Retirer l’'APR, passer une lingette dessus y compris sur les sangles
+5/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis les éliminer _., a
+dans le sac transparent.
+6/ Procéder la fermeture du sac transparent par un col de cygne
+7/ Mettre le sac transparent dans le sac déchet (sac du kit).
+8/ Fermer le sac avec un col de cygne
+9/ Ranger l'APR
+8 - Procédure de gestion des déchets
+Si Les dalles ont été entreposées sur palette, prévoir l'enlèvement
+ultérieur par un prestataire spécialisé. a
+Sinon, appliquer la procédure suivante: NES ' \
+1 - Récupérer le film polyane double couche contenant les dalles en ”
+le repliant délicatement sur lui-même et en le maintenant fermé avec Se ee
+du ruban adhésif. Etiquette
+autocollante
+2 - Placer le balisage et Les filtres P3 éventuels dans un sac plastique
+et Le fermer avec du ruban adhésif.
+Enedis-NMO-SS_004 Page: 43/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 44 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+3 - Placer le film polyane replié et Le sac contenant le balisage dans, ( 4 { Hi
+un sac plastique transparent étiqueté « amiante », l'identifier (date, PR) | j
+lieu du chantier, nature des déchets) et le fermer avec du ruban j \
+adhésif. [e \ &
+4 - Déposer le ou les sacs plastiques transparents étiquetés ', 0 = _— LA
+«amiante » dans Le container ou le big bag amiante du véhicule. Sac déchets Big bag
+BALAI ET ASPIRATEUR INTERDITS
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de manutention de dalles sont limitées 7 Vacations par /2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Mise en place de l'appareil de protection respiratoire
+Réalisation de l’activité risque (Manutention de dalles)
+Décontamination et retrait de l'APR
+Temps de pause de 15 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 44/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 45 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+MO 06 - TIRAGE de CABLES DANS UN FOURREAU EN AMIANTE-
+Avertissement: ce mode opératoire est mis en œuvre lorsque l'analyse de risque n’a pas permis de trouver une
+solution alternative au tirage de câble dans un fourreau amianté (par exemple: dépannage urgent).
+Autre solution: utiliser un autre passage.
+1- Nature de l'opération
+Tirage de câbles dans un fourreau en amiante-ciment avec risque de frottement.
+2 - Matériaux concernés
+Amiante-ciment
+3 - Fréquence et modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces mesures, le niveau d’empoussièrement des processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 100 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P3 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+= Rouleau de film polyane
+= Ruban adhésif avec logo amiante + ruban adhésif orange. Pulvérisateur (utilisable avec du produit fixateur ou de l’eau)
+= Boîte de lingettes humides
+" 2 masque filtres P3
+= Kit spécifique amiante (contenant notamment une combinaison de protection usage unique, des
+gants étanches usage unique et des sur chaussures usage unique, des lunettes-masque usage unique,
+2 filtres P3, des lingettes humides, de l'adhésif, ainsi que l'emballage kit (servant au double ensachage des
+déchets) et Le sac déchets marqué amiante 40 cm x 60 cm) " Gants de manutention
+= 2 étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+= 1 Big bag (ou container) logoté amiante pour le transport des déchets dans le véhicule
+Enedis-NMO-SS_004 Page: 45/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 46 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Baliser la zone de travail par pose de ruban adhésif avec logo
+amiante pour délimiter la zone de travail et empêcher l'approche de personnes externes ee
+Protéger les surfaces susceptibles d'être polluées avec du |
+polyane K ’
+Mettre en place au sol un polyane aux deux extrémités du:
+fourreau (cas d’un fourreau horizontal) ou sous l'extrémité basse
+du fourreau (cas d’un fourreau vertical), afin de pouvoir récupérer
+facilement le liquide.
+S'équiper des EP:
+Mettre la combinaison jetable sans mettre la capuche 3
+Mettre les surchaussures N
+Installer Les deux filtres P3 présents dans le kit sur l’'APR | û
+Mettre le demi-masque cartouche P3 en suivant la notice "Ly + 4
+d'utilisation \!
+Mettre les gants de manutention
+Mettre les gants usage unique r BE
+Remonter la capuche sur la tête © a
+Mettre le ruban adhésif (lien entre les gants et La combinaison, lien. d
+entre les sur chaussures et la combinaison) FAQ) © (
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé,
+vérifier la bonne étanchéité du masque au visage par pression
+négative des pouces sur chacun des filtres (suivant notice du
+fabricant).
+Humidifier les parties accessibles du fourreau ses deux
+extrémités
+Vérifier que l'extrémité du câble tirer est bien équipée d’un capot >
+en bon état afin d'éviter une abrasion du fourreau lors du tirage. ({ P)
+Sinon, remplacer le capot.
+Tirer manuellement le câble sans outillage particulier (1°
+opérateur) en humidifiant de manière continue (24 opérateur)
+depuis l’une des extrémités du fourreau pour éviter la mise en
+suspension des fibres.
+A la fin de l'opération, préparer le sac déchets logoté amiante ÿ
+inclus dans le kit. z
+Déposer le balisage dans le sac déchets EPI amiante puis fermer > ÿ
+l'ensemble avec du ruban adhésif. © a
+Après l'opération, humidification de la combinaison et retrait des
+EPI, hors zone de travail, selon la procédure décrite au 87.
+Enedis-NMO-SS_004 Page: 46/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 47 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Au retour sur le site Enedis, déposer les sacs déchets
+amiante dans la zone identifiée de manière spécifique et
+exclusivement réservée au stockage temporaire des produits | es =
+amiantés. n |
+Les sacs ne sont pas tirés même le sol. * 4
+Rappel: Ces déchets « amiante » seront traités par des: L
+entreprises spécialisées disposant des autorisations
+administratives. Leur destruction est tracée au moyen d’un
+BSDA (Bordereau de Suivi des Déchets Amiante).
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 1
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de La journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Phases de travail | Risques | Moyens d'éviter ces risques
+-_ Tirage de câble dans - Mise en suspension de Respect du mode opératoire
+des fourreaux fibres, -__ Humidification en continu des parties
+amiantées -__Inhalation de fibres, accessibles du fourreau pendant le tirage
+-_ Contamination des -_ Port des EPI
+vêtements de travail et - __Humidification de la combinaison avant
+des parties apparentes retrait
+du visage - _ Décontamination du visage et de l’'APR
+- Retrait des EPI dans l’ordre suivant:
+combinaison - sur chaussures - gants -
+Ce mode opératoire est mis en œuvre par deux salariés disposant d’une attestation de compétence « opérateur
+de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Enedis-NMO-SS_004 Page: 47/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 48 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur le lieu ou proximité de l'intervention
+EPI amiante:
+| PORT DES EPI usage unique
+î 2
+| Al | |
+M V4
+ni n 4 CL.
+Fr) Protection respiratoire: |
+LS 4 Le Appareil de protection
+4 respiratoire (APR) filtrant
+a avec demi-masque
+> équipé de filtre(s) P3
+Protection collective: a |
+Pose de ruban adhésif avec logo amiante pol SN
+pour baliser la zone de travail et empêcher ES % L
+l'approche de personnes externes. ES EE Fe
+Mise en place de film polyane aux deux ==
+extrémités du fourreau pour protéger la #
+zone de travail.
+Humidification de la zone de tirage l’aide
+de produit humidifiant. =
+7 - Procédures de décontamination des travailleurs et des équipements
+Après l'opération, humidification de la combinaison et retrait des #
+EPI, hors zone de travail, dans l'ordre suivant: combinaison - sur
+chaussures -gants - APR., UE
+Nota: effectuer ce déshabillage au plus près de la zone de travail. È IT
+Commencer par installer un polyane au sol l'endroit du À re
+déshabillage. 10
+1/ En conservant l’'APR porté, passer une lingette sur l’'APR. _— ï
+2/ Eliminer la lingette dans le sac transparent contenant les | UE Æ
+dernières lingettes. AU YÜ
+3/ Retirer le scotch (lien combinaison gants et surchaussures) RS: | |
+4] Eliminer le scotch dans le sac transparent précédent RQ" 8
+5/ Retirer la combinaison (peau de lapin), les surchaussures et les
+lunettes. Mettre la combinaison, les surchaussures et les lunettes
+ansi que le polyane dans le sac transparent.
+Enedis-NMO-SS_004 Page: 48/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 49 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+6/ Retirer les gants usage unique en veillant les retourner et 3
+ne pas toucher l'extérieur (technique des chirurgiens) ÉL'!
+7/ Eliminer les gants usage unique dans le même sac transparent { } | L
+8/ Passer une lingette sur les gants de manutention et l’éliminer "LA
+dans le sac transparent N°
+9/ Retirer les gants de manutention et les ranger. Ÿ
+10/ Retirer l’'APR en dernier, passer une lingette dessus y compris |
+sur les sangles, passer une lingette sur les parties non protégées
+du visage Q
+11/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis les
+éliminer dans le sac transparent. es
+12/ Procéder la fermeture du sac transparent par un col de cygne 12 £: _
+13/ Mettre le sac transparent dans le sac déchet (sac du kit). L
+14/ Fermer le sac avec un col de cygne
+15/ Ranger l'APR > 3
+8 - Procédure de gestion des déchets
+1- Récupérer le film polyane double couche en le repliant délicatement | | BALAI ET ASPIRATEUR INTERDITS
+sur lui-même et en le maintenant fermé avec du ruban adhésif.
+2 - Placer le film polyane replié dans un sac plastique transparent N—
+étiqueté «amiante », l'identifier (date, lieu du chantier, nature des MIE >
+déchets) et Le fermer avec du ruban adhésif.
+3 - Déposer le balisage, les lingettes, puis la combinaison, les sur bottes,
+les filtres du masque P3 et les gants vinyle dans un sac plastique et
+fermer le sac avec du ruban adhésif.
+4 - Placer le sac contenant le balisage et Les EPI dans un sac plastique
+transparent étiqueté «amiante », l'identifier (date, lieu du chantier, Ÿ
+nature des déchets) et Le fermer avec du ruban adhésif. €
+Etiquette
+5 - Déposer les sacs plastiques transparents étiquetés « amiante » dans autocollante
+le container ou big bag amiante du véhicule.
+“ | | |
+ra ‘ ê
+$ \
+RL A LE |
+Sac déchets Big bag
+Enedis-NMO-SS_004 Page: 49/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 50 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de tirage de câbles sont limitées 2 vacations par / journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Habillage y compris mise en place de l'appareil de protection 10 minutes
+respiratoire
+Réalisation de l’activité risque (tirage des câbles et opérations 85 minutes
+annexes y compris repli de chantier)
+Déshabillage y compris conditionnement des EP jetables
+Temps de pause de 20 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour les opérateurs qui ont
+mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 50/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 51 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+MO 07 - CASSE de FOURREAU en AMIANTE-CIMENT
+Avertissement: ce mode opératoire est mis en œuvre lorsque l'analyse de risque n’a pas permis de trouver une
+solution alternative la casse de fourreau (par exemple: dépannage urgent).
+Autres solutions: installer un nouveau fourreau, remplacement d’une longueur de câble, etc.
+1- Nature de l'opération
+Casse de fourreaux en amiante-ciment contenant de l'amiante pour intervenir sur un câble. La casse d’un bout
+d'extrémité de fourreau est parfois nécessaire afin de pouvoir accéder un câble ou faciliter un tirage de câble.
+Ce mode opératoire ne doit pas être utilisé pour casser une partie de fourreau non située l'extrémité du
+fourreau (à cause de l'impossibilité d'humidifier correctement et surtout d’envelopper totalement la partie casser).
+2 - Matériaux concernés
+Amiante-ciment.
+3 - Fréquence et modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces éléments, le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P8 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+= Ruban adhésif avec logo amiante
+" Chiffons
+= Rouleau de film polyane
+= Boîte de lingettes humides
+" 2 masque filtres P3
+= Kit allégé amiante (contenant notamment des gants étanches usage unique, 2 filtres P3, des
+lingettes humides, de l'adhésif, ainsi que l'emballage kit (servant au double ensachage des déchets) et le
+sac déchets marqué amiante 40 cm x 60 cm):
+" Gants de manutention
+Enedis-NMO-SS_004 Page: 51/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 52 ===
+
+Prévention des risques d’exposition l’amiante:
+analyse des risques, modes opératoires, formation
+= 2 étiquettes amiante pour identifier la date, lieu du chantier et nature des déchets
+= 1 Big bag (ou container) logoté amiante pour le transport des déchets dans le véhicule
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par un ou deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Baliser la zone de travail par pose de ruban adhésif
+avec logo amiante pour délimiter la zone de travail et:
+empêcher l'approche de personnes externes e
+S'équiper des EP:
+Installer les deux filtres P3 présents dans le kit r
+spécifique sur l'APR QaL-
+Mettre le demi-masque cartouche P3 en suivant la
+notice d'utilisation O (
+Mettre les gants de manutention
+Pour rappel: Bien ajuster le masque en le plaçant sur le
+visage rasé, vérifier la bonne étanchéité du masque au
+visage par pression négative des pouces sur chacun des
+filtres (suivant notice du fabricant).
+Mettre en place de film polyane - si possible en
+double couche - l'emplacement de l'intervention,
+pour protéger la zone de travail, récupérer les débris
+et Les emballer après la casse du fourreau.
+Humidifier la surface du fourreau l’aide de produit &.- LE
+humidifiant (sous réserve d'absence de risque
+électrique) »
+Humidifier des chiffons en quantité suffisante pour
+recouvrir la partie du fourreau casser |
+Envelopper la partie du fourreau casser l’aide de ts.:
+chiffons humides. a
+Casser le fourreau l’aide de La massette en frappant sr
+sur les chiffons humides mis en place autour de la
+partie du fourreau casser. Humidifier en continu
+pendant cette phase.
+Ramasser les chiffons humides contenant les débris
+de fourreau cassés et les mettre en sac délicatement
+sans ouvrir Les chiffons humides
+Pulvériser du fixateur sur les parties de fourreau
+restant en place.
+Enedis-NMO-SS_004 Page: 52/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 53 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+OUTILS INTERDITS: outils grande x
+vitesse, scie, etc.
+A la fin de l'opération, préparer le sac déchets logoté é
+amiante inclus dans le kit et y déposer le balisage. > ÿ
+"& Q
+Après l'opération, retrait des EPI, hors zone de travail,
+selon la procédure décrite au 87.
+Au retour sur le site Enedlis, déposer les sacs déchets amiante dans la zone identifiée de +
+manière spécifique et exclusivement réservée au === 9)
+stockage temporaire des produits amiantés. Ê |
+Les sacs ne sont pas tirés même le sol. 4=
+Rappel: Ces déchets « amiante » seront traités par ÊL
+des entreprises spécialisées disposant des
+autorisations administratives. Leur destruction est
+tracée au moyen d’un BSDA (Bordereau de Suivi
+des Déchets Amiante).
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard La fin de la journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Enedis-NMO-SS_004 Page: 53/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 54 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Phases de travail | Risques | Moyens d'éviter ces risques
+- Casse de fourreau -_ Mise en suspension de Respect du mode opératoire
+fibres, - _ Humidification et enveloppage du fourreau
+-__Inhalation de fibres l’aide de chiffons humides
+-_ Utilisation des outils recommandés
+- Port du 2 masque équipé de filtres P3 lors
+du cassage du fourreau
+- _ Décontamination de l’APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur le lieu où proximité de l'intervention
+Kit allégé mis disposition des salariés afin qu'ils puissent utiliser l'appareil de protection respiratoire (APR)
+individuel dont ils sont dotés.
+Port de l’APR systématique lors du cassage du fourreau.
+EPI amiante: Fr
+7”.
+Appareil de protection respiratoire (APR) >
+filtrant avec demi-masque équipé de
+filtre(s) P3
+Protection collective: a
+Pulvérisation de fixateur sur les éventuelles pol À
+parties de fourreau restant en place. _—— » 4
+Pose de ruban adhésif avec logo amiante EE EE L:
+pour baliser la zone de travail et empêcher ==
+l'approche de personnes externes. #
+= ({ P)
+"où
+7 - Procédures de décontamination des travailleurs et des équipements
+Après l'opération, retrait des EPI, hors zone de travail.
+Nota: effectuer ce retrait au plus près de la zone de UE ÿ
+travail. IT
+Commencer par installer un polyane au sol l'endroit re | > ÿ
+du retrait UE a
+1/ En conservant l’APR porté, passer une lingette sur
+l'APR.
+2/ Eliminer la lingette dans le sac transparent. Mettre
+Le polyane dans le sac transparent.
+Enedis-NMO-SS_004 Page: 54/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 55 ===
+
+Prévention des risques d’exposition l’amiante:
+analyse des risques, modes opératoires, formation
+3/ Passer une lingette sur les gants et les retirer ÿ
+4/ Retirer l’APR, passer une lingette dessus y compris Q sur les sangles pe > ÿ
+5/ Retirer les filtres P3 de l’APR l’aide d’une lingette a
+puis Les éliminer dans le sac transparent.
+6/ Procéder la fermeture du sac transparent par un
+col de cygne
+7/ Mettre le sac transparent dans le sac déchet (sac
+du kit).
+8/ Fermer le sac avec un col de cygne
+9/ Ranger l'APR
+Décontaminer les outils (massette) avec des lingettes humides IUEZ
+usage unique. 10 =. |
+(Te
+ES.
+Décontaminer l'appareil de protection respiratoire et nettoyer les
+gants l’aide de lingettes de « toilette » jetables.
+8 - Procédure de gestion des déchets
+1- Ramasser les débris et Les mettre dans un sac plastique sans retirer
+les chiffons humides et fermer le sac avec du ruban adhésif.
+2 - Récupérer le film polyane double couche en le repliant délicatement
+sur lui-même et en le maintenant fermé avec du ruban adhésif. É
+3 - Placer le balisage et les filtres P3 éventuels dans un sac plastique et Ftauètte
+le fermer avec du ruban adhésif. ES
+autocollante
+4 - Placer le sac des déchets et des chiffons, le film polyane replié et le u | =
+sac contenant le balisage dans un sac plastique transparent étiqueté: qi
+«amiante », l'identifier (date, lieu du chantier, nature des déchets) et Le!
+fermer avec du ruban adhésif. FA È
+5 - Déposer le sac plastique transparent étiqueté « amiante » dans le 1 Le. 4
+container où big bag amiante du véhicule. cac déthete Big bag
+BALAI ET ASPIRATEUR INTERDITS
+pnsR ©
+Enedis-NMO-SS_004 Page: 55/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 56 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de casse de fourreau sont limitées 5 vacations par /2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Mise en place de l'appareil de protection respiratoire
+Réalisation de l’activité risque (casse et opérations annexes)
+Décontamination et retrait de l'APR
+Temps de pause de 15 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 56/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 57 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+MO 12 - DEPOSE DE PARAFOUDRES HTA DE 1°'°
+1- Nature de l'opération
+Dépose de parafoudres HTA de © génération fixés sur support HTA ou sur façade dans le cadre d’une
+opération de maintenance.
+Une analyse des risques liée aux travaux en hauteur est systématiquement réalisée avant intervention.
+L'intervention est réalisée depuis une PEMP (moyen de protection collective). Lorsqu'il n’est pas possible
+d'utiliser une PEMP, La mise en œuvre se fait avec un autre moyen d’ascension dans le respect des règles des
+travaux en hauteur.
+L'intervention est réalisée par 2 opérateurs de chantier amiante (attestation de compétence en cours de
+validité).
+” ”: |
+Ë: d » "
+x: ’ | n Joint amianté présent entre
+* Lo l'étrier rond de fixation et le
+s = — arafoudre en porcelaine
+bnDP " +, |
+Ed =.
+D _:4$. 1 x
+Æ.? L
+TT F-
+TT. ù AN
+« L * | V2
+4% LF!, sn, 1H
+F is 7
+y |
+Démontage des 6 boulons de fixation des ferrures sur
+la traverse. L'ensemble étrier-parafoudre ne doit pas
+être démonté
+Démontage de l’ensemble étrier / ferrure du parafoudre avec clé manuelle ou dévisseuse (ne pas démonter
+l'étrier support du joint)
+2 - Matériaux concernés
+Joint fibreux avec fibres d'amiante
+Enedis-NMO-SS_004 Page: 57/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 58 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+8 - Fréquence et modalités de contrôle du niveau d’empoussièrement du processus mis en œuvre et du
+respect de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément La norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par
+microscope électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les
+rapports des mesures sont disponibles sur demande par mail nat-sante-securite@enedlis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces éléments, Le niveau d'empoussièrement du processus mis en œuvre dans Le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et
+au regard des interventions réalisées Enedis (interventions de premier niveau d’empoussièrement,
+inférieure 100f/L) et du facteur de protection des demi-masques filtres P3 utilisés systématiquement
+(FPA =10), l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en
+moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+" Outillage main (visseuse, clé manuelle, dégrippant,..)
+" Rouleau de film polyane ou de film étirable (largeur maxi 40 cm)
+" Ruban adhésif avec logo amiante + ruban adhésif orange
+" _ Vaporisateur produit fixateur
+" Boîte de lingettes humides
+" 2 masque filtres P3 (Appareil de protection respiratoire - APR) et kit allégé amiante
+" Gants de manutention
+" Casque de sécurité
+" 3 sacs transparents logotés amiante dim 110x70 (pour Les 3 parafoudres)
+" _Îbig-bag logoté amiante (conteneur souple) pour stocker les 3 parafoudres du chantier
+" _2étiquettes amiante pour identifier la date, lieu du chantier et nature des déchets
+“Big bag (ou container) logoté amiante pour le transport dans le véhicule
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par deux salariés disposant d’une attestation de compétence
+« opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Deux possibilités:
+1. Intervention par les TSTHTA
+2. Intervention par une base opérations
+Mise en place de la PEMP (ou autre moyen d’ascension si
+impossibilité d'utiliser une PEMP)
+Baliser la zone de travail au sol par pose de ruban adhésif avec
+logo amiante pour délimiter la zone de travail et empêcher
+l'approche de personnes externes À
+Enedis-NMO-SS_004 Page: 58/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 59 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+S'équiper des EP: _
+Installer Les deux filtres P3 présents dans le kit allégé © « à.
+S'équiper de l’APR en suivant la notice du fabricant de l’APR. Le port de l’APR est systématique pendant Le démontage. © (
+Mettre les gants de manutention
+Mettre un casque de chantier
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé,
+vérifier la bonne étanchéité du masque au visage par pression
+négative des pouces sur chacun des filtres (suivant notice du
+fabricant).... #
+° Déponter les parafoudres sous tension ou retirer Les liaisons
+de l'IACM dans le respect des procédures (TST HTA) F4
+° ou couper les ponts HTA (intervention sous consignation) %., |
+Humidifier Les joints et Les étriers avec le fixateur ({ P) "
+Envelopper chaque parafoudre (a minima l'étrier entourant Le ou =}
+joint) avec du film polyane (ou étirable) et Le maintenir si besoin |
+avec du ruban adhésif.
+
+Démonter les boulons reliant l’ensemble parafoudre/étrier/ferrure « la traverse (sans déposer l’étrier qui fixe et entoure le joint '
+amianté) *
+Le démontage est réalisé avec une clé manuelle ou une RU x
+dévisseuse électrique. Utiliser du dégrippant si nécessaire. A | h
+4 NN
+Dans le bac de la PEMP (ou une fois au sol si l'opération se fait L
+sans PEMP), déposer chaque parafoudre filmé dans un sac ÿ
+plastique « Amiante » 110x70 et fermer Le sac avec du ruban FI
+adhésif Se")
+Enedis-NMO-SS_004 Page: 59/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 60 ===
+
+Prévention des risques d’exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Une fois au sol, déposer chaque sac contenant un ensemble An En
+parafoudre dans un big bag amiante étiqueté « amiante » | | … ï
+l'identifier (date, lieu du chantier, nature des déchets) et le fermer of
+avec du ruban adhésif. Q ) CS
+A la fin de l'opération, préparer Le sac déchets logoté amiante
+inclus dans le kit. UE ÿ
+Nettoyer Le corps de la visseuse, les outils main et les accessoires (TE
+avec les lingettes humides, déposer les lingettes utilisées dans le ve > sac déchets EPI amiante (ESS & a
+Déposer Le balisage dans le sac déchets EPI amiante
+
+"e Après l'opération, retrait des EPI, hors zone de travail, selon la
+procédure décrite au 87.
+Déposer Le sac déchets EPI amiante dans le sac d'emballage du ÿ
+kit amiante, l'identifier (date, lieu du chantier, nature des déchets) [1
+et Le fermer avec du ruban adhésif. ë
+
+Déposer le Big Bag étiqueté contenant les parafoudres dans le aDLQA (
+véhicule, } FÀ
+Déposer le sac déchets EPI amiante dans le container amiante 4 SC 2
+du véhicule (big-bag ou container) Le #
+Evacuer ces déchets vers le site de stockage temporaire.
+Au retour sur le site Enedis, déposer les sacs déchets amiante
+dans la zone identifiée de manière spécifique et exclusivement
+réservée au stockage temporaire des produits amiantés. Le =
+Les sacs ne sont pas tirés même le sol. n |
+Rappel: Ces déchets « amiante » seront traités par des entreprises ds
+spécialisées disposant des autorisations administratives. Leur ' ËL
+destruction est tracée au moyen d’un BSDA (Bordereau de Suivi des
+Déchets Amiante).
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur
+de chantier » ou «cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de
+travail. Prendre une douche d'hygiène au plus tard la fin de la journée de travail.
+Vérification d'ajustement de l’'APR
+Avant chaque utilisation, contrôler l’état général de l’APR et s’assurer de son bon positionnement selon la
+notice du fabricant. Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Enedis-NMO-SS_004 Page: 60/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 61 ===
+
+Prévention des risques d’exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés dans le sac déchets amiante.
+Au plus tard un an après sa première utilisation, l’APR est remplacé.
+Phases de travail | Risques | Moyens d’éviter ces risques
+Démontage de - _ Miseen Respect du mode opératoire
+l’ensemble étrier et suspension de - _ Humidification des joints et
+parafoudre HTA fibres emballage de l’ensemble étrier-
+-_ Inhalation de parafoudre -ferrure sans
+fibres démontage de l’étrier
+- Utilisation des outils recommandés
+-__ Port de l’'APR pendant le
+démontage
+- Décontamination de l’APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs -
+Moyens de protection des autres personnes se trouvant sur le lieu ou proximité de l'intervention
+Kit allégé mis disposition des salariés.
+Port de l’APR systématique lors de la dépose des parafoudres.
+Protection collective:?
+Pose de ruban adhésif avec logo x Lt
+amiante pour baliser la zone de travail E Ce
+et empêcher l'approche de personnes À 2
+externes.
+OÙ =
+Humidification des joints et de l’étrier
+avec le fixateur avant démontage l’aide de produit fixateur. a 4
+Utilisation de film polyane. == «.:
+EPI amiante: Le € #.
+APR: demi-masque équipé de filtres
+7 - Procédures de décontamination des travailleurs et des équipements
+Décontaminer les outils et matériels (visseuse, clé manuelle, UE ÿ
+dégrippant,..) l’aide de lingettes de « toilette » jetables. (f — es Ch & Après l'opération, retrait des EPI, hors zone de travail.
+Nota: effectuer ce retrait au plus près de la zone de travail.
+Commencer par installer un polyane au sol l'endroit du retrait
+Enedis-NMO-SS_004 Page: 61/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 62 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+1/ Retirer le casque UE »
+2/ En conservant l’APR porté, passer une lingette sur l’APR, sur Le TE ÿ
+casque et sur les gants (ve >
+8/ Eliminer la lingette dans le sac transparent. (HE & 4/ Retirer le harnais (si un harnais a été utilisé) et Les gants. Passer
+une lingette dessus y compris sur Les sangles du harnais. Mettre la
+lingette ainsi que Le polyane dans le sac transparent. Q a
+5/ Retirer l'APR en dernier, passer une lingette dessus y compris sur > > ÿ
+les sangles Ô 6/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis Les
+éliminer dans le sac transparent.
+7/ Procéder la fermeture du sac transparent par un col de cygne
+8/ Mettre le sac transparent dans le sac déchet (sac du kit).
+9/ Fermer Le sac avec un col de cygne
+10/ Ranger l’'APR
+8 - Procédure de gestion des déchets
+— AY
+L'ensemble des déchets est conditionné sous double dec 2 HU Eu
+emballage étiqueté « amiante » et placé dans le container HR
+amiante (ou big bag amiante) du véhicule pour l'évacuation 4 NT db
+vers de site de stockage temporaire. 2e /
+Au retour l'Agence, les sacs déchets amiante sont
+déposés dans la zone identifiée de manière spécifique et
+exclusivement réservée au stockage temporaire des == = —
+produits amiantés.: |
+Rappel: Ces déchets « amiante » seront traités par des:
+entreprises spécialisées disposant des autorisations na
+administratives. Leur destruction est tracée au moyen d’un
+BSDA (Bordereau de Suivi des Déchets Amiante).
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de démontage de parafoudre sont limitées 3 vacations par /2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Mise en place de l'APR
+Réalisation de l’activité risque (démontage et opérations 30 minutes
+annexes)
+Décontamination et retrait de l'APR
+Temps de pause de 15 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 62/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 63 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+MO 13 - MANŒUVRE D’'INTERRUPTEUR HTA AMIANTE
+1- Nature de l'opération
+Manœuvre d’un interrupteur HTA amianté identifié dans la note PRDE C.6.3-02 V1 - annexe 6.
+IL s’agit des modèles d’interrupteurs suivants:
+SIB6 (construits de 1965 1994) | Éé
+Interrupteurs de technologie « ouvert » | M bai. É
+construits par DELLE-ALSTHOM, ALSTHOM À
+(ou SDCEM) Fe
+SIB6S (construits de 1960 1985) f 4 1
+Interrupteurs de technologie « ouvert » l "
+construits par DELLE-ALSTHOM, ALSTHOM | Nés
+(ou SDCEM) F pr, LA
+RE __6 Lt
+| Ci La
+\ ‘
+MAGNETOVISOR AMI 302 (construits de 5
+1960 1965) Interrupteurs de technologie « ouvert » construits par DELLE-ALSTHOM, 4 2
+ALSTHOM (ou SDCEM) eu
+| nee
+_ Lans
+MAGNETOVISOR AMI 342 (construits de
+1960 1965) Interrupteurs de technologie «
+ouvert » construits par DELLE-ALSTHOM, |! ë
+ALSTHOM (ou SDCEM)
+ee. 2:
+n. Poe
+Enedis-NMO-SS_004 Page: 63/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 64 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+2 - Matériaux concernés
+Flasque amianté
+3 - Fréquence et modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces éléments, le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P8 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+Les manœuvres des appareils sont effectuées:
+° _ SIB6 et SIBG6S, conformément aux IPS et consignes en vigueur.
+e MAGNETOVISOR AMI 302 et 342, conformément aux IPS et consignes en vigueur.
+" Matériel / outillage:
+" Ruban adhésif avec logo amiante
+" 2 masque filtre P8 (Appareil de Protection Respiratoire - APR)
+“" Kitall l'emballage kit (servant au double ensachage des déchets) et le sac déchets marqué amiante
+40 cm x 60 cm)
+" Casque de sécurité compatible avec le 2 masque
+" 2étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+“" Big bag (ou container) logoté amiante pour Le transport des déchets dans le véhicule
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par un salarié disposant d’une attestation de compétence « opérateur de
+chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Baliser La zone de travail par pose de ruban adhésif avec logo
+amiante pour délimiter la zone de travail et empêcher l'approche a
+de personnes externes (tiers). \ il
+Enedis-NMO-SS_004 Page: 64/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 65 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+S'équiper des EP: _
+Installer Les deux filtres P3 présents dans le kit allégé Q de:
+S'équiper de l’APR en suivant la notice du fabricant de l’APR. “
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé, Ô (
+vérifier la bonne étanchéité du masque au visage par pression
+négative des pouces sur chacun des filtres (suivant notice du
+fabricant).
+S'équiper des EPI électrique, des gants HTA et d’un casque
+compatible visière baissée casque CATU par exemple, cf. photo)
+avec le port de l’'APR ER,
+Baisser la visière du casque 4
+Appareils SIB 6 et SIB 6S: PTE
+Manœuvre des appareils conformément aux IPS et consignes en h | | k|
+vigueur.: = _ À
+DD. Li
+À ss
+Appareils MAGNETOVISOR AMI 302 et 342:
+Manœuvre des appareils conformément aux IPS et consignes en 4 vigueur. S
+Une fois la manœuvre effectuée, préparer le sac déchets logoté ÿ
+amiante inclus dans le kit: ÿ
+Déposer Le balisage dans le sac déchets EPI amiante puis fermer >
+l'ensemble avec du ruban adhésif. zx?\ Après l'opération, retrait des EPI, hors zone de travail selon La
+procédure décrite au 87.
+Enedis-NMO-SS_004 Page: 65/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 66 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Identifier chaque sac déchets (date, lieu du chantier, nature des ÿ
+déchets). [ER
+Les sacs de déchets ne sont pas tirés même le sol. ë
+
+Déposer Le sac déchets placé sous double emballage étiqueté « _ ge q NET
+amiante » dans le container amiante du véhicule (big-bag ou j | l |
+container) pour l'évacuation vers le site de stockage temporaire. p 4 2
+Au retour l'Agence, déposer Les sacs déchets amiante dans la
+zone identifiée de manière spécifique et exclusivement réservée
+au stockage temporaire des produits amiantés. me ===
+Les sacs ne sont pas tirés même le sol.: | | |
+Rappel: Ces déchets « amiante » seront traités par des entreprises | | u )
+spécialisées disposant des autorisations administratives. Leur
+destruction est tracée au moyen d'un BSDA (Bordereau de Suivi des
+Déchets Amiante).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de la journée de travail.
+Vérification d'ajustement de l’'APR
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la notice
+du fabricant. Rappel: un rasage approprié conditionne l'efficacité de l’'APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés dans le sac déchets EPI amiante.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Phases de travail | Risques Moyens d'éviter ces risques
+-_ Manœuvre de - Mise en suspension de Respect du mode opératoire
+l'interrupteur fibres - Port de l’'APR pendant la
+-__Inhalation de fibres manœuvre
+- Décontamination de
+l'APR
+Enedis-NMO-SS_004 Page: 66/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 67 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs -
+Moyens de protection des autres personnes se trouvant sur le lieu ou proximité de l'intervention
+Kit allégé mis disposition des salariés.
+Port de l’APR systématique
+Protection collective:
+Pose de ruban adhésif avec logo amiante a
+pour baliser la zone de travail et » Ro
+empêcher l'approche de personnes EE ES
+externes. —
+EPI amiante: « #
+APR: demi-masque équipé de filtres P3: (
+7 - Procédures de décontamination des travailleurs et des équipements
+Après l'opération, retrait des EPI, hors zone de travail.
+Nota: effectuer ce retrait au plus près de la zone de travail. (T— ÿ
+Commencer par installer un polyane au sol l'endroit du retrait. 4 me + ÿ
+| (FE À >
+1/ Retirer Le casque ESS Q
+2/ En conservant l’APR porté, passer une lingette sur l’'APR, sur Le
+casque et sur les gants
+3/ Eliminer la lingette dans le sac transparent. QL
+4/ Retirer les gants HTA. Mettre le polyane dans le sac > ÿ
+transparent. Ô 5/ Retirer l’APR en dernier, passer une lingette dessus y compris
+sur les sangles
+6/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis Les
+éliminer dans le sac transparent.
+7/ Procéder la fermeture du sac transparent par un col de cygne
+8/ Mettre le sac transparent dans le sac déchet (sac du kit).
+9/ Fermer le sac avec un col de cygne
+10/ Ranger l’APR et les gants dans leur sac de rangement
+Enedis-NMO-SS_004 Page: 67/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 68 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+8 - Procédure de gestion des déchets
+| DE
+L'ensemble des déchets est conditionné sous J + | L|
+double emballage étiqueté « amiante » dans le LR
+container amiante du véhicule (big-bag ou 4 NL dd
+container) pour l'évacuation vers de site de sé J
+stockage temporaire.
+Au retour l'Agence, les sacs déchets amiante
+sont déposés dans la zone identifiée de manière
+spécifique et exclusivement réservée au stockage | 8 — ——
+temporaire des produits amiantés. = |
+Rappel: Ces déchets « amiante » seront traités par LR
+des entreprises spécialisées disposant des TA /
+autorisations administratives. Leur destruction est
+tracée au moyen d’un BSDA (Bordereau de Suivi des
+Déchets Amiante).
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de manœuvre d’interrupteur HTA amianté sont limitées 6 vacations par!2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Opérations (ensemble des opérations = une vacation)
+Mise en place de l'APR
+Réalisation de l’activité risque (manœuvre et opérations annexes)
+Décontamination et retrait de l’'APR
+Temps de pause de 10 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 68/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 69 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+MO 14 - DEPOSE D'’INTERRUPTEUR HTA AMIANTE
+1- Nature de l'opération
+Dépose d’un interrupteur HTA amianté identifié dans la note PRDE C.6.3-02 V3 - annexe 6.
+IL s’agit des modèles d’interrupteurs suivants:
+SIB6 (construits de 1965 1994)
+Interrupteurs de technologie « ouvert » ue
+construits par DELLE-ALSTHOM, ALSTHOM | M
+(ou SDCEM)
+SIB6S (construits de 1960 1985) | =qyln H Ses
+Interrupteurs de technologie « ouvert » | AR « |
+construits par DELLE-ALSTHOM, ALSTHOM ‘4 DE KT
+(ou SDCEM) | Le"
+DD D, QU
+Cf 1 L fe!
+MAGNETOVISOR AMI 302 (construits de
+1960 1965) Interrupteurs de technologie « 2
+ouvert » construits par DELLE-ALSTHOM, | M ALSTHOM (ou SDCEM) n
+D. L'r
+MAGNETOVISOR AMI 342 (construits de
+1960 1965) Interrupteurs de technologie «
+ouvert » construits par DELLE-ALSTHOM,
+ALSTHOM (ou SDCEM) L
+@&. æ *
+cl > a M -
+HitidE
+Enedis-NMO-SS_004 Page: 69/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 70 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Une analyse des risques liée aux travaux en hauteur est systématiquement réalisée avant l'intervention.
+L'intervention est réalisée depuis un moyen d’ascension adapté.
+2 - Matériaux concernés
+Flasque amianté
+3 - Fréquence et modalités de contrôle du niveau d'empoussièrement du processus mis en œuvre et du respect
+de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les rapports
+des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Compte tenu de ces éléments, le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et au
+regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement, inférieure 100f/L) et du facteur de protection des demi-masques filtres P8 utilisés systématiquement (FPA =10),
+l'exposition pondérée sur 8 h est systématiquement inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+Ce mode opératoire est mis en œuvre partir d’une préparation du travail validée par un préparateur disposant
+d’une attestation de compétence « encadrant » ou « cumul des fonctions opérateur de chantier + encadrant». Il
+est exécuté par deux salariés disposant d’une attestation de compétence « opérateur de chantier » ou « cumul
+des fonctions opérateur de chantier + encadrant » et disposant d'une habilitation électrique.
+"Matériel / outillage:
+" Un % masque filtre P3 (Appareil de Protection Respiratoire - APR) pour chacun des deux opérateurs
+" 5 Sachets plastiques amiantes logotés pour déchets 1100 x 700 mm
+" 3 Sachets plastiques 400 x 300 mm par interrupteur
+" 1 sachet plastique 400 x 300 mm pour les déchets EPI - Ruban adhésif sans logo - 2 filtres P3 - gants usage unique - lingettes de nettoyage jetables (présent dans le kit allégé amiante)
+" _ PIRL, échafaudage ou escabeau
+" Outillage main: clés pipe de 18, 17 ou cliquet muni d’une douille de 13, 17, clé plate de 19,
+dégrippant, pince coupante, coupe câble crémaillère
+" Ruban adhésif avec logo amiante
+" Gants de manutention
+“" Vaporisateur produit fixateur ou pulvérisateur(utilisable avec du produit fixateur ou de l’eau)
+" Surfactant
+" Casque de protection
+" Boîte de lingettes nettoyantes
+" 2étiquettes amiante pour identifier La date, Le lieu du chantier et La nature des déchets
+“" Big bag (ou container) logoté amiante pour Le transport dans le véhicule
+Enedis-NMO-SS_004 Page: 70/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 71 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par un ou deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Mise hors tension et consignation de l'ouvrage HTA A
+Baliser la zone de travail par pose de ruban adhésif avec
+logo amiante et rubalise ou banderole « limite de zone de 2 LU a
+travail - ne pas franchir » pour délimiter la zone de travail: DS | nr
+et empêcher l'approche de personnes externes (tiers). ee
+x 1MPE
+Préparation du matériel: ” ‘'684a., _68
+Clé cliquet avec douille ou clé pipe de 13 (si AMI) ou TL: = 2. | ©
+19 (si SIB) dégrippant de,
+Pince coupante Ç
+8 sachets (400 x 300 mm) par interrupteur, qui serviront %. É = envelopper les 3 flasques Ua »- |
+Ruban adhésif ou |
+Vaporisateur où mise sous pression du pulvérisateur L
+contenant le surfactant ee } il
+Déclencher un minuteur pour une durée maximum de 45
+minutes afin d’être alerté de La fin de la vacation. Dès que
+le minuteur sonnera, arrêter l’activité, retirer Les EPI selon
+la procédure ci-après et faire une pause de 20 minutes
+avant de reprendre en s’équipant nouveau des EPI.
+S'équiper des EP:
+Installer Les deux filtres P3 présents dans le kit spécifique
+sur l’APR
+Mettre Le demi-masque cartouche P3 en suivant la notice U d'utilisation \ €
+Mettre les gants de manutention
+Mettre un casque de chantier
+Pour rappel: Bien ajuster le masque en le plaçant sur le
+visage rasé, vérifier la bonne étanchéité du masque au
+visage par pression négative des pouces sur chacun des
+filtres (suivant notice du fabricant).
+Un opérateur applique le produit humidifiant sans toucher & t”
+les chambres de coupures amiantées Ua E
+Positionner un moyen d’ascension adapté sur le lieu du Ham! / | \
+chantier de dépose des pare-feux HTA. Æ i [E—
+177 _(
+Illustration, non exhaustif)
+Enedis-NMO-SS_004 Page: 71/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 72 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+Un opérateur ensache les chambres amiantées. Pour ce
+faire, l’aide de sacs déchets amiante (400 x 300 mm), ne | Re
+ensacher les 3 pare-feux un un, puis scotcher la base ee d 2 7
+l'aide du ruban adhésif fourni dans le kit amiante pour 1e # | A
+rendre hermétique ee. | EUR
+Nota: Pour envelopper le flasque sur les SIB 6 et 65, at
+démonter la tête de câble amont (clé de 17) ou la sectionner AMI 302 et 342 SIB 6 et SIB6S
+(coupe câble crémaillère)
+Appareils SIB 6 et SIB 6S:
+Démonter l'iso Cd
+Avec clé de 19 // démonter les flasques 1à1 4
+1@? |
+Appareils MAGNETOVISOR AMI 302 et 342: k
+Couper le petit fil avec une pince coupante “AN
+Démonter le flasque b
+Avec clé de 13 // démonter les flaques 1à1 TS ee.
+là: 4
+Le second opérateur récupère les pare-feux ensachés un éunet s'occupe de les mettre dans un sac déchets &
+logoté amiante 1100 x 700 mm. ÿ
+Déposer le sac déchets dans un 2" sac plastique transparent (double ensachage) étiqueté « amiante ».
+A la fin de l'opération, préparer Le sac déchets logoté
+amiante inclus dans le kit. GE ÿ
+Nettoyer Les outils main et les accessoires avec Les IE
+lingettes humides, déposer les lingettes utilisées dans le | PER | > sac déchets EPI amiante UE 5 Déposer Le balisage dans le sac déchets EPI amiante
+2 Après l'opération, retrait des EPI, hors zone de travail
+selon la procédure décrite au 87.
+Enedis-NMO-SS_004 Page: 72/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 73 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Identifier chaque sac déchets (date, lieu du chantier, z CT
+nature des déchets -flasque amianté ou EP) ë
+Les sacs de déchets ne sont pas tirés même le sol.
+
+Déposer les sacs déchets placés sous doubles 7 T1 QANLYX
+emballages étiqueté «amiante» dans le container | }! L hi:
+amiante du véhicule (big-bagou container) pour # … 2
+l'évacuation vers le site de transit temporaire. AJ
+Au retour l'Agence, déposer les sacs déchets amiante
+dans la zone identifiée de manière spécifique et
+exclusivement réservée au transit temporaire des produits |
+amiantés. mr
+Rappel: Ces déchets « amiante » seront traités par des "a el.
+entreprises spécialisées disposant des autorisations ei
+administratives. Leur destruction est tracée au moyen ' Eu
+d'un BSDA (Bordereau de Suivi des Déchets Amiante). e
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de travail.
+Prendre une douche d'hygiène au plus tard la fin de La journée de travail.
+Vérification d'ajustement de l’Appareil de Protection Respiratoire (APR)
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+procédure du fournisseur.
+Gestion de l’'APR
+Après chaque utilisation, les filtres P3 sont jetés dans le sac déchets amiante.
+Au plus tard un an après sa première utilisation, l'APR est remplacé.
+Phases de travail | Risques Moyens d'éviter ces risques
+- Dépose des pare- -_ Mise en suspension de Respect du mode opératoire
+feux de l'interrupteur fibres -_ Humidification / produit
+-__Inhalation de fibres surfactant
+-_ Port des gants nitriles et
+du > masque équipé de
+filtres P3 pendant le
+travail
+- Décontamination de
+l'APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs - Moyens
+de protection des autres personnes se trouvant sur Le lieu ou proximité de l'intervention
+Kit allégé amiante mis disposition des salariés.
+Port de l’APR systématique
+Enedis-NMO-SS_004 Page: 73/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 74 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Protection collective:.
+Pose de ruban adhésif, banderole ou rubalise at”
+avec logo amiante pour baliser la zone de 7, ECS LE
+travail et empêcher l’approche de personnes E =}
+externes. ——:
+Pulvérisation de surfactant sur les chambres
+de coupures amiantées
+EPI amiante: f, masque équipé de filtres P3 0
+Composition du kit allégé
+DH | D Composimion |
++ Gants étanches usage unique
++ 2 filtres P3 pour APR
++ Lingettes (pour décontamination de l'APR)
+« allégé » + Adhésif
++ Emballage kit (servant au double ensachage des déchets)
++ Sac déchets marqué amiante 40 cm x 60 cm
++ Notice d'utilisation du kit
+7 - Procédures de décontamination des travailleurs et des équipements
+(UE ÿ
+Décontaminer les outils l’aide de lingettes de « toilette » (TEN {
+jetables. \ AE ü 102 a
+Après l'opération, retrait des EPI, hors zone de travail.
+Nota: effectuer ce retrait au plus près de la zone de travail.
+Commencer par installer un polyane au sol l'endroit du
+retrait.
+1/ Retirer le casque (VER z
+2/ En conservant l’APR porté, passer une lingette sur 4 GI | ÿ
+l'APR, sur le casque et sur Les gants (A æs | =)
+3/ Eliminer la lingette dans le sac transparent. Mettre le ES | polyane dans le sac transparent.
+4/ Retirer les gants ÿ
+5/ Retirer l’APR en dernier, passer une lingette dessus y Q
+compris sur les sangles? > ë
+6/ Retirer les filtres P3 de l’APR l’aide d’une lingette ÔQ
+puis les éliminer dans le sac transparent. Mettre le
+polyane dans le sac transparent.
+7/ Procéder la fermeture du sac transparent par un col
+de cygne
+8/ Mettre le sac transparent dans Le sac déchet (sac du
+kit).
+9/ Fermer le sac avec un col de cygne
+Enedis-NMO-SS_004 Page: 74/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 75 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+8 - Procédure de gestion des déchets
+L'ensemble des déchets est conditionné sous dE CE |
+double emballage étiqueté « amiante » dans le LR
+container amiante du véhicule (big-bag ou 4 NT dd
+container) pour l'évacuation vers de site de 2 /
+stockage temporaire.
+BALAI ET ASPIRATEUR INTERDITS
+h À ©
+Au retour l'Agence, les sacs déchets amiante
+sont déposés dans la zone identifiée de manière
+spécifique et exclusivement réservée au transit == = =
+temporaire des produits amiantés.: |
+Rappel: Ces déchets « amiante » seront traités par 7
+des entreprises spécialisées disposant des À HA
+autorisations administratives. Leur destruction est
+tracée au moyen d’un BSDA (Bordereau de Suivi des
+Déchets Amiante).
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de dépose des pare-feu d’interrupteur HTA amiantés sont limitées 2 vacations par 1/2 journée
+de travail.
+Les durées d'intervention maximales sont les suivantes:
+Mise en place de l'APR
+Réalisation de l’activité risque (dépose pare-feu et opérations Maxi 45 minutes
+annexes)
+Décontamination et retrait de l'APR - Fin de La 1° vacation
+Pause obligatoire l'issue de la 1°" vacation (une heure consécutive 20 minutes
+de port de l’APR), et 2% vacation si besoin pour terminer la dépose
+Début de La 2"% vacation: mise en place de l’APR
+Réalisation de l’activité risque (dépose pare-feu et opérations Maxi 45 minutes
+annexes)
+Décontamination et retrait de l'APR - fin de La 2"% vacation
+Temps de pause de 20 minutes après chaque vacation.
+NB: l'issue de la journée, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui
+ont mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 75/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 76 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+MO 15 - DEPOSE D'IACM 2,5 ou 3,2 ou 31,5 A
+1- Nature de l'opération
+Dépose d'IACM 2,5 ou 3,2 ou 31,5 A dans le cadre d’une opération de maintenance.
+Une analyse des risques liée aux travaux en hauteur est systématiquement réalisée avant intervention.
+L'intervention est réalisée depuis une PEMP (moyen de protection collective). Lorsqu'il n’est pas possible
+d'utiliser une PEMP, La mise en œuvre se fait avec un autre moyen d’ascension dans le respect des règles des
+travaux en hauteur.
+L'intervention est réalisée par 2 opérateurs de chantier amiante (attestation de compétence en cours de
+validité).
+Se x IEP 7 f 6 2. ” #
+Joint amianté entre S V4 | - LP Le
+l’étrier rond de fixation EAN,, 4 # #
+es. e%: si
+et l’isolateur NC, JA > CRE
+À & | 4 " dl 4 = <= EC 7 2 Pis =
+| = EAN STE d'u. us 4 —
+tag je em HR fe # LA LE IR
++ ”” F\ { TT / | Ro ES A
+LOLE EL \' AN + A > LL |, LE SRE _: pa ae
+627 7e À SE LAN L
+5 PA #3 -: | \ Le Su LA ë Lee »
+"Les wN—SN
+0. SECTE os \: LT: I 4 " | _
+| RE Qu »
+“de 4 *: Le 4 —- - mn... _ +
+- oe EU rit _ 4 _
+Démontage de l’ensemble de l'IACM avec clé manuelle ou dévisseuse (ne pas démonter l'étrier support du
+joint)
+2 - Matériaux concernés
+Joint fibreux avec fibres d'amiante
+3 - Fréquence et modalités de contrôle du niveau d’empoussièrement du processus mis en œuvre et du
+respect de la valeur limite d'exposition professionnelle
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément La norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par
+microscope électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre figurent en annexe 6. Les
+rapports des mesures sont disponibles sur demande par mail nat-sante-securite@enedis. fr.
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+Enedis-NMO-SS_004 Page: 76/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 77 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Compte tenu de ces éléments, le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre (premier niveau d'empoussièrement).
+La vérification du respect de la valeur limite d'exposition professionnelle (VLEP) se fait en application de la
+méthode de calcul préconisée dans l'instruction n° DGT/CT2/2015/238. En application de cette méthode et
+au regard des interventions réalisées Enedis (interventions de premier niveau d'empoussièrement,
+inférieure 100f/L) et du facteur de protection des demi-masques filtres P3 utilisés systématiquement
+(FPA =10), l'exposition pondérée sur 8 h est inférieure la VLEP en vigueur (10f/L en moyenne sur 8 h).
+4 - Descriptif des méthodes de travail et moyens techniques mis en œuvre
+" Matériel / outillage:
+“" Outillage main (clé manuelle) et dégrippant
+" Rouleau de film polyane ou de film étirable (largeur maxi 15 cm)
+= Ruban adhésif avec logo amiante + ruban adhésif orange
+" Vaporisateur produit fixateur
+= Boîte de lingettes humides
+" 2 masque filtres P3 (Appareil de protection respiratoire - APR) et kit allégé amiante
+" Gants de manutention
+" Casque de sécurité
+" _2étiquettes amiante pour identifier La date, lieu du chantier et nature des déchets
+" 9sacs transparents logotés amiante de dimension 70 x 40 cm (un pour chaque isolateur)
+“Big bag (ou container) logoté amiante pour le transport dans le véhicule
+" Méthode de travail:
+Ce mode opératoire est mis en œuvre par deux salariés disposant d’une attestation de compétence
+«opérateur de chantier » ou « cumul des fonctions opérateur de chantier + encadrant »
+Deux possibilités:
+3. Intervention par les TSTHTA
+4. Intervention par une base opérations
+Mise en place de la PEMP (ou autre moyen d’ascension si
+impossibilité d'utiliser une PEMP).
+Baliser la zone de travail au sol par pose de ruban adhésif avec
+logo amiante pour délimiter la zone de travail et empêcher
+l'approche de personnes externes. Cette zone permettra de Là
+positionner l'IACM une fois qu'il sera déposé et d'effectuer le ”
+démontage des tiges d’isolateurs.
+Déposer les ponts de part et d'autre de l’IACM, dans le respect
+des procédures TST HTA ou sous consignation.
+Enedis-NMO-SS_004 Page: 77/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 78 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+S'équiper des EPI amiante:.
+Installer Les deux filtres P3 présents dans le kit allégé. /
+S'équiper de l’APR en respectant la notice du fabricant. Le port de L Ca
+l'APR est systématique pendant Le démontage. 4 | Ê
+Mettre les gants de manutention PEN
+Mettre un casque de chantier | ]
+Pour rappel: Bien ajuster le masque en le plaçant sur le visage rasé,
+vérifier la bonne étanchéité du masque au visage par pression
+négative des pouces sur chacun des filtres (suivant notice du
+fabricant).
+Démonter les parties mobiles de l'IACM (couteaux)
+Emballage des étriers et des isolateurs. —
+Humidifier les joints et les étriers avec l’imprégnant (fixateur) FA « {
+Envelopper chaque isolateur (a minima l’étrier entourant le joint) FU ei 4 * avec du film polyane ou étirable (conditionné en rouleau d'environ ET 240 Fr
+15 cm de largeur de préférence). Ë rs
+Dépose de l'IACM au sol
+Le positionner dans la zone de travail délimitée amiante
+Dépose des isolateurs
+Préparer 9 sacs en plastique logotés amiante 70 x 40 cm f
+environ afin de déposer dans chacun 1 isolateur avec joint S
+amianté. V
+Un autre sac (conditionnement du kit amiante) sera utilisé pour moe
+recueillir Les lingettes.
+Préparer l’imprégnant et des lingettes humides..
+Prévoir également les sacs qui seront utilisés pour le double Ne
+emballage. = |
+Démonter le boulon reliant la tige d’isolateur la ferrure (sans =
+déposer l’étrier qui fixe et entoure le joint amianté). Utiliser une ù
+clé manuelle et du dégrippant si nécessaire. _æ!
+L'isolateur est placé immédiatement dans le sac en plastique _
+logoté amiante, préparé cet effet. Le ER, s
+Procéder de façon identique pour les autres isolateurs. e #1 ne
+Décontaminer la clé avec une lingette humide puis déposer celle- SN 1: | De
+ci dans le sac en plastique « EP ». — ee nt Fo
+7 er kr Es
+Enedis-NMO-SS_004 Page: 78/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 79 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+Fermer les sacs contenant les isolateurs, en utilisant du ruban ÉS FC: “e
+adhésif et La technique col de cygne. Fe
+v/ AND EEE
+Décontaminer l'extérieur de ce sac l’aide d’une lingette humide, & ËA
+puis jeter la lingette dans Le sac en plastique « EPI »... VS
+Réaliser un double emballage qui sera également fermé en Lou es
+utilisant du ruban adhésif et La technique col de cygne. |
+Après l'opération, retrait des EPI, hors zone de travail, selon la
+procédure décrite au 87.
+Déposer le sac déchets EPI amiante dans Le sac d'emballage du ÿ
+kit amiante et Le fermer avec du ruban adhésif. ÿ [2
+Identifier Les sacs en plastique en indiquant la date, Le lieu du x
+chantier, et la nature des déchets. g
+Afin de sécuriser leur transport et éviter qu’un sac puisse ( N ii
+s’arracher, disposer les sacs dans un big bag spécifique «amiante Le Î
+» Où un container. ’$
+Transférer ces déchets vers un site de stockage temporaire
+Au retour sur le site Enedis, déposer les sacs déchets amiante —
+dans la zone identifiée de manière spécifique et exclusivement === 9]
+réservée au stockage temporaire des produits amiantés. k |
+Les sacs ne sont pas tirés même le sol. ’ |
+Rappel: Ces déchets « amiante » seront traités par des entreprises \ e
+spécialisées disposant des autorisations administratives. Leur
+destruction est tracée au moyen d'un BSDA (Bordereau de Suivi des j
+Déchets Amiante). Dr
+Ce mode opératoire est mis en œuvre par des salariés disposant d’une attestation de compétence « opérateur
+de chantier » ou «cumul des fonctions opérateur de chantier + encadrant» (cf. sous-section 4 du Code du Travail).
+5 - Notice de poste
+NOTICE DE POSTE 2
+Règles d'hygiène générales
+Respecter des règles d'hygiène très strictes notamment ne pas manger, boire ou fumer dans la zone de
+travail. Prendre une douche d'hygiène au plus tard la fin de la journée de travail.
+Vérification d'ajustement de l’'APR
+Enedis-NMO-SS_004 Page: 79/89
+1.0 24/02/2023
+ENSDIS
+
+=== Page 80 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+Avant chaque utilisation, contrôler l’état général de l’APR et s'assurer de son bon positionnement selon la
+notice du fabricant. Rappel: un rasage approprié conditionne l'efficacité de l’APR.
+Gestion de l’APR
+Après chaque utilisation, les filtres P3 sont jetés dans le sac déchets amiante.
+Au plus tard un an après sa première utilisation, l’APR est remplacé.
+Phases de travail | Risques | Moyens d'éviter ces risques
+Démontage de - Mise en Respect du mode opératoire
+l'isolateur avec sa suspension de - Humidification des joints et
+tige et son étrier fibres emballage de l’étrier/isolateur
+- Utilisation d'outillage manuel
+-_ Inhalation de - Port de l’APR pendant le
+fibres démontage
+- Décontamination de l’'APR
+6 - Caractéristiques des équipements utilisés pour la protection et la décontamination des travailleurs -
+Moyens de protection des autres personnes se trouvant sur le lieu ou proximité de l'intervention
+Kit allégé mis disposition des salariés.
+Port de l’APR systématique lors de la dépose des isolateurs avec étriers contenant un joint amianté.
+Protection collective:
+Pose de ruban adhésif avec logo P | \
+amiante pour baliser la zone de travail Es
+et empêcher l'approche de personnes
+externes. =
+Humidification des joints et de l’étrier
+avec le fixateur avant démontage l’aide de produit fixateur. 4
+Utilisation de film polyane.
+EPI amiante: « #.
+APR: demi-masque équipé de filtres
+7 - Procédures de décontamination des travailleurs et des équipements
+Décontaminer les outils (clé manuelle, dégrippant, …) l’aide de UE Ë
+lingettes de « toilette » jetables (f — es Ch & Après l'opération, retrait des EPI, hors zone de travail.
+Nota: effectuer ce retrait au plus près de la zone de travail.
+Commencer par installer un polyane au sol l'endroit du retrait
+Enedis-NMO-SS_004 Page: 80/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 81 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+1/ Retirer le casque TEE ÿ
+2/ En conservant l'APR porté, passer une lingette sur l’APR, sur Le (rer >
+casque et sur les gants Ch & 8/ Eliminer la lingette dans le sac transparent.
+4/ Retirer le harnais (si un harnais a été utilisé) et Les gants. Passer
+une lingette dessus y compris sur les sangles du harnais. Mettre la Q £
+lingette ainsi que Le polyane dans le sac transparent. ) > ÿ
+5/ Retirer l'APR en dernier, passer une lingette dessus y compris sur Ô les sangles
+6/ Retirer les filtres P3 de l’APR l’aide d’une lingette puis Les
+éliminer dans le sac transparent.
+7/ Procéder la fermeture du sac transparent par un col de cygne
+8/ Mettre le sac transparent dans le sac déchet (sac du kit).
+9/ Fermer Le sac avec un col de cygne
+10/ Ranger l’'APR
+8 - Procédure de gestion des déchets
+— AY
+L'ensemble des déchets est conditionné sous double PRRT HU Eu
+emballage étiqueté « amiante » et placé dans le container HR
+amiante (ou big bag amiante) du véhicule pour l'évacuation 4 RL db
+vers le site de stockage temporaire. Le /
+Au retour l'Agence, les sacs déchets amiante sont |
+déposés dans la zone identifiée de manière spécifique et ÿ
+exclusivement réservée au stockage temporaire des pur
+produits amiantés. ( ef
+Rappel: Ces déchets « amiante » seront traités par des 4
+entreprises spécialisées disposant des autorisations =
+administratives. Leur destruction est tracée au moyen d’un —.
+BSDA (Bordereau de Suivi des Déchets Amiante).
+9 - Durées d'intervention (articles R. 4412-118 et R. 4412-119)
+Les opérations de démontage d’'IACM sont limitées 3 vacations par 1/2 journée de travail.
+Les durées d'intervention maximales sont les suivantes:
+Mise en place de l'APR
+Réalisation de l’activité risque (démontage et opérations 20 minutes
+annexes)
+Décontamination et retrait de l'APR
+Temps de pause de 15 minutes après chaque vacation.
+NB: l'issue du chantier, saisir une exposition par vacation dans Webamiante pour le ou les opérateurs qui ont
+mis en œuvre ce mode opératoire.
+Enedis-NMO-SS_004 Page: 81/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 82 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+CO O1 - DEPOSE de MATERIELS NON DEMONTABLES
+CONTENANT DE L’AMIANTE
+Cette consigne peut être mise en œuvre par un salarié sensibilisé au risque amiante. Il n’est pas nécessaire
+d’être formé opérateur amiante pour la mettre en œuvre.
+Avertissement: cette consigne ne concerne que les matériels dont l’état est tel qu'il n’ya pas de risque
+d'émission de fibre (pas de fêlure apparente). Dans le cas contraire, différer l'intervention, établir un mode
+opératoire et faire intervenir un salarié formé.
+POSITIONNEMENT DU RISQUE
+Les simples déposes et manipulations de
+matériels non démontables (tels que des
+fusibles SOCOMEC) contenant de l’amiante
+ne nécessitent pas d'EPlI spécifique
+amiante pour l'opérateur.
+Pour les DECHETS
+LES TYPES D'INTERVENTION
+- Dépose de fusibles SOCOMEC (cf.
+PRDE C.6.3-02), ou autres matériels.
+contenant de l'amiante effectuée ee
+l'occasion d’un dépannage ou d’une |
+intervention 4 | û
+- Elimination de ces matériels.
++ |:
+a. s: ae
+Sac déchets Big bag
+Consigne détaillée permettant La mise en œuvre des mesures adaptées pour la protection de l’environnement
+e Préparer l’ensemble du matériel nécessaire en zone de travail.
+e Déposer le matériel et Le placer dans un sac en plastique et fermer Le sac avec du ruban adhésif.
+° Placer le sac contenant le(s) matériel(s) déposé(s) dans un sac plastique transparent étiqueté « amiante »,
+l'identifier (date, lieu du chantier, nature des déchets) et Le fermer avec du ruban adhésif.
+e Déposer le sac plastique transparent étiqueté « amiante » dans le container ou big bag amiante du véhicule.
+Enedis-NMO-SS_004 Page: 82/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 83 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+CO 02 - EVACUATION des DECHETS de CHANTIER
+PREALABLEMENT PLACES sous DOUBLE EMBALLAGE
+Cette consigne peut être mise en œuvre par un salarié sensibilisé au risque amiante. Il n’est pas nécessaire
+d’être formé opérateur amiante pour la mettre en œuvre.
+POSITIONNEMENT DU RISQUE
+Le transport et la manutention précautionneuse de déchets
+amiantés placés sous double emballage en bon état ne
+présentent pas de risque pour l'opérateur, sous réserve
+d'appliquer la présente consigne.
+Pas d’EPI spécifique amiante
+Consigne détaillée permettant La mise en œuvre des mesures adaptées pour la protection de l’environnement
+e Vérifier que tous les déchets où matériaux amiantés ont été placés sous double emballage
+transparent étiqueté « amiante » et identifié (date, lieu du chantier, nature des déchets) et que ces
+emballages sont en parfait état (absence de trace de coupure ou d'usure).
+En cas de présence d’un emballage abimé, ne pas commencer manutentionner. Faire un point d'arrêt.
+Puis, faire appel une entreprise spécialisée pour procéder La manipulation des sacs endommagés, la décontamination des sacs et du local d'entreposage.
+Une attention particulière doit être portée afin que, lors de La manutention et du transport, le sac
+contenant les matériaux amiantés ne puisse pas être dégradé et percé et potentiellement contaminer
+l'environnement par émission de poussières.
+° Pour l'évacuation: déposer ces déchets dans le container ou big bag Û s
+«amiante » du véhicule. | a |
+_ Big bag
+° Pour la manutention des sacs de déchets:
+o les sacs ne sont pas tirés a même le sol,
+o les sacs légers sont portés sur le lieu de stockage,
+o les sacs lourds sont manipulés avec un dispositif de manutention adapté.
+e__ Pour le stockage:
+Au retour l'Agence, les sacs déchets amiante sont déposés dans la zone
+identifiée de manière spécifique et exclusivement réservée au transit —
+temporaire des produits amiantés. Lee =
+Rappel: Ces déchets « amiante » seront traités par des entreprises spécialisées 2 Ë
+disposant des autorisations administratives. Leur destruction est tracée au #
+moyen d’un BSDA (Bordereau de Suivi des Déchets Amiante). TE 14
+Enedis-NMO-SS_004 Page: 83/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 84 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+12 — Annexe 6 - EVALUATION DU NIVEAU D’EMPOUSSIEREMENT DES PROCESSUS
+1- Démarche d'évaluation
+À Enedis, l'évaluation du niveau d’empoussièrement de chacun des processus (matériau/technique/moyen de
+protection collective) concernés par la mise en œuvre des modes opératoires amiante est effectuée partir de
+mesure d’'empoussièrement sur opérateur.
+Chaque mesure effectuée est une mesure individuelle sur opérateur réalisée conformément la norme XP X
+43-269, dans sa version en vigueur au moment des mesures. Toutes les analyses sont réalisées par microscope
+électronique transmission analytique.
+Les résultats des mesures effectuées pour chaque processus mis en œuvre sont présentés dans la suite de ce
+mémo. Les rapports des mesures sont disponibles sur demande par mail nat-sante-securite@enedlis. fr
+Un renouvellement de mesure est réalisé a minima lors de chaque modification de processus.
+2 - Evaluation du niveau d'empoussièrement
+2.1. MO O1 - PERCAGE de PAROIS VITESSE LENTE avec HUMIDIFICATION
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+Résultat en fibres/litre
+enduit/percement/humidification 18/09/2013
+amiante- 11/12/2019 < 7,76
+ciment/percement/humidification
+peinture/percement/humidification 11/12/2019
+plâtre/percement/humidification 11/12/2019
+Compte tenu de ces mesures, le niveau d'empoussièrement des processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 100 fibres par litre (premier niveau d'empoussièrement).
+2.2. MO 02 - PERCAGE de PAROIS VITESSE LENTE TRAVERS une POCHE de GEL HYDRIQUE
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+Résultat en fibres/litre
+enduit/percement/poche de gel 9/05/2016 <2,42
+21/06/2016 <3
+amiante-ciment/percement/ poche de gel 25/03/2015 < 2,03
+1/07/2015 <1,/3
+13/12/2019 < 2,97
+peinture/percement/poche de gel 19/11/2019 < 4,8
+11/12/2019 <4,75
+plâtre/percement/ poche de gel 17/12/2014 < 2,99
+11/12/2019 < 4,8
+colle/percement/ poche de gel 2/06/2015 <1,71
+19/04/2016 <3
+Avis favorable de la Commission CEVALIA (Avis n° 2017-001) prenant en compte les résultats de nombreuses
+mesures d’empoussièrement sur opérateur.
+Compte tenu de ces mesures et de l'avis de La Commission CEVALIA, le niveau d'empoussièrement des
+processus mis en œuvre dans le cadre de ce mode opératoire est évalué comme étant inférieur 5 fibres par
+litre.
+Enedis-NMO-SS_004 Page: 84/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 85 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+2.8. MO 03 - INTERVENTION DANS UN CCP AMIANTE
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+ciment/manutention/.…
+ciment/manutention/.….
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+2.4. MO 04 - INTERVENTION DANS UN CCI AMIANTE
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+2.5. MO 05 - MANUTENTION de DALLES en AMIANTE-CIMENT
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+ciment/manutention/humidification
+ciment/manutention/humidification
+ciment/manutention/humidification
+ciment/manutention/humidification
+ciment/manutention/humidification
+ciment/manutention/humidification
+Mot: des écarts (humidification partielle pour les mesures du 26/11/2020, décollage de deux dalles pour la mesure
+du 2/02/2021) dans la mise en œuvre du mode opératoire ont été constatés lors de la mesure. Ces écarts expliquent
+la libération de fibres conduisant un résultat supérieur 5 fibres par litre.
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+2.6. MO 06 - TIRAGE de CABLES DANS UN FOURREAU EN AMIANTE-CIMENT
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+câble/humidification
+_ 'éableumaieatn LE |
+câble/humidification
+Enedis-NMO-SS_004 Page: 85/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 86 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+"M: Résultat cohérent avec la faible précision de la mesure.
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 100 fibres par litre (premier niveau d'empoussièrement).
+2.7. MO 07 - CASSE de FOURREAU en AMIANTE-CIMENT
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+| Processus "| Date mesure | Résultat en fibres/litre
+Amiante-ciment/casse/humidification et 23/09/2013 <1,5
+enveloppage
+Amiante-ciment/casse/humidification et 7/10/2020 <3
+enveloppage
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+2.8. MO 12 - DEPOSE DE PARAFOUDRES HTA DE 1ère GENERATION AVEC JOINT AMIANTE
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+Date Résultat en fibres/litre
+mesure
+Joint 09/06/2017 <3
+fibreux/manutention/humidification et
+enveloppage
+Joint 22/02/2022 <3
+fibreux/manutention/humidification et
+enveloppage
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+2.9. MO 13 - MANŒUVRE D'INTERRUPTEUR HTA AMIANTE
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+| Processus | Date mesure | Résultat en fibres/litre
+Flasque amianté/mise en mouvement/..…. Du 28 au 3,5
+31/08/2017
+Compte tenu de cette mesure, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+2.10. MO 14 - DEPOSE D'INTERRUPTEUR HTA AMIANTE
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+Résultat en fibres/litre
+Flasque 3/12/2018 (1è'e <2,9
+amianté/manutention/humidification et mesure)
+enveloppage
+Flasque 3/12/2018 (274 <3
+amianté/manutention/humidification et mesure)
+enveloppage
+Enedis-NMO-SS_004 Page: 86/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 87 ===
+
+Prévention des risques d'exposition amiante:
+analyse des risques, modes opératoires, formation
+Flasque 4/12/2018 <2,9
+amianté/manutention/humidification et
+enveloppage
+Flasque 12/12/2018 <3
+amianté/manutention/humidification et
+enveloppage
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+2.11. MO 15 - DEPOSE D'IACM 2,4 ou 2,5 ou 31,5 À AVEC JOINT AMIANTE
+Mesure d'empoussièrement des processus (matériau/technique/moyen de protection collective) mis en
+œuvre:
+Date Résultat en fibres/litre
+mesure
+Joint 09/06/2017 <3
+fibreux/manutention/humidification et
+enveloppage
+Joint 22/02/2022 <3
+fibreux/manutention/humidification et
+enveloppage
+Compte tenu de ces mesures, Le niveau d'empoussièrement du processus mis en œuvre dans le cadre de ce
+mode opératoire est évalué comme étant inférieur 5 fibres par litre.
+Enedis-NMO-SS_004 Page: 87/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 88 ===
+
+Prévention des risques d'exposition l’amiante:
+analyse des risques, modes opératoires, formation
+13 — Annexe 7 - MEMENTO REGLEMENTAIRE
+Nota: la liste donnée ci-dessous ne prétend pas l'exhaustivité.
+La protection des travailleurs:
+
+- L'arrêté du 23 février 2012. Il définit les modalités de la formation des travailleurs la prévention des
+risques liés l'amiante en ce qui concerne Enedlis, il s’agit des salariés exerçant les activités décrites
+au 2° de l’article R.4412-94 du Code du travail - Le décret 2012-639 du 4 mai 2012 relatif aux risques d'exposition l'amiante actualise le code du
+travail - Le décret 2013-594 du 5 juillet 2013 relatif au risque d'exposition l'amiante reporte les délais
+d'obligation de certification et d'accréditation.
+
+- L'arrêté du 7 mars 2013 relatif au choix, l'entretien et la vérification des équipements de protection
+individuelle utilisés lors d'opérations comportant un risque d'exposition l'amiante - L'arrêté du 8 avril 2013 relatif aux règles techniques, aux mesures de prévention et aux moyens de
+protection collective mettre en œuvre par les entreprises lors d'opérations comportant un risque
+d'exposition l'amiante.
+
+- Le décret 2015-789 du 29 juin 2015 relatif aux risques d'exposition l'amiante définit les niveaux
+d'empoussièrement servant l'évaluation des risques d'exposition l'amiante des travailleurs:
+
+a) Premier niveau: empoussièrement dont la valeur est inférieure 100 fibres par litre b) Deuxième niveau: empoussièrement dont La valeur est supérieure ou égale 100 fibres par litre
+et inférieure 6 000 fibres par litre c) Troisième niveau: empoussièrement dont la valeur est supérieure ou égale 6 000 fibres par
+litre et inférieure 25 000 fibres par litre. »
+
+- Le décret n° 2017-899 du 9 mai 2017 relatif au repérage de l'amiante avant certaines opérations modifié
+par le décret n° 2019-251 du 27 mars 2019 définit les conditions et les modalités du repérage avant
+travaux de l'amiante.
+
+La protection de la population:
+
+- Le décret 2011-629 du 3 juin 2011 relatif la protection de la population contre Les risques sanitaires liés une exposition l'amiante dans les immeubles bâtis actualise Le code de la santé publique.
+Enedis-NMO-SS_004 Page: 88/89
+1.0 24/02/2023
+EN2DIS
+
+=== Page 89 ===
+
+Prévention des risques d'exposition l’amiante:
+
+analyse des risques, modes opératoires, formation
+14 — Annexe 8 - DOCUMENTS ASSOCIES
+Enedis-NOI-SS_27: Traçabilité des expositions l'amiante: fiches et attestations d'exposition
+PRDE C.6.3-01: Le désamiantage des Postes Sources
+PRDE C.6.3-02: Gestion des matériaux amiantés des postes HTA/BT - Mise en œuvre des obligations
+réglementaires du décret 2011-629
+PRDE C.6.3-03: Modalités convenues entre Enedis et RTE pour le désamiantage des Postes Sources
+PRDE G.2 - 04: Réglementation « Amiante » - Politique générale, portant notamment sur le repérage avant
+travaux
+CCTP G.1.2-02 applicable aux prestations de travaux de réseaux de Distribution Publique d'électricité, de
+branchements et de colonnes électriques, exploités par Enedis
+CCTP G.1.2-08 applicable aux prestations d'études pour la construction de réseaux électriques de distribution
+et de branchements, exploités par Enedis
+CCTP G.1.2-12 applicable aux prestations de repérages de l'amiante dans les immeubles bâtis et non bâtis, et
+des HAP dans les enrobés
+CCTP G.4.4-09 applicable aux travaux de retrait de matériaux comportant de l'amiante dans les Postes Sources
+d'Enedis
+Enedis-NMO-SS_004 Page: 89/89
+1.0 24/02/2023
+EN2DIS

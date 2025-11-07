@@ -1,0 +1,1330 @@
+=== Page 1 ===
+
+Chapitre
+TABLEAUX DES EFFECTIFS = 931
+Juil. 86 Par.1
+CHAPITRE 931
+SOMMAIRE
+1- REGLES DEFINISSANT L'EFFECTIF 212- Part EDF - Part GDF
+11- Remarques préliminaires 213- Répartition des agents par groupe
+fonctionnel
+12- Agents comprendre dans l'effectif
+214- Agents temps partiel
+13- Agents ne pas prendre dans l'effectif
+215- Agents hors effectifs
+2- TABLEAUX STATISTIQUES PERIODIQUES SUR LES
+EFFECTIFS 216- Statutaires temps plein indisponibles -
+Populations particulières
+21- Tableau de dénombrement (Etat 9)
+211- Personnel propre EDF et GDF - Personnel
+mixte 22- Variation des effectifs au cours du trimestre
+Div. 11
+Nos établissements comportant quelque 250 unités, il était nécessaire de fixer des règles
+statistiques précises pour permettre un regroupement correct des résultats sur le plan
+national, éviter les doubles emplois et répertorier avec précision les diverses catégories de
+personnel composant l'effectif.
+Une circulaire N. 157 du 25 mai 1957 a jeté les bases du dispositif adopté qui, avec
+quelques aménagements, est resté en vigueur depuis cette date.
+La principale modification intervenue avec l'apparition de l'informatique a porté, moins
+sur les principes de base, que sur les moyens pratiques de présentation des résultats qui,
+précédemment produits par les unités sur des imprimés normalisés, sont depuis 1976
+directement édités par l'ordinateur sur des tableaux dont le modèle est donné en annexe.
+Le présent chapitre examine:
+1- Les règles de principe définissant l'effectif
+2- Les tableaux statistiques périodiques.
+1- REGLES DEFINISSANT L'EFFECTIF
+11-Remarques préliminaires
+Il n'existe pas sur le plan légal une définition des effectifs laquelle il y ait obligation de
+se conformer. Chaque entreprise se fixe conventionnellement des règles internes en
+fonction de ses besoins de gestion.
+
+=== Page 2 ===
+
+Chapitre
+
+TABLEAUX DES EFFECTIFS _ 931
+Juil. 86 Par. 12
+
+Le critère traditionnellement retenu est de décompter l’ensemble des salariés figurant sur
+le rôle de paie. Un autre critère, attaché au concept de contrat de travail, est de
+décompter également les salariés non rémunérés sur le dernier rôle de paie, en raison
+d'une suspension provisoire de leur contrat de travail, mais dont le retour est prévu sans
+nouvel embauchage. Il peut aussi être envisagé d'exclure certaines catégories de salariés
+n'appartenant pas l’organisation permanente de l'entreprise (travailleurs
+occasionnels, domicile, etc.).
+
+Dans nos établissements, la solution conventionnellement retenue est un compromis entre
+
+ces différents critères. Elle porte également sur la division de l'effectif total en diverses
+
+séries de sous-ensembles (statutaires, non statutaires cadres, maitrise, exécution, etc.).
+12 - Agents comprendre dans l'effectif
+
+Les agents doivent être pris en compte par l'unité qui assure le paiement des
+
+appointements.
+
+Agent présents:
+
+- Tous les agents temps plein statutaires ou non statutaires contrat durée
+déterminée ou indéterminée, y compris les chefs d'unité et assimilés gérés par la
+direction du personnel et des relations sociales. °
+
+- Tous les agents temps partiel (les agents Pers. 754 et en mi-temps parental sont compter avec les agents temps plein).
+
+Il est noter que les agents de la promotion ouvrière en stage de fin d'études et les
+agents en stage probatoire de la promotion sociale sont prendre en compte par
+l'organisme gestionnaire.
+
+Agents absents de l’unité
+
+- les agents malades (y compris en longue maladie) ou accidentés - les agents en congés annuels, spéciaux d'ordre familial, de maternité - les agents en congé sans solde titre exceptionnel (jusqu'à trois mois) - les agents en congé consécutif la maternité (Pers. 286) ou l'adoption - les agents en absence non autorisée - les agents en session F. P. C. ou en congé individuel de formation - les agents mis disposition vers une autre unité E. D. F.-G. D. F., titre provisoire, la
+promotion ouvrière, dans les centres d'instruction E. D. F.-GDF.;
+
+- les agents mis disposition d’un organisme autre qu'E. D. F.-G. DF.;
+
+- les agents mis disposition la caisse centrale d'activités sociales ou aux caisses
+mutuelles complémentaires et d'action sociale (moniteurs de colonies de vacances, etc.) - les agents mis disposition en attente d'affectation.
+
+N. B. Pour les agents absents qui n'entrent pas dans les catégories ci-dessus, la notion retenir pour les comprendre dans les effectifs est la suivante: figurer au budget des
+dépenses du personnel de l'unité, avec absence prévue inférieure trois mois.
+
+=== Page 3 ===
+
+Chapitre
+TABLEAUX DES EFFECTIFS _ 931
+Juil. 86 Par. 13
+13 - Agents ne pas comprendre dans l'effectif
+
+Agents présents:
+
+- les agents mis disposition dans l'unité et venant d’une autre unité E. D. F -G. D. F.;
+
+- les stagiaires scolaires: stages d'exécution, stages d'études, projets de fin d'études,
+dépendant juridiquement de leur école et percevant une indemnisation éventuelle - Les stagiaires post-scolaires (en attente de départ au service militaire) - les médecins - Les élèves des écoles de métiers Agents absents de l’unité:
+
+- les agents en congé sans solde pour convenances personnelles - les agents en congé sans solde pour fonctions politiques ou syndicales - les agents accomplissant leur service militaire (DP.11.39) - les agents détachés vers un organisme autre qu’. E. D. F-G. D. F.;
+
+- les agents ayant épuisé leur droit aux prestations salaires prévues par l'article 22 du
+statut national - les agents affectés la caisse centrale d'activités sociales ou aux caisses mutuelles
+complémentaires et d'action sociale en application des dispositions visées au
+chapitre261, paragraphe217.2.
+
+- les agents en congé parental ("congé de mère" ou "congé parental d'éducation"
+proprement dit) (DP.31.85) - les agents en congé sabbatique ou pour création d'entreprise.
+
+2- TABLEAUX STATISTIQUES PERIODIQUES SUR LES EFFECTIFS
+
+Depuis 1976, ces tableaux sont édités par l'ordinateur (GPSO) partir des informations
+
+enregistrées pour le traitement de la paie.
+
+Les mouvements intervenus au cours d’un mois ne sont pris en compte que pour autant
+
+qu'ils ont pu être enregistrés en GPSO avant la dernière mise jour du traitement de la
+
+pate (qui intervient vers le 12 du mois).
+
+IL est établi trois tableaux
+
+- Chaque mois:
+
+- Tableau de dénombrement (Etat 9) -(paragraphe 21 etannexe 1)
+- Chaque trimestre:
+- Variations des effectifs au cours du trimestre (paragraphe 22)
+- Liste analysant les mouvements individuels correspondants (paragraphe 22)
+
+=== Page 4 ===
+
+Chapitre
+TABLEAUX DES EFFECTIFS 2e 031
+Juil. 86 Par. 21
+21 - Tableau de dénombrement (Etat 9)
+Voir modèle en annexe 1.
+Ce tableau donne la situation au dernier jour du mois:
+- d’une part des agents l’effectif, tel que ce dernier est défini au paragraphe 12,
+- d'autre part des agents hors effectifs (paragraphe 13) qui, figurant en ordinateur
+pour le traitement de la paie, peuvent également être dénombrés.
+
+DP. 12-30 Pour ne pas avoir revenir sur les statistiques restituées par l'ordinateur, il est admis
+par convention que les situations statistiques officielles des effectifs sont celles
+de l'Etat 9.
+
+Cette convention, qui est de nature simplifier et améliorer la production de
+statistiques regroupées aux différents niveaux de la structure, conduit décaler d’un
+mois la prise en compte des quelques mouvements du mois en cours (arrivées ou départs)
+qui n’ont pu être introduits en GPSO, lors de la dernière mise jour des fichiers avant le
+traitement de la paie.
+Cette convention implique qu'aucune modification n'intervienne sur les Etats 9. Dans le
+cas exceptionnel où une unité voudrait obtenir une rectification des effectifs figurant sur
+ces états, elle disposerait, après leur réception, d’un délai de cinq jours ouvrables pour en
+saisir sa direction d'appartenance qui appréciera l'opportunité de demander une
+rectification la direction du personnel et des relations sociales, Service M. E. G.
+L’effectif total est ventilé en diverses séries de sous-ensembles intéressant le suivi de la
+gestion (statutaires, non statutaires cadres, maitrise, exécution parts EDF, GDF, etc.).
+Certaines de ces séries appellent les précisions suivantes:
+
+211 - Personnel propre EDF et GDF - Personnel mixte
+Il est précisé que la définition du personnel "propre "ou "commun", (appelé aussi mixte")
+de même que les règles de ventilation de ce personnel, sont analoques celles fixées en
+matière de dépenses de personnel depuis la séparation des comptabilités (voir F.497 - F.4
+Cté n° 75 du 4 décembre 1950).
+C’est ainsi que le personnel propre un établissement comprend:
+- les agents poste fixe consacrant 100 % de leur activité l'établissement
+- les agents poste variable (ces agents sont rattachés celui des deux établissements,
+
+auquel ils consacrent la plus grande part de leur activité).
+
+Le personnel mixte comprend les agents poste fixe dont l’activité est répartie entre les
+deux établissements.
+
+=== Page 5 ===
+
+Chapitre
+TABLEAUX DES EFFECTIFS _ 931
+Juil. 86 Par. 212
+212 - Part EDF - Part GDF
+La part de chaque établissement est calculée partir des chiffres précédents en ajoutant l'effectif propre la quote part des agents mixtes, déterminée pour chaque agents selon
+la clé de répartition comptable correspondant son activité.
+213 - Répartition des agents par groupe fonctionnel
+Pour les agents bénéficiant d’un classement "à titre personnel" supérieur celui de leur
+poste, c’est le classement titre personnel qui est prendre en considération dans la
+répartition entre les groupes fonctionnels.
+214 - Agents temps partiel
+Ces agents sont l'effectif comme indiqué au paragraphe 12.. Agents statutaires Pers. 754 et en mi-temps parental
+Ces agents sont comptés part entière avec les agents temps plein la somme de leur
+part EDF et leur part GDF est de 1. Ils font l'objet d'une ligne dans les populations
+particulières.. Agents dans les emplois statutaires mi-temps Pers. 854
+Ces agents sont rangés avec les agents temps plein. Ils donnent lieu un double
+décompte:
+- décompte pour 1, avec les personnes physiques, dans les répartitions par collège, par
+GF, éventuellement dans les statutaires temps plein indisponibles.
+- _ décompte pour 0,5 dans:. un compteur supplémentaire donnant, sous l'effectif temps plein, un effectif avec
+Pers. 854 comptant pour 0,5.. Le décompte part EDF - part GDF, avec rajout d'une colonne "part totale", dont
+les résultats seront différents du total EDF + GDF + Mixte du décompte des
+personnes physiques.. rajout d'une ligne "PERS. 854" dans les populations particulières, avec rappel
+des parts EDF et GDF.. Agents non statutaires et agents statutaires Pers. 429
+IL ya lieu d'indiquer la fois le nombre des agents réellement utilisés et une évaluation
+du nombre d'agents temps plein équivalent cette transformation doit être faite aussi
+exactement que possible, par exemple:
+
+=== Page 6 ===
+
+Chapitre
+TABLEAUX DES EFFECTIFS _ 931
+Juil. 86 Par. 215
+-_ décompte sur les heures:
+nombre d'heures payées ces agents dans le mois écoulé(1)
+(1) Le coëfficient Z, fixé par décision chaque modification de la durée hebdomadaire
+du travail, résulte de la formule suivante:
+52 x durée hebdomadaire du travail
+12
+- encaisseurs la quittance:
+rémunération versée ces agents dans le mois écoulé
+traitement local
+- pour les agents statutaires:
+rémunérations versées ces agents dans le mois écoulé
+traitement local moyen
+Les résultats sont arrondir l'unité la plus voisine.
+
+215 - Agents hors effectifs
+
+- Les stagiaires scolaires ou post-scolaires (abréviation: stagiaires non statutaires),
+
+- les médecins du travail et médecins conseils,
+
+- les agents partis (au service militaire, détachés, congés sans solde, etc.) conservant un
+lien avec EDF - GDF et susceptibles d'une réintégration ultérieure.
+
+216 -Statutaires temps plein indisponibles - Populations particulières
+Ces deux rubriques constituent une ventilation complémentaire de l'effectif total au sens
+du paragraphe 12. Elle ne concerne pas les agents hors effectif.
+
+22-Variations des effectifs au cours du trimestre
+
+DP.12.44 La circulaire N 157 du 25 novembre 1957 a prévu l'envoi trimestriel la direction du
+personnel et des relations sociales:
+- de tableaux statistiques de variations des effectifs,
+- d’une liste analysant les mouvements individuels correspondants.
+La présentation et le contenu de ces états produits par GPSO sont conformes la
+description faite par la note technique d'application N MEG 13 257 du 22 mars 1979 et
+les fac-similés joints.
+La périodicité de ces états esttrimestrielle.
+
+=== Page 7 ===
+
+Chapitre
+TABLEAUX DES EFFECTIFS _ | 931
+Juil. 86 Par. 22
+
+DP. 12.44 Les unités n’ont pas transmettre ces états la direction du personnel et des relations
+sociales qui les obtient directement de GPSO.
+Chaque état restitue des résultats qui sont le cumul des mouvements intervenus depuis
+le début de l’année (c’est-à-dire postérieurement la situation des effectifs du mois de
+décembre de l’année précédente).
+Les statistiques des effectifs début de période (décembre de l’année N - 1) et fin de
+période (3ème mois du trimestre considéré) sont celles des Etats 9 qui, par convention,
+constituent les situations statistiques officielles.
+Dans le cas exceptionnel, prévu par la note DP.12.30 du 9 janvier 1976, où une
+rectification des effectifs a été apportée, celle-ci doit être impérativement répercutée sur
+les statistiques de mouvements.
+Pour les corrections découlant des modifications apportées aux effectifs "Etat 9" ainsi
+que pour celles spécifiques aux analyses de mouvements (qui doivent également rester
+très exceptionnelles) les unités disposent de cinq jours ouvrables pour saisir leur
+direction d'appartenance qui appréciera l’opportunité de demander une rectification la
+direction du personnel et des relations sociales, Service M. E. G.
+La division Statistiques et Analyses peut alors contacter les unités concernées afin de
+collecter certaines informations complémentaires qui lui sontnécessaires.
+
+=== Page 8 ===
+
+ANNEXE 1 (p. 1/1)
+Chapitre
+931
+(paragraphe 21)
+ORNE NO ONONONONONONONONOONONONONONONONONONONONOE OO
+* * m * m un * *
+OGOLS>EI © * n > * n _ * un Q *
+Q —O00.>t1 Oz n_QO * n * CC M
+TSEZ2Zi |! Z x mMmIm »* m Oo (= * © Z *
+un MOBQO+e >> 1 * NOZ * am > * oO 1 *
+© Zzmme Oo * 2 * 1 =. 2 *
+ua mu Un aN nu *# œ ad — * nmx
+* NE >mm H1#ON * res sn © RL *
+x >>ET Z >+ uv * un = 1 O +
+_ pe o ARRET Zz m %
+* nm? m CE * * D—> 1! ODU— Du TU * [e] *
+* 2 > 2 un 4 * > D * >È>}mci: * ©. © uunumoOorm z un *%
+* nwzOO > * C> * DE—1 “Em B2D7OmMEs © >=
+* On — * 2 * _ 021: DU E +» WnZ—TD»* Z #
+* rime 2 * D 1 * _ mia.. > Es... ZUN » m Z *«
+* om m % Mm— »% un 1 © © ” 4 +
+* m un * nu * 1 * *
+* * * 10 * > »*
+* > * LR RNA UN
+* * OO * un 1 mi a * D »
+* AE DZ *# — m 17 m _ * Z +
+* m *# a * © => 1 © Z > * m =
+* Z * O #* — TD 1 — T — * — *
+X* ND BE — TD * mm x > oc 1> O = * *
+* un * COR ET 0 Le 2 — * *
+* * N— # 1 _ Len, % *
+* D * mz * 1 © OQzm © Om *# *
+#YIO>I>NTDI FE DO — *! el > > X — >> X * *
+sOMCICmMm?2I M % 1 * 1 > om > o—m * ou
+* 2 1-1nOI —— *! T 27210 T 710 * *
+XONTDEDUNEN Z + nn * 1 * *
+* >m—m—OO * nu * 1 m + *
+*m nnOs D — x …. * 1. * *
+*ONCM Z ZT Zs* BST 1 © * *
+N>Z O0> © % * 1 se *
+* N—> NC — + * me an + © *
+* — Se un % * _ _ 1 Li es _ n vo. D
+#* Oomo TO D * * 1 * — *
+© — °° =Z © + m * 1 o * D *
+* ou om Z * Un * 1 eo: # *
+x OCT 2 * * 1 © + *
+* Q © mœ * OO * 1 F6 9% »
+* >Tm Eu OO * ( _ n + *
+* ND — mm * ZZ * —_ —_ | La —_ _ n LNH OL. + *
+x © un 1 * 1 TT x
+* n— * *! * > Ti
+x Oo © + ZT DUO * 1 EF OT #
+x DZ xMmmMmmMm * 1 RTE
+* +*02D>7Z * 1 x » m O
+* xMmnnO< »* 12 — Li 15 >
+* DO. — + wo JN 1 > = 2 — © © onu m = e _—
+* k—ZZO ss 1 # TD
+* N 4ZZzOMm * 1 * © CRE
+* xnmz *! — * m *
+* x ZX 1 © * Tr =
+* *en— 3% 1 1" © +
+* x MAT x — 1 — UM ON >% M Os
+FRERE ERXREERÉXE Z>— OX — l'A 1 © ON VO > Uni Tr xZZT =
+* EE ——————————————————————————————* Le] UN
+>> ke. + 1 * = M >
+* DOMes »+ ee * mi TT * œ D *
+* ++ T0 * * © 1 > * 2 *
+* DTDUM> * * œ: l D # MO©s
+* mms OQ© © % * — 12 _ Li _ 1° = 2 *
+* DDNTIZX © * #* — OO<I1& — NOM WW 00 * MO©x
+* On>zm Z*oDE # + 1 - ss.. ss... * z —
+* nn 1 * * uœ-Im 1 © nn 0 Un 4 2 & m * — Z *
+* uno * * 0 INOI! IO © uouOoŸ©©w © © * > *
+* uOo— * rer NN BNTIE& © (°X°XS] 2 Won n* 7 #
+* 22 zm D * * 1 * m *
+* ° Zz © x * 1 * CE x
+* un D # * mi D * 2 *
+* = »* # © 1 > % =
+* eu FE # &= * 0 | 2? * *
+* Oo > * * IN _ — * %
++ 1 "LR un # © O0O0<1!1I2 = N ON © U HO * *
+* > + 4 * - MES. 1 - _. - _. * +
+* —U— NMTOs > # VU OUNODIUNM D OUN HO UUM Q* CE
+* Z * + un N ND © 1 © © nou 0 oO © * ZT *
+*# un %. * Le non Oo 000 ao + Mn + T %
+# * * t * M
+* TT * * mit * M %
+* > TD x * © 1! D * 1 *
+* D > * * AT > = *
+* ONO (a — D * * 1 2 #*m +
+RUN Re e AU 1 * <a _ — an tn: 1 +0 D %
+# UO- un m mit M*xNN OO. 1 © © U — © 4 U + 4 #* © > %
+* sou [e2 Oo O * > 4. MAT 1, -...... 1 s— Oxr
+* UOO © nn Es T# — NOOIM © OOO u OOou ©": * >
+* T. + un Ou110O Oo OOo Oo [°A°Xe] 1 x
+* CE - + Oo OO. 1 O0 o OoOO Oo [eX°2e + “
+* MERE RÉER RER EREREER XX XX * D *
+* TU 2 *% * > *
+* > Mx OQ ZmTX — OO x
+* 2 n »% > > x< > un * M
+* o—-o Oo —.) * OCONDOBOQOOND—-NNONOMONNOOQ D 1 * *
+x. % DINNNNNNNNANNNNNONNNNNN >
+* ON © * LC = + ed ot ot ed oh end (md Oo: S
+* DOM © © * OVLBDJHSBEUN OLD MUBUN— DE * VW 2 ©
+* uCOoOmn * + wo © w
+* * n> * © € ©
+* * O— *# 0 10
+* * Z 2 * >
+* * _ _ NN _ Om « ao
+£ * Li 7 & ND & NN Li — BD — —uUU Es un * m
+MONONOROEONONONONONONONONONONONON ON OEONONONONONONONONONONONOEONONONOEONON OO OO
+M. J. juillet 1986
+
+=== Page 9 ===
+
+TABLEAU DE DECOMPTE Page 1 LaPRrE
+DES HEURES DE PRESENCE ET D'ABSENCE. nn:
+CHAPITRE 932
+1- TABLEAU DE DECOMPTE DES HEURES DE PRESENCE ET D'ABSENCE
+Dans l'attente d'une révision d'ensemble du dispositif statistique, actuellement l'étude, les dispositions de la circulaire N. 157 restent en vigueur elles sont exposées au
+paragraphe 1. Depuis le 1er mars 1977, le tableau est produit non plus par les unités,
+mais par G. P. S.0.: voir paragraphe 2.
+10 - Généralités
+Le tableau, dont modèle en annexe 1 depuis mars 1977, doit être établi en heures
+ouvrables.
+Les agents affectés la caisse centrale d'activités sociales ou aux caisses mutuelles
+complémentaires et d'action sociale, de même que les agents temps partiel, statutaires
+ou temporaires, ne doivent pas intervenir dans les décomptes d'heures de présence et
+d'absence.
+La ventilation en services actifs ou sédentaires doit être effectuée en fonction de l'emploi
+occupé au moment de l'établissement du tableau. Les agents accomplissant des travaux
+mixtes ou des travaux actifs intermittents sont classer dans la colonne "service actif" si
+la proportion de travaux caractère ‘actif'est égale ou supérieure 51 %.
+11-Enumération des différentes rubriques du tableau "D"
+(N. 157, annexe) (Les notions de rémunération dans les rubriques ci-dessous ne concernent
+que les agents statutaires).
+111- Heures correspondant l'horaire normal
+DP.12.41 Le nombre d'heures est déterminé en fonction de l'horaire journalier en usage dans
+l'unité et constitué par la répartition sur les différents jours de la semaine de la durée
+hebdomadaire du travail, déduction faite, le cas échéant, des jours fériés (à
+l'exclusion de la fête locale).
+Les jours chômés (ponts) et le jour de fête locale ne réduisent pas l'horaire normal et sont
+décomptés dans les absences.
+L'horaire normal des agents féminins mi-temps doit être compté pour moitié de celui
+des agents temps plein.
+
+=== Page 10 ===
+
+TABLEAU DE DECOMPTE page 2 ShapREe
+DES HEURES DE PRESENCE ET D'ABSENCE no
+112- Heures supplémentaires effectuées
+Heures effectuées en sus de l'horaire normal, non majorées.
+113- Nomenclature des absences
+Les différents motifs d'absences et leurs incidences sur la rémunération et la gratification
+de fin d'année sont énoncés au chapitre 320.
+En ce qui concerne les ponts et Le jour de la fête locale, les heures non travaillées cette
+occasion doivent figurer, temps pour temps:
+- pour les agents devant normalement travailler ces jours-là, la rubrique ‘absences
+diverses rémunérées",
+- pour les autres agents, selon les cas, aux rubriques: "maladie", ‘accidents du travail",
+2- MODALITES D'ETABLISSEMENT ET DE TRANS MISSION DES TABLEAUX
+STATISTIQUES DE PRESENCE ET D'ABSENCE
+21 - Décompte des heures de présence et d'absence (Etat D)
+
+DP.12.36 Depuis mars 1977, ce document (voir annexe 1) est produit mensuellement par G. P. S. O.
+Les unités nr ont plus transmettre l'état D la direction du personnel et des relations
+sociales qui l'obtient de G. P. S.0.
+
+Les décomptes des heures de présence et d'absence figurant dans les statistiques
+officielles sont, par convention, ceux correspondant ces états.
+Cette convention implique qu'aucune modification n'intervienne sur les décomptes
+d'heures de présence et d'absence des unités. Cependant, conformément aux dispositions
+adoptées pour les états mensuels d'effectifs (état 9, en annexe 1 du chapitre 931), dans le
+cas exceptionnel où une unité voudrait apporter une rectification des heures figurant sur
+son décompte, elle disposerait, après sa réception, d'un délai de cinq jours ouvrables pour
+en saisir sa direction d'appartenance qui appréciera l'opportunité de demander une
+rectification la direction du personnel et des relations sociales (service M. E. G.).
+22 -Relevé des grèves
+DP.12.60 Le document ‘relevé des grèves" voir annexe 2) est destiné établir des statistiques
+d'ensemble sur les effectifs et les heures imputables chaque grève locale ou nationale,
+l'état D ne faisant que dénombrer les heures par collège et par mois. Il est constitué
+d'une liasse de trois exemplaires dont:
+- l'un, se présente sous la forme d'une carte lettre pour en faciliter l'expédition, doit
+être retourné la direction du personnel et des relations sociales (service M. E. G.), le
+15 du mois suivant (par exemple le 15 février en cas de grève en janvier), sans
+attendre l'état D du mois considéré,
+-_ _unautreest adressé la direction d'appartenance,
+- le troisième estconservé par l'unité.
+
+=== Page 11 ===
+
+TABLEAU DE DECOMPTE Page 3 Chapitre
+DES HEURES DE PRESENCE ET D'ABSENCE lo
+DP.12.60 L'information porter sur ce document est celle connue dès la fin du mois concerné et
+doit être transmise, au plus tard la direction du personnel et des relations sociales, le 15
+du mois suivant il pourra éventuellement s’ensuivre un total des heures de grève d’un
+mois différent de celui collecté sur l’état D.
+Les modalités suivantes caractérisent le nouvelétat:
+- une seule zone regroupe les informations globales concernant un même motif de
+grève,
+- les deux zones figurant au bas du document sont réservées aux redressements
+éventuels concernant les états des mois précédents.
+
+=== Page 12 ===
+
+ÉAS AE CARE NO ONE ER AT PO SR AU AUTO CHA CR QE A OA POUR UMR CO ON PE OR NO mm
+us # # 1 0 1! MN tt CRE NU nt MU RENAN DITS ANNEXE! (p. 11) 1
+o # <« #0 1: ONU RO I MOTOR ENT ON ORAN Chapitre (Es
+æx # 10 1 ER UNT EE) DORE NUE UNI TUEUR 932 Ve
+0 + co 4 # 1 0: UN DUO RU 0 BURN UNE SOUS TE
+DD CR DUT Un, Dur UE NU DR EURE EU 1 4 « (paragraphe 10), —
+1 6 © 9 © Ans 1 EURE ANNEE 1 EN ESC WU ON: 1 ' Le: 1e
+mn œ! ' ' ' ' '
+ul | x + + # 1 1 1 11 m
+H| eo] # 4 # xxx # 1 11 Cox
+VI |) « NOM ON ON ON ON NON ON WOW Où ON MMONONMNONWOKMMOMMMMONONMMMONMOX OnON Onx
+£ | #4 * * ',
+5 pi * © Lan * DROLE] EUR RS UE RUENT RM RES CUT BURN 1 1 ROŒEUTUN
+Al # < “ Via 1 1 1! ECTS MU S ON NUE tu tt 1 ' EUR
+« a OM 1 1! EAN PRONIMERTnI HU PAIN HE 1 1! LU * # Z2Q %# 1 1 1! CTI PARA ROUEN VO 1 1 \ DOEUULe
+NM ON OH MxLSÀ 1 1 | EME PANNE LM EM EINI nur 1 l PACA
+# # Old 1 1 1 CEST ET Pont tot 1 EME UT RUIUIELNT 1 1 ut x
+x © # LH x! 1! 1 Ce x
+“+ ul L #! 1 1 12 *
+# C GS Mon ON OM ON MMOMONOùOÙOùdeWOùNOONMOMOùONOù 4 MOHOMDOHHNà +
+# + 7 * # 1 #
+# ui + # 1 1! LUE UNE PORN PRIRENT 1 CN CS 1! BUT
+* un # LR EURE MI Set EROINRNE ENT rt 1 1 ENT
+# D OH s"# | | 1! QUESTION CON ON JL VONT EUK ] DUR TEEN RUE UT 1 1 Ut t—+
+* < kU<x 1! 1 1! MANS PURE DR RE EN IRON l! FUME
+# Le * + | 1 1 HU ELITE NS EI RUE ANA ESRI l 1 tits
+# —) G # WO# 1 1 1! IRAN PA EU RTE OR EURE A | AL! 1 PUR
+# — * + # |!!!! 1 EL “
+# œ + + #! 1 ' a] 4
+* > u * #!!! y! x
+Se RENE RE CE LE EC EN ERNEST CRIE LE EN CEE DPN S SNS
+Lt + x +
+# © Ok <+ x | 1 1 DATE TES RUN PAP REMISES EN ON 1 1 tt +
+# Z # # 1 1 1 RICE DURE 3 TON CN ER SIRCON LUE IT 1 1 Dr x
+# BW OH # 1! 1 } POI NIMES DURE INTER) HUE NU 1 lVUuw
+# n * x 1 1 1! BTE ETNONR MR PNEU EORNR: DUUENNUT l 1 d 1
+# a # 2 MUR EUR CNRC ENT RAR REA T 11) 1 1 1 LL +
+# œ # CCE MNT JRINENNIN EN LU EME TA rt 1 1 EURnNCR
+# eo + 1% | l 1 1! De x
+# xx | | | 11 # CO, nee. [er #
+# O * OK OH ON OH ON OM ON OH OH OH ON OX % M OH Now Où ON ON OM ON où On # mn OH OX 4 % OH NY E
+# ++ # 1 ñ
+# ui xo # 1 | 1! ERIC IMTRPMRSEUI RAR ENTER (UT 1 1 LELX
+# [e xunÆ INT LAON RTE EUR VU ER UNE E VE |! 1 \ E ER
+# ce * HUIT ELU INT EROEUNE INTRO RE IR! 1 tttr
+# — # RON EU A EIRE CS REC ES IR EN RU RATE CS ITR! 1 LE FA
+# LU + # 1! | | lu! NAT! | 1 | ÉCART | | il 1! 1 | L +
+# T # # 1! RO 11 RER 1 MENU 1 1 l! 1 L+
+* © # O0 #! 1 1 l 1 11 r
+# uk+X |! \ 1 1 x
+# LL: # # 1! 1 l 1 #
+#* QG HO ZH OH OK HO OK HO ON MOKOX WOW OX NM ON MKOMOHOKHOMMOKO NjeOXAOHMOH #
+* Li # Wu 1 1! EVEU RAT I ON ESS DUT tt tt 1! LOU rt
+++ Fe *# HORS BOUV EUR UMA INR NUIT 1 1 PO ECr
+# a. # (9 NACRUENT pin 1 MN EN ELT EN EN 1 | Lo? 1! CON 2:
+# < Tu x |! | ] EAN CSN STE | NAN 1 11! 1 RES
+# o # < MULTI nil Je UNSS SE) RIRE 17 1 1 tt +
+te Y *# MN CEUINT! 11 UMR UT DRPOIENIENENUNT rt!! UM IN
++ [u + t#!! l 1 1 DLL *
+*# 1 CG # #! |! 11 #
+# # x 1! |! 11 $
+HO ON OM HOMO NOM ON OH OH OH 6 6 ON OH MMNOHOONO Njt NON ON ON Os ÆO KneONMAOHæHOM 0
+# + _. t tyr
+# # AnA. uw AñA " Ath:
+# # u Li! ".. W. n 1" " Nm S?
+# # (l Lau 1 2 « (ll > hi (l ul HI Z+
+* # sä | " ON +. 1H e " (1 " WU 1 Da
+# x < Austt «1 n 14 Lys nl ve
+# ñSUaee < LU ou + ue COEUR
+* # œ 15 De - — du a ©! #
+# # Ou + KL EU * Æ, sou us + {ml w%*
+# # 2 &' LJ DA tu D + =: + \ A”
+# # ka Zoo. £ 219 x lt GAZ! "
+# + LU 12 — < 7 Z UD °* UJ Z j
+# # SAR 2 ZO - QLuviUs 1 WŒUN 1 s#
+# # — LL is DU. 1x Lu XL&duQ 1Ws
+# + du © LPC n UD het > un œ'n (er EE œ LU. co Zum) me
+# # Fr AU 1 1 on «4 4 + bn 1Q "=:
+# + er ur | Dr VU 426 nez ur ir
+* # ZI um Fes — LL op US Sa LD Jura = | 1 SI EST TOR
+# kLiLZDskm 0 ui pe: © 1 x
+# xt-i ce aan D 4 ZTis re 4 4o « 4 «TC azs1il4
+# # Z = pd Zusa arr oo lui L RE:
+# # at a 5-0 5 LL dt 4 Fu pu j- 2 tu += the Là
+# # or mm — Lu wy 1 ELbk Do D YU 1
+# # ZEZS5 © wuouk URL EX OmmMNODOE ss VND OZNMZ SIN:
+# % Ts -T n LA WmehRUnX DWEMNNL UO sy WU 19 Ut ++ CO ZhrI2Nn Om Ah OGDOYURENMU EURE 1 CO 4
+# # PART nluerOA bris ©. = <L Lo << bus LU | Qt
+# # LU Lu Li << i DV EœUUU Zn œ | ei
+# # T0 u) uv) mn dd TEA ZLivuAtu 1) OZ lv) aaVs
+# # WE # A2! 7 am OO 2z24ou Vu 4
+# # 213 ao o = Porno ET AN 4 A us 114 1 œ
+# # on © un Li + u: EH] Lu 1 IN aoto
+x # 4 1) nuiSN Ann LU 1 Hi Ur |
++. + un + tu Lt JS YU D € LU VU) ZW AN 1 LS 149 11 bis v) ww in:)
+# xLiM «© xZDO<O + 1 © he (9 ©! ti 10 TO >» us 1 | Lu
+# # E2'EC LDE D WQ J£LHMNZZLLZUNUNUE ZW k 2 x 1œo
+# # DD WW M OWNWAaU °MULUIUDMMD HO > Dæ)S
+# x + Lu LJ + DL DEN ALUQAUOVATEZ A LINEILET us es 1 Us
+4 # ML < « Lu TE x
+* x! #
+# #" « Li us u EL _— (7
+PH M NOM MON ON ON NO D OÙ Ode 6 6 Me 6 0e 6 6 O6 6 6 We 6 6 6 dt 46 46 We 6 Ne 4 Où M. J. septembre 1983
+
+=== Page 13 ===
+
+_ One: | = = NEXE Il (p. 1)
+| E | = = EE chapitre
+> ne SÉ29 Û ‘ 5 ="
+JLE, = a ni paragraphe 2}
+L - ||Ns°te 113
+0 ec | f
+ü|. £ 2838: l
+| Î 9
+lo LS | |:
+= 5 4 1 oo
+Le il: F
+Ë > NN: F
+ê 8 ÈS 1: 5 | 8 4: | 1 1 LÉ
+© es 1 ] |
+vEsÉ 1 | 3 |: |
+Sÿis ] 1 | | É:: | | j 5 s |S
+Ë ü € z. = ë E
+x ‘% Se ëÛi 1:
+7 É. S Ss| |: |à
+ë Les i ] | iLji
+è S5° | Î; bi À
+& 8° k _] ] jj | M
+SJ ] | 3:
+sL.— J | 35 | j 4] |:
+È 8 £ DÈCT = À
+mr: -: — _ 5 £
+e | 255 £ ] j | | L _
+2 3 © » |:
+2 ISSS| * —- Fe. | L -: sie —= —) j }:
+Le: | Ses ê Î 1 |
+RE 5 | È
+Se 8 L ': |
+ik ON “ iï
+Ë: ST TIRE "MONS = Li |
+è 1421 (] ï TE | |
+| j = mo.:.
+w| © [wonnk ee ec =
+ao | | d $ ou TC e = |
+Lu SIL Es LE L | EÊ
+| Tv =: = - -
+> D NON Eu = -
+ë 2 | UE ET at = |
+LU a £ | L: _E |: |
+œ | ÈS | e.- = EE ‘_| 15 |
+ü lé lol Ce) DETTE
+< 1642 si: M | — | — ë
+an 199 Del D'ael = | = - |
+o | ë, 3 | | CS NE mi. |?
+2 | il j | |: |
+| VE a À.
+5 ne 55 8 + L ‘ | =:
+> 5 eèi S| | }! = 1
+W EE | 2 ÉLE ‘ | |
+Au TZ S Le | ‘| |
+= D | k -
+LU Duwè | Î -
+œŒ SIC ÈÈ |
+2 2 LR F:
+2 Oo = _ FusÀ. (;
+ÔPSaLL 1
+S ueoy ls [7 Fe mate |
+Q 2 Si ——|—— = ef
+5 a | Ni 3 CU
+0 2: is | Lu l
+& TL To.
+$ e |
+& QS |
+FER |
+225
+SN LUC
+ie n. é
+| |: À
+| ed &[2 £
+QO|5 2
+| ëQEs
+| Ë ÈS
+© | © £:
+|: 8 2e
+5 & 2 À: o wie: x dE
+2 BE s|
+| 2 wle 1: A
+- = DIS 9
+| | | 8 alé g raâs
+_ ë 4S 5
+ë 2528
+Hess | ©
+30VIdW34 13 31 dés
+FA349 30 11. — “4 SIL10W Hd INOZ INN 5 ë $ #
+#15 88:
+M. J. avril 1981 ë
+
+=== Page 14 ===
+
+ANNEXE Il (p. 2)
+- h chapitre
+38239 | 8 À <
+SDES s$ = co )Es:
+8 5 om LÉ ë |
+HE ou sd 5 se Oo O0 |
+5e 5 ES 2
+sÈE mL 83 2%eo 5
+E © HS es S5T CR ss |
+Sè38 nl, sors È rés |:
+IR £e 9 ÉERDES
+3: 5.: É 1
+2e = TS si î
+- ‘3 ë 1 | S$ ]
+ès 00!. o oo! ol 3 =
+be 2 ° go o| oo|s3 ol
+ES wm| 3% M PL CSST
+Se | 35 1e = ds F-:
+E & | $& Ë 1 4
+L | 32: ] | 1
+2 = > ns ë | |
+ë |S (55 | =
+85, | col$éa De |
+Fée | ol“ eo ès a Ne 2
+ca | s 1 oe Be | | À o
+és | CO! 3 al 8$, ei ONE |
+Sa | ++ 3 900 fEs a | À ©
+dg° = Se Es | 2 st ©: £ ë. |
+| | ° JE 1 - Ë =
+_ D |$ 8 ls | | =: |
+z TRE nn: - | |
+= |sts|° (és gd:
+z > $Ss| « es?:
+ii & |E "| ESS op 5 + | |
+n © 2 £ Do | s | | È il
+5 8 je | | 5 |:
+Ü =: |
+2 © 2 Au 7 — |:
+5 5 © 2 GE L—— | | LL x.
+2 2 5 [wow nu, à. | ËÈ
+FE © © È Nonn: # | ] f & KR
+TD © 8 hÈ| & —: X | Û
+h © » MG Cul 5 | = |
+ST - 3 rt Fa: #. =
+= 9 0 ë& | CE SEf = [ |:
+D = ï | ce) - 4
+5 = |1049 & | vz|: = ë |
+Lu © G _ Le "| |, _ $
+3 4 | K Vs ] 5
+nl HE RE — = ëx
+W 35 © 991 VO 8 L'Est _ +-<
+ŒÆ © © 0 OU | | D WU Oo| Ëllo [it
+É Le | De x Ô —
+9 © 5 5 ha 1 Fi
+no 2°? S ë |
+ON Be | 5135 a | ÊE a 5 it
+Ææ = À 35 8 EEpést te | il 2 SE #| wo)” | 2e NO 6 | -? 8 8 2 | ST
+JEUONPN | © ës
+un \ | 1 | à: ‘ —
+° | D: -. rt
+a 22507 | = | ÈT- =: ” | =
+— = | 5 |
+| & |: |
+ui è | | | -: | | $ 1 |
+ù | è | | |
+LE Lio sil D
+8 | | ËL | | = |
+£ 8 | È | | sl |
+ë |È | lé |:
+è Ê 5 2
+g | si HO | 6
+Ÿ l—, n © £ | S = É LA %? | S ©: | [_ AS ü 3€ ë
+ë MS | ŸQ | € | è = $
+w Ÿ | | 2 MS: [6
+= & ÿ | KesS | S £: [8
+3 | n + À | > ÿ © > a
+(e] en n | où: | | + # |ÿ. &
+$ 3 Y | = » |
+& 2 Ÿu US | Ce: |SÈ « | * vz | 553 = g 8
+è: se & | SSSR NS
+ÿ 8 | sv ë Pas 2 èë | SA S=25 € [8
+> UN jieE|SÈ
+èSCEÈ Fos LE ÉèsiËSE = 8 èDsÈLu. [5: 385 À sie LP Ÿ & 20e # SE = È £
+RSSn + SE £ = $
+èÿ 2, | © RE Le 5 ‘
+$ SE: | 3 83: 2 %
+œë 20/0 & éÈË $
+ë0eÉvs = 5 | So
+ŸsÿSeÀ: 6 © ÀSSo \ Ô CR
+M, J. avril 1981
+
+=== Page 15 ===
+
+Chapitre
+BILAN SOCIAL ces 934
+Fév. 86
+CHAPITRE 934
+DP.12.45 La loi 77-769 du 12 juillet 1977, fait obligation aux entreprises et établissements
+d'entreprise d'établir un bilan social pour chaque exercice civil compter de 1978.
+Cette obligation concerne Electricité de France et le Gaz de France pour lesquels un
+décret paraître précisera notamment que le terme d'établissement s'entend de toute
+unité au sein de laquelle est constitué un comité mixte la production.
+LA NOTION DE "BILAN SOCIAL"
+Le nouvel article L. 438-3, inséré dans le code du travail par la loi du 12 juillet 1977, en
+donne une description d'ensemble:
+"Le bilan social récapitule en un document unique les principales données chiffrées
+permettant d'apprécier la situation de l’entreprise dans le domaine social, d'enregistrer
+les réalisations effectuées et de mesurer les changements intervenus au cours de l’année
+écoulée et des deux années précédentes".
+“En conséquence, le bilan social comporte des informations sur l'emploi, les
+rémunérations et charges accessoires, les conditions d'hygiène et de sécurité, les autres
+conditions de travail, la formation, les relations professionnelles ainsi que sur les
+conditions de vie des salariés et de leurs familles dans la mesure où ces conditions
+dépendent de l’entreprise".
+Les indicateurs devant composer le bilan social figurent dans le décret 77-1354 et
+l'arrêté du 8 décembre 1977 (J.0. du 10).
+DOSSIERTYPE
+Un cp adaptant les indicateurs réglementaires la situation d'EDF. et du
+G. D. F., est diffusé aux unités par la direction du personnel et des relations sociales
+(service moyens et études de gestion, division statistiques et analyses) auprès de
+laquelle elles peuvent obtenir toutes explications utiles.
+Ce dossier, pour une part importante des indicateurs, est pré-rempli par les chiffres
+concernant l’unité, chaque fois qu’ils ont pu être rassemblés par la direction du
+personnel et des relations sociales sur la base des informations en sa possession.
+Pour les autres indicateurs ne faisant pas l’objet d’un regroupement national, les unités
+sont invitées compléter le dossier par leurs propres moyens.
+DP.12.54 Etablissement des tableaux du dossier-type
+D'une façon générale, dans un souci de cohérence et de rigueur, les tableaux du
+dossier-type ne doivent recevoir, dans toute la mesure du possible, que des éléments
+figurant déjà dans des états statistiques ou comptables existants.
+
+=== Page 16 ===
+
+Chapitre
+BILAN SOCIAL _ 934
+Fév. 86
+DP.12.54 C’est ainsi, notamment, que:
+
+a) en matière d'effectifs, les chiffres qui apparaîtront dans le bilan social seront en
+concordance avec ceux mentionnés habituellement dans le cadre supérieur du
+tableau de dénombrement (Etat 9) les mouvements d'arrivée et de départ
+décomptés dans le bilan social sont ceux connus au cours de l’exercice observé
+quelle que soit leur date d'effet b) en matière de montants, les chiffres doivent normalement ressortir des résultats
+comptables.
+
+L'annexe 1 au présent chapitre regroupe en vue de l'établissement et de la
+
+compréhension des tableaux:
+
+- les commentaires tirés de l’arrêté du 8 décembre 1977 - annexe B - (dernières pages du
+
+canevas);
+
+- desindications complémentaires.
+
+Avis du C. M. P. délais et transmissions
+
+DP.12.45 Une fois élaboré, le bilan social de chaque "établissement" est adressé aux membres du
+
+C. M. P. au plus tard 15 jours avant la réunion au cours de laquelle son avis est demandé.
+
+Selon la loi, cette réunion devrait se tenir avant la fin du quatrième mois suivant
+
+l'exercice civil, soit avant le 30 avril.
+
+Dès sa mise au point, accompagné de l’avis du C. M. P. l'unité doit l’adresser:
+
+- l'inspection du travail (voir chapitre 301, annexe 1),
+
+- aux membres de la commission secondaire,
+
+- aux membres du comité d'hygiène de sécurité et des conditions de travail,
+
+- auxorganisations syndicales.
+
+=== Page 17 ===
+
+ANNEXE I (p. 1)
+chapitre
+934
+DEFINITIONS, COMMENTAIRES ET CONSIGNES
+PARTICULIERES CONCERNANT CERTAINS INDICATEURS
+DU BILAN SOCIAL
+DP. 12-65
+Cette annexe negnoupe L'ensemble des commentaires nécessaires L'établissement et La compréhension des tableaux du Bilan Social.
+L'élaboration des indicateurs marqués d'un astérisque (x) est entiè-
+nement La change des Onganismes.
+CHAPITRE 1: EMPLOI
+- Indicateurs 111, 115 119: REPARTITIONS DES EFFECTIFS
+Concernent exclusivement les statutaires et temporaires, temps
+= plein ou temps partiel (PERS. 754), habituellement dénombrés dans
+les effectifs mensuels des unités (Etat 9, catégôries 1 14).
+- Indicateur 112: EFFECTIF PERMANENT
+hp Agents statutaires comptés l'indicateur 111 présents dans l'orga-
+nisme tout l'exercice.
+
+— Indicateur 114: EFFECTIF MENSUEL MOYEN DE L'ANNEE
+Moyenne des effectifs mensuels habituellement dénombrés dans les
+effectifs mensuels des unités (Etats 9 G. P. S.0. après corrections
+éventuelles transmises la Direction du Personnel au cours de
+l'exercice).
+
+- Indicateur 117;: EFFECTIF TOTAL SELON L'ANCIENNETE
+Ancienneté depuis l'admission au stage statutaire soit par embauche
+directe soit après une période d'emploi comme temporaire. En prati-
+que, cette ancienneté est calculée partir de la date d'effet des
+mouvements 101 ou 201 du système G. P. S.0. Pour les agents recrutés
+avant la nationalisation en 1946, ancienneté depuis la date d'entrée
+dans les Industries Electriques et Gazières.
+
+—- Indicateur 121: NOMBRE DE STAGIAIRES (ECOLES, UNIVERSITES...)
+Stagiaires non statutaires exclusivement.
+
+- Indicateur 122%: NOMBRE MENSUEL MOYEN DE TRAVAILLEURS INTERIMAIRES
+Est considéré comme travailleur intérimaire toute personne mise la disposition de l'organisme par une entreprise de travail intéri-
+maire, telle que définie l'Article L 124-1 du code du travail. Le
+nombre mensuel moyen peut se calculer en faisant le rapport du nom-
+bre de jours travaillés dans l'année par des intérimaires avec le
+nombre total de jours travaillés de l'année.
+
+- Indicateur 123%: DUREE MOYENNE DES CONTRATS DE TRAVAIL INTERIMAIRE
+Total des jours travaillés par des intérimaires divisé par le nom-
+bre d'intérimaires employés dans l'année.: M. J. juin 1982
+
+=== Page 18 ===
+
+ANNEXE I (p.2)
+chapitre
+934
+- Indicateur 131: EMBAUCHES DE STATUTAIRES
+Total des admissions au stage statutaire par embauche directe ou
+après une période d'emploi comme temporaire.
+— Indicateur 136: ARRIVEES PAR UNE AUTRE CAUSE
+Regroupe les retours du service militaire, les réintégrations, les
+intégrations, les arrivées par mutation en provenance des Industries
+> Electriques et Gazières hors EDF-GDF, les réembauches et les prises
+en charge.
+- Indicateur 147 bis: DEPARTS POUR UNE AUTRE CAUSE
+Regroupe les départs au service militaire, les détachements, les
+départs en congé sans solde autres qu'exceptionnels, les mises en
+invalidité, les mutations vers des Industries Electriques et Gazières
+autres qu'EDF-GDF, pour les temporaires, les admissions au stage
+statutaire.
+- Indicateur 161: NOMBRE DE HANDICAPES (SITUATION AU 31 Mars)
+Au sens de l'article R 323-51 du code du travail, ce sont les
+acents:. qui ont fait l'objet de l'application de la circulaire PER£ 25S
+au cours ce leur carrière. qui ont été embauchés comme travailleurs handicapés au sens des
+emplois réservés
+—#+. qui ont été embauchés selon les dispositions de la note DP 85-7
+du 28/-12%8L1"
+—- Indicateur 162": NOMBRE DE HANDICAPES A LA SUITE D'ACCIDENTS DU
+TRAVAIL INTERVENUS A EDF-GDF
+Parmi, les agents dérnombrés en 161, ce sont les handicapés la sui-
+te d'accidents du travail intervenus EDF-GDF.
+- Indicateur 171: NOMBRE D'HEURES D'ABSENCE/NOMBRE D'HEURES THEORI-
+7 QUES TRAVAILLEES
+Le nombre d'heures travaillées théoriques est le nombre d'heures
+correspondant l'horaire normal.
+=" Le nombre d'heures d'absence est le total des absences (Total G de
+l'Etat D) diminué des heures de congé annuel, de pont et de fête
+locale, de grève, de repos compensateur et €e mise disposition
+interne EDF-GDF.
+- Indicateur 173: REPARTITION PAR DUREE DES ABSENCES MALADIE
+Les agents statutaires ou temporaires, temps plein ou temps par-
+tiel (PERS 754), ayant appartenu 1 organisme tout l'exercice sont
+—+ dénombrés dans cet indicateur. (Cette définition rejoint celle rete-
+nue pour les seuls statutaires l'indicateur 112).
+- Indicateur 174: NOMBRE D'HEURES D'ABSENCE POUR ACCIDENT DU TRAVAIL
+ET DE TRAJET
+Ce nombre d'heures comprend également les heures d'absence pour mala-
+die professionnelle.
+- Indicateur 177: NOMBRE D'HEURES D'ABSENCE IMPUTABLES AD'AUTRES
+CAUSES
+Ce sont les absences au profit des C. A. S. ou de la C. C. A. S., les
+2 congés sans solde titre exceptionnel, les mises disposition
+hors EDF-GDF, et les autres absences rémunérées ou non (Cf. Etat D).
+M. J. juin 1982
+
+=== Page 19 ===
+
+ANNEXE I (p. 3)
+chapitre
+934
+CHAPITRE 2: REMUNERATIONS ET CHARGES ACCESSOIRES
+- Indicateur 211: REMUNERATION MENSUELLE MOYENNE
+Les rémunérations prises en compte sont les rémunérations principales
+nf (Traitement, gratification de fin d'année) augmentées des heures
+Supplémentaires et indemnités pour travaux extra-horaires.
+— Indicateur 212: PART DES PRIMES A PERIODICITE NON MENSUELLE (%)
+Les primes périodicité non mensuelle sont celles comptabilisées
+aux comptes 610, 612 et 613 l'exclusion des heures supplémentaires,
+des indemnités pour travaux extra-horaires, de service militaire
+et de départ en retraite. Le résultat est exprimé en pourcentage des
+rémunérations définies au 211 augmentées des primes citées ci-dessus.
+— Indicateur 242*: MONTANT DES VERSEMENTS EFFECTUES A DES ENTREPRISES
+EXTERIEURES POUR MISE À DISPOSITION DE PERSONNEL
+—#ÿ Ce sont les montants versés (Hors taxes):
+- d'une part, des entreprises de travail intérimaire
+- d'autre part, des entreprises autres que de travail intérimaire
+ayant mis disposition de l'organisme du personnel placé direc-
+tement sous son autorité.
+CHAPITRE 3: CONDITIONS D'HYGIENE ET DE SECURITE
+Sous-chapitres 31 et 32: ACCIDENTS DE TRAVAIL ET DE TRAJET
+Te sont a. nésultats statistiques provisoires connus mi-gévrier, vêntgien et, éventue££ement, compléter par vos soins.
+- Indicateur 311: TAUX DE FREQUENCE DES ACCIDENTS DE TRAVAIL (EN SER-
+VICE)
+Ce taux est le rapport du nombre d'accidents de travail en service
+avec arrêt de travail par le nombre d'heures travaillées (en millions
+Dans ce cas, le nombre d'heures travaillées est le nombre “d'heures
+—# de présence" (Total H de l'Etat D) augmenté des absences syndicales
+et des absences au profit de la C. A. S. et de la C. C. A. S. (Statutai-
+res et temporaires)
+- Indicateur 312: TAUX DE GRAVITE DES ACCIDENTS DE TRAVAIL (EN SER-
+VICE)
+Ce taux est le rapport du nombre de journées perdues pour les acci-
+dents de travail en service par le nombre d'heures travaillées indi-
+qué au 311, exprimé en milliers.
+- Indicateur 316*: NOMBRE D'ACCIDENTS DONT EST VICTIME LE PERSONNEL
+D'ENTREPRISES DE TRAVAIL INTERIMAIRE OU DE PRESTA-
+TION DE SERVICE
+A signaler ici les seuls accidents dont l'organisme a eu connaissance
+_ Indicateur SOUEE: TAUX ET MONTANT DE LA COTISATION SECURITE SOCIALE
+(ACCIDENT DU TRAVAIL)
+Les montants des cotisations patronales "Accidents du travail" sont rechercher dans la comptabilité de l'organisme.
+M. J. juin 1982
+
+=== Page 20 ===
+
+ANNEXE I! (p. 4)
+934
+
+Sous-chapitre 32: REPARTITION DES ACCIDENTS PAR ELEMENTS MATERIELS
+
+Les codes négérences mentionnés ci-après correspondent aux "codes de
+
+classigication des éléments matériels des accidents" (Arrnèté du 10
+
+Octobre 1974).
+
+- Indicateur 321: NOMBRE D'ACCIDENTS LIES AL'EXISTANCE DE RISQUES
+
+GRAVES
+Codes 32 40
+- Indicateur 322: NOMBRE D'ACCIDENTS LIES AUX CHUTES AVEC DENIVELLA-
+Code 02.
+
+- Indicateur 323: NOMBRE D'ACCIDENTS OCCASIONNES PAR DES MACHINES
+Codes 09 30.
+
+- Indicateur 324: NOMBRE D'ACCIDENTS DE CIRCULATION, MANUTENTION -
+
+STOCKAGE
+Codes O1, 03, O4, 06, O7, O8.
+- Indicateur 325: NOMBRE D'ACCIDENTS OCCASIONNES PAR DES OBJETS,
+MASSES, PARTICULES EN MOUVEMENT ACCIDENTEL
+Code O5.
+
+- Indicateur 326: AUTRES CAS
+Autres codes ne figurant pas aux indicateurs 321 325.
+
+- Indicateur 3327: NOMBRE DE SALARIES ATTEINTS PAR DES AFFECTIONS
+
+PATHOLOGIQUES A CARACTERE PROFESSIONNEL
+Renseignements recueillir auprès des médecins locaux du travail
+et de contrôle.
+
+- Indicateur 333*: NOMBRE DE DECLARATIONS PAR L'EMPLOYEUR DE PROCEDES
+
+DE TRAVAIL SUSCEPTIBLES DE PROVOQUER DES MALADIES
+PROFESSIONNELLES.
+Nombre de déclarations au sens de l'article L 498 du code de la Sé-
+curité Sociale: renseignement établir avec le médecin du travail.
+
+—- Indicateur 351*: EFFECTIF FORME DANS L'ANNEE A LA SECURITE ET AU
+
+SECOURISME
+Nombre d'agents ayant participé une session de formation la sé-
+curité ou au secourisme, que cette session ait donné lieu ou non la délivrance d'un diplôme.
+
+— Indicateur 252%: EVALUATION BUDGETAIRE DU PROGRAMME DE SECURITE
+Lorsqu'il n'est pas établi, dans l'organisme, de programme de sécuri-
+té chiffré l'année A-1 pour l'année À du Bilan Social, cet indicateur
+reste non renseigné.
+
+— - Indicateur 353*: DEPENSES DE SECURITE DIRECTE (Hors taxes)
+Evaluation des dépenses de sécurité directe de l'année, qu'elles
+aient été programmées ou non: Achat de matériel du catalogue des
+S. P. S., salaires et charges de l'ingénieur et éventuellement du
+contremaître de sécurité, salaires et charges des stagiaires formés la sécurité annoncés en 351, frais de réalisation de travaux
+visant exclusivement la sécurité du personnel.
+
+M. J. juin 1982
+
+=== Page 21 ===
+
+ANNEXE I (p.5)
+chapitre
+934
+CHAPITRE 4: AUTRES CONDITIONS DE TRAVAIL
+- Indicateur 411: NOMBRE D'HEURES TRAVAILLES DANS L'ANNEE
+md C'est le nombre d'heures de présence (Total H de l'Etat D, Statutaire
+et temporaires).
+- Indicateur 412: NOMBRE DE SALARIES AYANT BENEFICIE DE REPOS COMPEN-
+SATEUR
+Concerne les repos compensateurs de toute nature: heures supplémen-
+taires, astreintes, jours fériés. Un agent est compté pour un, même
+s'il a bénéficié de plusieurs repos compensateurs.
+— Indicateur 4137: NOMBRE DE SALARIES BENEFICIAIRES D'UN SYSTEME
+D'HORAIRES INDIVIDUALISE
+Au sens de l'article L 212-4-1 du code du travail. Sont exclus les
+horaires individuels aménagés pour raisons médicales.
+
+— Indicateur 414: NOMBRE DE SALARIES A TEMPS PARTIEL EN DECEMBRE
+
+—+ Au sens de l'article L 212-4-2 du code du travail. Statutaires
+(PERS 754) exerçant une activité temps partiel supérieure ou égale
+au mi-temps: conventionnellement dénombrés dans les agents temps
+plein de l'Etat 9. Statutaires et temporaires exerçant une activité
+inférieure au mi-temps: agents temps partiel de l'Etat 9.
+
+- Indicateur 421: EFFECTIF TRAVAILLANT EN EQUIPES
+Agents travaillant 2 postes (exploitation informatique) ou trois
+postes (services continus). Sont dénombrés ici ceux qui ont bénéfi-
+cié de paiements spécifiques ces modes de travail et qui, de plus,
+sont repérés comme services continus dans leur situation individuel-
+le.
+
+- Indicateur 422: PERSONNEL EN SERVICE CONTINU DE PLUS DE 5O ANS
+Parmi les agents travaillant en service continu (4 équipes et plus)
+dénombrés en 421, ceux qui ont plus de 50 ans.
+
+- Indicateur 431*: NOMBRE DE PERSONNES EXPOSEES DE FACON HABITUELLE
+
+ET REGULIERE À PLUS DE 85DBS A LEUR POSTE DE TRA-
+Agents classés "service insalubre" en raison du bruit auquel ils
+sont soumis leur poste de travail.
+
+- Indicateur 432*: CARTE DU SON PAR ATELIER
+Obligatoire seulement pour les organismes de plus de 2000 salariés
+si la réponse l'indicateur 431 est non nulle.
+
+- Indicateur 433* 8 NOMBRE DE TRAVAILLEURS EXPOSES A LA CHALEUR
+Décret relatif aux conditions d'accès la retraite de certains
+travailleurs manuels: "Sont considérés comme travaux au four, les
+travaux exposant de façon habituelle et régulière une forte cha-
+leur ambiante ou rayonnante résultant de l'utilisation d'un traite-
+ment thermique, d'un processus de cuisson, de la transformation de
+produits en état de fusion, d'ignition ou d'incandescence ou de la
+Production d'énergie thermique".
+
+Les travaux de cette nature n'existent plus dans nos Etablissements.
+
+- Indicateur 434*: NOMBRE DE PRELEVEMENTS D'ANALYSES DE PRODUITS
+
+TOXIQUES ET MESURES
+Renseicnements issus du rapport annuel du Médecin du Travail (Arrë-
+té du 10 décembre 1971). Le service général de médecine du travail
+doit fournir, en début d'année, par unité, les éléments nécessaires.
+M. J. juin 1982
+
+=== Page 22 ===
+
+ANNEXE I (p. 6)
+chapitre
+934
+- Indicateur 441* EXPERIENCES DE TRANSFORMATION DE L'ORGANISATION
+DU TRAVAIL AMELIORANT SON CONTENU Explicitation de ces expériences d'amélioration du contenu du tra-
+vail au sens de l'article L 437-1, alinéa 2, du code du travail.
+
+Donner le nombre de salariés concerné.
+
+- Indicateur 451*: EVALUATION BUDGETAIRE DU PROGRAMME D'AMELIORATION
+Lorsqu'il n'est pas établi, dans l'organisme, de programme chiffré
+d'amélioration des conditions de travail (non comprise l'évaluation
+en matière d'hygiène et de sécurité contenue l'indicateur 352)
+l'année A-1 pour l'année À du Bilan Social, cet indicateur reste
+non renseigné.
+
+—- Indicateur 452*: DEPENSES D'AMELIORATION DES CONDITIONS DE TRAVAIL
+
+> (Hors taxes)
+
+Indiquer ici, qu'elles aient été ou non programmées, les dépenses
+
+d'amélioration des conditions de travail en fournissant en annexe
+
+le détail de ces dépenses.
+
+Sous-chapitre 46: MEDECINE DU TRAVAIL
+
+Rensetgnements £ssus du rapport annuel du médecin du travail (Annèté
+du 10 décembre 1971). Le service général de médecine du travail doit
+fournir, en début d'année, pan unité, Les éléments nécessaines.
+
+- Indicateur 471. NOMBRE DE SALARIES DECLARES INAPTES DEFINITIVEMENT
+
+À LEUR EMPLOI PAR LE MEDECIN DU TRAVAIL
+
+Nombre de dossiers ouverts dans l'exercice au titre de la circulaire
+
+PERS 268 par la médecine du travail pour inaptitude des agents con-
+
+cernés leur emploi.
+
+- Indicateur 4720: NOMBRE DE SALARIES RECLASSES DANS L'ORGANISME
+
+A LA SUITE D'UNE INAPTITUDE
+
+Nombre de réaffectations en organigramme permanent dans l'organisme
+
+au cours de l'exercice, suite l'application de la circulaire PERS
+
+268.
+
+CHAPITRE 5: FORMATION PROFESSIONNELLE CONTINUE
+- Indicateur 511": POURCENTAGE DE LA MASSE SALARIALE CONSACRE A LA
+FORMATION CONTINUE
+
+La masse salariale au sens de la formation professionnelle continue
+
+est le cumul brut imposable de l'organisme (Déclaration annuelle
+
+des salaires).
+
+- Indicateur 512*: MONTANT CONSACRE À LA FORMATION CONTINUE. Formation interne: sommes débitées l'organisme par le groupe
+
+Ecoles et Centres ou d'autres organismes internes (exemples:
+Centre de perfectionnement commercial, Groupes de locaux de per-
+fectionnement...), augmentées des salaires et charges des sta-
+Jfaires pour la durée de leur stage (y compris les frais de dépla-
+cement).. Application de convention: Montant des factures sous convention
+passée avec un organisme agréé de formation, majoré des salaires
+et charges des stagiaires
+
+M. 4. juin 1982
+
+=== Page 23 ===
+
+ANNEXE I (p. 7)
+chapitre
+934. Organisme agréé: Montant des factures reçues d'organismes agréés
+pour la formation continue (mais auprès desquels il n'a pas été
+passé de convention) majoré des salaires et charges des stagiai-
+res. Trésor et autres: Versement effectué au niveau national pour
+l'ensemble des unités en vertu de l'article 3 de la loi N° 78-653
+du 22.06.78 (Pacte national pour l'emploi) qui représente une
+dépense libératoire vis-àävis de la formation professionnelle
+continue.
+
+Indicateur 513: 514, 515: NOMBRE DE STAGIAIRES - D'HEURES DE STAGE -
+
+D'AGENTS PAR TYPE DE STAGES
+Eléments correspondant aux statistiques de même nature produites par
+G. P. S.0. (Etats S52 et S53, Restitutions, tome IV).
+- x
+
+Sous-chanitnrne 52: CONGE FORMATION
+
++ É Ars:. - h |
+
+CONGCS de formation L'initiative des ânténessés, temps plein ou temps partiel, L'exclusion des crédits d'heures et des détache-
+
+ments La P,.0,
+
+CHAPITRE 6: RELATIONS PROFESSIONNELLES
+- Indicateur elle: PARTICIPATION AUX ELECTIONS (%)
+Taux de participation aux élections de représentativité organisées
+tous les trois ans.
+- Indicateur 612: VOLUME GLOBAL DES CREDITS D'HEURES UTILISES PEN-
+DANT L'ANNEE. Fonctions représentatives: Codes heures 029 et 038
+—+. Délégués syndicaux: codes heures 026, 027 et 046 (absences
+pour fonctions syndicales).
+- Indicateur 613”: NOMBRE DE REUNIONS AVEC LES REPRESENTANTS DU
+PERSONNEL. Fonctions représentatives: nombre total des réunions des commis-
+——2> sions secondaires, des CMP et sous-CMP, des CHS et SHS, des C. L. M. T
+des C. R, P.
+
++ Délégués syndicaux: nombre de rendez-vous accordés par le chef
+d'unité ou ses collaborateurs immédiats aux représentants du per-
+sonnel.
+
+— Indicateur 614*: DATE DE SIGNATURE ET OBJETS DES ACCORDS SIGNES
+DANS L'ORGANISME
+Ne sont visés ici que des accords locaux réalisés dans l'organisme
+au cours de l'exercice (horaires flexibles par exemple).
+- Indicateur 615: NOMBRE DE PERSONNES BENEFICIAIRES D'UN CONGE
+D'EDUCATION OUVRIERE
+Au sens de l'article L 451-1 du code du travail: Nombre d'agents
+— concernés par les codes heures O51 (Total des bénéficiaires) et
+054 (rémunérés 75 %).
+M. J. juin 1982
+
+=== Page 24 ===
+
+ANNEXE I (p. 8)
+chapitré
+34
+À x
+- Indicateur 621: NOMBRE D'HEURES CONSACREES AUX DIFFERENTES FORMES
+EME EE
+DE REUNION DU PERSONNEL
+
+Réunions du personnel l'initiative de la Direction: réunions
+
+régulières de concertation concernant les relations et conditions
+
+de travail.
+
+—+ Réunions du personnel l'initiative des syndicats: crédit des
+
+6 heures.(Code heure 028).
+
+622%
+- Indicatuer: PROCEDURES D'ZSCUTIL
+Signaler et décrire, si elles existent, les procédures d'accueil ces
+jeunes embauchés.
+- Indicateur 623*. PpROCEDURES D'INFORMATION ASCENDANTE OU DESCENDANTE
+ET NIVEAU
+Signaler et décrire les éventuelles procédures d'information et de
+communication organisées dans l'organisme.
+- Indicateur 624: SYSTEME D'ENTRETIENS INDIVIDUELS
+
+Préciser leur périodicité.
+
+- Indicateur 631*: NOMBRE DE RECOURS A DES MODES DE SOLUTION NON
+JUDICIAIRES ENGAGES DANS L'ANNEE
+Nombre de requêtes instruites par l'unité.
+- Indicateur 632*: NOMBRE D'INSTANCES JUDICIAIRES ENGAGEES DANS
+L'ANNEE OÙ L'ENTREPRISE EST EN CAUSE
+Nombre d'instances portées devant les conseils de prud'hommes ot
+devant les tribunaux d'instance en matière prud'homale.
+Chapitre 7: AUTRES CONDITIONS DE VIE RELEVANT DE L'ENTREPRISE
+- Indicateur 711*: DEPENSES DE L'ORGANISME. Transport: Montant des indemnités compensatrices de frais spéciaux
+versées dans l'exercice (comptes 61302 et 61303).. Restauration: Fournir ici le montant du compte 61812 (tickets de
+cantine non subventionnés, cantines des centrales
+thermiques...).. Stages de formation CCAS: Salaires des stagiaires suivant des
+stages de formation demandés par la CCAS dans la limite
+des seuils réglementaires prévus (Manuel pratique,
+chapitre OBl, paragraphe 55, Note DP 33-225 du 4 jan-
+vier 1979)..< Participation aux charges sociales des C. A. S.: montant du compte
+
+61813.
+- Indicateur 712: CONTRIBUTION AUX OEUVRES SOCIALES
+C'est la contribution aux oeuvres sociales comptabilisée au compte
+618 100 de la comptabilité générale de l'organisme.
+M. J. juin 1982

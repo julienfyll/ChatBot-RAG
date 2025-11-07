@@ -1,0 +1,903 @@
+=== Page 1 ===
+
+ELECTRICITÉ DE FRANCE GAZ DE FRANCE N.94-9
+PERS. 946
+DIRECTION DU PERSONNEL
+Manuel Pratique: 100
+25 avril 1994 |" |
+
+Objet: Méthode d'Entreprise d'Evaluation des Emplois (M3E)
+
+PREAMBULE
+
+Le statut national, dans son article 8, institue l'emploi comme fondement essentiel de la
+
+rémunération. C'est l'emploi occupé qui détermine la rémunération principale de son titulaire.
+
+Ce principe de classement fonctionnel des emplois, réaffirmé par la convention du 31 mars
+
+1982, n'est pas modifié.
+
+La méthode actuelle d'évaluation des emplois repose sur:
+
+— des fonctions définies et classées au niveau national dans un ensemble de textes élaborés
+au fil du temps et couramment désigné sous le terme générique "Catalogue des Fonctions"
+(circulaires Pers. 87 du 19 juillet 1947, Pers. 121 du 6 avril 1948,...),
+
+— le classement au niveau national de certains postes appelés "repères" dont le niveau est
+apprécié sur la base de paramètres essentiellement techniques (circulaires Pers. 88 du
+8 août 1947, Pers. 111 du 2 janvier 1948....).
+
+L'ensemble de ces dispositions contient, depuis l'origine, les éléments partir desquels est
+
+défini au niveau des unités, par assimilation, analogie ou interpolation, le classement des
+
+autres emplois.
+
+Mais, progressivement, les pratiques se sont écartées des textes de classification: plus du tiers
+
+des promotions intervenant sans changement d'emploi, une confusion s'est installée entre
+
+classement de l'emploi et classement de la personne.
+
+En effet, cette méthode répond de plus en plus difficilement la diversité des organisations
+
+mises en place par les unités et aux évolutions importantes du contenu réel des emplois,
+
+rendues nécessaires pour adapter en permanence le service public ses exigences nouvelles.
+
+Ce constat a conduit rechercher, dans le cadre de l'article 8 du statut national du personnel et
+
+de la convention du 31 mars 1982, une nouvelle méthode d'évaluation des emplois d'EDF et de
+
+GDF mieux adaptée au contexte actuel.
+
+Pour concilier cohérence d'entreprise, décentralisation du management et équité pour les
+
+agents, il est apparu nécessaire de construire une méthode analytique d'évaluation des
+
+emplois, commune l'ensemble des deux Entreprises, et dont la mise en oeuvre relève de la
+responsabilité des unités.
+
+La Méthode d'Entreprise d'Evaluation des Emplois (M3E) est une méthode critères classants
+
+spécifique EDF et GDF.
+
+=== Page 2 ===
+
+2/21
+PERS. 946
+La diversité des organisations, le nombre et la variété des emplois existant EDF et
+GDF, la conception même de la M3E - qui conduit évaluer localement chacun des
+emplois - imposent une mise en place progressive de la méthode.
+Un délai de cinq ans est imparti aux unités, au terme duquel tous les emplois devront
+avoir été décrits, évalués et rattachés une plage de GF.
+Afin de garantir transparence et égalité de traitement, sont prévus:
+— un processus de concertation - au sein de chaque unité - avec les organisations
+syndicales, préalablement la mise en place de la méthode,
+— une publicité des descriptions et des évaluations des emplois,
+— un dispositif nouveau de voies de recours, permettant chaque agent de contester
+l'évaluation de l'emploi qu'il occupe,
+— une procédure de suivi, en commission supérieure nationale du personnel, de
+l'application de la méthode.
+La présente circulaire a pour objet de définir, après avis de la commission supérieure
+nationale du personnel, la nouvelle Méthode d'Entreprise d'Evaluation des Emplois et
+ses conditions de mise en oeuvre.
+Ses dispositions sont applicables compter du 1er janvier 1995.
+Le Directeur Général
+d'Electricité de France
+Jean BERGOUGNOUX
+Le Directeur Général
+de Gaz de France
+Pierre GADONNEIX
+
+=== Page 3 ===
+
+3/21
+PERS. 946
+1ère PARTIE
+PRINCIPES GENERAUX ET MODALITES D'APPLICATION
+
+CHAPITRE 1 - LA METHODE
+
+La Méthode d'Entreprise d'Evaluation des Emplois repose sur trois démarches
+
+complémentaires réaliser pour chaque emploi:
+
+— Sa description,
+
+— Son évaluation partir de la description préalablement réalisée,
+
+— Son rattachement une plage comportant plusieurs GF, appelée "position".
+
+Elles sont conduites sous la responsabilité du Chef d'unité, en concertation avec les
+
+organisations syndicales locales.
+
+11 - Description des emplois
+
+L'emploi est une unité élémentaire de l'organisation regroupant un ensemble de tâches
+
+et de responsabilités qui requièrent des compétences identifiées.
+
+La description d'un emploi demande, sous la conduite du responsable hiérarchique de
+
+l'emploi concerné, la réalisation d'opérations précises:
+
+— Situer l'emploi dans l'organisation laquelle il appartient,
+
+— collecter les informations relatives l'emploi,
+
+- mettre en forme de manière ordonnée les renseignements recueillis au cours de
+cette étude dans un document descriptif organisé sous une forme commune tous
+les emplois.
+
+Lorsque l'emploi est occupé, le titulaire doit être associé la description (voir chapitre
+
+4).
+
+Le document de description est structuré en 4 chapitres:
+
+— la mission générale exprime la relation entre les finalités attendues de l'emploi et les
+activités permettant de les atteindre, en spécifiant le cadre dans lequel elles
+s'insèrent.
+
+C'est un résumé en quelques lignes de l'ensemble de la description.
+— l'environnement de l'emploi présente:
+— la place de l'emploi dans l'organisation,
+— le contexte dans lequel s'inscrivent les éléments ayant une répercussion sur ses
+activités ou ses résultats.
+
+— les activités représentent l'ensemble des travaux intellectuels et manuels effectués
+
+par l'emploi ou sous sa responsabilité.
+
+=== Page 4 ===
+
+4/21
+PERS. 946
+— les finalités sont les résultats permanents que l'organisation attend de l'emploi.
+Le guide faisant l'objet de l'annexe 1 présente l'organisation et la structure de
+l'ensemble de la démarche de description de l'emploi.
+12 - Evaluation des emplois
+- Les critères classants
+Les critères classants permettent d'apprécier l'importance de caractéristiques jugées
+essentielles, présentes des degrés divers dans tous les emplois. Pour cela, chaque
+critère classant comporte une échelle permettant de repérer ("coter") l'importance d'une
+caractéristique donnée.
+Une fois l'emploi coté sur tous les critères, un calcul simple permet d'obtenir la valeur
+relative d'un emploi dans les Entreprises.
+Sept critères classants permettent d'évaluer les emplois:
+— Connaissances pratiques et théoriques
+— Résolution de problèmes
+— Dimension relationnelle
+— Conseil
+— Organisation
+— Autonomie
+— Contribution
+Chaque critère est caractérisé par:
+— une définition,
+— des précisions sur l'axe de progression (c'est-à-dire sur la logique qui sous-tend la
+succession des degrés),
+— une définition de chacun des degrés,
+— des exemples de cotations associés aux degrés.
+- Les degrés et les points
+— Chaque critère est gradué selon un axe de progression de 7 degrés,
+— À chaque degré de chacun des critères est associé un nombre de points,
+— Pour tous les critères, les degrés de même rang ont une valeur en points identique:
+DEGRE 1: 26 POINTS
+DEGRE 2: 52 POINTS
+DEGRE 3: 77 POINTS
+DEGRE 4: 101 POINTS
+DEGRE 5: 124 POINTS
+DEGRE 6: 146 POINTS
+DEGRE 7: 167 POINTS
+
+=== Page 5 ===
+
+5/21
+PERS. 946
+- L'évaluation
+L'évaluation consiste:
+1 - appréhender l'emploi, sous tous ses aspects, par une lecture attentive de sa
+description,
+2 - puis le coter, c'est-à-dire déterminer, sur chacun des 7 critères classants, le
+degré qui convient l'emploi en s'appuyant sur sa définition.
+Les exemples de cotations associés aux degrés constituent une aide lors de la
+réalisation de cette opération.
+3 - les cotations donnent, par addition des points associés aux degrés retenus, le
+nombre de "points M3E" correspondant l'emploi.
+Le guide faisant l'objet de l'annexe 2 présente les critères, y compris les exemples de
+cotations, ainsi que l'organisation et la structure de la démarche d'évaluation de
+l'emploi.
+13 - Rattachement des emplois aux GF du nouveau système de
+rémunération issu de la convention du 31 mars 1982
+Neuf plages de GF, appelées "positions", ont été déterminées. Elles sont désignées par
+les lettres ÀI.
+En fonction du nombre de points (1) obtenus lors de son évaluation, l'emploi est
+rattaché une plage de GF selon le tableau ci-après:
+PLAGES DE POINTS PLAGES DE GF. « POSITIONS »
+de 921 1169 inclus 17-18-19
+de 821 920 inclus 15-16-17 BB
+de 721 820 inclus 13-14-15
+de 671 720 inclus 11-12-13 D
+de 621 670 inclus 10-11-12
+de 521 620 inclus 9-10-11
+de 411 520 inclus
+de 301 410 inclus 3-4-5-6-7
+de 182 300 inclus 1-2-3-4 FU 1
+L'ensemble des dispositions et règles de fonctionnement du système de rémunération
+issu de la convention du 31 mars 1982 reste inchangé.
+1 Ce nombre de points est une donnée qui a pour seul objet le rattachement de l'emploi une plage de GF.
+
+=== Page 6 ===
+
+6/21
+PERS. 946
+
+Une négociation d'un avenant la convention du 31 mars 1982 sera engagée dans les
+
+meilleurs délais. Elle concernera le cas des agents retenus après candidature dans un
+
+emploi rattaché une plage de GF supérieure et pour lesquels ce changement
+d'emploi n'entraînerait pas de promotion en GF: il sera proposé aux Fédérations
+
+Syndicales qu'un tel mouvement s'accompagne du gain d'un NR pour les agents qui ne
+
+sont pas au dernier NR du GF concerné.
+
+CHAPITRE 2 - DISPOSITION S RELATIVES A LA MISE EN PLACE
+
+Rappel préliminaire
+
+Les attributions actuelles des organismes statutaires et des organisations syndicales
+
+dans les domaines de l'organisation et des emplois demeurent inchangées:
+
+— la filière CMP est consultée pour les questions concernant l'organisation et en
+particulier sur les mesures de nature affecter la structure ou le volume des effectifs
+(circulaire Pers. 873).
+
+— les organisations syndicales sont consultées sur les projets d'organigrammes, c'est-
+à-dire sur le classement des emplois,
+
+— les commissions secondaires du personnel et la commission supérieure nationale du
+personnel (sous-commission classement-avancement) sont consultées sur les
+situations individuelles des agents (article 3 du statut national et circulaire Pers.
+845).
+
+21 - Période transitoire
+
+Tous les emplois des GF 1 GF 19 devront avoir été décrits, évalués et rattachés une plage de GF dans un délai maximal de 5 ans, compter du 1er janvier 1995, dans
+
+le respect des conditions locales de mise en place précisées au paragraphe 22.
+
+Pendant cette période transitoire de 5 ans, l'ensemble des textes (circulaires Pers.
+
+notes DP,..) dont la liste figure en annexe 3, relatifs la classification des fonctions et
+
+aux classements nationaux des postes repères ou paramétrés des différentes
+directions, ne s'appliquent plus aux emplois évalués par la MSE, et ce, compter de la
+
+notification individuelle visée au chapitre 4.
+
+Ces textes restent en vigueur pour les autres emplois.
+
+A l'issue de cette période, l'ensemble des textes sus-visés est abrogé.
+
+22 - Conditions locales de mise en place
+
+En vue de définir des conditions de mise en place de la M3E garantissant équité et
+
+transparence, le chef d'unité rencontre l'ensemble des organisations syndicales locales.
+
+Au cours de ces échanges seront examinés les points suivants:
+
+=== Page 7 ===
+
+7/21
+PERS. 946
+
+a) les emplois décrire et évaluer en priorité en fonction des particularités de l'unité,
+
+b) le calendrier d'application locale,
+
+c) les modalités de concertation avec les organisations syndicales locales sur chaque
+
+description et/ou évaluation d'un emploi de l'unité:
+
+— seront privilégiés des dispositifs qui permettront une confrontation collective des
+points de vue des organisations syndicales et de la direction, afin de rapprocher
+leurs positions,
+
+— Sur ce point particulier, le processus de référence défini ci-après (voir chapitre 3)
+sera appliqué a minima.
+
+d) les actions de formation nécessaires,
+
+e) la communication interne,
+
+f) la périodicité des rencontres direction/organisations syndicales au cours desquelles
+
+sera examiné l'état d'avancement de l'application de la M3E aux emplois de l'unité.
+
+A l'issue de cette concertation locale préalable la mise en place, le chef d'unité arrête
+
+sa position concernant les différents points cités précédemment et formalise sa
+
+décision.
+
+l'en informe les organisations syndicales.
+
+Cette décision est portée la connaissance de l'ensemble des agents.
+
+CHAPITRE 3 - PROCESSUS DE REFERENCE EN MATIERE
+
+DE CONCERTATION SUR LA DESCRIPTION ET L'EVALUATION
+
+Le chef d'unité adresse chaque organisation syndicale le projet de description de
+
+l'emploi.
+
+Simultanément, il invite chacune d'entre elles une réunion. Celle-ci comporte une
+
+discussion sur le projet de description et un premier échange sur l'évaluation de
+
+l'emploi.
+
+Ces réunions se tiendront dans un délai de 10 jours compter de la réception de
+
+l'invitation, sauf circonstances particulières et accord entre les parties.
+
+Le chef d'unité peut s'y faire représenter: il désigne alors un représentant appartenant la ligne hiérarchique de l'emploi étudié.
+
+A l'issue de ces réunions, le chef d'unité adresse chaque organisation syndicale la
+
+description retenue et son projet d'évaluation.
+
+Les organisations syndicales disposent alors d'un délai de 10 jours compter de la
+
+réception de cet envoi pour faire connaître leurs observations.
+
+=== Page 8 ===
+
+8/21
+PERS. 946
+A l'issue de ce délai, le chef d'unité prend une décision de rattachement de l'emploi une plage de GF.
+— Cette décision est notifiée au titulaire de l'emploi lorsque l'emploi est occupé (voir
+chapitre 4).
+— Elle est communiquée pour information, aux organisations syndicales locales.
+
+=== Page 9 ===
+
+9/21
+PERS. 946
+Le schéma A ci-après présente, titre illustratif, l'organisation de ce processus:
+PROCESSUS DE REFERENCE
+Chef d'unité —> |PROJET DE DESCRIPTION > Organisations
+syndicales
+| 10 jours
+DISCUSSION
+Chef d'unité SUR LE PROJET DE
+DESCRIPTION
+ou — «—— Organisations
+PREMIER ECHANGE syndicales
+représentant SUR L'EVALUATION
+DESCRIPTION RETENUE
+Chef d'unité —— «————— Organisations
+PROJET D'EVALUATION syndicales
+| 10 jours
+Chef d'unité REMARQUES Organisations
+syndicales
+oo DECISION
+- Notification au titulaire de l'emploi - s'il existe - avec
+indication des voies et délais de recours
+- Information aux organisations syndicales
+
+=== Page 10 ===
+
+10/21
+
+PERS. 946
+CHAPITRE 4 - DISPOSITION S RELATIVES AU CAS OÙ L'EMPLOI
+EST OCCUPE
+Lorsque l'emploi est occupé, le titulaire doit être associé la description.
+A tout moment du processus, il doit avoir la possibilité de faire part de ses observations
+sur la description de son emploi, sous la forme qu'il juge appropriée.
+A l'issue du processus de concertation, lui sont notifiées:
+— la décision du chef d'unité relative au rattachement de l'emploi une plage de GF,
+— l'indication des voies et délais de recours possibles.
+La description de l'emploi, ainsi que son évaluation sur les 7 critères sont jointes cette
+notification.
+CHAPITRE 5 - PUBLICITE DES DESCRIPTIONS ET DES
+EVALUATIONS DES EMPLOIS
+Au fur et mesure de leur établissement, les descriptions des emplois de l'unité, ainsi
+que les évaluations correspondantes, seront regroupées dans un recueil local sous une
+forme qui permette:
+— une mise jour régulière,
+— une consultation par les représentants du personnel de l'unité et par les agents (de
+
+l'unité ou candidats un emploi de l'unité).
+
+CHAPITRE 6 - PUBLICATION DES EMPLOIS VACANTS
+61 - Principes de publication
+Les emplois sont publiés sur un des GF de la plage de rattachement issue de
+l'évaluation.
+Le chef d'unité détermine le GF de publication de l'emploi après consultation des
+organisations syndicales locales.
+Cette décision s'appuie sur l'analyse des compétences attendues de l'agent qui
+occupera l'emploi publié.
+Dans certains cas particuliers, cette analyse peut conduire une publication sur
+plusieurs GF de la plage concernée.
+Le texte de publication sera complété par l'indication: de la plage de GF laquelle est
+rattaché l'emploi, du métier d'appartenance et de la famille professionnelle de
+regroupement (voir Répertoire National des Métiers).
+
+=== Page 11 ===
+
+11/21
+PERS. 946
+
+Cas particuliers:
+
+Les emplois qui, par décision des Directeurs Généraux, seraient classés sur le seul GF
+
+19 (les chefs de Centrale REP, les Adjoints aux Directeurs d'Unité, les emplois de ce
+
+GF dans les Services Centraux,...) ne seront pas publiés.
+
+62 - Examen des bordereaux de candidatures
+
+— Tous les emplois publiés du GF 1 au GF 11 relèvent exclusivement de la
+compétence de la commission secondaire du personnel pour l'examen des aptitudes
+des candidats.
+
+— Tous les emplois publiés du GF 12 au GF 19 relèvent exclusivement de la
+compétence de la commission supérieure nationale du personnel pour l'examen des
+aptitudes des candidats.
+
+— Cas particuliers:
+
+1 - Pour les emplois publiés sur plusieurs GF:
+
+— l'organisme compétent (CSP ou CSNP) émet un avis sur l'aptitude des candidats au
+regard de chacun des GF de publication,
+
+— l'issue de la consultation de l'organisme compétent, le chef d'unité décide du choix
+du candidat et du GF de nomination dans l'emploi.
+
+2 - Pour les emplois publiés sur plusieurs GF et rattachés aux plages de GF 10-11-12
+
+ou 11-12-13, la procédure d'examen des aptitudes des candidats est liée aux GF
+
+retenus pour la publication de l'emploi.
+
+— Lorsque les GF de publication retenus appartiennent au même collège, le bordereau
+des candidatures établi est transmis pour avis:
+
+— la commission secondaire du personnel si les GF de publication appartiennent
+au collège maîtrise,
+
+— la commission supérieure nationale du personnel si les GF de publication
+appartiennent au collège cadres.
+
+Les aptitudes des candidats sont examinées au regard de chacun des GF de
+
+publication.
+
+Le chef d'unité décide du choix du candidat et du GF de nomination dans l'emploi.
+
+— Lorsque les GF de publication retenus couvrent les deux collèges maîtrise et cadres,
+le bordereau des candidatures établi sera transmis pour avis, simultanément la
+commission secondaire du personnel et la commission supérieure nationale du
+personnel.
+
+Chacun des deux organismes émettra un avis sur l'aptitude des candidats au regard de
+
+chacun des GF de publication, en fonction du collège pour lequel il est statutairement
+
+compétent.
+
+A l'issue de cette double procédure de consultation, le chef d'unité décide du choix du
+
+candidat et du GF de nomination dans l'emploi.
+
+=== Page 12 ===
+
+12/21
+
+PERS. 946
+CHAPITRE 7 - RECRUTEMENT
+Les principes de recrutement dans les collèges exécution, maîtrise et cadres, ainsi que
+les niveaux d'embauche qui découlent des dispositions en vigueur, sont maintenus.
+71 - Collège exécution (GF 1 GF 6)
+De nouvelles mesures associant diplômes obtenus, GF de rattachement et NR, seront
+proposées prochainement la commission supérieure nationale du personnel pour les
+agents diplômés du collège exécution, l'image de celles existant pour les jeunes
+cadres et les jeunes techniciens supérieurs et ce, avant la fin de l'année 1994.
+72 - Collège maîtrise (GF 7 GF 11)
+Les GF de rattachement des jeunes techniciens supérieurs demeurent fixés par la
+circulaire Pers. 798 du 28 février 1983.
+73 - Collège cadres (GF 12 GF 19)
+Les GF de rattachement des jeunes cadres demeurent fixés par la circulaire Pers. 925
+du 30 juillet 1991.
+La première affectation des agents concernés ne peut pas se faire dans un emploi
+rattaché la plage de GF 10-11-12.
+CHAPITRE 8 - DISPOSITION S PARTICULIERES
+81 - Garantie lors de la mise en place de la M3E
+Le GF d'un agent, après application de la M3E l'emploi qu'il occupe, peut ne pas
+appartenir la plage de GF résultant de l'évaluation:
+— sile GF de l'agent est en dessous de la plage de GF de l'emploi: l'agent est reclassé
+
+au premier GF de cette plage selon les règles de la convention du 31 mars 1982,
+— sile GF de l'agent est au-dessus de la plage de GF de l'emploi: l'agent conserve
+son GF.
+
+82 - Devenir de la plage de GF 10-11-12
+A l'issue de la période des 5 ans de mise en place de la MS3E, et compte tenu de
+l'expérience acquise, la pérennité de la plage de GF 10-11-12 "position E" sera
+examinée.
+
+=== Page 13 ===
+
+13/21
+PERS. 946
+
+CHAPITRE 9 - SUIVI DE L'APPLICATION DE LA M3E
+
+Afin d'apprécier le déroulement et la qualité de la mise en oeuvre de la M3E dans les
+
+unités, des rapports périodiques seront soumis l'avis de la commission supérieure
+
+nationale du personnel:
+
+— pendant la période de mise en place de la M3E:
+
+— après consultation des différentes fédérations syndicales, chaque direction
+présentera annuellement un rapport la sous-commission classification,
+
+— Un bilan global sera réalisé annuellement pour la commission supérieure nationale
+du personnel. Le premier rapport sera examiné lors d'une séance de la
+commission supérieure nationale du personnel la fin de l'année 1995.
+
+— après la période de 5 ans fixée pour la mise en place:
+
+— la procédure ci-dessus sera maintenue avec une périodicité triennale.
+
+2ème PARTIE
+LES VOIES DE RECOURS
+
+PRINCIPES GENERAUX
+
+— La présente circulaire ne modifie par les textes en vigueur relatifs au droit dont
+disposent les agents de formuler des requêtes sur leur situation individuelle,
+conformément l'article 3 du statut national.
+
+Elle crée, par ailleurs, un droit supplémentaire dans le but de garantir la plus grande
+
+équité dans la mise en oeuvre de la M3E.
+
+Ce droit requête sur le fond est ouvert tout agent qui conteste l'évaluation de
+
+l'emploi qu'il occupe.
+
+La requête n'est pas suspensive de l'application de la décision contestée.
+
+— Si la requête est formulée sur la première évaluation par la M3E de l'emploi occupé,
+elle est adressée directement au Président de la sous-commission classification et
+selon les raodalités précisées dans le chapitre 1.
+
+— Si la requête est fondée sur l'évolution d'un emploi déjà évalué, elle est soumise:
+
+— la commission secondaire du personnel, intervenant en premier examen, pour les
+agents d'exécution et de maîtrise,
+
+— la sous-commission classification, intervenant pour les cadres et, en deuxième
+examen, pour les agents d'exécution et de maîtrise.
+
+=== Page 14 ===
+
+14/21
+PERS. 946
+
+À partir d'une fiche détaillant les activités professionnelles de l'intéressé et reflétant la
+
+matérialité de l'emploi qu'il occupe, l'avis de ces organismes portera sur la question
+
+suivante:
+
+"L'emploi a-t-il connu depuis sa description des changements dans ses activités ou
+
+dans son environnement suffisamment importants (notamment si les finalités en ont été
+
+affectées) pour justifier une nouvelle description?"
+
+— Le Président de la sous-commission classification dispose, par délégation des
+Directeurs Généraux, du pouvoir de statuer sur les recours exercés dans le cadre de
+la présente circulaire.
+
+CHAPITRE 1 - PROCEDURE DE REQUETE SUR LA PREMIERE
+
+EVALUATION
+
+Quel que soit son collège d'appartenance, si l'agent conteste la première évaluation par
+
+la M3E de l'emploi qu'il occupe, il peut formuler une requête dans le délai d'un mois compter de la date de réception de la notification du rattachement de son emploi une
+
+plage de GF.
+
+Le dossier de requête comporte les pièces suivantes:
+
+— l'objet de la requête et l'exposé détaillé des motifs,
+
+— la copie de la notification et de ses annexes (voir 1ère partie - chapitre 4).
+
+L'agent adresse sa requête au Président de la sous-commission classification par la
+
+voie hiérarchique. Le chef d'unité dispose d'un délai d'un mois, compter de la date de
+
+réception de la requête, pour transmettre celle-ci au Président de la sous-commission
+classification, en y joignant ses remarques éventuelles.
+
+Afin d'examiner cette requête, le Président de la sous-commission classification
+
+constitue un groupe technique composé des membres suivants:
+
+— un représentant du personnel, choisi par l'agent dans une liste comportant les
+membres titulaires et suppléants de la CSNP et, au maximum, 20 suppléants
+spéciaux désignés cet effet par chaque fédération syndicale,
+
+— un représentant de la direction d'appartenance de l'agent désigné par celle-ci.
+
+Ces deux représentants ne doivent pas appartenir l'unité de l'agent.
+
+— un expert en description et évaluation des emplois n'appartenant pas la direction
+concernée, choisi par le président de la sous-commission classification.
+
+Le groupe technique procède une étude approfondie de la description et de
+
+l'évaluation de l'emploi et, éventuellement, une nouvelle description et/ou une
+
+nouvelle évaluation, en liaison avec l'unité. Il remet un rapport au président de la sous-
+commission classification faisant état de l'évaluation qu'il lui propose défaut d'accord
+sur l'évaluation, chacun des membres peut formuler son avis.
+
+Le Président de la sous-commission classification, au vu des avis du rapport du groupe
+
+technique, décide du rattachement de l'emploi une plage de GF.
+
+=== Page 15 ===
+
+15/21
+
+PERS. 946
+
+Cette décision est notifiée au chef d'unité qui la transmet l'agent et aux organisations
+syndicales locales.
+
+=== Page 16 ===
+
+16/21
+PERS. 946
+Le schéma B ci-dessous présente, titre illustratif, le cheminement de la procédure de
+requête citée au chapitre 1:
+SCHEMA B
+CHEMINEMENT DE LA PROCEDURE DE REQUETE CITEE AU CHAPITRE 1
+REQUETE SUR PREMIERE EVALUATION D'UN EMPLOI OCCUPE
+EXECUTION - MAITRISE - CADRES
+L'AGENT CONTESTE
+PRESIDENT DE LA SOUS-COMMISSION
+CLASSIFICATION
+AVIS DU GROUPE TECHNIQUE
+Eventuellement nouvelle description,
+nouvelle évaluation
+Décision de rattachement une plage de GF
+prise par le Président de la Sous-Commission
+par délégation des Directeurs Généraux
+
+=== Page 17 ===
+
+17/21
+
+PERS. 946
+CHAPITRE 2 - REQUETE FONDEE SUR L'EVOLUTION D'UN EMPLOI
+DEJA EVALUE
+L'agent estimant que les activités ou l'environnement de son emploi ont évolué depuis
+la dernière description qui en a été faite, et que cette évolution est de nature rendre
+nécessaire une nouvelle description, dispose de possibilités de recours.
+21 - Collèges exécution et maîtrise
+La requête, présentée par l'intéressé, doit être obligatoirement soumise la
+commission secondaire du personnel de l'unité.
+La requête est adressée par la voie hiérarchique au Président de la commission
+secondaire du personnel et doit comporter les pièces suivantes:
+— l'objet de la requête et l'exposé détaillé des motifs présentant les évolutions qui
+
+justifient la demande,
+
+— la copie de la dernière notification et de ses annexes (voir 1ère partie - chapitre 4).
+Une fiche détaillant les activités professionnelles de l'intéressé et reflétant la matérialité
+de l'emploi qu'il occupe, établie par le chef d'unité, est jointe au dossier de requête.
+Celui-ci est communiqué avec l'ordre du jour aux représentants de la commission
+secondaire du personnel.
+La fiche précitée doit être approuvée l'unanimité par les membres de la commission
+secondaire du personnel et ensuite annexée au procès-verbal qui mentionne cette
+approbation unanime.
+Si, cependant, certains points donnent lieu contestation, la commission secondaire
+du personnel prescrit une enquête, qui doit être paritaire, afin de réunir tous les
+éléments d'information utiles et de pouvoir ensuite aboutir un accord unanime sur une
+nouvelle rédaction de la fiche.
+Dans l'hypothèse où, malgré tout, un désaccord subsisterait sur le contenu de l'emploi la suite de cette enquête, le litige devrait, après nouvel examen de la commission
+secondaire du personnel, être relaté en détail au procès-verbal en indiquant très
+explicitement les points de désaccord et les positions des différents membres avec
+indication des motifs justifiant leurs avis respectifs.
+A l'issue de cette procédure, le Président de la commission secondaire du personnel
+demande alors l'avis des membres de cette commission sur la question suivante:
+"L'emploi a-t-il connu depuis sa description des changements dans ses activités ou
+dans son environnement suffisamment importants (notamment si les finalités en ont été
+affectées) pour justifier une nouvelle description?"
+
+=== Page 18 ===
+
+18/21
+PERS. 946
+Après avis de la commission secondaire du personnel, le chef d'unité prend la décision
+de procéder ou non une nouvelle description et une nouvelle évaluation de l'emploi.
+Le chef d'unité informe l'intéressé par écrit de sa décision en spécifiant:
+- en cas de décision favorable un réexamen, qu'il sera procédé une nouvelle
+description et une nouvelle évaluation de l'emploi (voir paragraphe 211),
+— dans le cas contraire, que l'agent dispose de la possibilité de saisir la sous-
+commission classification (voir paragraphe 212).
+211 - Le chef d'unité décide le réexamen:
+Le chef d'unité fait procéder, au sein de l'unité, une nouvelle description et une
+nouvelle évaluation de l'emploi sur la base desquelles il prend une décision de
+rattachement de l'emploi une plage de GF qu'il notifie l'intéressé (voir 1ère partie -
+chapitre 4).
+— L'agent conteste la nouvelle décision
+Si la décision résultant de cette nouvelle étude de l'emploi est contestée par l'agent, ce
+dernier peut saisir directement le Président de la sous-commission classification.
+Pour adresser sa requête, l'agent dispose d'un délai d'un mois, compter de la date de
+réception de la nouvelle notification de rattachement de son emploi une plage de GF.
+Le dossier de requête comporte les pièces suivantes:
+— l'objet de la nouvelle requête et l'exposé détaillé des motifs,
+— la requête initiale,
+— l'extrait du (ou des) procès-verbal(aux) de la (ou des) séance(s) de la commission
+secondaire relatif l'examen de la requête,
+— la copie de la nouvelle description et la nouvelle évaluation faisant l'objet de la
+requête,
+— la nouvelle décision du chef d'unité.
+L'agent adresse sa requête au Président de la sous-commission classification par la
+voie hiérarchique. Le chef d'unité dispose d'un délai d'un mois compter de la date de
+réception de la requête, pour transmettre celle-ci au Président de la sous-commission
+classification, en y joignant ses remarques éventuelles.
+Pour l'étude de cette requête, le Président de la sous-commission classification
+constitue un groupe technique dans les mêmes conditions que celles prévues au
+chapitre 1 et ayant le même rôle.
+Le Président de la sous-commission classification, au vu des avis du rapport du groupe
+technique, décide du rattachement de l'emploi une plage de GF et en informe les
+membres de la sous-commission classification.
+Cette décision est notifiée au chef d'unité qui la transmet l'agent et aux organisations
+syndicales locales.
+
+=== Page 19 ===
+
+19/21
+
+PERS. 946
+212 - Le chef d'unité refuse le réexamen
+L'agent peut saisir la sous-commission classification.
+Pour adresser sa requête, l'agent dispose d'un délai d'un mois compter de la date laquelle il a été informé par le chef d'unité du rejet de sa requête.
+Le dossier de requête comporte les pièces suivantes:
+— l'objet de la requête et l'exposé détaillé des motifs de l'agent,
+— la requête initiale,
+— l'extrait du(ou des) procès-verbal(aux) de la (ou des) séances(s) de la commission
+
+secondaire du personnel relatif l'examen de la requête initiale,
+
+— la nouvelle décision du chef d'unité,
+L'agent adresse sa requête la sous-commission classification par la voie
+hiérarchique. Le chef d'unité dispose d'un délai d'un mois, compter de la date de
+réception de la requête, pour transmettre celle-ci au Président de la sous-commission
+classification, en y joignant ses remarques éventuelles.
+Pour instruire cette requête, le Président de la sous-commission classification demande
+l'avis des membres de celle-ci sur la question suivante:
+"L'emploi a-t-il connu depuis sa description des changements dans ses activités ou
+dans son environnement suffisamment importants (notamment si les finalités en ont été
+affectées) pour justifier une nouvelle description?"
+A l'issue de cette consultation, le Président de la sous-commission classification prend
+la décision de procéder ou non un nouvel examen de la description et de l'évaluation
+de l'emploi concerné.
+2121 - Le Président de la sous-commission classification refuse le réexamen
+Le Président de la sous-commission classification notifie sa décision de rejet l'agent,
+par la voie hiérarchique.
+2122 - Le Président de la sous-commission classification décide le réexamen
+Pour l'étude de cette requête, le Président de la sous-commission classification
+constitue un groupe technique dans les mêmes conditions que celles prévues au
+chapitre 1 et ayant le même rôle.
+Le Président de la sous-commission classification au vu des avis du rapport du groupe
+technique, décide du rattachement de l'emploi une plage de GF et en informe les
+membres de la sous-commission classification.
+Cette décision est notifiée au chef d'unité qui la transmet l'agent et aux organisations
+syndicales locales.
+
+=== Page 20 ===
+
+20/21
+
+PERS. 946
+22 - Collège cadres
+L'agent adresse sa requête au chef d'unité. Il lui demande un entretien afin de lui
+exposer les motifs qui justifient sa démarche.
+Lors de cet entretien, une fiche complète et détaillée des activités actuelles de l'emploi
+concerné, établie par le chef d'unité, est examinée.
+Le chef d'unité décide ensuite de procéder ou non une nouvelle description et une
+nouvelle évaluation.
+Si la décision prise par le chef d'unité est contestée par l'intéressé, ce dernier peut
+saisir la sous-commission classification.
+La requête est adressée par la voie hiérarchique et comporte les pièces suivantes:
+— l'objet de la requête et l'exposé détaillé des motifs du requérant,
+— la description de l'emploi concerné,
+— l'évaluation correspondante,
+— la fiche établie par le chef d'unité,
+— un compte-rendu succinct de l'entretien formalisé par le chef d'unité.
+Le chef d'unité dispose d'un délai d'un mois, compter de la date de réception de la
+requête, pour transmettre celle-ci la sous-commission classification en y joignant ses
+remarques éventuelles,
+Le Président de la sous-commission classification demande l'avis des membres de
+celle-ci sur la question suivante:
+"L'emploi a-t-il connu depuis sa description des changements dans ses activités ou
+dans son environnement suffisamment importants (notamment si les finalités en ont été
+affectées) pour justifier une nouvelle description?"
+A l'issue de cette consultation, le Président de la sous-commission classification prend
+la décision de procéder ou non un nouvel examen de la description et de l'évaluation
+de l'emploi concerné.
+221 - Le Président de la sous-commission classification refuse le réexamen
+Le Président de la sous-commission classification notifie sa décision de rejet l'agent,
+par la voie hiérarchique.
+222 - Le Président de la sous-commission classification décide le réexamen
+Pour l'étude de cette requête, le Président de la sous-commission classification
+constitue un groupe technique dans les mêmes conditions que celles prévues au
+chapitre 1 et ayant le même rôle.
+Le Président de la sous-commission classification, au vu des avis du rapport du groupe
+technique, décide du rattachement de l'emploi une plage de GF et en informe les
+membres de la sous-commission classification.
+Cette décision est notifiée au chef d'unité qui la transmet l'agent et aux organisations
+syndicales locales.
+
+=== Page 21 ===
+
+21/21
+PERS. 946
+Le schéma C ci-dessous présente, titre illustratif, le cheminement des procédures de requête
+citées au chapitre 2:
+SCHEMA CG
+CHEMINEMENT DES PROCEDURES DE REQUETE CITEES AU CHAPITRE 2
+REQUETE SUR L'EVOLUTION D'UN EMPLOI DEJA EVALUE
+$21
+(*) Avis sur la question suivante: "L'emploi a-t-il connu depuis sa
+EXECUTION - MAIÏTRISE description des changements dans ses activités ou dans son
+environnement suffisamment importants (notamment si les
+finalités en ont été affectées) pour justifier une nouvelle description?"
+Commission secondaire Avis (*)
+du personnel
+Réexamen
+Nouvelle description
+Nouvelle évaluation
+Décision du au sein de l'unité l'agent conteste
+chef d'unité
+$212
+appel ou
+$22
+CADRES Président
+(aprés entretien sous-commission
+avec le chef d'unité) classification
+Sous-commission ‘Yÿ—> Avis (*)
+classification
+$2122 $222
+Avis du groupe
+technique
+Décision du Président Eventuellement
+de la sous-commission - nouvelle description
+$2121 $221 - nouvelle évaluation
+Décision de rattachement
+prise par le Président
+| Rejet de la s/c classification

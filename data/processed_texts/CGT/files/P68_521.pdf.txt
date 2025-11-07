@@ -1,0 +1,170 @@
+=== Page 1 ===
+
+ELECTRICITE DE FRANCE GAZ DE FRANCE
+PERS. 521
+DIRECTION DU PERSONNEL
+Manuel Pratique: 154
+25 novembre 1968
+
+Objet: Classification du personnel technique du co ntrôle électrique.
+Après avis de la Commission Supérieure Nationale du Personnel, les dispositions ci-dessous
+concernant la classification et les définitions des fonctions du personnel technique des services
+« contrôle électrique » du Service du Transport rem placent, avec effet du 1er janvier 1968,
+celles fixées par les circulaires pers. 317 du 2 dé cembre 1957, A. 1069-B. 909 du 31 mars
+1961 et A. 1075-B. 914 du 30 mai 1961.
+Les services contrôle électrique ont pour rôle d'ét udier, de faire réaliser, de vérifier, de
+réceptionner, de mettre en service, de régler ou d' étalonner, d'entretenir, de dépanner et de
+modifier, le cas échéant:
+– les dispositifs de commande volontaire ou automati que de l'appareillage haute tension des
+postes: tableaux, protections, réenclencheurs, etc.,
+– les dispositifs d'information sur la position des appareils et sur l'état et le fonctionnement
+électrique du réseau: signalisations, enregistreur s, compteurs, capteurs, etc.,
+– les sources d'alimentation des dispositifs ci-dess us (services auxiliaires, réducteurs de
+mesure, etc.), les circuits de réception d'ordres d ans les appareils, le câblage de liaison toutefois, dans ces domaines, l'action des services contrôle électrique est limitée, en
+principe, aux interventions d'ordre électrique en fin, ils n'interviennent pas sur les
+équipements de télétransmission d'ordres ou d'infor mations.
+Par ailleurs, ils peuvent être amenés réaliser eu x-mêmes des installations, dans les domaines
+définis ci-dessus enfin, ils participent tous l es essais d'investigation et de contrôle effectués
+sur les appareils et ouvrages du réseau.
+Toutes les activités ci-dessus sont exercées sur le s installations qui relèvent du Service du
+Transport, ainsi que, par convention ou la demand e, sur des installations appartenant d'autres services ou des tiers.
+En ce qui concerne les C. R. T. T., dans l'organisatio n actuelle, les agents « contrôle électrique »
+sont répartis entre:
+– les états-majors des services, au centre,
+– des équipes centrales, dites « laboratoires ».
+– des équipes dans les sous-groupes.
+Les équipes participent normalement toutes les ac tivités énumérées ci-dessus, sauf, en
+principe, aux études et aux commandes de travaux qu i relèvent de l'état-major.
+
+=== Page 2 ===
+
+2/5
+PERS. 521
+La composition normale de chaque équipe, en nombre et en qualification, est fixée, et révisée
+lorsqu'il ya lieu, après consultation du Comité Mi xte la Production. Le classement des postes
+correspond aux fonctions que les agents sont appelé s exercer pendant la plus grande partie
+de leur temps. Mais, il doit être tenu compte des c orrectifs suivants:
+– d'une part, un agent doit effectuer de temps aut re des travaux d'un niveau supérieur, dans
+un but de perfectionnement il peut, par ailleurs, être appelé remplacer un agent de
+catégorie supérieure, pour des interventions except ionnelles – d'autre part, un agent en place peut être reclassé la catégorie immédiatement supérieure
+au niveau normal de son poste lorsque, après confir mation de son aptitude, il se voit confier
+couramment des travaux ressortissant ladite catég orie. Au départ de l'agent, le poste est
+publié au niveau prévu par la composition normale.
+Les définitions qui suivent concernent plus particu lièrement les agents des équipes, mais elles
+s'appliquent également aux agents de maîtrise des é tats-majors, dans la mesure où les
+fonctions exercées requièrent des connaissances ou des responsabilités comparables celles
+des agents des équipes.
+Ces définitions s'appliquent également aux agents q ui, remplissant les mêmes fonctions,
+appartiennent des services autres que les C. R. T. T.
+L'échelle des fonctions correspond la gradation s uivante:
+– catégories 3, 4 et 5: tâches non spécifiques au c ontrôle électrique,
+– catégorie 6: interventions sur des éléments,
+– catégorie 7: interventions sur des ensembles comp lexes,
+– catégorie 8: interventions délicates, initiative, commandement et responsabilités courantes,
+– catégorie 9: toutes interventions, organisation, commandement et responsabilité technique
+d'une équipe (on entend par équipe l'ensemble des a gents chargés soit d'une zone soit, pour
+ceux qui sont rattachés au centre, d'une spécialité ).
+Les dispositions qui suivent permettent de distingu er, pour le personnel d'exécution et dans la
+situation actuelle. les ouvriers du contrôle électr ique restant classés en catégories 3-4 et les
+maîtres-ouvriers du contrôle électrique visés ci-de ssous.
+OUVRIER - Catégories 3-4
+Agent qualifié ayant des connaissances d'électricit é du niveau du C. A. P. affecté une équipe,
+n'effectuant pas normalement l'ensemble des travaux ci-dessous mais qui est chargé, par
+exemple, de travaux de câblage concernant l'apparei llage de contrôle, du montage de
+comptages simples, de l'étalonnage de compteurs mon ophasés en laboratoire, de petits
+travaux d'ordre mécanique.
+
+=== Page 3 ===
+
+3/5
+PERS. 521
+MAITRE-OUVRIER - Catégorie 4
+Agent très qualifié ayant des connaissances en élec tricité au moins du niveau du C. A. P.,
+affecté une équipe et chargé d'effectuer, sous co ntrôle, des tâches telles que:
+– raccordement de dispositifs simples (relais, appar eils de mesure, compteurs, etc.) d'après
+plans d'exécution, câblage de groupes de relais, et automatismes, etc.,
+– entretien et remplacement de pièces défectueuses d esdits appareils ou dispositifs,
+– travaux d'ordre mécanique, châssis, etc.
+Sont également classés temporairement dans cette ca tégorie et affectés une équipe les
+agents ayant les connaissances requises pour assure r la fonction d'agent technique 1er degré,
+catégorie 6, mais dont la formation doit être compl étée par la pratique. (Cette disposition vise,
+en particulier, les agents issus des écoles des mét iers d'E. D. F. et ayant suivi le cycle de
+spécialisation complémentaire « contrôle ».) Ces ag ents font, en principe, équipe avec un
+agent technique de qualification supérieure et part icipent tous les travaux susceptibles de
+concourir efficacement leur formation. Sauf décis ion contraire prise après avis motivé de la
+commission secondaire, la durée de cette période de formation ne doit pas excéder 2 ans.
+AGENT TECHNIQUE 1er degré - Catégorie 6
+Fonction de technicité
+Agent ayant les connaissances soit du niveau du cyc le de spécialisation complémentaire
+contrôle électrique des écoles des métiers d'E. D. F., soit du niveau du brevet de technicien,
+filière technique, et ayant acquis une pratique pro fessionnelle suffisante, pouvant exécuter les
+travaux confiés un maître-ouvrier du contrôle éle ctrique, et normalement chargé des travaux
+suivants:
+– vérification, réglage, étalonnage, entretien et dé pannage, tant en laboratoire que sur les lieux
+d'utilisation, des appareils de mesure, enregistreu rs, appareils d'exploitation automatique
+simples, relais de protection (àl'exception des éq uipements de protection complexes
+intéressant le réseau haute et très haute tension ), postes de comptage – intervention sur la filerie.
+Le même classement est attribué aux agents des équi pes centrales qui sont chargés
+couramment des essais d'huiles isolantes.
+AGENT TECHNIQUE 2e degré - Catégorie 7
+Fonction de technicité ou fonction mixte
+Agent possédant des connaissances et une expérience plus étendues que l'agent technique
+1er degré. Il doit être capable de lire les schémas complexes avec notice (par exemple schéma
+de protection associée une liaison pilote, réencl encheur type mono ou triphasé, etc.). Il est
+normalement chargé avec, le cas échéant, le concour sd'un ou deux agents de catégorie
+
+=== Page 4 ===
+
+4/5
+PERS. 521
+inférieure, de l'ensemble des travaux suivants, en plus de ceux énumérés dans la définition de
+l'agent technique 1er degré - catégorie 6:
+– vérification, réglage et dépannage de l'appareilla ge de contrôle et de protection d'une cellule
+de poste comportant des dispositifs complexes de pr otection: alimentation continue et
+alternative, filerie, schéma synoptique, etc.,
+– vérification des montages et raccordements de file rie avant la mise en service d'installations
+nouvelles du type indiqué l'alinéa précédent et l'exclusion de cette mise en service.
+Cette définition s'applique essentiellement aux age nts rattachés aux sous-groupes. Le
+classement correspondant peut aussi être attribué un agent qui participe, au service central
+du centre régional de transports d'énergie et des t élécommunications, aux réceptions, mises en
+service, et sous la surveillance d'un ingénieur, des études diverses.
+Dans le cas où l'activité des agents répondant la définition de la catégorie 6 est
+principalement consacrée la vérification des comp tages haute tension complexes (tarifaires
+par exemple), les intéressés seront classés en caté gorie 7.
+AGENT TECHNIQUE PRINCIPAL - Catégorie 8
+Fonction de technicité ou fonction mixte
+Agent possédant, en plus des caractéristiques de l' agent technique 2e degré, une solide
+expérience, ainsi que des qualités de commandement et d'organisation lui permettant de diriger
+une équipe de sous-groupe et d'assurer des mises en service d'installations de contrôle
+électrique.
+Le même classement peut être attribué un agent pa rticulièrement qualifié chargé, au service
+central du centre régional de transports d'énergie et des télécommunications, des fonctions
+précisées l'avant dernier alinéa de la définition de l'agent technique 2e degré - catégorie 7 - et
+qui, de plus, exécute des mesures et essais spéciau x.
+AGENT TECHNIQUE PRINCIPAL HORS-CLASSE - Catégorie 9
+Fonction de technicité ou fonction mixte
+Agent présentant les mêmes qualités que l'agent tec hnique principal, mais dont la
+connaissance approfondie des matériels est telle qu el'on peut lui confier les travaux les plus
+délicats (montages et essais spéciaux, mises en ser vice) et en général les interventions les
+plus complexes sur le matériel. Cet agent doit, en plus, posséder les qualités nécessaires pour
+assurer les relations courantes avec d'autres servi ces, avec des fournisseurs ou avec des
+clients d'E. D. F.
+En outre, sa qualification doit permettre de lui co nfier certaines études simples se rattachant son activité, telles que:
+– contrôle et études du schéma développé réaliser en fonction de principes de base connus,
+
+=== Page 5 ===
+
+5/5
+PERS. 521
+– études de réfection de tableaux, d'adjonction de p rotections, maquettes, modifications de
+fileries existantes, etc.
+Les agents techniques principaux hors-classe peuven t bénéficier du principe énoncé dans le
+préambule de la présente circulaire, relatif la p romotion la catégorie supérieure au
+classement de leur poste. Cette disposition joue, ce niveau, en faveur des agents qui ont
+acquis, par des stages de perfectionnement ou par u ne très longue pratique, la maîtrise totale
+de leur métier et dont les qualités dans tous les d omaines permettent de leur confier:
+– soit des activités incontestablement plus difficil es que celles qui entrent normalement dans
+les attributions de la catégorie 9,
+– soit des responsabilités particulièrement importan tes en matière d'organisation, de
+commandement, de formation du personnel, de relatio ns avec les autres services et les tiers,
+etc.

@@ -1,0 +1,2725 @@
+=== Page 1 ===
+
+= ç
+& =
+eN do at -? EDF
+15/02/2010
+CERH-A 10-010
+y = =
+
+Note d'application
+Guide réglementaire relatif aux contrats d'apprentissage et
+de professionnalisation
+INTERLOCUTEUR Cécile BAERT © Tél.:01.40.42.24.88 © Contrat de travail
+
+Maud VOISET © Tél.: 01.40.42.20.78 ® Formation
+DIFFUSION DPH Tête de Groupe, DRH de Direction, ARRH, DJR et DRH Filiales pour information
+ACCESSIBILITÉ © Confidentielle © Restreinte © Libre
+Le présent guide réglementaire a pour objet de rappeler les dispositions légales et
+conventionnelles applicables aux contrats d'apprentissage et aux contrats de
+professionnalisation, ainsi que les conditions de réalisation d'une mission tutorale réussie.
+Il est destiné toute personne (filière RH, managers, tuteurs...) en charge de l'accueil, de
+l'encadrement et de la gestion administrative d'un salarié en contrat en alternance.
+Il vise répondre de manière opérationnelle aux principales interrogations soulevées par les
+Directions lorsqu'elles accueillent des alternants (ex: règles de succession de contrats en
+alternance, formalités d'accueil d’un alternant étranger, conditions de prise en charge des
+frais des alternants...) et présente les modèles de documents utiliser pour garantir un bon
+encadrement de lalternant pendant la durée de son contrat (ex: engagement de
+confidentialité, lettre d'accompagnement au contrat en alternance, lettre de mission
+tutorale.…..).
+Ce guide intègre les évolutions législatives intervenues depuis 2006 (ex: suppression de la
+limite d'âge pour les apprentis handicapés, évolution de la rémunération des apprentis en
+Bac Professionnel, restriction des conditions d'exonération des charges patronales dans le
+cadre du contrat de professionnalisation.…..).
+Il'annule et remplace le guide pratique des contrats de formation par alternance du CNERP
+du 14 décembre 2006.
+
+1/57
+
+=== Page 2 ===
+
+CENTRE
+RS To Ta t
+Pour rappel, ces deux types de contrat poursuivent des objectifs différents:
+
+" le contrat d'apprentissage relève de la formation initiale et a pour but de
+donner des jeunes de 16 25 ans révolus (sauf dérogations la limite
+d'âge) une formation théorique et pratique en vue de l'obtention d’un titre
+ou d’un diplôme.
+
+" le contrat de professionnalisation quant lui, relève de la formation
+professionnelle continue. || s'adresse aux jeunes de 16 25 ans révolus
+ainsi qu'aux demandeurs d'emplois de plus de 26 ans et a pour but de leur
+permettre d'acquérir une qualification professionnelle et de favoriser leur
+insertion où réinsertion dans le monde du travail.
+
+Il appartient aux Directions de mettre en place les dispositifs de contrôle permettant de
+s'assurer de la mise en œuvre conforme de guide.
+Le Directeur du CERH
+Didier VESIEZ
+2/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 3 ===
+
+RS To Ta t
+SOMMAIRE
+1 - LE CONTRAT D'APPRENTISSAGE
+1.1 TEXTES DE REFERENCE.…... iiissncrsseemeenenneeeeenenneeeeeneneeeeenesneeeeerseeeererse P. Ô
+1.2 OBJET... rrssrsrrrsssnesnesseneenenesnesenenesneeeeeeesnne eee rennes eee nesneseeeeesneeeeenesneeeeeeesenee P 7
+1.3 ÉMPLOYEUR …isssssscersscneemenesnneenenesnneeeeeesnneenenesnneeeenesneeeeeeesnneeeeneneeeeeeesnnee P 7
+1.4 PUBLICS BENEFICIAIRES.….... nnensneeenenesnneenenesneeeenesnneeeeneneeeeenesnnee Pi 7
+1.5 CARACTERISTIQUES DU CONTRAT D'APPRENTISSAGE... rsnsrrsssnerrrersneeeenensseree P.8
+1.5.1 Nature du contrat... ss ).8
+1.5.2 Durée du contrat... ss. ).8
+1.5.3 Dates de début et de fin de contrat..................................................................... p9
+1.5.4 Période d'essai... ss D.9
+1.5.5 Temps de Travail... sp.
+1.6 FORMALITES ET CONDITIONS... reanmsrrrenanememeennenemeenneeeeeeneneeeeeenenneeeeensseneenre Pi 10
+1.6.1 Visite médicale ss). 10
+1.6.2 Enregistrement du contrat... p.10
+1.6.3 Accueil d’un apprenti étranger p.11
+1.7 APPRENTISSAGE.…... snrnneremeenannnemeenennneeeenennneeeenenneeeeneneeeeeeenneeeeeesseneen rs Pi 18
+1.7.1 Formation théorique (au Centre de Formation d’Apprentis) p.13
+1.7.2 Formation pratique (en entreprise)........................................................... p.15
+1.7.3 Le maître d'apprentissage 10.16
+1.8 VIE DU CONTRAT sssnrrrrssssneserennsnneenenenneenenenneenenenneeeeneneeeeenesneeeeeresneeee sue P. 16
+1.8.1 Modification du contrat... p.16
+1.8.2 La fin du contrat d'apprentissage p.17
+1.8.3 Rupture du contrat... ss). 17
+1.8.4 Convention de gestion avec Pôle Emploi — C52 p.18
+1.8.5 Succession de contrats......................................................................................1p.18
+1.9 SITUATION DE L’APPRENTI sissnssssceseenessneeenenesnneeeenesneeeeeeenneeneresneeenesses P. 19
+1.9.1 Prise en compte dans les effectifs.…............................................................... p.19
+1.9.2 Droit Individuel Formation (DIF)... p.19
+1.9.3 Rémunération... issues. 19
+1.9.4 Gratification de fin d'année p.22
+1.9.5 Intéressement se). 22
+1.9.6 Prise en charge des frais de l’apprenti (transports, hébergement, restauration) …...... p.23
+1.9.7 Tenues et équipements p.23
+1.9.8 Congés annuels... ss. D.238
+1.9.9 Absence pour la préparation des examens.….....................................................1p0.23
+1.9.10 Congés pour événements familiaux..….............................................................10.23
+1.9.11 Fête locale... se D.24
+1.9.12 Journée de solidarité p.24
+1.9.13 Avantages en nature... )D.24
+1.9.14 Protection sociale p.24
+1.9.15 Couverture Accident du Travail et Maladie Professionnelle (AT-MP) p.25
+1.9.16 Retraite complémentaire... p.25
+1.9.17 Droit de grève... is). 25
+1.9.18 Heures d'informations syndicales p.25
+3/57
+CERH-A 10-010_GUIDE_ALTERNANCE_ version_du_16_fév_10. doc
+
+=== Page 4 ===
+
+RS To Ta t
+1.10 INFORMATION DES REPRESENTANTS DU PERSONNEL meer. P.26
+1.11 COMPETENCES DISCIPLINAIRES. ns srcccmmmmmmnnnannnneeemenennnnnnnnenennemennnnnnnneenenenennnue P. 26
+1.12 AIDES FINANCIERES / EXONERATION DES CHARGES PATRONALES.…....................... P.26
+1.12.1 Crédit d'impôt iii). 26
+1.12.2 Indemnité compensatrice forfaitaire 10.26
+1.12.3 Exonération des cotisations sociales p.27
+1.12.4 Aide temporaire: dispositif « zéro charges » p.27
+2 - LE CONTRAT DE PROFESSIONNALISATION
+2.1 TEXTES DE REFERENCE. sccecmmmmnnnnnnnnnneeennennnnnnnenenennnnennnnancnnenennneennnnnsnneennnree P. 28
+2.2 OBJET. rrrmmmmnerrrnnmenmnnnnnnnnennneneneenennnnnnnennneneeenennnnnnnneneneeeeennnnnnnneneneeeeennnnnnns sure P. 29
+2.3 PUBLICS BENEFICIAIRES …rccemmmmmnnnnnnnenenennnenennnnnnnenennnenmnnnnenennnenennnmnnnnnnnnuee P. 29
+2.4 CARACTERISTIQUES DU CONTRAT DE PROFESSIONNALISATION.. sermmmmnnnnnrrsnre Pa 29
+2.4.1 Nature et Durée du contrat p.29
+2.4.2 Période d'essai... iii. 0
+2.4.3 Durée de la formation p.30
+2.4.4 Temps de travail... ss D.80
+2.5 FORMALITES ET CONDITIONS... nnnrrmmmmmmmannnnneemmenennnnnnnnneeennenmnnnnnenenenenenmnnnnnennneennnneee P 91
+2.5.1 Visite médicale ss D.31
+2.5.2 Enregistrement du contrat... ss 01
+2.5.3 Accueil d’un alternant étranger ss O2
+2.6 FORMATION. mmmrrrrmmmmnerarenmnnnnennnnnnnnnnnnnnneennnnnnnneneneneeennnnnnnnnnnnneeeeennnnnneensneeeeree P. 92
+2.6.1 Formation théorique (au centre de formation) p.32
+2.6.2 Formation pratique (en entreprise).....................................................................10.83
+2.6.3 Le tuteur... sise D.83
+2.7 VIE DU CONTRAT mmmmmmmmmnnnnnrrrrnnmmmmnnnnnnnnnnnnennnnnnnnneneneneeeennnnnnnneneneeeeennnnnnneneneeneeee P. 94
+2.7.1 Modification du contrat... 34
+2.7.2 La fin du contrat de professionnalisation ou de l’action de professionnalisation. p.34
+2.7.3 Rupture du contrat... 04
+2.7.4 Convention de gestion — C52............ D. 35
+2.7.5 Renouvellement du contrat... 35
+2.7.6 Succession de contrats... sense QD
+2.8 SITUATION DE L’ALTERNANT mmmmrennnnnnrrrrnnennnnnnnnneneneneeeennnnnnnennneneeneennnnnnneeneneenenee P OT
+2.8.1 Prise en compte dans les effectifs... )D37
+2.8.2 Droit Individuel Formation (DIF).... D.37
+2.8.3 Rémunération... ssssssssssssssererenrnrnnnenennnnnnnnnnnessnssseeee De D
+2.8.4 Gratification de fin d'année 37
+2.8.5 Intéressement.….….............. seen D OO
+2.8.6 Prise en charge des frais de l’alternant (transports, hébergement, restauration)..….... p.38
+2.8.7 Tenues et équipements... ….…......1p.38
+2.8.8 Congés annuels... )D.38
+2.89 Absence pour la préparation des examens p.38
+2.8.10 Congés pour événements familiaux p.88
+2.8.11 Fête locale se D.89
+2.8.12 Journée de solidarité... N1p.389
+4/57
+CERH-A 10-010 GUIDE ALTERNANCE version du 16 fév_10. doc
+
+=== Page 5 ===
+
+CENTRE
+RS To Ta t
+2.8.13 Avantages en nature... DS]
+2.8.14 Protection sociale p.39
+2.8.15 Couverture Accident du Travail et Maladie Professionnelle (AT-MP) p.40
+2.8.16 Retraite complémentaire... ss. )D.40
+2.8.17 Droit de grève... iii 0.40
+2.8.18 Heures d'informations syndicales....................................................................1p.40
+2.9 INFORMATION DES REPRESENTANTS DU PERSONNEL sense P.40
+2.10 AIDES FINANCIERES / EXONERATION DES CHARGES PATRONALES.......................... P.41
+2.10.1 Exonération des cotisations sociales 10.41
+2.10.2 Aide temporaire: aide l'embauche des jeunes de moins de 26 ans…....... p.41
+2.10.3 Financement des actions de formation p.42
+2.10.4 Aide la formation du tuteur... p.42
+2.10.5 Aide Agefiph pour l'embauche en contrat de professionnalisation
+d'un salarié handicapé p.42
+
+3 - LE TUTORAT
+3.1 TEXTES DE REFERENCE. sssnserrerssneeeeenenneeneneneeenenenneeeeeenneeeeeesneeeeessense P.43
+3.2 CHOIX DU TUTEUR.. ssrrrrsnnsrrreraneeemeenaneeeeeeennneeeennneeeeeeneeeeeeenneeeeeesnneeeeessneeen es P. 48
+3.3 MISSION TUTORALE.…... srerannemmeenanneeeeeenneneeeenenneeeeeeneeeeeesnneeeeesnneens es P. 48
+3.3.1 Conditions d'exercice de la mission p.44
+3.3.2 Lettre de mission du tuteur p.44
+3.3.3 Mission et rôles du tuteur... p.44
+3.3.4 Domaines d'activité des tuteurs p.45
+3.3.5 Evaluation, valorisation et reconnaissance de la mission................................... p.45
+3.4 FORMATION DU TUTEUR.... rnnsnnrsssnnsrressaneseeeeeaneeeeeeeneeeeeeeneeeeeeeneeeeeessnneeeessseseens P. 46
+
+ANNEXES
+ANNEXE 1 — ENGAGEMENT DE CONFIDENTIALITE
+ANNEXE 2 — LETTRE D'ACCOMPAGNEMENT AU CONTRAT EN ALTERNANCE
+ANNEXE 3 — TABLEAU RECAPITULATIF DES REGLES DE PRISE EN CHARGE DES FRAIS DES
+
+CONTRATS EN ALTERNANCE A EDF SA
+ANNEXE 4 — LETTRE DE MISSION TUTORALE
+ANNEXE 5 — EVALUATION DE LA MISSION TUTORALE D'UN CONTRAT D'APPRENTISSAGE OÙ DE
+PROFESSIONNALISATION
+ANNEXE 6 — ATTESTATION DE MISSION TUTORALE
+5/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 6 ===
+
+CENTRE
+RS To Ta t
+1 - LE CONTRAT D’APPRENTISSAGE
+1.1 TEXTES DE REFERENCE
+Code du travail articles L.6221-1 et suivants, articles L.6231-1 et suivants, articles
+L.6241-1 et suivants, L.6243-1 et suivants, L.6251-1 et suivants, R.6211-1 et suivants,
+R.6231-1 et suivants, R.6241-11 et suivants et R.6251-1 et suivants.
+Loi n° 2004-391 du 4 mai 2004 relative la formation professionnelle tout au long de la
+vie et au dialogue social
+Loi n°2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale
+Loi n°2006-396 du 31 mars 2006 pour l'égalité des chances
+Loi n°2008-776 du 4 août 2008 de modernisation de l’économie
+Loi n°2008-1425 du 27 décembre 2008 de finances pour 2009 (suppression de la limite
+d'âge pour les travailleurs handicapés)
+Loi n°2009-1437 du 24 novembre 2009 relative l'orientation et la formation
+professionnelle tout au long de la vie.
+Décret n°2008-1253 du 1 *’ décembre 2008 relatif l'apprentissage
+Arrêté du 12 septembre 2005 relatif la mise en place de la carte nationale d’apprenti,
+modifié par l’Arrêté du 21 avril 2006
+Arrêté du 15 janvier 2007 relatif au contrat type d'apprentissage
+Arrêté du 2 février 2009 portant modèle de convention organisant la mise disposition
+d'un apprenti travaillant en France auprès d'une entreprise d'accueil établie dans un autre
+Etat membre de l'Union européenne
+Circulaire DGEFP n° 2006-25 du 24 août 2006 relative la procédure d'enregistrement
+des contrats d'apprentissage
+Circulaire DGEFP-DGT n° 2007-04 du 24 janvier 2007 relative la rémunération
+applicable aux apprentis
+Note d’application de la politique de développement de l’apprentissage EDF
+du 7 septembre 2007
+Note CERH-A 09-039 du 3 juillet 2009 relative la revalorisation du SMIC et la
+rémunération des contrats en alternance au 1° juillet 2009 (une nouvelle note est diffusée chaque actualisation du SMIC)
+Note CERH-A 09-040 du 8 juillet 2009 relative aux aides l’entreprise en faveur de
+l'emploi des jeunes (mesures temporaires applicables jusqu'au 30 juin 2010)
+6/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 7 ===
+
+CENTRE
+RS To Ta t
+1.2 OBJET
+
+L'apprentissage assure la formation initiale des jeunes. Il a pour but de donner des
+
+jeunes travailleurs ayant satisfait l'obligation scolaire, une formation générale, théorique
+
+et pratique, en vue de l'obtention d'une qualification professionnelle sanctionnée par un
+diplôme de l'enseignement professionnel ou technologique, un titre d'ingénieur où un titre finalité professionnelle enregistré au répertoire national des certifications
+
+professionnelles (RNCP).
+
+Dans ce cadre:
+
+- l'entreprise s'engage assurer l'apprenti la formation pratique, lui faire suivre la
+formation assurée par le Centre de Formation d'Apprentis (CFA) et lui verser chaque
+mois un salaire - l'apprenti s'engage travailler pour l'employeur pendant toute la durée du contrat, respecter le règlement intérieur de l'entreprise, suivre la formation assurée par le
+CFA (les heures d'absence aux cours non justifiées font l'objet d'une retenue sur
+salaire) et se présenter aux épreuves du diplôme ou du titre prévu par le contrat.
+
+1.3 EMPLOYEUR
+
+Toute entreprise peut accueillir un apprenti si l'employeur déclare prendre les mesures
+
+nécessaires l’organisation de l'apprentissage. A ce titre, l'employeur doit notamment
+
+garantir que l'équipement de l’entreprise, les techniques utilisées, les conditions de
+travail, d'hygiène et de sécurité, les compétences professionnelles et pédagogiques du
+maître d'apprentissage sont de nature permettre une formation satisfaisante”.
+
+1.4 PUBLICS BENEFICIAIRES
+
+Jeunes de 16 ans au moins (ou 15 ans au moins s'ils ont effectué la scolarité du
+
+1% cycle de l’enseignement secondaire) et de moins de 26 ans la date de signature du
+
+contrat.
+
+Toutefois, des dérogations cette limite d'âge supérieure d'entrée en apprentissage sont
+
+possibles dans les cas suivants:
+
+> dans la limite d'âge maximum de 30 ans
+- lorsque le contrat fait suite un contrat d'apprentissage précédemment souscrit, et
+
+conduit un niveau de diplôme supérieur celui obtenu l'issue du contrat
+précédent. Le contrat d'apprentissage doit être souscrit dans un délai maximum
+d’un an après l'expiration du précédent contrat - lorsqu'il Yaeu rupture de contrat pour des causes indépendantes de la volonté de
+l'apprenti (cessation d'activité, faute de l'employeur ou manquements répétés ses
+obligations...) ou suite une inaptitude physique et temporaire de celui-ci. Là
+encore, le contrat d'apprentissage doit être souscrit dans un délai maximum d’un an
+après l'expiration du précédent contrat.
+
+‘ Rappel: EDF ne reconnaît pas les titres professionnels dans le cadre d’une embauche.
+
+2 Cette déclaration est incluse dans le formulaire Cerfa FA13a support du contrat d'apprentissage
+7/57
+
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 8 ===
+
+(ALT
+RS To Ta t
+> sans limite d’âge supérieure
+
+- lorsque le contrat d'apprentissage est conclu par une personne reconnue travailleur
+handicapé - lorsque le contrat d'apprentissage est souscrit par une personne qui a un projet de
+création ou de reprise d'entreprise dont la réalisation est subordonnée l'obtention
+du diplôme ou titre sanctionnant la formation poursuivie.
+
+1.5 CARACTERISTIQUES DU CONTRAT D'APPRENTISSAGE
+
+1.5.1 NATURE DU CONTRAT
+Contrat durée déterminée (CDD) établi sur un formulaire type Cerfa FA13a (en trois
+exemplaires originaux). Le document Cerfa et sa notice explicative sont accessibles sur le
+site www. travail. gouv. fr (rubrique « Formulaires >»).
+Le contrat d'apprentissage est un contrat de type particulier qui prévoit l’alternance entre
+enseignements dispensés en centre de formation d’apprentis (CFA) et une formation dans
+une entreprise.
+Cas particulier: dès lors que les conditions d'accès au contrat d'apprentissage sont
+remplies, un jeune et son employeur peuvent suspendre un contrat durée indéterminée
+(CDI) pour conclure un contrat d'apprentissage. La durée de la suspension sera égale la
+durée de la formation nécessaire l'obtention de la qualification professionnelle
+recherchée.
+Au moment de la signature du contrat par l’apprenti et l'employeur, ce dernier lui remet un
+engagement de confidentialité (cf annexe 1) et une lettre d'accompagnement au contrat
+d'apprentissage (cf annexe 2).
+
+1.5.2 DUREE DU CONTRAT
+La durée du contrat est au moins égale celle du cycle de formation qui fait l’objet du
+contrat.
+Elle peut varier entre 1 et 3 ans en fonction du type de profession et de la qualification
+préparée (cycle de formation). Cette durée peut être adaptée pour tenir compte du niveau
+initial de compétence de l'apprenti.
+La durée maximale peut être portée 4 ans lorsque la qualité de travailleur handicapé est
+reconnue l'apprenti.
+Par dérogation, la durée du contrat peut varier entre 6 mois et 1 an lorsque la formation a
+pour objet l’acquisition d’un diplôme ou d’un titre:
+° de même niveau et en rapport avec un premier diplôme ou titre obtenu dans le cadre
+
+d'un précédent contrat d'apprentissage * de niveau inférieur un diplôme ou titre déjà obtenu * dont une partie a été obtenue par la validation des acquis de l'expérience (VAE) * dont la préparation a été commencée sous un autre statut.
+8/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 9 ===
+
+CENTRE
+RS To Ta t
+
+Dans ces cas, le nombre d'heures de formation dispensées dans le CFA ne pourra pas
+être inférieur 400 heures par an en moyenne ou dans le cas où la durée du contrat est
+inférieure un an, le nombre d'heures sera calculé au prorata de la durée du contrat.
+
+1.5.3 DATES DE DEBUT ET DE FIN DE CONTRAT
+Le contrat d'apprentissage fixe la date de début de l'apprentissage. Sauf dérogation, cette
+date ne peut être antérieure de plus de trois mois, ni postérieure de plus de trois mois au
+début du cycle du CFA que doit suivre l'apprenti.
+La date de fin de contrat ne peut pas être antérieure la fin du cycle de formation pour
+permettre l’apprenti de se présenter l'examen.
+
+1.5.4 PERIODE D'ESSAI
+Les deux premiers mois de l'apprentissage sont assimilés une « période d'essai ».
+Dans le cas où, après avoir rompu son précédent contrat d'apprentissage au delà de la
+« période d'essai de 2 mois », un apprenti conclut un nouveau contrat d'apprentissage
+pour achever sa formation avec un nouvel employeur, une période d'essai s'applique ce
+nouveau contrat selon les dispositions suivantes:
+- 1 jour par semaine dans la limite de deux semaines pour un contrat au plus égal 6
+
+mois,
+
+- 1 mois pour un contrat d'une durée supérieure 6 mois.
+
+1.5.5 TEMPS DE TRAVAIL
+Les apprentis sont soumis la durée légale du travail et l’horaire collectif applicable
+dans l’entreprise, soit 35 heures, qu'ils soient dans l’entreprise ou en CFA. Quel que soit
+le rythme de l'alternance et afin de permettre au jeune de suivre dans de bonnes
+conditions sa formation, les jours de présence en entreprise sont comptabilisés sur la
+base de 7 heures par jour. Cette organisation du temps de travail n’ouvre alors pas droit
+aux Récupérations du Temps de Travail (RTT) ni aux heures supplémentaires.
+L’apprenti est tenu de suivre le temps de formation requis en CFA, même si celui-ci
+excède la durée collective de travail applicable l’entreprise. Ces heures de formation
+excédentaires correspondent du temps de travail effectif et doivent être considérées
+comme telles. Ainsi, les excédents d'heures en CFA (prévus par le programme de
+formation) doivent être considérés comme des heures supplémentaires prises en charge
+par l’entreprise. Dans ce cas, le statut des IEG ne s'appliquant pas aux apprentis, les
+heures supplémentaires sont majorées selon les dispositions de droit commun, soient:
+
+-_ majoration de 25 % pour les 8 premières heures (de la 36°"° la 43°" heure),
+-_ majoration de 50 % au delà de la 8°"° heures (à partir de la 44°" heure et dans la
+limite de 48 heures par semaine).
+Il est préconisé de favoriser le remplacement de toute ou partie du paiement des heures
+supplémentaires et des majorations par un repos compensateur équivalent.
+9/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 10 ===
+
+(ALT
+RS To Ta t
+
+Cas particulier des apprentis de moins de 18 ans: ils ne peuvent pas être employés
+plus de 8 heures par jour et 35 heures par semaine. Ils ne peuvent pas non plus travailler
+la nuit, les jours fériés et le dimanche. Ils doivent en outre bénéficier de 12 heures de
+repos quotidien et de 2 jours de repos hebdomadaire consécutifs. Il doit bénéficier d'une
+pause de 30 minutes consécutives au terme de 4 h 30 consécutives de travail (article L
+3162-3 du Code du travail).
+En terme de temps de travail, les apprentis de 18 ans et plus se voient appliquer les
+mêmes règles que pour tout autre salarié de l’entreprise.
+
+1.6 FORMALITES ET CONDITIONS
+
+1.6.1 VISITE MEDICALE
+L'apprenti doit faire l’objet d'une visite médicale avant son embauche et au plus tard dans
+les trois semaines suivant la date de démarrage du contrat. Le contrat d'apprentissage
+doit être accompagné, en vue de son enregistrement, de l'avis d'aptitude médicale délivré
+par le médecin du travail. Lorsque cet avis ne peut pas être joint au contrat
+d'apprentissage, il doit être transmis, au plus tard dans les trois semaines qui suivent la
+date de démarrage du contrat, l'organisme chargé de son enregistrement (Chambre de
+Commerce et d'Industrie territorialement compétente).
+
+1.6.2 ENREGISTREMENT DU CONTRAT
+Afin de simplifier les formalités administratives, depuis 2007 seul le formulaire Cerfa 13a
+du contrat d'apprentissage doit être complété.
+L'employeur transmet, le dossier complet® signé par l'employeur et l'apprenti (ou son
+représentant légal), la Chambre de Commerce et d'Industrie (CCI) territorialement
+compétente.
+Cette transmission doit être réalisée avant le début de l'exécution du contrat
+d'apprentissage et au plus tard, dans les 5 jours ouvrables“ qui suivent, accompagné du
+visa du directeur du CFA attestant de l'inscription de l'apprenti.
+L'article L. 6224-4 du code du travail stipule que l’acte d'enregistrement du contrat
+d'apprentissage par la CCI ne donne lieu aucun frais.
+Au delà de l'acte d'enregistrement, certaines Chambre de Commerce et d'Industrie (CCI)
+facturent parfois des frais de services aux entreprises. Ces frais (généralement entre 15 et
+50 euros par contrat) consistent en un package de services, dont le contenu peut être
+différent d'une CCI une autre, pour appuyer les entreprises dans leurs démarches
+administratives et dans le suivi du contrat d'apprentissage. Le montant demandé
+correspond un forfait que l’entreprise devra payer qu'elle utilise ou non la totalité des
+services proposés.
+
+3 La circulaire DGEFP n° 2006-25 du 24 août 2006 relative l'enregistrement des contrats d'apprentissage précise en son
+paragraphe 2-8-3 la notion de dossier complet
+
+4. Le
+Du lundi au samedi inclus.
+
+10/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 11 ===
+
+CENTRE
+RS To Ta t
+
+La Chambre de Commerce et d'Industrie enregistre le contrat dans un délai de quinze
+
+jours compter de la réception du dossier complet s’il est conforme aux dispositions
+
+légales. La non-réponse dans ce même délai a valeur d'acceptation.
+
+En cas de non enregistrement du contrat, celui-ci ne peut alors pas être mis en oeuvre ou
+
+ne peut se poursuivre.
+
+En cas de refus d'enregistrement du contrat d'apprentissage par la Chambre de
+
+Commerce et d'Industrie, les parties (employeur et apprenti) peuvent saisir le Conseil de
+
+Prud'hommes qui se prononce alors sur la validité du contrat.
+
+1.6.3 ACCUEIL D'UN APPRENTI ETRANGER
+
+Les ressortissants de l’Union Européenne, de l'Espace Economique Européen ou
+de la Suisse
+Ils peuvent être accueillis dans le cadre d’un contrat d'apprentissage sans avoir détenir
+d'autorisation de travail. Dans ce cas, les démarches effectuer pour le contrat
+d'apprentissage sont identiques celles effectuées pour un apprenti de nationalité
+française.
+Les ressortissants hors de l’Union Européenne, de l'Espace Economique Européen
+ou de la Suisse
+Seuls ceux titulaires d'une carte de résident ou de la carte "vie privée et familiale" ont
+accès sans restriction au marché du travail et peuvent bénéficier du contrat
+d'apprentissage.
+Un contrat d'apprentissage ne peut pas être conclu avec les titulaires de la carte de séjour
+temporaire "étudiant" l'exception de ceux inscrits dans une formation menant un
+diplôme au moins équivalent au grade de master dispensé en apprentissage. Dans ce
+cas, la carte de séjour "étudiant" est assortie d'une autorisation provisoire de travail
+portant la mention "étudiant en apprentissage". Cette autorisation provisoire de travail est
+délivrée (en principe dans un délai de 2 mois), sous réserve de la validation du contrat de
+travail par le service compétent de la Direction Départementale du Travail, de l'Emploi et
+de la Formation Professionnelle (DDTEFP).
+
+L'employeur devra alors vérifier que le salarié concerné est titulaire:
+
+de l'original de son titre de séjour temporaire avec la mention "étudiant" ou du récépissé
+
+de renouvellement de la carte de séjour en cours de validité,
+
+* de l'original de l'autorisation provisoire de travail portant la mention "étudiant en
+apprentissage" (en principe cette mention est maintenant directement apposée sur le
+titre de séjour),
+
+* d'une attestation d'inscription dans un cursus de formation menant un diplôme de
+niveau au moins équivalent au master.
+
+Une copie de ces documents sera jointe au contrat d'apprentissage transmis pour
+
+enregistrement la DDTEFP (la DDTEFP se réservant le droit de demander la production
+
+des originaux de ces documents).
+11/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 12 ===
+
+CENTRE
+RS To Ta t
+Les modalités d'embauche:
++ l'employeur (ou son représentant par délégation au sein de l'unité d'accueil) doit procéder une déclaration préalable d'embauche auprès de la préfecture qui a délivré la carte de
+
+séjour temporaire que possède l'étudiant, deux jours ouvrables avant cette
+
+embauche. Cette déclaration d'emploi est effectuée soit par courrier électronique (voir site
+internet de la préfecture concernée), soit par lettre recommandée avec accusé réception,
+avec copie recto verso de la carte de séjour temporaire de l'étudiant.
+
+* la déclaration comprend les indications suivantes:
+
+- dénomination sociale de l'employeur, adresse de l'employeur, numéro du système
+d'identification du répertoire des entreprises et de leurs établissements (Code APE,
+N°SIRET),
+
+- nom de famille, prénoms, nationalité date et lieu de naissance du salarié,
+
+- date prévue d'embauche,
+
+-_ nature, durée du contrat et nombre d'heures de travail annuel,
+
+- numéro du titre de séjour temporaire du salarié.
+
+Cette déclaration vaut également demande par l'employeur de la vérification auprès de la
+
+préfecture de l'existence du titre de séjour temporaire de l'étudiant étranger, afin que
+
+l'employeur s'assure de l'authenticité du document qui lui est présenté par l'étudiant. Il est
+donc recommandé que cette démarche soit réalisée, dans la mesure du possible, bien en
+amont du démarrage du contrat. L'employeur qui ne procède pas auprès de la préfecture la déclaration d'emploi d'un étudiant étranger est passible de sanctions pécuniaires.
+
+Enfin, le salarié doit passer une visite médicale obligatoire organisée par l'Office Français
+
+de l'Immigration et de l'intégration (OFII) et l'employeur doit s'acquitter d'une redevance” l'agence. L'employeur ne peut pas se faire rembourser cette redevance par le salarié. La
+
+visite médicale réalisée par l'OFII est déclenchée automatiquement la délivrance de
+l'autorisation de travail sans que l'employeur n'ait intervenir. Toutefois, l'employeur doit
+s'assurer systématiquement que la visite médicale a bien été réalisée dans un délai de
+trois mois suivant la délivrance du titre de séjour. A défaut, l'apprenti peut se voir retirer
+son autorisation de travail.
+Date de Date de L'employeur
+Date de signature du contrat Date de délivrance démarrage du réception du vérifie que
+d’apprentissage de l’autorisation contrat (arrivée de contrat l’apprenti s’est
+(date différente de celle du de travail l’apprenti dans d’apprentissage présenté la
+démarrage du contrat) Visite médicale l’entreprise) parla DDTEFP visite médicale
+d’embauche de l’OFII
+organisée par
+2 mois l’entreprise |
+EP] 3 mois
+
+La demande d’autorisation de travail peut être déposée dès que le Dans un délai
+
+contrat de travail est signé de toutes les parties. La délivrance de maximum de 3 mois l’autorisation de travail intervient en théorie dans les deux mois Procéder la Déclaration Envoi du contrat compter de la
+
+maximum suivant la date de dépôt. Dans la pratique le délai peut être Unique d’Embauche (DUE): la DDTEFP pour délivrance de
+plus long. au plus tôt 8 jours avant la enregistrement, l’autorisation de travail,
+date de démarrage du contrat dans un délais de l’apprenti doit se
+et au plus tard le 1° jour du 5 jours ouvrables présenter une visite
+contrat. maximum partir médicale organisée par
+de la date de lPOFII
+démarrage du
+contrat
+È Le montant fixé est fonction du titre de séjour et de la nature du contrat de travail.
+12/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 13 ===
+
+CENTRE
+RS To Ta t
+
+En amont de l'accueil au sein de l’entreprise de toute personne de nationalité étrangère,
+
+hors Union Européenne, une enquête sécurité est réalisée. Dans ce cas:
+
+* lorsque la personne est accueillie dans une unité de la Division Combustible
+Nucléaire (DCN), contacter la Direction de la Sécurité d'EDF SA (01.40.42.22.01) * lorsque la personne est accueillie dans un Centre Nucléaire de Production
+d’Electricité, contacter la Mission Sécurité de la Production Nucléaire
+(01.43.69.34.45) * lorsque la personne est accueillie dans une autre unité que celles citées
+précédemment, ce sont les règles de sécurité en vigueur dans l'unité, le cas échéant,
+qui doivent être appliquées. Il est néanmoins recommandé de se rapprocher de la
+Direction de la Sécurité (01.40.42.22.01) afin de s'assurer qu'il n'existe pas de
+vérification spécifique propre la nationalité concernée effectuer.
+
+Cette phase de vérification pouvant parfois être longue (plusieurs semaines), il convient
+
+de prévoir un délai suffisant avant la signature du contrat avec l'apprenti.
+
+1.7 APPRENTISSAGE
+1.7.1 FORMATION THEORIQUE (AU CENTRE DE FORMATION D’APPRENTIS)
+
+La formation générale est dispensée:
+
+- en Centre de Formation d'Apprentis (CFA),
+
+- ou au sein d'une section d'apprentissage: dans un établissement d'enseignement
+
+public ou privé sous contrat, ou dans un établissement de recherche.
+
+Cette formation théorique doit représenter une durée annuelle moyenne minimum de 400
+
+heures. Ces heures en CFA sont saisir dans l'application de gestion des temps et des
+
+absences (code 23 - Apprentis en centre de formation).
+
+Afin de procéder une première évaluation du déroulement de la formation, et le cas
+
+échéant de l’adapter, l'apprenti est convié par le CFA, dans les deux mois qui suivent la
+
+conclusion du contrat, un entretien auquel participent l'employeur, le maître
+d'apprentissage (cf $ 1.7.3 du présent guide), un formateur (du CFA) et si besoin est, le
+représentant légal de l’apprenti (article R 6233-58 du Code du travail).
+
+Attention: Si le CFA ne peut attester de la régularité de la présence en cours de l'apprenti,
+
+le versement l’entreprise (au niveau de l'Unité) de l'indemnité compensatrice forfaitaire
+
+pourrait être remise en cause. Elle est systématiquement supprimée au delà de 70 heures
+d'absence injustitiées de l'apprenti.
+
+Participation financière de l’apprenti sa formation:
+
+Aucune participation financière ne peut être demandée par le CFA l'apprenti au titre de
+
+la réalisation de la formation car son statut légal est celui d’un salarié. En effet, la
+
+formation constitue une modalité d'exécution de leur contrat de travail, et l'apprenti n’a pas se trouver dans une situation moins favorable que celle d'un salarié de droit commun.
+
+Ces derniers n'ayant pas fournir les outils, équipements et matières premières
+
+nécessaires leur travail, il en est de même par principe pour les apprentis.
+
+13/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 14 ===
+
+CENTRE
+RS To Ta t
+
+Les participations financières pouvant être demandées l’apprenti par le CFA, sont celles
+
+qui ne relèvent pas de sa formation et qui ne sont pas assimilables une « vente forcée >
+
+(liste non exhaustive):
+
+* transport domicile-CFA en cas de ramassage scolaire,
+
+* frais d'achat de matériel (manuels, cadenas avec clé..), de fourniture (cahiers, stylos,
+calculatrice...) et d'équipement (tablier...) hors matériel de sécurité et hors matières
+premières nécessaires pour la formation comme des outils de travail ou les tenues de
+travail..,
+
+* adhésion facultative une association, telles les associations d'anciens élèves par
+exemple,
+
+* frais d'inscription aux tests ou examens autres que ceux relatifs la formation suivie,
+
+* sorties culturelles ou de loisir (autres que les sorties pédagogiques nécessaires au
+déroulement de la formation),
+
+* transport et hébergement en cas de séjour l'étranger (autre que séjour obligatoire
+dans le cadre de la formation).
+
+Participation financière de l’entreprise la formation de l'apprenti:
+
+La seule obligation légale de l’entreprise en matière de financement de la formation des
+
+apprentis est de s’acquitter du versement de la taxe d'apprentissage.
+
+Or, certains CFA présentent aux Unités des conventions de partenariat qui engagent
+
+l'entreprise au-delà de cette obligation légale.
+
+Ilest donc recommandé de ne pas signer ces conventions qui contraindraient les Unités supporter sur leur budget la somme correspondant la différence entre le montant versé
+
+au titre de la taxe d'apprentissage et celui fixé par le CFA dans la convention de
+partenariat. || convient dans ce cas de rappeler au CFA que la taxe d'apprentissage
+versée par l’entreprise sera répartie entre les différents CFA dans lesquels sont inscrits les
+
+apprentis, au prorata du nombre d'inscrits dans chacun d'entre eux, conformément l’article R.6241-19 du code du travail, et le cas échéant, porter la mention suivante au
+
+chapitre « Financement de la Formation » de la convention: montant de la taxe
+d'apprentissage versé dans la limite du quota® disponible.
+
+Autorisation de s’absenter du CFA?
+
+De plus en plus de CFA demandent aux entreprises de signer en début de contrat, des
+
+autorisations d'absence ou de sortie anticipée en cas d'absence d'un professeur.
+
+Ces autorisations d'absence ne doivent pas être signées. Il appartient au CFA de confier l'apprenti des activités en lien avec sa formation pendant les heures normales de
+
+présence au CFA. De même, le retour de l’apprenti sur son lieu de travail (en entreprise)
+pendant les absences de professeurs n’est pas envisageable dans la mesure où
+
+l'employeur s’est engagé légalement en signant le contrat d'apprentissage, faire suivre l'apprenti la formation dispensée par le CFA, que celle-ci soit encadrée ou non par un
+
+professeur.
+6 Fraction de la taxe d'apprentissage consacrée au développement de l’apprentissage.
+7h est tenu d'informer l’entreprise de toute absence de l’apprenti pendant les périodes de formation au CFA.
+14/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 15 ===
+
+CENTRE
+RS To Ta t
+1.7.2 FORMATION PRATIQUE (EN ENTREPRISE)
+L'employeur assure dans l’entreprise la formation pratique de l'apprenti: toutes activités
+en relation directe avec la qualification visée et les enseignements théoriques dispensés
+en organisme de formation peuvent lui être confiées.
+L'employeur confie notamment des tâches ou des activités permettant d'exécuter des
+opérations ou travaux conformes une progression annuelle définie par accord entre le
+CFA et le représentant de l'entreprise.
+Cas particulier des apprentis de moins de 18 ans: ils ne doivent pas être exposés des travaux dangereux énumérés dans le code du travail (art. D.4153-21 et suivants du
+code du travail).
+Exemple: Pour qu'un apprenti mineur puisse effectuer des travaux sous-tension (donc
+exposé un risque électrique), l'autorisation de l'inspecteur du travail est
+systématiquement requise, après avis favorable du médecin du travail. Aussi, une
+autorisation du professeur ou du moniteur d'atelier est également requise (art. D.4153-43
+du code du travail).
+Toutefois, le code du travail prévoit la possibilité de faire participer les jeunes travailleurs des travaux exposant un risque électrique, sous réserve du seul avis favorable du
+médecin du travail (donc sans demander l'autorisation de l'inspecteur du travail),
+uniquement pour les apprentis munis d'un CAP correspondant l'activité (art.
+D.4153-47 du code du travail).
+De manière plus générale, il est interdit d'employer un apprenti des travaux dangereux
+pour sa santé ou sa sécurité. Concernant ce point, il n'existe pas de liste de travaux
+dangereux interdits aux apprentis.
+Toutefois, il convient de s'assurer systématiquement que l’activité confiée ne présente pas
+un danger pour l'apprenti compte tenu des outils utilisés, des produits manipulés ou
+encore au regard de ses aptitudes et capacités, de la progression de sa formation
+théorique et pratique, et enfin, que toutes les précautions ont été prises pour ne pas faire
+courir de risque prévisible l’apprenti.
+Pour certaines formations professionnelles limitativement énumérées par décret, l'apprenti
+peut, sous certaines conditions, accomplir les travaux dangereux que nécessite sa
+formation. Il convient alors d'interroger systématiquement le CFA sur la nature des travaux
+dangereux pouvant être confiés l’apprenti dans le cadre de sa formation professionnelle
+et du diplôme préparé.
+Par conséquent, lorsque l'employeur confie des tâches un apprenti, il doit tenir compte
+systématiquement de sa situation d’apprenti et observer toutes les règles nécessaires
+pour s’assurer qu'il ne sera pas porté atteinte ni la santé, ni la sécurité de l'apprenti
+qu'il emploie, comme il se doit de le faire pour l'ensemble de ses salariés.
+15/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 16 ===
+
+CENTRE
+RS To Ta t
+1.7.3 LE MAITRE D'APPRENTISSAGE
+
+La personne directement responsable de la formation de l'apprenti dans l’entreprise et
+
+assurant la fonction de tuteur, est dénommée maître d'apprentissage.
+
+Un maître d'apprentissage peut encadrer simultanément jusqu’à deux salariés maximum
+
+en formation en alternance (contrat de professionnalisation, contrat d'apprentissage,
+
+période de professionnalisation®).
+
+En liaison avec le CFA, le maître d'apprentissage a pour mission de contribuer l'acquisition par l'apprenti dans l’entreprise, des compétences correspondant la
+
+qualification préparée.
+
+La fonction tutorale peut être partagée entre plusieurs salariés. Dans ce cas, une équipe
+
+tutorale est constituée au sein de laquelle est désignée un maître d'apprentissage référent
+
+qui assure la coordination de l’équipe, ainsi que la liaison avec le CFA.
+
+Le titre de maître d'apprentissage:
+
+Le maître d'apprentissage doit offrir toutes les garanties de moralité et:
+
+- Soit être titulaire d’un diplôme ou d'un titre relevant du domaine professionnel visé par la
+qualification préparée par l'apprenti, et d’un niveau au moins équivalent ce dernier, et
+avoir 3 ans d'expérience professionnelle en relation avec la qualification envisagée par
+le jeune - Soit, avoir 5 ans d'expérience professionnelle en relation avec la qualification préparée
+par l'apprenti, et obtenir l'avis du recteur ou avoir un niveau minimal de qualification
+déterminé par la Commission Départementale de l'Emploi et de l’Insertion (CODE).
+
+1.8 VIE DU CONTRAT
+1.8.1 MODIFICATION DU CONTRAT
+
+Un avenant de modification du contrat (formulaire Cerfa 13a) doit être signé par
+
+l'employeur et l'apprenti (ou son représentant légal) dès lors qu'intervient un événement
+
+qui change un élément du contrat.
+
+L'avenant est conclu dans les cas suivants:
+
++ modification de la situation juridique de l'employeur,
+
++ échec de l'apprenti l'examen (prolongation du contrat initial)”,
+
+e_ prolongation du contrat d'apprentissage due un handicap de l’apprenti,
+
+e changement du lieu d'exécution du contrat de travail (changement d'adresse, de
+dénomination sociale),
+
+e une modification d’un élément essentiel du contrat (salaire, dates de contrat, CFA,
+formation, qualification préparée, maître d’apprentissage..….).
+
+Dans tous les cas, l'avenant doit indiquer la date laquelle intervient la modification.
+
+8 Les périodes de professionnalisation s'adressent aux salariés en CDI (statutaires ou non statutaires) en vue de favoriser leur
+maintien dans l’emploi et le développement de leurs compétences.
+9 En cas d’échec de l'apprenti l'examen en fin de formation, l’unité peut prolonger le contrat d'apprentissage d’une année. Il
+ne peut s’agir d’une obligation pour l'unité, la décision est laissée son appréciation.
+16/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 17 ===
+
+CENTRE
+RS To Ta t
+1.8.2 LA FIN DU CONTRAT D'APPRENTISSAGE
+Le contrat d'apprentissage prend fin la date prévue par le contrat.
+L'indemnité de précarité n’est pas due.
+1.8.3 RUPTURE DU CONTRAT
+
+> Pendant les deux premiers mois d'apprentissage:
+
+La résiliation unilatérale par l'une ou l’autre des parties est possible. Elle doit être
+
+constatée par écrit et notifiée au directeur du CFA, la CCI qui la transmet la Direction
+
+Départementale du Travail, de l'Emploi et de la Formation Professionnelle (DDTEFP) et
+
+aux autres organismes concernés. Cette résiliation ne peut donner lieu indemnisation.
+
+A noter: le délai de deux mois est suspendu par la maladie de l’apprenti (cass. soc.
+
+29 janvier 2008, n°06-43906, BC V n°25).
+
+Etapes respecter dans ce cas:
+
++ recevoir l'apprenti pour l'informer qu'il Va être mis fin au contrat en précisant la date
+d'effet (la date de fin de contrat sera fixée en tenant compte des jours de congés
+annuels acquis et prendre par l'apprenti) + confirmer la résiliation du contrat par courrier recommandé avec accusé réception
+adressé l’apprenti, impérativement avant le terme des deux mois d'apprentissage, le
+respect du délai des deux mois s’appréciant la date de réception de la lettre de
+rupture par l'apprenti. L'invocation d'un motif particulier n’est pas obligatoire * compléter et signer la «constatation de la rupture du contrat d'apprentissage »
+(s'adresser au CFA ou la CCI pour obtenir le formulaire) et la faire signer par
+l'apprenti (s'agissant d’une résiliation unilatérale, la signature de l'apprenti n’est pas
+obligatoire mais recommandée) * adresser au CFA: une copie de la «constatation de la rupture du contrat
+d'apprentissage » et une copie du courrier de résiliation adressé l'apprenti + adresser la CCI: 2 copies de la «constatation de la rupture du contrat
+d'apprentissage » et une copie du courrier de résiliation adressé l'apprenti ° remettre en mains propres ou adresser en recommandé avec accusé réception l'apprenti une copie de la « constatation de la rupture du contrat d'apprentissage ».
+
+> Après les deux premiers mois d'apprentissage:
+
+La rupture du contrat d'apprentissage ne peut intervenir que dans des cas limitativement
+
+énumérés par le code du travail:
+
+° d’un commun accord entre les parties (accord constaté par écrit et signé par les
+parties). Dans ce cas, les étapes respecter sont les mêmes que celles décrites ci-
+dessus (cas de la rupture pendant le délai des deux mois) e défaut d'accord, en sollicitant le Conseil de Prud'hommes pour qu'il prononce la
+résiliation judiciaire du contrat, si les éléments de preuve de la faute grave, de
+manquements répétés de l’une des parties ses obligations ou de l’inaptitude de
+l'apprenti, sont suffisants e en cas d'obtention du diplôme ou du titre, l'apprenti peut décider de mettre fin au
+contrat d'apprentissage avant le terme fixé initialement s'il a informé par écrit
+l'employeur au moins deux mois auparavant.
+
+17/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 18 ===
+
+CENTRE
+RS To Ta t
+
+Quel que soit le bien fondé des motifs invoqués l'encontre de l'apprenti, l'employeur ne
+
+peut pas de lui-même, rompre le contrat de travail, même en cas de manquements graves
+
+de la part de l’apprenti. Ainsi, lorsque des difficultés suffisamment graves pour envisager
+la résiliation du contrat surviennent avec un apprenti, il convient de:
+
+e tracer par écrit les manquements reprochés l'apprenti et l’informer des éventuelles
+conséquences de son comportement sur la poursuite du contrat,
+
+° défaut d'accord entre les parties pour résilier le contrat d’un commun accord, saisir le
+Conseil de Prud'hommes,
+
+° continuer la relation de travail avec l’apprenti dans l'attente de la décision du Conseil de
+Prud'hommes,
+
+e siles manquements de l'apprenti sont suffisamment graves, il pourra être envisagé sa
+mise pied conservatoire (il est dispensé de son activité mais reste rémunéré) dans
+l'attente de la décision du Conseil de Prud'hommes.
+
+Au terme du contrat, qu'il soit anticipé ou non, aucune indemnité de fin de contrat n’est
+
+due par l'employeur.
+
+1.8.4 (CONVENTION DE GESTION AVEC POLE EMPLOI - C52
+
+EDF n'adhère pas au régime d'Assurance Chômage. Elle a signé la convention de gestion
+
+C52 qui prévoit la facturation d’un forfait l'entreprise par l'Unedic, lorsque Pôle Emploi
+
+ouvre un droit aux prestations réglementaires un ancien salarié d'EDF.
+
+Ainsi, au terme du contrat d'apprentissage, une attestation Pôle Emploi
+
+(ex attestation Assedic) portant la mention C52 est remise l'apprenti. Si celui-ci s'inscrit Pôle Emploi et se voit ouvrir des droits l'indemnisation chômage, EDF pourrait être
+
+reconnue « meilleur employeur en durée d'emploi »" et devoir verser un montant
+
+forfaitaire l'Unedic au titre de cette convention.
+1.8.5 SUCCESSION DE CONTRATS
+
+Après un contrat d'apprentissage et dans le respect des limites d'âge fixées par le code du
+
+travail (cf paragraphe « Publics Bénéficiaires >» - p.6 de la présente note) l'apprenti peut:
+
+° conclure un nouveau contrat d'apprentissage avec le même employeur ou avec un
+employeur différent pour préparer un titre ou un diplôme sanctionnant une qualification
+différente (de même niveau ou non) ou une option complémentaire. Dans le cas de la
+préparation d’une option complémentaire, le nouveau contrat d'apprentissage est limité lan;
+
+° conclure un troisième contrat d'apprentissage de même niveau, lorsque l'apprenti a
+déjà conclut précédemment deux contrats d'apprentissage successifs de même niveau, condition d'obtenir l’autorisation du directeur du dernier CFA qu'il a fréquenté e conclure un contrat de professionnalisation avec le même employeur ou un
+employeur différent dès lors qu'il conduit une qualification complémentaire ou
+différente de celle obtenue en apprentissage.
+
+Aucune condition de délai entre deux contrats n’est exigée.
+
+‘ Le critère de meilleur employeur peut être retenu par Pôle Emploi si:
+- EDF SA a été le seul employeur - le salarié a travaillé pour plusieurs employeurs et:
+
+*_ son contrat de travail avec EDF SA a été d'une durée supérieure aux autres *_ son contrat de travail avec EDF SA a été d’une durée égale un autre mais s’est positionné après. Dans ce cas
+d'égalité de durée d'emploi, le Règlement d'assurance chômage applique la règle du dernier employeur pour la
+charge de l'indemnisation.
+
+18/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 19 ===
+
+CENTRE
+RS To Ta t
+1.9 SITUATION DE L’APPRENTI
+1.9.1 PRISE EN COMPTE DANS LES EFFECTIFS
+
+Pendant la durée de leur contrat, les apprentis ne sont pas prendre en compte dans le
+
+calcul des effectifs sauf pour ce qui concerne le risque accident du travail et maladie
+
+professionnelle (AT-MP).
+
+1.9.2 DROIT INDIVIDUEL FORMATION (DIF)
+Le titulaire d’un contrat d'apprentissage n'entre pas dans le champ des bénéficiaires d’un
+DIF. Il ne peut alors acquérir d'heures de DIF pendant la durée de son contrat.
+
+1.9.3 REMUNERATION
+
+L’apprenti perçoit un salaire déterminé en pourcentage du SMIC (cf. note d'application
+
+portant sur la rémunération des contrats en alternance actualisée chaque revalorisation
+
+du SMIC)'. Ce montant varie entre 45 % et 78 % du SMIC en fonction de l’âge et de la
+progression de l'apprenti dans le ou les cycles de formation.
+
+Moins de 21 ans 145% du SMIC |60 % du SMIC |65 % du SMIC?
+
+21 ans et plus 60 % du SMIC |75 % du SMIC |78 % du SMIC"?
+
+Evolution de la rémunération de l’apprenti en fonction de son âge:
+
+Lorsque l’apprenti atteint l’âge de 21 ans, le taux de rémunération change le premier jour
+
+du mois d'anniversaire du jeune.
+
+Exemple: un apprenti EDF SA, en première année d'apprentissage, atteint l'âge de 21
+ans le 10 mars. Sa rémunération évoluera de 45 % 60 % du SMIC compter
+du 1° mars.
+
+Evolution de la rémunération de l’apprenti la date anniversaire du contrat:
+
+L'évolution de la rémunération de l'apprenti au cours de son contrat intervient chaque
+
+année la date anniversaire du contrat:
+
+Exemple: un contrat d'apprentissage de 25 mois débute le 1°’ septembre N pour une
+formation débutant le 1° octobre N et s'achevant le 30 septembre N+2. La
+rémunération évoluera de la façon suivante:
+
+e 1” septembre N = rémunération versée sur la base d'une première année
+d'apprentissage
+e 1” septembre N+1 = rémunération versée sur la base d'une deuxième
+année d'apprentissage
+e 1° septembre N+2 = rémunération versée sur la base d'une troisième année
+d'apprentissage
+"1 Les taux de rémunération des apprentis accueillis EDF SA sont supérieurs aux taux de rémunération minimum
+réglementaires fixés par le droit commun.
+12 Taux de rémunération identiques ceux fixés par le droit commun.
+19/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 20 ===
+
+RS To Ta t
+
+Rémunération d’un apprenti qui entre en apprentissage en cours de cycle de
+
+formation (réduction de la durée de l’apprentissage):
+
+L'apprenti ayant suivi une formation temps complet dans un établissement technique ou
+
+un contrat de professionnalisation pendant une année au moins, et qui entre en
+
+apprentissage pour achever cette formation, est considéré au titre de sa rémunération
+comme ayant effectué une première année d'apprentissage. Sa rémunération doit donc
+être au moins égale celle afférente une deuxième année d'apprentissage.
+
+Exemple: Le jeune admis en troisième année du Bac Professionnel (Bac Professionnel
+rénové 2009 -en trois ans-) en apprentissage après avoir effectué les deux
+premières années temps complet en cursus classique, sera considéré au
+titre de sa rémunération comme ayant effectué les deux premières années du
+Bac Professionnel en apprentissage. Il sera donc rémunéré sur la base d’une
+troisième année d'apprentissage.
+
+Cas des apprentis de l’enseignement supérieur'°
+
+Exemple 1: Le jeune admis en deuxième année de Master en apprentissage après une
+première année de Master temps complet en cursus classique, est
+considéré au titre de sa rémunération comme ayant effectué une première
+année d'apprentissage. Il sera donc rémunéré sur la base d'une deuxième
+année d'apprentissage.
+
+Exemple 2: Le jeune admis en dernière année d'école de commerce (Bac+5) en
+apprentissage après les deux premières années du cycle de l'école de
+commerce effectuées temps complet en cursus classique, est considéré
+comme ayant effectué les deux premières années en apprentissage. Il sera
+donc rémunéré sur la base d'une troisième année d'apprentissage.
+
+Exemple 3: Cas particulier des Licences professionnelles:
+
+Le jeune admis en Licence Professionnelle en apprentissage après deux
+années de BTS temps complet en cursus classique, est considéré au titre
+de sa rémunération comme ayant effectué une première année
+d'apprentissage. Il sera donc rémunéré sur la base d'une deuxième année
+d'apprentissage.
+
+Rémunération d’un apprenti qui prépare un diplôme de même niveau que la
+qualification déjà obtenue:
+Lorsqu'un contrat d'apprentissage est conclu avec un apprenti déjà titulaire d'un diplôme
+de l’enseignement technologique ou professionnel, ou d’un titre homologué (obtenu par la
+voie de l'apprentissage ou par toute autre voie de formation), en rapport direct et de
+même niveau que la nouvelle qualification visée, la durée de l'apprentissage peut être
+réduite *. Une majoration de 15 points est alors appliquée au salaire minimum
+réglementaire auquel l'apprenti peut prétendre au titre de la dernière année de la
+formation.
+
+18 Cf circulaire DGEFP-DGT n2007-04 du 24 janvier 200 7 relative la rémunération applicable aux apprentis.
+
+14 La demande de réduction de la durée du contrat doit être formulée auprès du recteur académique, par le jeune ou par
+l'employeur. Faute de réponse dans un délai d’un mois compter de la date de dépôt de la demande, la décision est
+réputée positive.
+
+20/57
+
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 21 ===
+
+CENTRE
+
+Exemple: Un apprenti (de moins de 21 ans) ayant obtenu par la voie scolaire classique
+un titre professionnel homologué de niveau IV (niveau Bac Professionnel),
+conclut un contrat d'apprentissage avec EDF SA pour préparer un Bac
+Professionnel (Bac Professionnel rénové 2009 -en trois ans-) en rapport
+direct avec le titre précédemment obtenu. Au commencement de son contrat
+d'apprentissage il sera donc rémunéré sur la base d'une troisième année
+d'apprentissage (65 %) majorée de 15 points, soit: 80 % (65 + 15).
+
+Rémunération d’un apprenti en fonction de sa progression dans les cycles de
+
+formation:
+
+Au titre de sa progression dans les cycles de formation, l'apprenti bénéficie d’une
+
+rémunération au moins égale celle laquelle il pouvait prétendre dans le cadre de son
+
+précédent contrat. Ainsi:
+
+e lorsque le nouveau contrat d'apprentissage est conclu avec le même employeur, la
+rémunération de l'apprenti est au moins égale celle qu'il percevait lors de la
+dernière année d'exécution du précédent contrat e lorsque le nouveau contrat est conclu avec un employeur différent, la rémunération
+de l'apprenti est au moins égale la rémunération minimale réglementaire laquelle
+il pouvait prétendre lors de la dernière année d'exécution du contrat précédent. Les
+rémunérations supérieures au taux minimum réglementaire perçues par l'apprenti
+dans le cadre de son premier contrat, notamment en application d'un accord collectif,
+ne sont pas opposables au nouvel employeur ne relevant pas de la même branche.
+
+Exemple 1: Après l'obtention du Bac Professionnel (Bac Professionnel rénové 2009 -en
+trois ans-) dans le cadre d'un contrat d'apprentissage EDF SA, un apprenti
+(de moins de 21 ans) conclut un deuxième contrat d'apprentissage avec
+EDF SA pour préparer en deux ans un BTS. Sa rémunération était de 65 %
+du SMIC la dernière année de son précédent contrat. Au commencement de
+son nouveau contrat, sa rémunération sera de 65 % du SMIC, et ce, pour les
+deux années du BTS (s'il n'a pas encore atteint 21 ans).
+
+Nota: la rémunération serait également de 65 % du SMIC si le précédent contrat avait été
+
+effectué chez un employeur autre qu'EDF SA puisque le taux de rémunération d'une
+
+troisième année d'apprentissage d'un apprenti de moins de 21 ans EDF SA est
+identique celui fixé dans le droit commun.
+
+Exemple 2: Un jeune a obtenu moins de 21 ans un Bac Professionnel (Bac
+Professionnel rénové 2009 -en trois ans-) en apprentissage EDF SA. II
+conclut un deuxième contrat d'apprentissage avec EDF SA pour préparer en
+deux ans un BTS. Sa rémunération était de 65 % du SMIC lors du précédent
+contrat. Au commencement de son nouveau contrat, alors qu'il vient
+d'atteindre ses 21 ans, sa rémunération sera de 65 % du SMIC puis
+passera 75 % du SMIC la deuxième année du BTS.
+
+Exemple 3: Après l'obtention d'un Brevet Professionnel (en deux ans) en apprentissage
+chez un employeur X, un apprenti (de moins de 21 ans) conclut un nouveau
+contrat d'apprentissage avec EDF SA pour préparer un BTS. Sa
+rémunération, précédemment versée par l'employeur X, était de 49 % du
+SMIC. Au commencement de son nouveau contrat EDF SA (1° année de
+BTS) sa rémunération sera de 49 % du SMIC et passera 60 % du SMIC la
+dernière année du BTS (s'il n’a pas encore atteint 21 ans).
+
+21/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 22 ===
+
+CENTRE
+RS To Ta t
+Exemple 4: Après une première année de Bac Professionnel (Bac Professionnel rénové
+2009 -en trois ans-) chez un employeur X, un apprenti (de moins de 21 ans)
+conclut un nouveau contrat d'apprentissage avec EDF SA pour préparer les
+deux dernières années du Bac Professionnel. Sa rémunération, plus
+favorable que le minimum réglementaire sur l'initiative de l'employeur X, était
+de 63 % du SMIC. Au commencement de son nouveau contrat EDF SA
+(2° année du Bac Professionnel) sa rémunération sera de 60 % du SMIC
+et passera 65 % du SMIC la dernière année du Bac Professionnel (s'il n'a
+pas encore atteint 21 ans).
+Cas des apprentis de l'enseignement supérieur
+Exemple: Après l'obtention d'une Licence Professionnelle dans le cadre d'un contrat
+d'apprentissage EDF SA, un apprenti (de plus de 21 ans) conclut un
+deuxième contrat d'apprentissage de deux ans, toujours avec EDF SA, pour
+préparer un Master 1 puis un Master 2. Sa rémunération était de 75 % du
+SMIC en Licence Professionnelle. Au commencement de son nouveau
+contrat (Master 1) sa rémunération sera également de 75 % du SMIC et
+restera fixée 75 % pour l'année de Master 2.
+Rémunération d’un apprenti handicapé dont la durée de l'apprentissage est
+allongée du fait de son handicap:
+Les apprentis ayant la qualité de travailleur handicapé peuvent voir la durée de leur
+contrat allongée. La rémunération qu'ils perçoivent lors de la durée supplémentaire
+d'apprentissage est celle de la dernière année de leur contrat majorée de 15 points.
+Exemple: Un apprenti (de plus de 21 ans), dont la qualité de travailleur handicapé a
+été reconnu, conclut avec EDF SA un contrat d'apprentissage de 4 ans. Lors
+de la 4°" année de son contrat il sera rémunéré sur la base d'une troisième
+année d'apprentissage (78 %) majorée de 15 points, soit: 93 % (78 + 15).
+1.9.4 GRATIFICATION DE FIN D’ANNEE
+L'apprenti ne bénéficie pas de la gratification dite de fin d’année, cette disposition étant
+réservée aux salariés statutaires (article 14 $4 du Statut National du personnel des IEG).
+1.9.5 INTERESSEMENT
+Pour en bénéficier, l'apprenti doit avoir une ancienneté minimale cumulée de 3 mois EDF SA dans l’année civile, obtenue par un ou plusieurs contrats successifs avec ou sans
+interruption.
+Le montant de l’intéressement peut alors être versé directement l’apprenti ou celui-ci
+peut le placer sur le Plan Epargne Groupe (PEG) ou sur le Plan d'Epargne Retraite
+Collectif (PERCO). Dans les deux cas, la somme est abondée par l’entreprise selon les
+dispositions en vigueur au moment du versement. Les sommes placées sur le PEG
+peuvent être débloquées la demande de l'apprenti dès le terme de son contrat
+d'apprentissage. Attention, les sommes placées sur le PERCO ne seront disponibles
+qu'au moment du départ la retraite (sauf dans le cadre des 5 cas de déblocage anticipé
+prévus par la loi).
+22/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 23 ===
+
+CENTRE
+RS To Ta t
+1.9.6 PRISE EN CHARGE DES FRAIS DE L’APPRENTI (TRANSPORTS, HEBERGEMENT,
+RESTAURATION)
+
+Se reporter au tableau joint en annexe 3 de cette note.
+
+1.9.7 TENUES ET EQUIPEMENTS
+L'apprenti bénéficie des tenues et équipements dans les mêmes conditions que celles
+applicables aux salariés de l’équipe qui l’accueille et l’'encadre.
+
+1.9.8 CONGES ANNUELS
+Les apprentis bénéficient d’une dotation de congés annuels de 2,5 jours ouvrés par mois
+de travail effectif. Ces jours valorisés 7 heures, représentent 30 jours de congés annuels
+pour une année complète de présence (soient 210 heures). Ces jours sont acquis
+mensuellement, et immédiatement utilisables sans avoir respecter le cycle de dotation
+de congés applicable aux salariés statutaires.
+Les jours de congé doivent être pris en temps n'importe quel moment de l’année en
+dehors des périodes de cours au CFA, avec l'accord de la hiérarchie. Ils font alors l’objet
+d'une saisie dans l'application de gestion des temps et des absences:
+Code 21 - Congé annuel.
+
+1.9.9 ABSENCE POUR LA PREPARATION DES EXAMENS
+Dans le cadre du contrat d'apprentissage, sont prévus 5 jours d'absence autorisée au
+bénéfice des apprentis pour la préparation aux examens. Ces jours sont pris dans le mois
+qui précède les examens et uniquement dans le cadre d'épreuves officielles, que le CFA
+organise ou non des périodes de révision. Ils ne peuvent pas être utilisés pour les
+périodes d'examens blancs.
+Si le CFA organise des enseignements pour cette période de révision, l'apprenti est tenu
+d'y participer.
+Ces jours sont enregistrer dans l'application de gestion des temps et des absences au
+Code CD - Absence diverse rémunérée.
+
+1.9.10 CONGES POUR EVENEMENTS FAMILIAUX
+L'apprenti bénéficie des congés de droit commun prévus l'article L.3142-1 du Code du
+travail, savoir:
+- 4 jours pour le mariage du salarié,
+- 3 jours pour chaque naissance survenue dans son foyer ou pour l’arrivée d’un enfant
+
+placé en vue de son adoption,
+- 2 jours pour le décès d’un enfant,
+-_2 jours pour le décès du conjoint ou du partenaire lié par un PACS,
+- 1 jour pour le mariage d’un enfant,
+- 1 jour pour le décès du père, de la mère, du beau-père, de la belle-mère, d’un frère ou
+d'une sœur.
+Ces jours d'absence pour évènements familiaux n'entraînent pas de réduction de la
+rémunération et sont considérés comme des jours de travail effectif pour la détermination
+de la durée du congé annuel (article L 3142-2 du Code du travail). Ils sont saisir dans
+l'application de gestion des temps et des absences au Code 33 - Congé spécial familial.
+23/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 24 ===
+
+CENTRE
+RS To Ta t
+
+1.9.11 FETE LOCALE
+La fête locale est considérée comme un jour férié fixé localement. L’apprenti peut en
+bénéficier dans la mesure où la période de validité de son contrat inclut la journée de fête
+locale fixée par l'employeur et selon les modalités prévues dans son Unité. Cette journée
+est saisir dans l'application de gestion des temps et des absences au Code 20 - Fête
+locale.
+
+1.9.12 JOURNEE DE SOLIDARITE
+La journée de solidarité s'applique l'ensemble des salariés, quelle que soit leur situation
+particulière. Ainsi, les apprentis doivent accomplir une journée de solidarité pour chaque
+année civile pendant lesquelles court leur contrat.
+Lors du démarrage du contrat, il convient de vérifier auprès de l’apprenti s’il ne s’est pas
+déjà acquitté, chez un autre employeur, de cette journée au titre de l’année en cours. Un
+changement d’employeur en cours d'année ne peut avoir pour effet l'exécution d'une
+deuxième journée de solidarité au cours d’une même année civile.
+La journée de solidarité est saisir dans l'application de gestion des temps et des
+absences dans l'onglet « Collecte »: renseigner le nombre d'heures effectuées (7
+heures), sur la ligne Collecte de la journée de solidarité.
+
+1.9.13 AVANTAGES EN NATURE
+Les apprentis ne bénéficient pas des avantages en nature prévus par le Statut National du
+personnel des IEG.
+
+1.9.14 PROTECTION SOCIALE
+L'apprenti n'étant pas statutaire, sa couverture sociale est celle du régime général de la
+Sécurité Sociale. || doit donc se rapprocher de la Caisse Primaire d'Assurance Maladie
+(CPAM) dont dépend son domicile pour s'inscrire au régime général.
+Les inscriptions au régime « Etudiant >» ne sont pas valables.
+Pour ce qui concerne la protection sociale complémentaire, le choix d’être affilié une
+mutuelle complémentaire est l'initiative de l'apprenti. Pour la même raison que celle
+évoquée précédemment, l'apprenti ne peut pas être inscrit au régime complémentaire de
+la CAMIEG.
+Toute absence, tant en entreprise qu'au CFA, est placée sous le contrôle de l’entreprise.
+Les absences doivent être justifiées par un arrêt de travail.
+La période d'arrêt de travail pour les absences liées la maladie ou un accident non
+professionnel doivent être saisies dans l’application de gestion des temps et des absences
+au code 41 - Maladie ou accident non professionnel.
+Attention! L'utilisation de ce code entraînera une retenue sur paie. Le salarié percevra les
+indemnités journalières de l'assurance maladie après application de la franchise de 3 jours
+prévue en droit commun.
+Tout apprenti ayant au moins un an d'ancienneté dans l'entreprise bénéficie, en cas
+d'absence au travail pour cause de maladie ou d'accident constaté par certificat médical,
+d'une indemnité complémentaire l'allocation journalière de sécurité sociale.
+
+24/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 25 ===
+
+CENTRE
+RS To Ta t
+1.9.15 COUVERTURE ACCIDENT DU TRAVAIL ET MALADIE PROFESSIONNELLE (AT-MP)
+
+L’apprenti bénéficie de l’ensemble des prestations dues par le régime général de la
+Sécurité Sociale. Ainsi, quel que soit le lieu de l'accident (entreprise ou CFA), il appartient l'employeur d'établir la déclaration d'accident du travail transmettre la CPAM (dans
+les 48 heures) et de prendre en charge l'instruction du dossier.
+La reconnaissance du caractère professionnel d’un accident est de la compétence des
+seules CPAM. Par conséquent, il convient d'utiliser le conditionnel pour les réponses
+susceptibles d’être apportées chacune des situations évoquées ci-dessous, car en
+matière d'accident les situations sont analysées par la CPAM au cas par cas:
+
+-_ lorsque l’accident survient dans les locaux du CFA ou dans les locaux de l’entreprise,
+l'accident pourrait relever du domaine des accidents du travail -__ lorsque l’accident survient entre le lieu de résidence de l’apprenti et le CFA, l'accident
+pourrait relever du domaine des accidents de trajet - lorsque l'accident survient sur le lieu de résidence mis disposition de l'apprenti par
+l'entreprise, l'accident ne devrait pas relever en principe du domaine des accidents
+du travail (le fait que le logement soit mis disposition par l'employeur n'emporte pas
+caractère professionnel de l'accident qui pourrait y survenir).
+
+1.9.16 RETRAITE COMPLEMENTAIRE
+Les cotisations de retraite complémentaire des apprentis sont versées l'IRCANTEC
+(Institution de Retraite Complémentaire des Agents Non Titulaires de l'Etat et des
+Collectivités publiques).
+
+1.9.17 DROIT DE GREVE
+L’apprenti est un travailleur salarié, il bénéficie donc, ce titre, des dispositions
+applicables l'ensemble des salariés dans la mesure où elles ne sont pas contraires celles qui sont liées sa situation d’apprenti. Par conséquent, l’apprenti bénéficie du droit
+de grève et peut donc l'exercer. Il doit être saisi dans l’application de gestion des temps et
+des absences au Code 052 - Grèves et autres mouvements revendicatifs.
+
+1.9.18 HEURES D'INFORMATIONS SYNDICALES
+L'apprenti bénéficie, comme tous les autres salariés de l’entreprise, d’un crédit annuel de
+douze heures pour participer, sans perte de rémunération, des réunions d'informations
+syndicales organisées pendant la durée du travail, sous réserve que les conditions de
+service permettent ces absences (Accord relatif la mise en place des délégués
+syndicaux et l'exercice du droit syndical EDF SA du 18 janvier 2008).
+Les heures utilisées sont saisir dans l’application de gestion des temps et des absences
+au Code 28 — Réunion d’information du personnel.
+
+25/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 26 ===
+
+CENTRE
+RS To Ta t
+
+1.10 INFORMATION DES REPRESENTANTS DU PERSONNEL
+La consultation et l’information du Comité d'Etablissement sur l’apprentissage doivent
+avoir lieu a minima une fois dans l’année, au cours d'une seule et même réunion avant le
+31 décembre, ou peuvent intervenir l'occasion des consultations du Comité
+d’'Etablissement sur la formation.
+Les informations communiquer dans ce cadre sont précisées dans la note
+CERH-A 09-018 du 2 mars 2009.
+
+1.11 COMPETENCES DISCIPLINAIRES
+Le directeur du CFA n'est pas signataire du contrat d'apprentissage, il ne peut donc pas
+se substituer l'employeur dans l'exercice de son pouvoir disciplinaire. En revanche, le
+directeur de CFA peut, dans le cadre de son Conseil de Discipline, objectiver les faits ou
+prendre des décisions disciplinaires prévues par son règlement intérieur condition
+qu'elles n'aient pas d'incidence directe sur le contrat de travail. Il appartient au directeur
+du CFA de signaler l'employeur les comportements fautifs de l'apprenti au sein du CFA.
+Lorsque le Conseil de Discipline du CFA décide d’exclure un apprenti de son CFA, cette
+exclusion ne rompt pas de plein droit le contrat d'apprentissage (pas d'incidence sur le
+contrat de travail).
+L'employeur exerce son pouvoir disciplinaire dans le respect de la procédure disciplinaire
+définie par le code du travail. Celle-ci peut aller jusqu’à la saisine du Conseil des
+Prud'hommes pour demander la résolution judiciaire du contrat d'apprentissage.
+Attention! les sanctions pécuniaires sont interdites.
+
+1.12 AIDES FINANCIERES / EXONERATION DES CHARGES PATRONALES
+
+1.12.1 CREDIT D’IMPOT
+L'entreprise bénéficie d'un crédit d'impôt de 1600 euros par apprenti présent en moyenne
+dans l’année. Ce montant est porté 2200 euros lorsqu'il s’agit d'apprentis reconnus
+travailleurs handicapés ou bénéficiant d’un accompagnement personnalisé dans le cadre
+de difficultés particulières d'accès l'emploi.
+
+1.12.2 INDEMNITE COMPENSATRICE FORFAITAIRE
+Le montant minimum de l'indemnité compensatrice forfaitaire, versée l’entreprise par la
+région (ou la collectivité territoriale de Corse), est fixé pour chaque année du cycle de
+formation 1000 euros par apprenti. Ce montant est proratisé en fonction de la durée
+effective du contrat.
+Ce montant peut également être majoré suivant des critères spécifiques définis par
+chaque région.
+
+26/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 27 ===
+
+CENTRE
+RS To Ta t
+1.12.3 EXONERATION DES COTISATIONS SOCIALES
+Exonération partielle de la part patronale des cotisations sociales. Les cotisations qui
+restent dues sont les suivantes:
+- Accident du Travail et Maladie Professionnelle (AT-MP),
+- Contribution Solidarité Autonomie (CSA),
+-__ Fonds National d'Aide au Logement (FNAL),
+- Versement Transport,
+- Association de Garantie des Salaires (AGS),
+- Comité Entreprise,
+- Retraite Complémentaire (IRCANTEC).
+1.12.4 AIDE TEMPORAIRE: DISPOSITIF « ZERO CHARGES »
+Une aide temporaire versée aux employeurs de 11 salariés et plus, vise compenser les
+cotisations sociales versées pour les nouveaux apprentis dont le contrat d'apprentissage
+commence entre le 24 avril 2009 et le 30 juin 2010 (cf note CERH-A 09-040 du 8 juillet
+2009 — Mesures d'aide aux entreprises pour favoriser l'emploi des jeunes).
+27/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 28 ===
+
+CENTRE
+RS To Ta t
+2 - LE CONTRAT DE PROFESSIONNALISATION
+2.1 TEXTES DE REFERENCE
+Code du travail articles L.6325-1 L.6325-22 et D.6325-1 D.6325-28
+Loi n2007-1822 du 24 décembre 2007 de finances pour 2008
+Loi n°2009-1437 du 24 novembre 2009 relative l'orientation et la formation
+professionnelle tout au long de la vie.
+Décret n°2009-612 du 2 juin 2009 portant application de l’article L6325-17 du code du
+travail (exonération des cotisations sociales)
+Décret n°2009-694 du 15 juin 2009 instituant une aide l'embauche des jeunes de moins
+de 26 ans en contrat de professionnalisation
+Circulaire DGEFP n°2007-21 du 23 juillet 2007 relative la mise en œuvre du contrat de
+professionnalisation
+Accord de branche du 16 septembre 2005 relatif la formation professionnelle continue
+dans la branche des industries électriques et gazières.
+Accord EDF SA du 24 février 2006 relatif la formation tout au long de la vie
+professionnelle.
+Note CERH-A 09-039 du 3 juillet 2009 relative la revalorisation du SMIC et la
+rémunération des contrats en alternance au 1° juillet 2009 (une nouvelle note est diffusée chaque actualisation du SMIC)
+Note CERH-A 09-040 du 8 juillet 2009 relative aux aides l'entreprise en faveur de
+l'emploi des jeunes (mesures temporaires)
+Le contrat de professionnalisation est régi par les dispositions du Code du travail.
+Il peut être conclu en CDD ou en CDI. Il est établi par écrit.
+Quand il est conclu durée indéterminée (dans le cadre d'une embauche statutaire), les
+dispositions du Statut National du personnel des Industries Electriques et Gazières
+s'appliquent.
+
+En aucun cas, le titulaire d’un contrat de professionnalisation en CDD ne peut se prévaloir
+des dispositions du Statut National du personnel des Industries Electriques et Gazières.
+28/57
+
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 29 ===
+
+(ALT
+RS To Ta t
+2.2 OBJET
+L'employeur s'engage assurer une formation au salarié lui permettant d'acquérir une
+qualification professionnelle et lui fournir un emploi en relation avec cet objectif pendant
+la durée du contrat de professionnalisation en CDD ou de l’action de professionnalisation
+dans le cas d’un CDI.
+Le salarié s'engage travailler pour le compte de son employeur et suivre la formation
+prévue au contrat.
+Dans le cadre de l'accord EDF formation tout au long de la vie professionnelle du 24
+février 2006, les parties signataires ont convenu de "positionner les contrats de
+professionnalisation en CDD au bénéfice de jeunes de moins de 26 ans sortis du
+système éducatif sans qualification professionnelle reconnue et des demandeurs
+d'emploi de plus de 26 ans, dans une logique d'insertion ou de réinsertion
+professionnelle, pour des diplômes ou titres intéressant EDF".
+2.3 PUBLICS BENEFICIAIRES
+Le contrat de professionnalisation s'adresse:
+- aux jeunes de 16 moins de 26 ans, souhaitant compléter leur formation initiale - aux demandeurs d'emploi âgés de 26 ans et plus - aux bénéficiaires du revenu de solidarité active, de l'allocation de solidarité
+spécifique, de l'allocation aux adultes handicapés ou d’un Contrat Unique d'Insertion
+(qui entre en vigueur le 1° janvier 2010 et qui pour EDF prend la forme d’un Contrat
+Initiative Emploi) - dans les départements d'outre-mer, aux bénéficiaires du revenu minimum d'insertion
+et de l'allocation de parent isolé.
+2.4 CARACTERISTIQUES DU CONTRAT DE PROFESSIONNALISATION
+2.4.1 NATURE ET DUREE DU CONTRAT
+Le contrat de professionnalisation est un contrat de travail associant une formation
+théorique dispensée par un organisme de formation l’acquisition de savoir-faire sur un
+poste de travail en entreprise. Il est obligatoirement écrit" et peut être conclu dans le
+cadre:
+-__ d’un CDD d'une durée de 6 12 mois - d’un CDI, dont l’action de professionnalisation d’une durée comprise entre 6 et
+12 mois se situe en début de contrat.
+L'accord de branche du 16 septembre 2005 prévoit la possibilité d’allonger la durée du
+CDD ou de l’action de professionnalisation en début de CDI jusqu'à 24 mois:
+- pour les personnes sorties du système éducatif sans qualification professionnelle
+reconnue,
+- lorsque la nature de la qualification l'exige.
+Au moment de la signature du contrat par l’alternant et l'employeur, ce dernier lui remet un
+engagement de confidentialité (cf annexe 1) et une lettre d'accompagnement au contrat
+de professionnalisation (cf annexe 2).
+18 Imprimé CERFA n42434*01 disponible sur le site www. travail. qouv. fr
+29/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 30 ===
+
+CENTRE
+RS To Ta t
+
+2.4.2 PERIODE D'ESSAI
+Le contrat de professionnalisation peut prévoir une période d'essai conforme aux
+dispositions du droit commun, savoir, un mois maximum si le contrat est conclu durée
+déterminée.
+
+2.4.3 DUREE DE LA FORMATION
+Les actions d'évaluation et/ou d'accompagnement ainsi que les enseignements généraux,
+technologiques ou professionnels ont une durée comprise entre 15 % et 25 % de la durée
+totale du CDD (sans pouvoir être inférieures 150 heures) ou de l'action de
+professionnalisation du CDI.
+Conformément l'accord EDF formation tout au long de la vie professionnelle du 24
+février 2006, cette durée peut être portée jusqu'à 50% dans la limite des référentiels de
+certification, pour des jeunes qui n'ont pas de qualification professionnelle reconnue et/ou
+qui visent une formation diplômante.
+
+2.4.4 TEMPS DE TRAVAIL
+La durée du travail ne peut excéder la durée hebdomadaire de travail dans l’entreprise savoir 85 heures, ni la durée maximale quotidienne du travail c'est-à-dire 10 heures.
+La durée hebdomadaire du travail inclut le temps passé en formation.
+Quel que soit le rythme de l'alternance, il est préconisé que les jours de présence en
+entreprise soient comptabilisés sur la base de 7 heures par jour. Cette organisation du
+temps de travail n’ouvre alors pas droit aux Récupérations du Temps de Travail (RTT).
+Les heures supplémentaires sont déconseillées dans la mesure où il existe un risque
+d'incompatibilité avec la situation de l’alternant en formation (notamment en cas de
+difficulté dans le suivi de la formation).
+Toutefois, titre exceptionnel, les éventuelles heures supplémentaires effectuées au-delà
+de 35 heures par semaine dans le cadre d’un contrat de professionnalisation conclu en
+contrat durée déterminée sont rémunérées selon les dispositions du droit commun:
+
+- majoration de salaire de 25% pour chacune des 8 premières heures (de la 36°"° la
+43% incluse) |
+- majoration de salaire de 50% partir de la 44°" heure et dans la limite de 48 heures
+par semaine.
+Il est préconisé de favoriser le remplacement de tout ou partie du paiement des heures
+supplémentaires et des majorations par un repos compensateur équivalent.
+La durée de travail effectif pour les jeunes de moins de 18 ans ne peut être
+supérieure, temps de formation compris, ni 35 heures par semaine, ni 8 heures par
+jour. Les heures supplémentaires sont interdites pour les salariés mineurs.
+Une pause d'au moins 30 minutes consécutives doit leur être accordée lorsque le temps
+de travail quotidien dépasse 4 heures et demie.
+Le repos quotidien ne peut être inférieur 12 heures consécutives.
+30/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 31 ===
+
+(ALT
+RS To Ta t
+
+Aussi, tout travail entre 22 heures et 6 heures ou pendant les jours fériés est interdit pour
+
+les jeunes de moins de 18 ans.
+
+Les salariés en contrat de professionnalisation de 18 ans et plus se voient appliquer, en
+
+terme de durée du travail, les mêmes règles que tout autre salarié de l'entreprise.
+
+2.5 FORMALITES ET CONDITIONS
+2.5.1 VISITE MEDICALE
+
+La visite médicale d'embauche est assurée par le médecin du travail de l'unité et doit être
+
+réalisée en amont de la date de démarrage du contrat et au plus tard avant l'expiration de
+
+la période d'essai (article R 4624-10 du Code du travail).
+
+L’aptitude médicale délivrée par le médecin du travail est nécessaire pour valider
+
+l'embauche.
+
+2.5.2 ENREGISTREMENT DU CONTRAT
+
+L'employeur doit adresser le contrat de professionnalisation l'organisme paritaire
+
+collecteur agréé'° (OPCA) au plus tard dans les cinq jours qui suivent le début du contrat.
+
+L'organisme collecteur émet un avis sur le contrat de professionnalisation et décide de la
+
+prise en charge des dépenses de formation.
+
+Il est toutefois conseillé de déposer le dossier avant le début d'exécution du contrat afin de
+
+s'assurer auprès de l'OPCA de sa conformité et de la prise en charge des dépenses de
+
+formation.
+
+Dans le délai d'un mois compter de la date de réception du contrat de
+
+professionnalisation, l'OPCA dépose le contrat, son avis et la décision d'aide (cf
+
+financement des actions de formation page 50 du présent guide) la Direction
+
+Départementale du Travail, de l'Emploi et de la Formation Professionnelle(DDTEFP) du
+
+lieu d'exécution du contrat.
+
+La DDTEFP vérifie la validité du contrat et procède alors son enregistrement (si avis
+
+positif de l'OPCA). La DDTEFP notifie sa décision l'employeur et l'OPCA. L'absence
+
+de réponse au-delà d’un mois compter de la date de dépôt vaut enregistrement.
+
+En cas de refus d'enregistrement:
+
+* l'employeur doit former un recours auprès de la Direction Régionale du Travail, de
+l'Emploi et de la Formation Professionnelle (DRTEFP) dans un délai d'un mois compter de la notification du refus,. sile DRTEFP confirme le refus d'enregistrement, l'employeur peut former un recours
+contentieux auprès du tribunal administratif territorialement compétent dans un délai de
+2 mois compter de la date de rejet du DRTEFP.
+
+En cas de refus d’enregistrement, le contrat de professionnalisation est requalifié
+
+en contrat de travail de droit commun. En cas de recours de la part de l'employeur,
+
+la requalification est suspendue.
+16 L'AGEFOS-PME pour EDF SA
+31/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 32 ===
+
+CENTRE
+RS To Ta t
+2.5.3 ACCUEIL D'UN ALTERNANT ETRANGER
+Les ressortissants de l’Union Européenne, de l'Espace Economique Européen ou de la
+Suisse
+Ils peuvent être accueillis dans le cadre d’un contrat de professionnalisation sans avoir détenir d'autorisation de travail. Dans ce cas, les démarches effectuer pour le contrat de
+professionnalisation sont identiques celles effectuées pour un alternant de nationalité
+française.
+Les ressortissants hors de l’Union Européenne, de l'Espace Economique Européen ou de
+la Suisse
+Seuls ceux titulaires de la carte de résident ou de la carte "vie privée et familiale" ont
+accès sans restriction au marché du travail et peuvent bénéficier du contrat de
+professionnalisation. Une copie de la carte détenue doit être jointe au contrat pour
+l'enregistrement. La présentation de la carte originale peut être demandée par le service
+d'enregistrement du contrat.
+Ceux non titulaires de la carte de résident ou de la carte "vie privée et familiale", ne
+peuvent pas conclure de contrat de professionnalisation.
+En amont de l'accueil, au sein de l’entreprise, de toute personne de nationalité étrangère,
+hors Union Européenne, Espace Economique Européen et Suisse, une enquête sécurité
+est prévue. Dans ce cas:
+* lorsque la personne est accueillie dans une unité de la Division Combustible
+Nucléaire (DCN), contacter la Direction de la Sécurité d'EDF SA (01.40.42.22.01)
+* lorsque la personne est accueillie dans un Centre Nucléaire de Production
+d’Electricité, contacter la Mission Sécurité de la Production Nucléaire (01.43.69.34.45).
+* lorsque la personne est accueillie dans une autre unité que celles citées
+précédemment, ce sont les règles de sécurité en vigueur dans l'unité, le cas échéant,
+qui doivent être appliquées. Il est néanmoins recommandé de se rapprocher de la
+Direction de la Sécurité (01.40.42.22.01) afin de s'assurer qu'il n'existe pas de
+vérification spécifique propre la nationalité concernée effectuer.
+Cette phase de vérification pouvant parfois être longue (plusieurs semaines), il convient
+de prévoir un délai suffisant avant la signature du contrat avec l'alternant.
+2.6 FORMATION
+2.6.1 FORMATION THEORIQUE (AU CENTRE DE FORMATION)
+La formation théorique est dispensée par un organisme de formation ou par l’entreprise
+elle-même si elle dispose de moyens de formations identifiés et structurés.
+Le temps passé en centre de formation est collecté dans l’application de gestion des
+temps et des absences au code 23 (comme pour les apprentis).
+32/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 33 ===
+
+CENTRE
+RS To Ta t
+
+2.6.2 FORMATION PRATIQUE (EN ENTREPRISE)
+L'employeur assure dans l’entreprise la formation pratique du salarié en contrat de
+professionnalisation.
+Toutes activités en relation directe avec la qualification visée et les enseignements
+théoriques dispensés en organisme de formation peuvent être confiées l’alternant.
+Un document élaboré par le centre de formation précisant les objectifs, le programme et
+les modalités d'organisation, d'évaluation et de sanction de la formation est annexé au
+contrat de professionnalisation.
+Cas particulier des salariés de moins de 18 ans: ils ne doivent pas être exposés des
+travaux dangereux énumérés dans le code du travail (art. D.4153-21 et suivants du code
+du travail).
+Exemple: Pour qu'un salarié mineur puisse effectuer des travaux sous-tension (donc
+exposé un risque électrique), l'autorisation de l'inspecteur du travail est
+systématiquement requise, après avis favorable du médecin du travail. Aussi, une
+autorisation du professeur ou du moniteur d'atelier est également requise (art. D4153-43
+du code du travail).
+Toutefois, le code du travail prévoit la possibilité de faire participer les jeunes travailleurs des travaux exposant un risque électrique, sous réserve du seul avis favorable du
+médecin du travail (donc sans demander l'autorisation de l'inspecteur du travail),
+uniquement pour les salariés munis d'un CAP correspondant l'activité
+(art. D.4153-47 du code du travail).
+Les salariés de 18 ans et plus bénéficient des dispositions applicables tout autre salarié
+de l’entreprise, sous réserve qu'elles ne soient pas incompatibles avec les exigences de la
+formation. Lorsque l'employeur confie des tâches un alternant, il doit néanmoins tenir
+compte systématiquement de sa situation de salarié en formation et observer toutes les
+règles nécessaires pour s'assurer qu'il ne sera pas porté atteinte ni sa santé, ni sa
+sécurité, comme il se doit de le faire pour l’ensemble de ses salariés.
+
+2.6.3 LE TUTEUR
+Pour chaque salarié en contrat de professionnalisation, l'employeur choisit un tuteur parmi
+les salariés de l’entreprise.
+Les parties signataires des accords de branche et d'entreprise cités en référence,
+considèrent que le tutorat est nécessaire au bon déroulement du contrat de
+professionnalisation.
+Le tuteur doit être volontaire et justifier d’une expérience professionnelle d'au moins deux
+ans dans une qualification en rapport avec l'objectif de professionnalisation visé.
+L'article D 6325-7 du Code du travail précise les missions du tuteur d'un alternant en
+contrat de professionnalisation:
+- d'accueillir, aider, informer et guider le salarié en contrat de professionnalisation,
+- d'organiser ses activités au sein de l’entreprise et de contribuer l’acquisition des
+
+savoir-faire professionnels,
+- de veiller au respect de son emploi du temps,
+- d'assurer la liaison avec l'organisme de formation,
+- de participer l'évaluation du suivi de la formation.
+33/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 34 ===
+
+CENTRE
+RS To Ta t
+Un tuteur peut encadrer simultanément jusqu’à deux salariés maximum en formation en
+alternance (contrat de professionnalisation, contrat d'apprentissage, période de
+professionnalisation!”).
+
+2.7 VIE DU CONTRAT
+Dans les deux mois suivant le début du contrat de professionnalisation, l'employeur
+examine avec le salarié l'adéquation du programme de formation au regard des acquis du
+salarié.
+
+En cas d'inadéquation, l'employeur et le salarié peuvent, dans les limites de la durée de
+ce contrat, conclure un avenant.
+
+Cet avenant est transmis l'organisme collecteur paritaire agréé. Il est déposé la
+Direction Départementale du Travail, de l'Emploi et de la Formation Professionnelle selon
+les modalités et dans les conditions définies l’article D.6325-1 du Code du travail.
+
+2.7.1 MODIFICATION DU CONTRAT
+Toute modification survenue en cours de contrat doit faire l’objet d’un avenant au contrat
+de travail initial (Imprimé CERFA n42434*01 comme pour le contrat initial).
+
+En cas d’avenant portant sur la durée de la formation ou du contrat, la date de début du
+contrat doit être indiquée ainsi que la somme des heures de formation déjà réalisées et
+des heures de formation prévues.
+
+L’avenant est transmis l'OPCA pour dépôt et enregistrement la DDTEFP.
+
+2.7.2 LA FIN DU CONTRAT DE PROFESSIONNALISATION OU DE L'ACTION DE PROFESSIONNALISATION
+
+Lorsque le contrat est conclu pour une durée déterminée, le contrat prend fin l'échéance
+de son terme. L’indemnité de précarité n’est pas due.
+Lorsque le contrat est conclu pour une durée indéterminée, la date de fin de l’action de
+professionnalisation est prévue par le contrat. Elle marque la fin des engagements
+particuliers liés la professionnalisation ainsi que des avantages dont pouvait bénéficier
+l'entreprise (non prise en compte du salarié dans les effectifs, exonérations des charges
+sociales.….).
+
+2.7.3 LA RUPTURE DU CONTRAT
+Pendant la période d'essai, chacune des parties peut mettre fin au contrat.
+
+Passée la période d'essai, lorsqu'il est conclu en CDD), le contrat de professionnalisation
+ne peut être rompu avant son terme que pour les motifs suivants:
+
+° accord mutuel des deux parties,
+
+e faute grave de l’une ou l’autre des parties,
+
+e force majeure,
+
+el'initiative du salarié s’il justifie d'une embauche durée indéterminée.
+
+7 Les périodes de professionnalisation s'adressent aux salariés en CDI (statutaires ou non statutaires) en vue de favoriser leur
+maintien dans l'emploi et le développement de leurs compétences.
+
+34/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 35 ===
+
+CENTRE
+RS To Ta t
+Lorsque le contrat est conclu en CDI, il peut être mis fin au contrat par une rupture du
+stage statutaire selon les règles applicables au sein d'EDF SA ou une démission.
+Toutefois, les tribunaux considèrent que pendant l’action de formation ou de
+professionnalisation, les règles de rupture anticipée du CDD s’appliquent.
+Ainsi, en cas de rupture anticipée du contrat de professionnalisation en CDD ou de l’action
+de professionnalisation lorsqu'il est conclu en CDI, l’article D.6325-5 du Code du travail
+prévoit que l'employeur signale cette rupture dans un délai de 30 jours:
+e au directeur de la DDTEFP,
+el'OPCA,
+el'organisme chargé du recouvrement des cotisations et contributions sociales
+(URSSAF).
+2.7.4 CONVENTION DE GESTION — C52
+EDF SA n'adhère pas au régime d'Assurance Chômage. Elle a signé la convention de
+gestion C52 qui prévoit la facturation d’un forfait l'entreprise par l’'Unedic, lorsque Pôle
+Emploi ouvre un droit aux prestations réglementaires un ancien salarié d'EDF SA.
+Ainsi, au terme du contrat de professionnalisation, une attestation Pôle Emploi (ex
+attestation Assedic) portant la mention C52 est remise au salarié. Si celui-ci s'inscrit Pôle Emploi et se voit ouvrir des droits l’indemnisation chômage, EDF SA pourrait être
+reconnue « meilleur employeur en durée d'emploi »'® et devoir verser un montant
+forfaitaire l’Unedic au titre de cette convention.
+2.7.5 LE RENOUVELLEMENT DU CONTRAT DE PROFESSIONNALISATION
+Lorsqu'il est conclu en CDD), le contrat de professionnalisation peut être renouvelé une
+fois si le bénéficiaire n'a pu obtenir la qualification envisagée pour l’une des raisons
+suivantes:
+e échec l'obtention de la qualification,
+° maternité ou adoption,
+e _ maladie ou accident du travail,
+e défaillance de l'organisme de formation.
+2.7.6 SUCCESSION DE CONTRATS
+Succession de deux contrats de professionnalisation en CDD avec le même employeur'°
+Il est possible de conclure deux contrats de professionnalisation successifs en CDD avec
+le même employeur uniquement si la qualification visée n’a pu être obtenue.
+8 Le critère de meilleur employeur peut être retenu si:
+- EDF SA a été le seul employeur - le salarié a travaillé pour plusieurs employeurs et:
+
+*_ son contrat de travail avec EDF SA a été d'une durée supérieure aux autres *_ son contrat de travail avec EDF SA a été d’une durée égale un autre mais s’est positionné après. Dans ce cas
+d'égalité de durée d'emploi, le Règlement d'assurance chômage applique la règle du dernier employeur pour la
+charge de l'indemnisation.
+
+19 L'employeur considéré est EDF SA.
+35 / 57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 36 ===
+
+CENTRE
+RS To Ta t
+Succession d'un contrat de professionnalisation en CDI après un contrat de
+professionnalisation en CDD avec le même employeur.
+Il est possible de conclure un contrat de professionnalisation en CDI après un contrat de
+professionnalisation en CDD avec le même employeur dans le cas où l'employeur et le
+salarié conviennent de préparer une seconde qualification:
+* soit enregistrée dans le répertoire national des certifications professionnelles prévu l’article L.335-6 du Code de l'éducation * soit reconnue dans les classifications d’une convention collective nationale de
+branche * soit figurant sur une liste établie par la commission paritaire nationale de l'emploi
+d'une branche professionnelle.
+Succession de deux contrats de professionnalisation avec deux employeurs différents?
+Il est possible de conclure deux contrats de professionnalisation successifs avec deux
+employeurs différents afin de permettre au salarié de préparer une qualification de niveau
+supérieur celle déjà obtenue ou une nouvelle qualification dans une autre discipline, si le
+second contrat est nécessaire son insertion professionnelle.
+Succession d'un contrat de professionnalisation en CDD avec le même employeur
+- Après un CDD de droit commun:
+Il est possible de conclure un contrat de professionnalisation en CDD avec le même
+employeur dès lors que la préparation de la qualification professionnelle permet d'acquérir
+la compétence pour occuper un autre poste de travail.
+° Après un contrat d'apprentissage:
+Il est possible de conclure un contrat de professionnalisation en CDD avec le même
+employeur afin de compléter une première qualification acquise en apprentissage par le
+biais d’un contrat de professionnalisation.
+° Après un contrat aidé:
+Il est possible de conclure un contrat de professionnalisation en CDD avec le même
+employeur dès lors que le contrat de professionnalisation permet d'obtenir une
+qualification nécessaire l'occupation d’un poste de travail.
+Succession de contrats avec le même employeur, après un contrat de professionnalisation
+en CDD
+° Un CDD de droit commun après un contrat de professionnalisation:
+Il est possible d’embaucher un salarié en CDD l'issue de son contrat de
+professionnalisation, sous réserve d'un motif de recours prévu par le Code du travail.
+Conformément l’article L.1244-4 alinéa 5 et l’article L.1242-3 du Code du travail, le
+contrat de professionnalisation n’est pas soumis au respect du délai de carence.
+20 Nota: EDF SA, ERDF, RTE sont des employeurs différents.
+36/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 37 ===
+
+(ALT
+RS To Ta t
+e Un contrat d'apprentissage après un contrat de professionnalisation:
+L’appréciation de l'enregistrement d’un tel contrat après un contrat de professionnalisation
+est laissée aux directeurs des DDTEFP. En effet, le contrat de professionnalisation a pour
+objectif d'acquérir une qualification ou de compléter une formation initiale afin d'occuper
+un poste déterminé en entreprise.
+e Un contrat aidé après un contrat de professionnalisation:
+
+Il n'est pas possible de conclure un contrat aidé après un contrat de professionnalisation.
+Le salarié en contrat de professionnalisation a pour vocation d'être embauché en contrat
+de droit commun au niveau de qualification obtenue et la plupart du temps, il ne répond
+plus aux critères d'éligibilité un contrat aidé.
+Succession d’un contrat de travail temporaire (intérim) après un contrat de
+professionnalisation en CDD
+Ni le code du travail, ni la circulaire DGEFP n°200 7/21 du 23 juillet 2007 n’apportent de
+réponse. À défaut de précision législative sur ce point, il semblerait qu'il soit possible de
+conclure un contrat de travail temporaire précédemment ou l'issue d'un contrat de
+professionnalisation en CDD condition que les activités confiées dans le cadre des deux
+contrats soient différentes. Il n’ya alors pas lieu de respecter le délai de carence.
+
+2.8 SITUATION DE L’ALTERNANT
+
+2.8.1 PRISE EN COMPTE DANS LES EFFECTIFS
+Le salarié en contrat de professionnalisation CDD ou pendant la durée de l’action de
+formation si le contrat est un CDI n’est pas pris en compte dans les effectifs de l’entreprise
+sauf pour le risque accident du travail et maladie professionnelle.
+
+2.8.2 DROIT INDIVIDUEL FORMATION (DIF)
+Le titulaire d'un contrat de professionnalisation n'entre pas dans le champ des
+bénéficiaires du DIF. Il ne peut alors acquérir d'heures de DIF pendant la durée de son
+contrat.
+
+2.8.3 REMUNERATION
+La rémunération varie de 65 %?' 100 % du SMIC selon l’âge du salarié (cf. note
+d'application CERH portant sur la rémunération des contrats en alternance actualisée chaque revalorisation du SMIC).
+Lorsqu'il atteint 21 ans, la rémunération de l’alternant est revalorisée le 1°’ jour du mois
+suivant sa date anniversaire.
+
+2.8.4 GRATIFICATION DE FIN D’ANNEE
+Le salarié en contrat de professionnalisation conclu en CDD ne bénéficie pas de la
+gratification dite de fin d'année, cette disposition étant réservée aux salariés statutaires
+(article 14 $ 4 du Statut National du personnel des IEG).
+
+21 Conformément l'accord EDF formation tout au long de la vie professionnelle du 24 février 2006.
+
+37/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 38 ===
+
+CENTRE
+RS To Ta t
+
+2.8.5 INTERESSEMENT
+Le salarié en contrat de professionnalisation bénéficie de l’intéressement sous réserve de
+remplir la condition d'ancienneté de 3 mois cumulés (avec ou sans interruption) au cours
+de l’année considérée.
+
+2.8.6 PRISE EN CHARGE DES FRAIS DE L’ALTERNANT (TRANSPORTS, HEBERGEMENT,
+
+RESTAURATION)
+
+Se reporter au tableau joint en annexe 3 de ce guide.
+
+2.8.7 TENUES ET EQUIPEMENTS
+L’alternant bénéficie des tenues et équipements dans les mêmes conditions que celles
+applicables aux salariés de l’équipe qui l’accueille et l’'encadre.
+
+2.8.8 (CONGES ANNUELS
+Le salarié en contrat de professionnalisation bénéficie de 2,25 jours ouvrés de congés
+annuels par mois de travail effectif, soit 27 jours (189 heures) prendre en temps
+obligatoirement par année de contrat.
+Les jours de congés pris doivent être saisis dans l’application de gestion des temps et des
+absences: Code 21 - Congé annuel.
+
+2.8.9 ABSENCE POUR LA PREPARATION DES EXAMENS
+A la différence de ce qui est prévu pour le contrat d'apprentissage, le Code du travail ne
+prévoit pas de jours supplémentaires pour le salarié en contrat de professionnalisation
+pour lui permettre de préparer les examens en vue de l'obtention de la qualification visée.
+
+2.8.10 CONGES POUR EVENEMENTS FAMILIAUX
+Le salarié en contrat de professionnalisation en CDD bénéficie des congés de droit
+commun prévus l’article L 3142-1 du Code du travail, savoir:
+° __4 jours pour le mariage du salarié,
+* 3 jours pour chaque naissance survenue dans son foyer ou pour l’arrivée d’un enfant
+
+placé en vue de son adoption,
+°__2 jours pour le décès d’un enfant,
+°__2 jours pour le décès du conjoint ou du partenaire lié par un PACS,
+° 1 jour pour le mariage d’un enfant,
+° 1 jour pour le décès du père, de la mère, du beau-père, de la belle-mère, d'un frère ou
+d'une sœur.
+Ces jours d'absence pour évènements familiaux n'entraînent pas de réduction de la
+rémunération et sont considérés comme des jours de travail effectif pour la détermination
+de la durée du congé annuel (article L 3142-2 du Code du travail).
+Ils sont saisir dans l’application de gestion des temps et des absences au code 33 -
+Congé spécial familial.
+38/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 39 ===
+
+CENTRE
+RS To Ta t
+
+2.8.11 FETE LOCALE
+La fête locale est considérée comme un jour férié fixé localement. L’alternant peut en
+bénéficier dans la mesure où la période de validité de son contrat inclut la journée de fête
+locale fixée par l'employeur et selon les modalités prévues dans son Unité.
+Cette journée est enregistrer dans l’application de gestion des temps et des absences
+au code 20 - Fête locale.
+
+2.8.12 JOURNEE DE SOLIDARITE
+Comme tout salarié, le salarié en contrat de professionnalisation doit effectuer une journée
+de solidarité par année civile.
+Lors du démarrage du contrat, il convient de vérifier auprès de l’alternant s’il ne s’est pas
+déjà acquitté, chez un autre employeur, de cette journée au titre de l’année en cours. Un
+changement d'employeur en cours d’année ne peut avoir pour effet l'exécution d’une
+deuxième journée de solidarité au cours d’une même année civile.
+La journée de solidarité est saisir dans l'application de gestion des temps et des
+absences dans l'onglet « Collecte »: renseigner le nombre d'heures effectuées (7
+heures), sur la ligne Collecte de la journée de solidarité.
+
+2.8.13 AVANTAGES EN NATURE
+Le salarié en contrat de professionnalisation en CDD ne bénéficie pas des avantages en
+nature prévus par le Statut National du personnel des IEG.
+
+2.8.14 PROTECTION SOCIALE
+Le salarié en contrat de professionnalisation en CDD relève du régime général de sécurité
+sociale et est affilié la CPAM de son département de résidence.
+Les inscriptions au régime « étudiant » ne sont pas valables.
+Pour ce qui concerne la protection sociale complémentaire, le choix d’être affilié une
+mutuelle complémentaire est l'initiative de l'alternant. Il ne peut pas être inscrit au
+régime complémentaire de la CAMIEG.
+Toute absence, tant en entreprise qu’en centre de formation”? est placée sous le
+contrôle de l’entreprise. Les absences doivent être justifiées par un arrêt de travail.
+Ces absences doivent être saisies dans l’application de gestion des temps et des
+absences au code 41 — Maladie ou accident non professionnel.
+Attention! L'utilisation de ce code entraînera une retenue sur paie. Le salarié percevra les
+indemnités journalières de l'assurance maladie après application de la franchise de 3 jours
+prévue en droit commun.
+Tout alternant ayant au moins un an d'ancienneté dans l'entreprise bénéficie, en cas
+d'absence au travail pour cause de maladie ou d'accident constaté par certificat médical,
+d'une indemnité complémentaire l'allocation journalière de sécurité sociale.
+
+22 Ils sont tenus d'informer systématiquement l’entreprise de toute absence de l’alternant pendant les périodes de formation en
+centre de formation.
+
+39/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 40 ===
+
+CENTRE
+RS To Ta t
+
+2.8.15 COUVERTURE ACCIDENT DU TRAVAIL ET MALADIE PROFESSIONNELLE (AT-MP)
+Quel que soit le lieu de l'accident (entreprise ou centre de formation), il appartient l'employeur d'établir la déclaration d'accident du travail transmettre la CPAM (dans les
+48 heures suivant la connaissance de l'accident) et de prendre en charge l'instruction du
+dossier.
+La reconnaissance du caractère professionnel ou non de l'accident est de la compétence
+de la CPAM.
+
+2.8.16 RETRAITE COMPLEMENTAIRE
+Les cotisations de retraite complémentaire des alternants en contrat de
+professionnalisation en CDD sont verser l'IRCANTEC (Institution de Retraite
+Complémentaire des Agents Non Titulaires de l'Etat et des Collectivités publiques).
+
+2.8.17 DROIT DE GREVE
+Concernant l'exercice du droit de grève, il n'existe aucune disposition spécifique
+s'appliquant au contrat de professionnalisation. Le droit commun est donc applicable et
+notamment l’article L 2511-1 du Code du travail relatif au droit de grève.
+Le salarié en contrat de professionnalisation, comme tout autre salarié doit bénéficier du
+droit de grève et par conséquent pouvoir l'exercer. Il est a saisir dans l'application de
+gestion des temps et des absences au code 052 - Grèves et autres mouvements
+revendicatifs.
+
+2.8.18 HEURES D'INFORMATION SYNDICALES
+Le salarié en contrat de professionnalisation bénéficie, comme tous les autres salariés de
+l'entreprise d’un crédit annuel de 12 heures pour participer, sans perte de rémunération, des réunions d'informations syndicales organisées pendant la durée du travail, sous
+réserve que les conditions de service permettent ces absences (Accord relatif la mise en
+place des délégués syndicaux et l'exercice du droit syndical EDF SA du 18 janvier
+2008).
+Les heures utilisées sont saisir dans l’application de gestion des temps et des absences
+au Code 28 — Réunion d’information du personnel.
+
+2.9 INFORMATION DES REPRESENTANTS DU PERSONNEL‘
+Le comité d'établissement est consulté la fin de chaque année pour donner son
+approbation sur le plan de formation et notamment sur les conditions de mise en œuvre
+des contrats de professionnalisation.
+Il est également consulté au 1° trimestre de l’année N+1 afin de recueillir son avis sur le
+bilan des formations de l’année N-1 notamment pour ce qui concerne les contrats de
+professionnalisation.
+
+28 Note CERH-A 09-018 du 2 mars 2009
+
+40/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 41 ===
+
+(ALT
+RS To Ta t
+
+2.10 AIDES FINANCIERES / EXONERATION DES CHARGES PATRONALES
+
+2.10.1 EXONERATION DES COTISATIONS SOCIALES
+Pour les contrats conclus avant le 1°’ janvier 2008:
+Quand ils sont conclus avec un jeune de moins de 26 ans ou un demandeur d'emploi de
+45 ans ou plus ils ouvrent droit une exonération des cotisations patronales dues au titre
+des assurances sociales et des allocations familiales pour les contrats conclus compter
+du 1° janvier 2007. (Les cotisations accident du travail et maladie professionnelle sont
+dues dans les conditions de droit commun)
+Pour les contrats conclus compter du 1°’ janvier 2008:
+Seuls les contrats conclus avec un demandeur d'emploi de 45 ans ou plus ouvrent droit une exonération des cotisations patronales d'assurance sociale et d'allocations familiales.
+
+2.10.2 AIDE TEMPORAIRE: AIDE AL’EMBAUCHE DES JEUNES DE MOINS DE 26 ANS (l’âge
+
+s’apprécie la date de signature du contrat)
+Les conditions de versement de cette aide sont déterminées par le décret n°2009-694 du
+15 juin 2009.
+Pour ouvrir droit la prime, l'embauche doit avoir lieu entre le 24 avril 2009 et le 30 juin
+2010.
+L'aide est aussi accordée pour la transformation d’un contrat de professionnalisation CDD
+conclu avant le 24 avril 2009 en contrat de professionnalisation CDI.
+La demande d'aide (formulaire spécifique”) doit être déposée par l'employeur auprès des
+services de Pôle emploi dans un délai de 3 mois après l'embauche, accompagnée d'une
+copie du contrat de professionnalisation enregistré par la DDTEFP compétente.
+Pour bénéficier de l’aide, l'entreprise:
+- ne doit pas avoir procédé, dans les 6 mois qui précèdent l'embauche, un licenciement
+économique,
+- ne doit pas avoir rompu un contrat de travail postérieurement au 24 avril 2009 avec le
+même salarié.
+
+Par ailleurs, l'entreprise doit être jour de ses obligations déclaratives et de paiement l'égard des organismes de recouvrement des cotisations et contributions de sécurité
+sociale ou d'assurance chômage.
+Le montant de l’aide est de 1 000 € pour un salarié temps plein. Il est porté 2 000 €
+pour l'embauche en contrat de professionnalisation d’un jeune d'un niveau de formation V,
+V bis ou VI (niveau CAP-BEP et inférieur).
+Pour les salariés temps partiel, le montant de l’aide est calculé au prorata de leur temps
+de travail.
+
+24 http://www. entreprises. gouv. fr/jeunesactifs/formulaires. html
+
+41/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 42 ===
+
+CENTRE
+RS To Ta t
+L'aide est versée en deux fois:
+1) la moitié l'issue du 2°"° mois d'exécution du contrat de professionnalisation,
+2) le solde l'issue du 6°"° mois d'exécution du contrat.
+La demande d’aide doit être adressée Pôle emploi au plus tard le 31 août 2010
+pour donner lieu paiement.
+La demande de versement du solde doit intervenir avant le 31 décembre 2010 pour
+donner lieu paiement.
+Pôle emploi contrôle l'exactitude des déclarations des bénéficiaires des aides.
+2.10.3 FINANCEMENT DES ACTIONS DE FORMATION
+Les actions de formation sont financées par l'OPCA dans la limite du forfait horaire défini
+suivant les conditions inscrites dans l’accord de branche du 16 septembre 2005 relatif la
+formation professionnelle continue dans la branche des IEG.
+2.10.4 AIDE A LA FORMATION DU TUTEUR
+L'OPCA peut prendre en charge la formation du tuteur dans la limite de 9,15 € HT de
+l'heure (40 heures maximum).
+Il finance également les dépenses liées au tutorat lorsque le tuteur a suivi dans la même
+année une formation de tuteur pour la première fois et encadre un bénéficiaire de contrat
+de professionnalisation âgé de moins de 26 ans (230 € HT par mois par tuteur ou
+345 €*%$ HT par mois et par tutoré pour 6 mois maximum, selon les publics bénéficiaires
+du contrat de professionnalisation).
+2.10.5 AIDE AGEFIPH POUR L’EMBAUCHE EN CONTRAT DE PROFESSIONNALISATION D'UN SALARIE
+HANDICAPE
+Le montant de l’aide est de 1 700 € par période de 6 mois pour l'employeur (le montant
+est porté 3 400 € lorsque l'embauche concerne un adulte de plus de 30 ans) et de
+1 700 € pour le salarié si le contrat a une durée d'au moins 12 mois (à condition qu'il
+n’ait pas bénéficié d’une prime l'insertion).
+Les coordonnées des antennes régionales de l’Agefiph sont disponibles sur le site
+www. agefiph. fr
+25 Montants en vigueur en janvier 2010
+26 Pour les tuteurs âgés de 45 ans ou plus ou accompagnant les publics bénéficiaires suivants:
+- bénéficiaires du revenu de solidarité active (RSA)
+- bénéficiaires de l'allocation de solidarité spécifique,
+- bénéficiaires de l’allocation aux adultes handicapés,
+- les personnes ayant bénéficié d'un contrat unique d'insertion (CUI),
+- dans les DOM les bénéficiaires du RMI et de l'allocation de parent isolé,
+- les jeunes qui n’ont pas validé un second cycle de l’enseignement secondaire et qui ne sont pas titulaires d’un
+diplôme de l’enseignement technologique ou professionnel (soit les jeunes non titulaires du niveau Baccalauréat).
+42/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 43 ===
+
+CENTRE
+RS To Ta t
+3 - LE TUTORAT
+
+Ce chapitre présente le cadre général suivant lequel doivent se dérouler les missions
+
+tutorales, en complément des spécificités respecter en matière de tutorat, rappelées dans
+
+les chapitres précédents, liées respectivement aux contrats d'apprentissage et aux contrats
+
+de professionnalisation.
+
+3.1 TEXTES DE REFERENCE
+Code du travail articles L.6223-5 L.6223-8 et R.6223-22 R.6223-31 (relatifs au maître
+d'apprentissage), D.6325-6 D.6325-9 (relatifs au tuteur du contrat de
+professionnalisation)
+Accord EDF SA Formation tout au long de la vie professionnelle du 24 février 2006
+Note CERH-A 08-051 du 8 décembre 2008 relative la mission tutorale: abondement du
+DIF et inscription sur la fiche C01
+
+3.2 CHOIX DU TUTEUR
+Le tuteur est choisi avant tout parce qu'il est un professionnel reconnu, dont le niveau de
+formation et/ou les années d'expérience correspondent aux attendus de la qualification
+préparée par l’alternant.
+Le tuteur doit être volontaire, détenir une compétence professionnelle reconnue et
+disposer de qualités relationnelles avérées.
+
+3.3 MISSION TUTORALE
+Le tuteur a pour mission d'accueillir, d'aider, d'informer, de guider les jeunes ou les
+adultes pendant leur séjour dans l’entreprise, ainsi que de veiller au respect de leur emploi
+du temps. Il assure également la liaison entre les organismes de formation et les salariés
+de l'entreprise qui participent l'acquisition, par le jeune ou l'adulte, de compétences
+professionnelles ou l’initient différentes activités professionnelles.
+Un site intranet dédié aux tuteurs répertorie toutes les informations utiles aux tuteurs. Il est
+accessible partir de l’adresse suivante: http://rh-espace-tutorat. edf. fr
+
+43/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 44 ===
+
+CENTRE
+RS To Ta t
+
+3.3.1 CONDITIONS D’EXERCICE DE LA MISSION?”
+Le manager s'assure que l'exercice de cette mission se réalise dans de bonnes
+conditions:
+* en veillant la formation du tuteur préalablement toute mission de tutorat,
+* en établissant une lettre de mission,
+* en intégrant la mission de tutorat dans la charge de travail du tuteur,
+* en limitant impérativement deux le nombre de tutorés par tuteur,
+- en réalisant des points d'étape réguliers avec le tuteur,
+* en évaluant en fin de mission l'efficacité de la mission par rapport aux objectifs fixés.
+
+3.3.2 LETTRE DE MISSION DU TUTEUR??
+Une lettre de mission signée par le Directeur d'Unité, doit être remise au tuteur avant le
+démarrage de la mission.
+Elle définit les conditions de mise en œuvre de la mission, telles que les activités confiées,
+les moyens accordés, la durée de la mission, les principes d'évaluation et de
+reconnaissance de la mission (cf annexe 4).
+
+3.3.3 MISSIONS ET ROLES DU TUTEUR
+En fonction du type de dispositif dans lequel s'inscrit le tutorat, le tuteur a au moins deux
+grands types de missions différentes et complémentaires assurer.
+La première vise transmettre la réalité d’un métier. Des objectifs d'orientation et de
+formation sont fixés. Ils peuvent aller de la simple découverte d'activités l'acquisition des
+compétences nécessaires pour tenir un emploi. Dans le premier cas, le tuteur facilitera
+l'observation, la connaissance des éléments constitutifs d’un métier. Dans le deuxième
+cas, le tuteur déterminera la fois l'itinéraire de formation (comportement professionnel
+attendu, objectifs de progression professionnelle, évaluation) et les stratégies
+pédagogiques.
+Sa seconde mission vise faciliter l'intégration dans le milieu professionnel. Pour ce faire,
+le tuteur transmettra des informations pour que la personne se repère dans un contexte
+nouveau dans certains cas il sera également plus présent pour faciliter la découverte du
+monde du travail ou pour accompagner une structuration sociale et professionnelle.
+
+27 Conditions fixées par l'accord EDF Formation tout au long de la vie professionnelle du 24 février 2006
+
+44/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 45 ===
+
+RS To Ta t
+3.3.4 DOMAINES D’ACTIVITE DES TUTEURS
+La pédagogie:
+- connaître et adapter les référentiels diplômes
+-__ définir des objectifs de formation
+- organiser une progression pédagogique des activités confiées l’apprenant
+- connaître et utiliser des outils et des méthodes pédagogiques
+- expliquer et montrer les gestes professionnels
+-__ contrôler et évaluer les acquis
+Le management:
+- participer la décision finale du choix de l'apprenti
+-__ planifier, organiser et gérer la formation en entreprise
+- organiser le parcours de formation de l’apprenant dans l’entreprise
+- répartir le travail
+- faire respecter les procédures et les contraintes de production
+- gérer les relations internes et externes l’entreprise (avec le centre de formation
+notamment)
+- gérer les conflits possibles
+- contrôler et évaluer le travail
+L'accompagnement social:
+-__ favoriser l'apprentissage des normes comportementales (langage, vêtements)
+- faire respecter les règles hiérarchiques (horaires, discipline)
+- accompagnement personnel (savoir détecter les difficultés et passer le relais santé,
+logement...)
+- aide au choix d’un projet professionnel
+- aide au choix d’une formation future
+- accompagnement l'insertion dans la vie active
+Nota: l'évaluation des acquis et du travail de l’alternant doit être formalisée au travers de
+rapports trimestriels qui permettent l'encadrement professionnel et au tuteur d'informer
+sur les progrès ou les difficultés constatées, de sensibiliser aux efforts accomplir. Au
+terme de la formation, une évaluation finale est établie (voir annexe 5).
+3.3.5 EVALUATION, VALORISATION ET RECONNAISSANCE DE LA MISSION”?
+L'investissement dans la fonction tutorale concourt la professionnalisation du salarié qui
+l'exerce. Cet investissement fait l’objet d'une évaluation, d'une valorisation et d'une
+reconnaissance.
+28 Conditions fixées par l'accord EDF Formation tout au long de la vie professionnelle du 24 février 2006
+CERH-A 10-010_GUIDE_ ALTERNANCE. versions du Eté. 10. doc
+
+=== Page 46 ===
+
+CENTRE
+RS To Ta t
+
+L'évaluation:
+
+L'évaluation est réalisée lors de l'entretien annuel avec le manager. L'exercice d'une
+
+mission tutorale est prendre en compte dans le processus d'appréciation du
+
+professionnalisme du salarié. Celui-ci peut concourir une progression de la rémunération
+ou au franchissement d'un nouveau seuil de professionnalisme du salarié.
+
+La valorisation:
+
+Les expériences collectives réussies ainsi que les bonnes pratiques mises en œuvre dans
+
+le cadre d’une mission tutorale, sont valoriser suivant des modalités de communication l'initiative des Directions ou des Unités. Elles peuvent faire l’objet de partage au niveau
+
+d’une Direction, d’une filière Métier ou un niveau régional.
+
+La reconnaissance:
+
+La reconnaissance est matérialisée par:
+
+- une attestation d'exercice de la fonction tutorale (voir annexe 6), signée par le
+Directeur d’Unité, prise en compte dans la fiche historique de carrière du salarié (cf
+note CERH-A 08-051 du 8 décembre 2008 relative la mission tutorale: abondement
+du DIF et inscription sur la fiche CO1),
+
+- un abondement du DIF du tuteur hauteur de 5 heures par mission et par an, venant
+s'ajouter le cas échéant au plafond de 120 heures de DIF dont le salarié est
+susceptible de bénéficier (cf note CERH-A 08-051 du 8 décembre 2008 relative la
+mission tutorale: abondement du DIF et inscription sur la fiche C01),
+
+- la prise en compte de la réussite de la mission tutorale parmi les critères d'atteinte des
+objectifs annuels de performance.
+
+3.4 FORMATION DU TUTEUR
+
+Afin de réussir sa mission, le salarié tuteur pour la première fois doit suivre une formation
+
+spécifique. L'objectif est d'acquérir les outils et les méthodes pédagogiques
+
+indispensables pour réaliser dans de bonnes conditions, pour lui et pour l’alternant, la
+mission tutorale.
+
+Les centres de formation d’apprentis (CFA), les Chambres de Commerce et d'Industrie
+
+(CCI), parfois les Conseils Régionaux et, de très nombreux organismes de formation
+
+professionnelle proposent des formations de tuteurs. Le site Intranet espace-tutorat
+
+évoqué précédemment dans le chapitre « Mission Tutorale », propose quelques exemples
+de stages sur ce thème. Les organismes de formation ayant fait l’objet d’un marché-cadre
+et référencés par EDF doivent être privilégiés.
+46/57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 47 ===
+
+CERH-A 10-010 ANNEXE 1
+ENGAGEMENT DE CONFIDENTIALITE
+Contrat d'apprentissage / contrat de professionnalisation
+Je soussigné (e)
+En formation par alternance au centre de formation (ou l’école) de (nom, adresse)
+devant effectuer ma formation EDF SA
+Service
+M'engage considérer comme strictement confidentielles toutes les informations dont je
+pourrais avoir connaissance, sous quelque forme que ce soit, l’occasion de mon stage.
+En conséquence, je m'engage formellement, pendant ma formation et l’issue de celle-
+ci: ne pas divulguer ou utiliser les dites informations d’autres fins que celles prévues
+dans le cadre de ma formation,
+*àne pas utiliser la documentation ou les outils mis ma disposition pour la réalisation
+de ma formation en d’autres lieux que ceux dans lesquels ma formation est effectuée,
+sauf accord préalable et écrit d'EDF SA.
+Je m'engage également remettre mon tuteur ou au responsable hiérarchique d'EDF SA
+présent sur les lieux de ma formation, tout document ou copie de document ou outil, mis disposition ou élaboré pendant mon séjour, sous quelque forme que ce soit.
+Je reconnais avoir été informé (e) de ce que la violation de mon fait des engagements
+énoncés ci-dessous est susceptible d'entraîner mon exclusion et de m'exposer des
+poursuites.
+Fait Le
+Signature
+Précédée de la mention « Lu et approuvé >
+47/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 48 ===
+
+CERH-A 10-010 ANNEXE 2
+
+Modèle de lettre d'accompagnement au contrat en alternance
+
+[Lieu], [date],
+
+[Coordonnées du
+
+destinataire]
+[Titre],
+Votre candidature a été retenue pour un contrat d'apprentissage [ou de professionnalisation]
+du [préciser la date de début du contrat] au [préciser la date de fin du contrat] au sein de
+notre Unité.
+Vous êtes accueilli(e) dans le cadre du développement des contrats en alternance EDF
+SA.
+L’alternance est un mode d'enseignement en prise directe sur le monde de l’entreprise.
+Dans le cadre de ce contrat d'apprentissage [ou de professionnalisation], EDF SA va vous
+accompagner dans le développement des compétences correspondant au diplôme que vous
+allez préparer, en liaison avec le centre de formation des apprentis (ou le centre de formation
+pour les contrats de professionnalisation). Vous allez être intégré(e) dans une équipe de
+travail qui vous fera partager des savoirs-faire reconnus.
+Nous comptons sur votre implication pour participer activement la production de l’équipe et
+sur votre dynamisme.
+Le fait de connaître la théorie mais aussi de maîtriser la pratique vous permettrons d'acquérir
+une véritable expérience professionnelle qui pourra se valoriser aisément sur le marché du
+travail.
+A l'issue de votre contrat d'apprentissage [ou de professionnalisation] et sous réserve de
+l'obtention du diplôme et de la réussite l’ensemble du cursus de formation, nous vous
+ferons connaître les offres d'emploi de l’entreprise dans votre domaine de formation et si
+vous le souhaitez, votre candidature pourra être examinée.
+Nous attirons votre attention sur le fait qu'EDF SA accueille davantage de personnes en
+contrat en alternance que ses besoins de renouvellement de compétences.
+Aussi, dans le cas où une perspective d'embauche ne serait pas envisageable dans
+l'entreprise, nous vous proposerons un accompagnement personnalisé vers la recherche
+d'un emploi externe.
+Nous vous prions d’agréer [titre], l'assurance de notre considération distinguée.
+
+Employeur
+48/57
+
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc
+
+=== Page 49 ===
+
+CERH-A 10-010 ANNEXE 3
+TABLEAU RECAPITULATIF DES REGLES DE PRISE EN CHARGE DES FRAIS DES CONTRATS EN ALTERNANCE A EDF SA
+(CONTRAT D'APPRENTISSAGE ET CONTRAT DE PROFESSIONNALISATION)
+CONTRAT D'APPRENTISSAGE CONTRAT DE PROFESSIONNALISATION
+L'Unité examine, en amont de la signature du contrat, le(s) besoin(s) d hébergement de Période en formation Période en entreprise
+l'apprenti, en appréciant les distances parcourir, les délais de trajet et les conditions de
+suivi d'une bonne scolarité en CFA
+En cas d’éloignement du domicile familial par | En cas d'éloignement uniquement du domicile | + Lorsque l’alternant est domicilié dans |+ 50 % des titres d'abonnement sont
+rapport au lieu de formation: familial par rapport au lieu de travail: la région de la formation: l’alternant pris en charge par l'employeur, sur
+D:: 5 regagne chaque jour son domicile. Les présentation du justificatif que
+° Si l'apprenti est en CFA externe: les Les frais de transport entre le domicile frais de transport restent la charge de l’alternant soit domicilié ou non
+frais entre le domicile familial et le CFA familial ou le lieu d'hébergement et le lieu l'alternant. dans la région de la formation.
+sont pris en charge par le CFA ou | de travail, sont pris en charge par l’unité sur
+défaut par l'unité qui financera 5 voyages |la base de 50 % des titres d'abonnement, |. Lorsque l’alternant n’est pas domicilié | (Voir note d'application n°CERH-A 09-006
+A/R par an sur la base du tarif SNCF 2" | sur présentation des justificatifs. dans la région de la formation: les relative au remboursement des frais de
+classe en France métropolitaine, sur., Le o alternants bénéficient du remboursement transport du 6 janvier 2009)
+présentation des justificatifs. (Voir note d'application n° CERH-A 09-006 des frais de transport dans les conditions
+relative au remboursement des frais de:..:. en suivantes:
+° Si l’apprenti est au CFA interne EDF: transport du 6 janvier 2009)
+les frais entre le domicile familial et le - le voyage aller au début de la période
+CFA sont pris en charge par le CFA EDF | En cas d'éloignement du domicile familial la de formation et le voyage retour la
+qui financera 5 voyages A/R en France | fois par rapport au lieu de formation et par fin de la période Frais de RO D par an, sur la base du ei rapport au lieu de travail (double | Le voyages A/R en cours de période
+déplacement SRUP € classe, sur présentation des | hébergement): de formation raison d'un voyage
+justificatifs. L
+° Si l'apprenti est en CFA externe: les frais toutes les trois semaines (Voir note d'application DEC de la politique entre le CFA et le lieu de travail sont pris en | AR ch.
+développement de l'apprentissage du charge par l'unité au début et la fin de |. Nr. de aque Semaine
+7 septembre 2007) chaque période d’alternance, sur la base du orsque le domicile est distant de
+tarif SNCF 2"% classe, sur présentation du moins de 250 km par les transports en
+justificatif. commun du domicile familial, pour les
+alternants admis rentrer chez eux
+e Si l'apprenti est au CFA interne EDF: les (voir $ 113 de la Pers 791) frais entre le CFA et le lieu de travail sont pris
+en charge par le CFA EDF au début et la - le voyage A/R pour tous les cas
+fin de chaque période d’alternance, sur la ouvrant droit des congés spéciaux
+base du tarif SNCF 2"% classe, sur d'ordre familial survenant au cours
+présentation du justificatif. d'une session.
+(Voir note d'application DEC de la politique (Voir Pers 791 et Pers 285)
+développement de l'apprentissage du
+7 septembre 2007)
+Lorsqu'ils existent, les frais de transport entre
+le lieu d'hébergement et le lieu de travail,
+sont pris en charge sur la base de 50 % des
+titres d'abonnement, sur présentation du
+justificatif.
+49 / 57
+CÉRH-A 10-010 GUIDE ALTERNANCE version du 16 fév 10. doc
+
+=== Page 50 ===
+
+CERH-A 10-010 ANNEXE 3
+CONTRAT D'APPRENTISSAGE CONTRAT DE PROFESSIONNALISATION
+Période en formation Période en entreprise |
+L’Unité examine, en amont de la signature du contrat, le(s) besoin(s)....
+d'hébergement de l’apprenti, en appréciant les distances parcourir, les délais Période en formation Période en entreprise
+de trajet et les conditions de suivi d’une bonne scolarité en CFA
+e Si l’apprenti est en CFA externe: le | Pas d'obligation pour les unités de prendre | Les frais d'hébergement occasionnés lors |Pas d'obligation pour les unités de
+loyer d’un logement mis la disposition |en charge les frais d'hébergement de |des périodes de formation sont la |prendre en charge les frais d’'héber-
+de l'apprenti par l'unité ne devra pas | l'apprenti. charge de l'unité. Ce sont les dispo- | gement de l’alternant.
+excéder 25 % de son salaire. Il'appartient néanmoins aux unités d'examiner | sitions de la Pers 791 qui s'appliquent. La.,. Le
+ou.. chaque situation individuelle et de prendre, si | prise en charge des frais de chambre “ appartient aaue aux” unités
+* Si l'apprenti est au CFA interne | elle le souhaite, des mesures titre bénévole | s'effectue donc sur la base des frais réels |! iduolle chaque run
+EDF: il bénéficie de la mise | et en conformité avec la politique logement de | dans la limite du barème d'indemnités de | individuelle et de prendre, si elle le
+disposition d'un logement titre | celle-ci, le cas échéant. déplacement applicable dans la localité | S°Uhaïte, des mesures titre bénévole
+Frais gracieux. du lieu de la formation, selon les è en cononnne a la poñique
+hé té:. ' ogement de celle-ci, le cas échéant.
+d hébergement (Voir note d'application DEC de la modalités suivantes: g
+politique développement de - sans abattement pour les périodes de
+l'apprentissage du 7 septembre 2007) formation d'une durée inférieure ou
+égale deux semaines - avec abattement de 5 % pour les
+périodes de formation d'une durée
+supérieure deux semaines mais
+n’excédant pas quatre semaines - avec abattement de 10 % pour les
+périodes de formation supérieures quatre semaines.
+Pour l'application des abattements, il ya
+lieu de prendre en compte, chaque
+période de formation pour sa durée
+propre.
+(Voir Pers 791)
+Les frais de repas sont la charge de | Accès des apprentis au restaurant | Les frais de repas sont la charge de |Accès des alternants au restaurant
+l'apprenti d'entreprise sur la base du tarif le plus bas. | l’alternant d'entreprise sur la base du tarif le plus
+S'il ny pas de restaurant d'entreprise, bas. S'il n'ya pas de restaurant
+- l'apprenti bénéficie des mesures mises en d'entreprise, l'alternant bénéficie des
+Frais de repas œuvre localement pour l'ensemble des mesures mises en œuvre localement
+salariés. pour l’ensemble des salariés.
+(Voir note d'application DEC de la politique
+développement de l’apprentissage du
+7 septembre 2007)
+50 / 57
+CÉRH-A 10-010 GUIDE ALTERNANCE version du 16 fév 10. doc
+
+=== Page 51 ===
+
+CERH-A 10-010 ANNEXE 4
+
+LETTRE DE MISSION TUTORALE DANS LE CADRE D'UN:
+
+= CONTRAT D'APPRENTISSAGE
+
+= CONTRAT DE PROFESSIONNALISATION
+
+Nom et Prénom du tuteur
+Unité et Service d'appartenance
+
+EDF s'investit dans le domaine de l'apprentissage en accueillant des jeunes, mais aussi
+dans celui de l'insertion ou de la réinsertion en accueillant des salariés en contrat de
+professionnalisation.
+Le tuteur est l’un des principaux piliers de la réussite de cet engagement car il accompagne
+au quotidien le tutoré.
+Les finalités de la mission tutorale consistent principalement faciliter l'acquisition par le
+tutoré, des compétences associées l'obtention d’un diplôme, passeport pour l'exercice d'un
+métier.
+A cette fin, la mission tutorale a principalement pour objet:
+
+ed'accompagner les salariés dans la mise en œuvre de leur projet professionnel au
+
+sein d’une équipe de travail,
+
+ed'aider, d'informer et de guider ces salariés en assurant le lien avec l'organisme de
+
+formation,
+
+° de contribuer l’acquisition de connaissance en situation professionnelle,
+
+e de participer l'évaluation des qualifications acquises,
+
+° d'assurer si besoin une mission de socialisation vis vis de publics en difficulté.
+
+Vous vous êtes porté(e) volontaire pour assurer cette mission auprès de (Nom et prénom de
+l’alternant) deneeneeeeeseeeeeseereserss.., QUI prépare (Intitulé de la
+qualification/diplôme préparé).................….., du (date de début du contrat)................ au
+(date de fin du contrat)................ et nous vous en remercions.
+
+Les principaux moyens mis votre disposition sont:
+
+e le temps nécessaire l’accomplissement de votre mission,
+
+e le stage de formation « tuteur »,
+
+e le correspondant tutorat de la mission RH, « Nom, Prénom » pour vous apporter
+
+conseil et assistance réglementaire,
+
+e le réseau des tuteurs de l'unité pour le partage des pratiques et expériences,
+
+e le cahier de suivi du tutoré pour tracer les événements vécus tout au long du tutorat.
+Votre mission débutera le xx/xx/xx pour une durée de (nombre de mois)..….. et sera intégrée vos objectifs annuels.
+
+Une évaluation de votre mission tutorale sera réalisée et interviendra comme élément de
+reconnaissance lors de votre entretien annuel individuel avec votre hiérarchique.
+Veuillez agréer, M..............., mes salutations distinguées.
+Le Directeur d'Unité
+Copie: Correspondant RH/Alternance d’Unité
+51/57
+CERH-A 10-010_GUIDE_ ALTERNANCE version_du_16_fév_10. doc
+
+=== Page 52 ===
+
+CERH-A 10-010 ANNEXE 5
+EVALUATION PAR LE MANAGER DE LA MISSION TUTORALE D'UN CONTRAT D'APPRENTISSAGE OÙ DE PROFESSIONALISATION
+PROJET DU TUTORE (qualification visée):
+DOMAINE D’ACTIVITES 1: Intégration du salarié son nouvel environnement professionnel
+FINALITES INDICATEURS DE RESULTATS FAITS OBSERVES ARE COMMENTAIRES
+Dépassé (+)
+Non atteint (-)
+Implication dans le Observations du manager
+recrutement (lorsque le tuteur
+a été invité participer au
+recrutement)
+Réussir l'intégration, | Information du tutoré sur les | Traçabilité du cahier de suivi
+professionnelle du tutoré modalités d'évaluation
+dans l’entreprise et dans
+la nouvere aUIpe de Présentation du tutoré aux Observations du manager
+
+collectifs de travail et au
+management
+Accès aux sources d’information | Intégration dans le processus accueil
+(RH, médecine, contrat de de l’unité
+travail...)
+
+DOMAINE D’ACTIVITES 1: Intégration du salarié son nouvel environnement professionnel
+
+52/57
+CÉRH-A 10-010 GUIDE ALTERNANCE version du 16 fév 10. doc
+
+=== Page 53 ===
+
+CERH-A 10-010 ANNEXE 5
+OBJECTIF
+FINALITES INDICATEURS DE RESULTATS FAITS OBSERVES Atteint (=) COMMENTAIRES
+Dépassé (+)
+Non atteint (-)
+Vérification que les règles de | Evaluation formelle dans le
+fonctionnement de l'unité cahier de suivi
+sont connues (sécurité,
+qualité, règlement., intérieur,.…)
+Inciter le tutoré f. PE PU ne Participation du tutoré des
+en ïnvi réunions de collectifs PS ndre com te SLA | Mise en place de conditions
+P favorables l'expression Rédaction par le tutoré de
+orale et écrite du tutoré comptes-rendus (réunion,
+intervention...)
+Mise en situation de prise de
+parole du tutoré
+Réalisation de points d'étape
+mensuel
+53/57
+CÉRH-A 10-010 GUIDE ALTERNANCE version du 16 fév 10. doc
+
+=== Page 54 ===
+
+CERH-A 10-010 ANNEXE 5
+DOMAINE D’ACTIVITES 2: Transmission des connaissances pour acquérir les compétences professionnelles en situation de travail
+OBJECTIF
+FINALITES INDICATEURS DE RESULTATS FAITS OBSERVES Atteint (=) COMMENTAIRES
+Dépassé (+)
+Non atteint (-)
+Activités confiées, précisant |Traçabilité du cahier de suivi
+Permettre au tutoré de |les objectifs de formation
+conjuguer qualification et
+professionnalisation et | Appréciation des résultats Traçabilité du cahier de suivi
+d'accéder une véritable | des activités confiées
+« formation en situation
+de travail » Evaluation de la motivation et | Traçabilité du cahier de suivi
+de la performance en
+situation
+54 / 57
+CÉRH-A 10-010 GUIDE ALTERNANCE version du 16 fév 10. doc
+
+=== Page 55 ===
+
+CERH-A 10-010 ANNEXE 5
+DOMAINE D'ACTIVITES 3: Coordination des différents acteurs
+OBJECTIF
+FINALITES INDICATEURS DE RESULTATS FAITS OBSERVES Atteint (=) COMMENTAIRES
+Dépassé (+)
+Non atteint (-)
+
+Traçabilité du suivi pédagogique
+du tutoré (retour périodique l'organisme de formation sur
+l'évaluation du tutoré, cahier de
+suivi complété, bulletins de notes
+du tutoré collectés...)
+
+Maîtrise de la relation avec | Traçabilité de l'organisation ou
+
+l'organisme de formation de la participation des
+
+S'assurer de la cohérence rencontres pédagogiques
+interne du parcours de nu
+professionnalisation Traçabilité des acteurs
+
+professionnels rencontrés
+Traçabilité des demandes
+formulées l'organisme de
+formation, des
+dysfonctionnements éventuels,
+des actions correctives.
+Alerte en cas de carence de
+l'organisme de formation
+
+Information de la hiérarchie
+
+et de la mission RH Alerte en cas de carence de
+l’alternant (assiduité,
+comportement, capacité...)
+
+55 / 57
+CÉRH-A 10-010 GUIDE ALTERNANCE version du 16 fév 10. doc
+
+=== Page 56 ===
+
+CERH-A 10-010 ANNEXE 5
+DOMAINE D’ACTIVITES 3: Coordination des différents acteurs
+FINALITES INDICATEURS DE RESULTATS FAITS OBSERVES ASE) COMMENTAIRES
+Dépassé (+)
+Non atteint (-)
+S’assurer de la cohérence Traçabilité du respect des
+professionnalisation tutoré Traçabilité des délégations et
+(suite) consignes données
+Avis du manager sur la validation Signature du manager
+de la mission tutorale:
+BILAN GLOBAL DE LA MISSION
+TUTORALE
+Avis du tuteur: Signature du tuteur
+56 / 57
+CÉRH-A 10-010 GUIDE ALTERNANCE version du 16 fév 10. doc
+
+=== Page 57 ===
+
+CERH-A 10-010 ANNEXE 6
+
+Attestation de mission tutorale
+Je soussigné (Nom du signataire)............................,
+(fonction)... atteste par la présente que (Nom et prénom du
+tuteur)................................... a mené une mission tutorale dans le
+cadre d'un contrat (préciser la nature du contrat: apprentissage /
+professionnalisation).......... du (date de début de la mission)... au
+(date de fin de la mission).............., soit (durée en mois de la mission), en
+vue de la préparation du tutoré l'obtention (intitulé de la qualification/du
+diplôme).....................
+Cette attestation est délivrée pour valider la période de mission tutorale et
+déclencher la dotation de cinq heures de Droit Individuel Formation (DIF).
+La mission tutorale peut valablement être inscrite sur la fiche carrière
+(fiche C01) de (Nom et prénom du tuteur)...
+
+Fait: le
+Directeur d'Unité
+57 / 57
+CERH-A 10-010 _GUIDE_ ALTERNANCE. version_du_ 16 _fév_10. doc

@@ -1,0 +1,109 @@
+=== Page 1 ===
+
+ELECTRICITE DE FRANCE GAZ DE FRANCE
+PERS. 524
+DIRECTION DU PERSONNEL
+Manuel Pratique: 143
+29 novembre 1968
+
+Objet: Classification des chefs de quart des usine s hydrauliques.
+Après avis de la Commission Supérieure Nationale du Personnel, les dispositions ci-dessous
+concernant la définition de la fonction de chef de quart des usines hydrauliques, ainsi que la
+nouvelle classification remplacent, avec effet du 1 er décembre 1968, celles des circulaires
+Pers. 183 du 3 octobre 1950 et A. 1069-B. 909 du 31 mars 1961.
+Étant donné le développement des automatismes, cett e définition concerne également les
+chefs de quart:
+– des usines « pilotes » partir desquelles sont co nduites les usines télécommandées et sont
+surveillées et réglées certaines usines semi-automa tiques,
+– des tableaux centralisés situés hors des bâtiments des usines et partir desquels sont
+exploitées, de la même manière, les usines télécomm andées ou semi-automatiques.
+Les classements prennent en considération, outre la fonction en général, d'une part
+l'importance de l'usine (caractérisée par la valeur de son paramètre), d'autre part l'importance
+des usines contrôlées distance et la nature des i nterventions pratiquées (télécommande,
+télésurveillance, etc.).
+DÉFINITION GÉNÉRALE
+Agent des services continus qui assure la conduite et la surveillance de l'ensemble du matériel
+d'une usine hydraulique il a éventuellement sous ses ordres les autres agents d'exploitation
+pendant la durée du quart.
+Il doit, en cas d'incident et suivant l'état du mat ériel, prendre toutes les dispositions d'urgence
+qui s'imposent. Il a également qualité pour exécute r les condamnations et consignations de
+tous ordres dans les installations. Il peut être ap pelé effectuer des dépannages et participer, en dehors des périodes de quart aux tra vaux d'entretien, selon sa qualification
+professionnelle.
+Décompte des points
+1) En raison des sujétions d'exploitation supplémen taires particulièrement importantes que
+présentent les usines anciennes accolées des usin es d'électro-chimie (usines toits mêlés),
+la valeur de leur paramètre sera majorée de 100 %.
+
+=== Page 2 ===
+
+2/4
+PERS. 524
+2) Lorsque des Chefs de quart assurent leurs foncti ons depuis une usine « pilote » ou un
+tableau centralisé, c'est-à-dire lorsqu'ils conduis ent des usines télécommandées ou surveillent
+et règlent certaines usines semi-automatiques, il ya lieu d'ajouter aux points paramètre de
+l'usine « Pilote » (le cas échéant):
+– les points paramètre de chacune des usines entière ment télécommandées, qui ne sont pas
+surveillées localement (1) (par d'autres agents de quart ou surveillants d'usine),
+– la moitié des points paramètre des usines semi-aut omatiques (télésurveillées, téléréglées,...) ou télécommandées avec surveillance locale (1).
+Le classement des chefs de quart de ces usines « pi lotes », ou des tableaux centralisés, est
+ensuite déterminé partir du paramètre de l'usine fictive ainsi constituée.
+CLASSIFICATION
+(Fonction mixte de technicité et de commandement.)
+Chef de quart 1er degré - catégorie 6
+Assume les fonctions de chef de quart pour une usin eouun ensemble d'usines de paramètre
+compris entre 10 et 25.
+Chef de quart 2e degré - catégorie 7
+Assume les fonctions de chef de quart pour une usin eouun ensemble d'usines de paramètre
+compris entre 25 et 60.
+Chef de quart 3e degré - catégorie 8
+Assume les fonctions de chef de quart pour une usin eouun ensemble d'usines de paramètre
+compris entre 60 et 120.
+Chef de quart 4e degré - catégorie 9
+Assume les fonctions de chef de quart d'un grand ta bleau centralisé d'un paramètre supérieur 120.
+Le cas des chefs de quart des usines ou des ensembl es d'usines dont les paramètres se
+situent entre 20 et 25 points pour un passage évent uel de catégorie 6 en catégorie 7, et entre
+50 et 60 points pour un passage éventuel de catégor ie 7 en catégorie 8, doit faire l'objet d'un
+examen particulier dès que le paramètrage est compr is dans l'une de ces franges.
+
+1 La surveillance assurée par des surveillants itin érants ou des gardiens n'est pas considérée
+comme surveillance locale.
+
+=== Page 3 ===
+
+3/4
+PERS. 524
+ANNEXE
+(Pers. 524)
+CLASSIFICATION DES CHEFS DE QUART DES USINES HYDRAU LIQUES
+Catégorie 6
+G. R. P. H. Alpes: Beaumont-Monteux, Bissorte, Pizanc on, Pont-Escoffier, Riouperoux, St-Hilaire,
+St-Jean de Maurienne, La Saussaz, Le Sautet.
+G. R. P. H. Languedoc: Le Pouget.
+G. R. P. H. Loire: Montpezat, Pied de Borne.
+G. R. P. H. Massif-Central: Bort, Couesque, Laval de Cère I, Tuilière.
+G. R. P. H. Méditerranée: Castillon, Curbans, St-Dalm as, Ste-Tulle, Ventavon.
+G. R. P. H. Pyrénées: Arrens, Aston, L'Hospitalet, Lu z St-Sauveur, Palaminy.
+G. R. P. H. Rhône: Pierre Bénite, Vougians.
+G. R. P. H. Savoie: Belleville (classement particulie r), Brevières, Champagny Ballandaz,
+Chedde, Passy, Pomblière, Randens.
+Catégorie 7
+G. R. P. H. Alpes: Mont-Cenis, Monteynard.
+G. R. P. H. Massif-Central: Bromat, Chastang, L'Aigle, La Rance.
+G. R. P. H. Méditerranée: L'Argentière, Bancairon, Ma llemort (tableau centralisé) (1), Oraison,
+Serre-Ponçon.
+G. R. P. H. Pyrénées: Auzat, Pragnères, Sabart.
+G. R. P. H. Rhin: Fessenheim, Gerstheim, Marckolsheim, Ottmarsheim, Rhinau, Vogelgrun.
+G. R. P. H. Rhône: Beauchastel, Bourg-lès-Valence, Cu sset, Logis-Neuf, Vallabregues.
+G. R. P. H. Savoie: Malgovert.
+
+1 Catégorie 8, dès l'achèvement des travaux qui con duiront la télécommande effective des
+groupes et pour tenir compte des sujétions agricole s.
+
+=== Page 4 ===
+
+4/4
+PERS. 524
+Catégorie 8
+G. R. P. H. Rhin: Kembs (classement particulier).
+G. R. P. H. Rhône: Bollene, Chateauneuf-du-Rhône, Gen issiat.
+G. R. P. H. Savoie: La Bathie.

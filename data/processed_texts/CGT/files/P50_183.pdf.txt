@@ -1,0 +1,733 @@
+=== Page 1 ===
+
+ELECTRICITE DE FRANCE GAZ DE FRANCE
+PERS. 183
+DIRECTION DU PERSONNEL
+Manuel Pratique: 100
+Suite Pers. 187, 193, 203, 222
+Modifiée par Pers. 218, 284, 488, 489,
+524, 574
+3 octobre 1950
+
+Objet: Compléments et modifications aux circulaires Pers. 87 et 88
+Nous vous adressons, après approbation par la Commission Supérieure Nationale, les
+compléments et modifications qu'il ya lieu d'appor ter, d'une part, aux défin itions détaillées des
+fonctions des échelles 1 14 (circu laires Pers. 87 et suivantes), d'autre part la classification
+des postes des échelles 11 20 (circulaires Pers. 88 et suivantes).
+Les dispositions desdistes circulaires contraires celles indiquées dans les textes ci-joints, sont
+annulées les autres sont maintenues. Quelques retouches étant encor e en cours d'examen,
+nous vous en tiendrons informés ultérieurement par un additif la présente circulaire.
+ANNEXE I
+(Pers. 183)
+COMPLÉMENTS ET MODIFICATIONS AUX DÉFINITIONS DÉTAILLÉES DES
+FONCTIONS DES ÉCHELLES 1 A 14 (3° de la CIRCULAIRE PERS. 87).
+6 - Aide-dispatcher et aide-répartiteur de 1er degré (échelles 5-6)
+sans modification (voir Pers. 87, annexe 3, page 7)
+7 - Aide-dispatcher et aide-répartiteur de 2e degré (échelles 7-8)
+sans modification
+8 - Sous-dispatcher (dispatcher en formation) (échelles 9-10)
+Dispatcher non encore confirmé, ne prenant le quart que sous la responsabilité d'un autre agent
+auquel il peut en référer immédiatement en cas de difficultés ou d'incidents.
+9 - Dispatcher (modification aux anciennes définitions 9 et 10)
+Agent des services continus qui a la charge d' assurer la permanence du service sur le réseau
+général en collaboration avec ses collègues des autres dispatchings et d'assurer dans les conditions optima, l'alimentation de tout e la clientèle de sa zone d'action.
+
+=== Page 2 ===
+
+2/25
+PERS. 183
+Pour ce faire, il commande la marche de tous les moyens de production et les manoeuvres
+nécessaires sur le réseau général (en principe li gnes de transport et lignes de répartition). Il
+pare aux incidents, contrôle la fréquence, la t ension, la tenue des programmes, le réglage des
+goulots de transport, etc. Son action sur l'ensembl e qu'il gère a des répercu ssions dépassant le
+cadre local et atteignant le plan régional ou national.
+Il est prévu pour les agents assurant ces fonctions, trois classes ainsi définies: Dispatcher de 1er degré (échelles 11-12) Agent capable d'exercer complètement et totalem ent, dans le cadre des directives générales et
+particulières qui lui sont données, les actions pr opres au dispatcher, suivant la définition
+générale donnée ci-dessus, mais qui doit encore acquérir, par la pr atique, un complément de
+formation technique spécialisée.
+En principe, tous les dispatcher s doivent débuter par cette classe.
+Dispatcher de 2e degré (échelles 12-13) Agent confirmé ayant acquis la connaissance approfondie de son métier que seule peut donner
+une pratique suffisamment longue appuyée sur une fo rmation technique sérieuse. Ne pourront
+être promus au 2e degré que les agents ayant suivi, de façon sa tisfaisante, des cours de
+spécialisation de dispatcher organi sés par E. D. F. (àl'École de Na nterre par exemple), ou ceux
+possédant un niveau de connaissance sanctionné par un diplôme comparable celui de
+conducteur électricien d'Institut Électrotechnique. A titre exc eptionnel, certains dispatchers
+1er degré exerçant cette activité depuis longtem ps et y ayant acquis une maîtrise non discutée
+pourront y être promus sans avoir satisfaire ces conditions.
+Dispatcher de 3e degré (échelles 13-14) Agent très confirmé, satisfait aux conditions néce ssaires pour être dispatcher de 2e degré, mais
+est, en outre, capable, en l'absence momentanée d'un Ingénieur-dispatcher, d'étudier et de
+mettre en oeuvre les dispositions prendre pour répondre des conditions particulières
+d'exploitation, telle que modification profonde des schémas de réseau réaliser d'urgence.
+10 - Conducteur de réseau de distribution
+(modification aux ancienn es définitions 9 et 10)
+Agent des services continus ou non, ayant la charge de coordonner et de commander les
+manoeuvres sur un ensemble de lignes et de postes de distribution plus ou moins étendu, mais
+d'importance locale.
+Il est prévu, pour les agents assurant ces fonctions, les classes suivantes: Conducteur de réseau de distribut ion 1er degré (échelles 9-10)
+Agent commandant les manoeuvres définies de fa çon générale ci-dessus, sur un ensemble
+simple de lignes et de postes ne comprenant pas, en principe, de centrales conduisant effectuer des reprises de parallèle.
+
+=== Page 3 ===
+
+3/25
+PERS. 183
+Conducteur de réseau de distribut ion 2e degré (échelles 11-12)
+Agent exerçant les fonctions de conducteur de réseau sur un réseau relativement complexe
+dont la manoeuvre est plus délicate et su r lequel peuvent notamment débiter de petites
+centrales généralement gérées par le Service de la Distribution.
+Nota: Sous réserve de l'accord du Servic e des Mouvements d'Énergie (afin de garder
+l'homogénéisation nécessaire). cert ains agents de la Distribution commandant des réseaux très
+importants. comme les réseaux câbles de Paris et de Marseille, devront être classés aux
+mêmes échelles que les dispatchers.
+11 - Répartiteur (échelles 11-12)
+sans modification (voir Pers. 87, Annexe 3, § 11).
+11 bis - Répartiteur principal (échelles 13-14)
+Agent très confirmé, sensiblement du même ni veau technique qu'un dispatcher de 3e degré,
+qui, dans certains Centres, lourds en centra les de régularisation, donne aux répartiteurs des
+directives pour l'établissement des programmes et participe aux études qu'entreprend le chef
+répartiteur régional.
+Il est précisé que ce poste, comme il est dit ci- dessus, n'est pas pourvu dans tous les Centres.
+12 - Conducteur de tableau 1er degré (échelles 5-6)
+(modification pour les usines hydrau liques l'ancienne définition, § 12).
+Agent des services continus chargé de la surv eillance des tableaux et du matériel, pouvant
+exécuter les manoeuvres nécessitées par l'exploita tion, effectuant le relevé des compteurs et
+appareils de mesure et signalent les incidents de marche après avoir exécuté les mesures de
+sécurité qui s'imposent: dans une usine hydraulique de 4e ou 5e classe.
+Toutefois, si ces agents assurent eux seul s le quart dans une usine hydraulique de 4e classe,
+ils seront classés comme conducteurs de tabl eaux 2e degré, la paire d'échelles 7-8.
+Seront également classés la paire d'échelle s 7-8, les conducteurs de tableaux des usines
+hydrauliques de 4e classe indiquées ci-après, où il n'est pas possible de réduire le quart un
+seul homme, ce classement étant justifié titre exceptionnel en raison de la consistance des
+installations:
+G. R. P. H. « Méditerranée »: Usines d'Entrai gues, Plan du Var, Champcella, le Largue:
+G. R. P. H. « Loire-Truyère » Usines de Queuille G. R. P. H. « Tarn »: Usines d'Arthés, Médières, La Bourelles.
+13 - Conducteur de tableau 2e degré (échelles 7-8)
+(modification pour les usines hydrau liques l'ancienne définition, § 13).
+
+=== Page 4 ===
+
+4/25
+PERS. 183
+a) Agents assurant, dans les usines hydrauli ques de 2e ou 3e classe, les mêmes fonctions que
+les conducteurs de tableau 1er degré.
+Toutefois, ainsi qu'il est indiqué ci-après, le s premiers conducteurs de tableau des usines
+2e classe où la conduite du tableau présente des su jétions spéciales, seront classés en 9-10
+comme conducteurs de tableaux 3e degré.
+D'autre part, les conducteurs de tableau de l'usine de 3e classe de Saint-G eorges pourront être
+classés l'échelle 9, en raison des fonctions s upplémentaires de sous-répartition qui leur seront
+confiées, lorsqu'ils seront bien confirmés dans leur emploi.
+b) Agents des services continus assurant, en second d'un conducteur de tableau ou d'un chef
+de quart, la conduite du tableau, lorsque les nécessité s de l'exploitation requièrent qu'ils soient
+capables d'effectuer eux-mêmes les manoeuvres, condition qu'ils possèdent effectivement les
+aptitudes nécessaires.
+14 - Conducteurs de tableau 3e degré (échelles 9-10)
+(modification pour les usines hydrau liques l'ancienne définition, § 14).
+Agents des services continus assurant les mê mes fonctions que les conduc teurs de tableau du
+1er ou du 2e degré, dans les usi nes H. C. et de 1re classe, ainsi que dans les usines de
+2e classe dont l'exploitation présente des sujétions spéciales (Électrochimie, gestion de postes
+150 kV, ou tension supérieure, du transport, etc.) s ous réserve que l'usine n'ait pas de chef de
+quart et que les titulaires des postes soient capables d'assurer, par eux-mêmes, toutes
+manoeuvres, même les plus délicates sinon, en attendant d'avoir acquis la formation
+nécessaire, ils seront classés seulement en 7-8.
+Le poste de conducteur de tabl eau 3e degré pourra toutefois exister en concomitance avec
+celui de chef de quart lorsque la nature des foncti ons confiées ce dernier, ou l'étendue des
+installations placées sous sa surveillance, l' empêcheront d'intervenir toujours rapidement au
+tableau en cas d'incident (usines de Brommat, Ke mbs, Pizançon, Saint-Jean-de Maurienne).
+Les usines de 2e classe où les conducteurs de tabl eau pourront être admis la paire d'échelles
+9-10, sont les suivantes Bancairon, la Brillanne, Camon, (après mise en service du pos te 150 kv), Castillon, Eygun,
+Lescun, Liebvilliers, Lac d'Oo Lau-Balagnas ( après mise en service du poste de 150kv),
+Mouthier, Bois de Cure, (groupe d'usines de la Cu re), Pinet, Pont Escoffier, la Praz, le Poet,
+Frémont, St-Dalmas, Et Eti enne-Cantales, St-Guillerme, St-J ean-de-Maurienne, La Saussaz,
+Ventavon, Vinthou, Laval-de-Cère (à dater du 1-8-49 après réduc tion du personnel de tableau un seul homme), Chedde (conducteurs de tableau de la Salle Il).
+15 - Conducteurs de machines des usines hydrauliques
+(modification aux anciennes définitions 15 et 16). Agents chargés de la surveillance, du graissage, du démarrage et de l'arrêt des turbines dans
+les usines hydrauliques.
+1er degré: échelles 5-6.
+
+=== Page 5 ===
+
+5/25
+PERS. 183
+2e degré: échelles 7-8: Conducteur expérimenté connaissant bien les machines qui lui sont
+confiées, dans une usine hors classe et dans le s usines de 1re classe où la conduite des
+machines nécessite l'emploi d'agents dont la formation est assimilable celle d'ouvriers
+qualifiés.
+16 - Conducteurs de machines des Usines Thermiques
+Échelle 7: Conducteur de groupes turbo-alte rnateurs condensation simple, n'ayant conduire que les
+groupes turbos et les groupes de condens ation et d'extraction correspondants.
+Chargé des démarrages, de la surveillance, de la marche et des arrêts des groupes. Les agents de cette catégorie pouvant être appelés conduire des groupe s condensation et soutirage, ou capables de remplacer les conduc teurs de chaudières, c onducteurs de tableau ou
+des ouvriers d'entretien, seront classés dans la catégorie 7-8.
+Échelles 7-8: Conducteur de groupes turbo-alternateurs condensation et sout irage, chargé des
+démarrages, de la surveillance, de la marche et des arrêts des groupes. Peut, en outre, être
+chargé de remplacer et de soulager les pompiers pour la conduite des postes d'eau (dégazage,
+réchauffage, distillateurs) et éventuellement de la conduite des pompes alimentaires.
+- Conducteur de chaudières, de sécheurs et de br oyeurs pour charbon pulvérisé (échelles 7-8)
+(complément la circulaire Pers. 121) En ce qui concerne les conduct eurs de sécheurs et de broyeurs pour charbon pulvérisé, il est
+précisé que le classement en échelles 7- 8 s'applique aux conducteurs de centrales de
+pulvérisation ainsi qu'aux conducteurs de plus de s ept broyeurs individuels. Les conducteurs de
+quatre sept broyeurs individuels sont classés en échelle 7 simple ce ux de moins de quatre
+broyeurs en échelles 5-6.
+17 - Chef de quart d'usines hydrauliques (échelles 11-12)
+(modification l'ancienne définition, § 17). Dans les usines hydrauliques de l'Argentières, Auzat, Beyrede, Bissorte, Chedde, Cordeac,
+Cusset, Rioupéroux, Sabart, Sautet, Saint-Jean- de-Maurienne, (groupem ent d'une centrale
+E. D. F. et de deux centrales A. F. C.), les agents des services cont inus qui, en règle générale,
+assurent tout ou partie du serv ice du tableau et ont sous leur s ordres les autres agents des
+services continus pendant la durée de l eur quart, seront classés en 11-12.
+Les chefs de quart chargés de la surveillance de la marche du groupe des usines de la Truyère
+seront classés en 12-13 après mise en place de la nouvelle organisation prévue.
+Seront également classés en 12-13, les chefs de quart de l'usine de Pizancon qui ont un rôle de
+sous-répartition, les chefs de quart (tableau) de l'usine mixte de Ste-Tulle, ainsi que ceux de
+l'usine mixte de Tuillière.
+
+=== Page 6 ===
+
+6/25
+PERS. 183
+Les chefs de quart de l'usine de Kembs responsabl es de la surveillance d'ensemble de cette
+usine et de ses importantes annex es, seront assimilés des contremaîtres principaux et
+classés en 13-14.
+Les postes de chef de quart des usines de St-Dal mas, St-Guillerme, Pont-Escoffier, Bancairon,
+Ventavon sont supprimés des organigrammes, le s agents déjà classés ce poste conserveront titre personnel, leur échelle d'affectation défintive.
+17 bis - Chef de quart d'usines thermiques
+Agent de maitrise seul responsable en l'abs ence du Chef de Centrale, des Ingénieurs,
+Ingénieurs-adjoints ou assimilés. A sous son autorité, tout le personnel en roulement de
+l'exploitation. Commande les manoeuvres d'exploitati on dans tous les services de la Centrale:
+chaufferie, machines, tableaux haute-tension et basse-tension.
+- Il est prévu, pour tous les agents assurant ces fonctions, les classements suivants:
+Echelles 14-15: Chef de quart de Centrale de catég. H Échelles 13-14: Chef de quart de Centrale de catég. G l'exception de la centrale l'Hostens
+pour laquelle le classement sera l'échelle 13 simple Échelles 12-13: Chef de quart des catégories F, EetD Échelles 11-12: Chef de quart des catégories CetB
+Les chefs de quart des centrales des catégorie sG, F, E, D, C pourront, en raison de eur
+compétence et de leurs aptitudes professionnelles sanctionnées, s' il ya lieu, par une épreuve
+pratique, être promus au choix dans le groupe d'échelles supérieur celui fixé ci-dessus. Ils
+devront, en principe, avoir rempli leur foncti on pendant au moins trois ans avant de pouvoir être
+proposés dans le groupe d'échelles supérieur. Il en sera de même pour les centrales de
+catégorie H, si le titulaire a la compétenc e suffisante pour être no mmé Ingénieur adjoint ou
+assimilé.
+19 bis - Multigraphiste polychr ome 2e degré (échelles 7-8)
+Agent assurant les mêmes fonctions que le mu ltigraphiste monochrome, mais utilisant les
+procédés modernes: « stencils photographiques et tirage en plusieurs couleurs »
+29 - Sténo-dactylographe (Échelles 7-8)
+Agent capable de prendre en sténogr aphie, la vitesses de 80 mots-minute (3 minutes au
+moins), de prendre le texte en dacty lographie la vitesse de 35 mots-minutes, et d'effectuer les
+copies dactylographiquées la vitesse de 40 mo ts-minute, orthographe correcte et bonne
+présentation. Peut également être chargèe d'un classement simple.
+Peuvent également être classés en échelle s 7-8, les agents dact ylographes répondant aux
+conditions de vitesse et de présent ation du travail prévues ci-dessus et assurant, en outre, des
+travaux délicats ou spéciaux la machine écrire ou des travaux répondant la définition
+d'employé qualifié (7-8).
+
+=== Page 7 ===
+
+7/25
+PERS. 183
+29 bis - Sténo-dactylographe principale ( échelles 9-10) (analogue maïtre-ouvrier)
+Sténo-dactylographe d'une très grande habilité professionne lle. Vitesse sténographique
+100 mots très bonne présentation. Promue partir de l'échelle 7-8 et qui seront confiés, de
+préférence, les postes de secrétaires.
+Peuvent être également classés comme tels, les agents sténo-dactylographes assurant, d'autre
+part, des travaux répondant la qualific ation d'employé principal (9-10).
+30 - Secrétaire (échelles 9-10)
+Sténo-dactylographe qualifiée affectée un chef, a llège son travail matériel en prenant les
+initiatives correspondantes. Assure principalement: réception courrier, téléphone, classement.
+Peut éventuellement surveiller le travail de 2 3 sténo-dactylographes.
+31 - Secrétaire de Dir ection (échelles 11-12)
+Secrétaire particulièrement qualif iée, promue partir de l'échelle 9-10 parmi les secrétaires normalement affectée un cadre relevant des échelles fonctionne lles 19 et au-dessus, et sous
+réserve que le travail demandé l'agent exige la qualification professionnelle compatible avec
+le classement proposé qui suppose:
+– une culture générale étendue,
+– une excellente présentation,
+– une grande initiative,
+– des connaissances de l'organisation des servic es lui permettant d'assurer une répartition
+correcte du courrier et l'orientation des affa ires vers les agents qui en sont normalement
+chargés.
+31 bis - Secrétaire principale de Direction (échelles 12-13)
+La qualification professionnelle demandée cet agent doit être au minimum ce lle exigée pour la
+secrétaire de Direction (échelles 11-12).
+Ce poste ne pourra normalement exister qu'auprès des cadres dirigeant un Service important
+(par exemple: Chef de File, Chef de Centre H. C., Chef de Service Directions Centrales).
+37 Standardiste 1er degré (échelles 5-6)
+(sans modification) Agent desservant un standard comportant au plus 3 lignes de réseau et 10 postes intérieurs,
+avec ou sans intercommunications.
+38 - Standardiste 2e degré (échelles 7-8)
+Agent assurant le service d'un Standard comport ant au moins 3 lignes exté rieures et 11 postes
+intérieurs avec intercommunications.
+
+=== Page 8 ===
+
+8/25
+PERS. 183
+Toutefois, dans les installati ons comportant de 6 8 lignes réseau ou de 40 60 postes
+intérieurs, et si la position comprend des li gnes spéciales (privées, de sécurité, grande
+distance, etc.), la standardiste pourra être cla ssée 9-10 dans les cas exceptionnels où le service
+exigé est particulièrement rapide et chargé.
+38 bis - Standardiste 3e degré (échelles 9-10)
+Pourront être classées dans cette catégorie, sel on leur valeur professionnelle, les standardistes
+qualifiées assurant l'exploitation de standards soit plusieurs positions, soit comportant plus de
+60 postes intérieurs ou plus de 8 lignes réseau.
+Seront obligatoirement classées dans cette ca tégorie, les standardistes très expérimentées
+desservant d'une manière rapide et sûre, dans les grandes installations, les positions spéciales
+(tables interurbaines, tables grandes di stances, tables de renseignements, etc.)
+- Personnel de Laboratoire (complément la cicurlaire Pers. 121) A - Essayeurs de Laboratoire (Chimie )-Echelles 7-8 (sans modification)
+A bis - Essayeurs principaux de Laboratoire (Chimie) Echelles 9-10 Agents chargés d'effectuer, seuls, les essais et mesures de contrôle courants d'exploitation et
+notamment: essais des charbons et des cokes, mesure du pouvoir calorifique du gaz, analyses
+de gaz, dosage dans le gaz des im puretés diverses, dosage des différents constituants des
+matières épurantes usées, essais des goudrons et des benzols, c ontrôle des eaux de
+chaudières, analyses d'huile, etc.
+ANNEXE II
+(Pers 183)
+COMPLÉMENTS ET MODIFICATIONS A LA CIRCULAIRE PERS. 88
+1) SERVICE DE LA DISTRIBUTION CLASSEMENT DES CENTRES DE
+DISTRIBUTION
+Hors Catégorie (Échelle 20) (1)
+File n° 1: Lille, Valenciennes.
+File n° 3: Paris-Électricité, Paris-Gaz, Id f-Nord, Idf-Est, Idf-Oues t, Idf-Sud, D. G. P. B. P.
+File n° 19: Lyon-Ville. File n° 25: Marseille-Ville.
+
+
+1 Avec en principe, attribution d’une indemnité de fonctions, ainsi que pour les Chefs de File.
+
+=== Page 9 ===
+
+9/25
+PERS. 183
+Catégorie D (échelle 20)
+File n° 1: Béthune, Amiens.
+File n° 2: Rouen, le Havre. File n° 5: Nancy. File n° 9: Angers (à partir du 1 octobre 1947) File n° 12: Chàlon-sur-Saöne. File n° 14: Nantes. File n° 17 Clermont-Ferrand. File n° 18: Saint-Étienne. File n° 19 Lyon-Rhône. File n° 21: Valence. File n° 22: Bayonne. File n° 23 Toulouse-Ville, Toulouse-Nord, Toulouse-Sud. File n° 25: Marseille-Provence, Nice-Ville, Nice-Côte d'Azur.
+Catégorie C (échelle 19-20)
+File n° 1: Douai, Calais.
+File n° 2: Évreux. File n° 4: Saint-Quentin. File n° 5 Saint-Dizier, Epinal. File n° 6: Metz, Mulhouse. File n° 8: Caen, Cherbourg. File n° 9: Le Mans. File n° 10: Orléans, Tours. File n° 11: Bourges, nevers. File n° 12: Dijon. File n° 13: Bourg-en-Bresse, Besançon, Montbéliard. File n° 15: Angoulême, Poitiers (à partir du 1er janvier 1949), Limoges. File n° 16: Bordeaux-Extérieur, Périgueux. File n° 17: Montluçon, Moulins. File n° 19: Grenoble, Vienne, Annecy, Chambéry. File n° 20: Saint-Affrique. File n° 21: Avignon. File n° 22: Pau File n° 24: Carcassonne. File n° 25: Toulon.
+Catégorie B (échelle 19)
+File n° 4: Charleville, Reims, Troyes.
+File n° 7: Rennes, Saint-Brieuc, Brest. Vannes. File n° 11: Chateauroux, Auxerre. File n° 15: La Rochelle. File n° 16: Agen. File n° 17: Tulle. File n° 18: Roanne.
+
+=== Page 10 ===
+
+10/25
+PERS. 183
+File n° 24: Beziers.
+File n° 25: Ajaccio.
+Catégorie A (échelle 18-19)
+File n° 4: Épernay.
+File n° 5: Toul. File n° 6: Sélestat, Thionville. File n° 7: Saint-Malo, Quimper. File n° 8: Laigle (à partir du 1er janvier 1950). File n° 9: Laval. File n° 10 Chartres, Blois. File n° 14: Saint-Nazaire, La Roche-sur-Yon. File n° 15: Saintes. File n° 17: Aurillac. File n° 18: Le Puy. File n° 20: Cahors. File n° 21: Alés, Nimes. File n° 24: Perpignan, Montpellier. File n° 25: Gap.
+2) SERVICE DE LA DISTRIBUTION CLASSEMENT DES POSTES D'ÉTAT-MAJOR
+DES CENTRES DE DISTRIBUTION ENCADREMENTS ET CLASSEMENTS MAXIMA
+Centres Hors-Catégorie:
+Les postes d'États-Major de ces Centres font l'objet de classements particuliers déterminés
+suivant les conditions d'exploitation de chacun d'eux.
+Centres Catégorie D:
+Échelle 18-19: 3 chefs de service
+Échelle 18: 2 chefs de service
+Centres Catégorie C:
+Échelle 18: 3 chefs de service
+Échelle 17-18: 2 chefs de service
+Centres Catégorie B:
+Échelle 17-18: 3 chefs de service
+Échelle 17: 2 chefs de service
+Centres Catégorie A:
+Échelle 17-18: 2 chefs de service
+Échelle 17: 2 chefs de service
+
+=== Page 11 ===
+
+11/25
+PERS. 183
+Nota: Le chef de service susceptible d'être dés igné pour remplacer le ch ef de Centre durant
+ses absences de courte durée pourra bénéficier d' un classement 19 dans les Centres D, 18-19
+dans les Centres C, 18 dans les Centres BouA.
+3) SERVICE DE LA PRODUCTION THERMIQUE CLASSEMENT DES GROUPES
+REGIONAUX DE PRODUCTION THERMIQUE
+Catégorie C (échelle 20): Avec en principe, attribution d'une indemnité de fonctions.
+RÉGION PARISIENNE Catégorie B (échelle 20) LILLE, VALENCIENNES, OUEST Catégorie A (échelle 19-20) NORMANDIE (A compter du 1er janvier 1949, passe de catégorie AB), SUD-OUEST, EST,
+MASSIF CENTRAL, ALPES, SUD-EST.
+4) CLASSEMENT DES POSTES D'ÉTAT-MAJOR DES GROUPES DE PRODUCTION
+THERMIQUE ENCADREMENTS ET CLASSEMENTS MAXIMA
+Groupe Catégorie C:
+Échelle 20: Chef de Groupe adjoint
+Échelle 19-20: Chef des Services Administratifs Échelle 19: 1 Chef de Service Technique Échelle 18-19: 5 Chefs de Service Technique
+Groupe Catégorie B:
+Échelle 19-20: Chef de Groupe adjoint
+Échelle 18-19: Chef de Service Technique Échelle 17-18: Chefs de Service Technique Chef des Services Administratifs (Lorsque le Chef
+des Services Administratifs a sous ses ordres la Comptabilité et le Personnel, son classement
+est porté l'échelle simple 18).
+Groupe Catégorie A:
+Échelle 18-19: Chef de Groupe adjoint
+Échelle 17-18: Chefs de Service
+
+=== Page 12 ===
+
+12/25
+PERS. 183
+5) SERVICE DE LA PRODUCTION THERMIQUE CLASSIFICATION DES CHEFS DE
+CENTRALES THERMIQUES
+Catégorie H (échelle 20):
+G. P. T. REGION PARISIENNE: Arrighi, Saint-Denis, Gennevilliers, Saint-Ouen.
+Catégorie G (échelle 19-20):
+GRPT. LILLE: Comines.
+GRPT. VALENCIENNES: Valenciennes, Maubeuge, Lourches. GRPT. NORMANDIE: Grand Quevilly. GPT. REGION PARISIENNE: Issy les Moulineaux Ivry. GRPT. OUEST: Chantenay. GRPT. SUD-OUEST: Hostens. GRPT. EST: Strabourg.
+Catégorie F (échelle 19):
+GRPT. LILLE: Lomme.
+GRPT. MASSIF-CENTRAL-ALPES: Chalon. GRPT. SUD-EST: Cap Pinéde.
+Catégorie E (échelle 18-19):
+GRPT. LILLE: Séquedin (G, au 1er janvier 1950)
+GRPT. VALENCIENNES: Beautor. GRPT. NORMANDIE: Le Havre. GRPT. EST: Vincey.
+Catégorie D (échelle 17-18):
+GRPT. NORMANDIE: Yainville (G, la mise en service des nouvelles installations)
+GRPT. OUEST: Angers Caen (E, la mise en service des nouvelles installations)
+GRPT. SUD-OUEST: Floirac. GRPT. EST: Mohon. GRPT. MASSIF-CENTRAL-ALPES: La M ouche (E, au 1er janvier 1950)
+GRPT. SUD-EST: Sainte-Tulle (échelle 18 simple au 1er janvier 1950) Catégorie
+C (échelle 16-17):
+GRPT. VALENCIENNES: Aulnoye.
+GRPT. NORMANDIE: Dieppe. GPT. REGION PARISIENNE: Montereau. GRPT. OUEST: Aube, Rennes, Saint-Brieuc, Quimper. GRPT. SUD-OUEST: Bayonne. GRPT. EST: Ronchamp, Mulhouse. GRPT. MASSIF-CENTRAL-ALPES: Coudes, Montluçon. GRPT. SUD-EST: Nice.
+
+=== Page 13 ===
+
+13/25
+PERS. 183
+Catégorie B (échelle 15-16):
+GRPT. LILLE: Wasquehal.
+GRPT. REGION PARISIENNE: Garchizy, Reims, Champvert, Troyes, Épernay, Vierzon.
+GRPT. OUEST: Tours, Faymoreau, Segré. GRPT. EST: Saint-Dizier, Marckolsheim. GRPT. MASSIF-CENTRAL-ALPES: Li moges, Montaud, Roanne, Vichy.
+Catégorie A (échelle 14-15):
+GRPT. LILLE: Calais, Dunkerque.
+GRPT. NORMANDIE Fécamp. GRPT. OUEST: Le Mans, Cherbourg, Lorient. GRPT. SUD-OUEST: Carcassonne. GRPT. EST: Nancy, Millery, Étupes. GRPT. MASSIF-CENTRAL-ALPES: Dijon, Br ives les Bordes, Chalons S. E.
+GRPT. SUD-EST: Toulon, Montpellier, Saint-Raphaël.
+6) SERVICE DE LA PRODUCTION HYDRAULIQUE CLASSEMENT DES GROUPES
+RÉGIONNAUX DE PRODUCTION HYDRAULIQUE
+Catégorie D (échelle 20):
+SAVOIE, DAUPHINÉ, MAURIENNE, MÉ DITERRANÉE, LOIRE-TRUYERE.
+Catégorie C (échelle 19-20):
+RHIN, PYRÉNÉES EST, RHONE (D au 1er janvier 1949) PYRÉNÉES CENTRE,
+DORDOGNE, PYRÉNÉES OUEST.
+Catégorie B (échelle 19):
+VIENNE, TARN.
+Catégorie A (échelle 18-19):
+AQUITAINE, BRETAGNE.
+7) SERVICE DE LA PRODUCTION HYDRAULIQUE CLASSEMENT DES POSTES
+D'ÉTAT-MAJOR DES GROUPES DE PRODUCTION HYDRAULIQUE ENCADREMENTS ET CLASSEMENTS MAXIMA
+Groupe catégorie D
+Échelle 19: Chef de groupe adjoint
+Échelle 17-18: 5 chefs de service (Avec possibilité de classer l'un des 5 chefs de service en 18-19)
+
+=== Page 14 ===
+
+14/25
+PERS. 183
+Groupe catégorie C
+Échelle 18-19: Chef de groupe adjoint
+Échelle 17-18: 4 chefs de service
+Groupe catégorie B
+Echelle 18: Chef de groupe adjoint
+Echelle 17-18: 3 chefs de service
+Groupe catégorie A
+Échelle 17-18: Chef de groupe adjoint
+8) SERVICE DE LA PRODUCTION HYDRAULIQUE CLASSEMENT DES CHEFS DE
+SOUS-GROUPES DE PRODUCTION HYDRAULIQUE
+Catégorie D (échelles 18-19):
+GRPH. LOIRE-TRUYERE: Truyère.
+Catégorie C (échelle 17-18)
+GRPH. RHONE: Basse-lsère.
+GRPH. SAVOIE: Beaufortin. GRPH. MAURIENNE: Arc-In férieur, Arc-Supérieur.
+GRPH. DAUPHINÉ: Romanche. Oisans, Drac-Supérieur. GRPH. MÉDITERRANÉE: Moyenne-Durance (échelle simple 18 au 1er janvier 1950) GRPH. DORDOGNE: Cère-Maronne, Moyenne-Dordogne. GRPH. PYRÉNEES-EST: Ariège. GRPH. PYRÉNÉES-OUEST: Oloron.
+Catégorie B (échelle 16-17)
+GRPH. RHONE: Cize-Bolozon.
+GRPH. SAVOIE: Tarentaise, Arve-Supérieure. GRPH. MAURIENNE: Vanoise. GRPH. DAUPHINÉ: Drac-inférieu r-Vercors (C au 1er janvier 1950)
+GRPH. MÉDITERRANÉE: Tinée-Var, Haute-Durance, Roya. GRPH. LOIRE-TRUYERE: Clermont-Ferrand, le Puy. GRPH. VIENNE: Isle-Jourdan, Éguzon. GRPH. TARN: Saint-Affrique, Vintrou. GRPH. PYRÉNÉES-CENTRE: Luchon, Saint-lary, Saint-Gaudens. GRPH. PYRÉNÉES-OUEST: Argelés, Luz.
+
+=== Page 15 ===
+
+15/25
+PERS. 183
+Catégorie A (échelle 15-16)
+GRPH. RHIN: Doubs.
+GRPH. RHONE: Mouthier, La Cure. GRPH. LOIRE-TRUYERE: Saint-Étienne. GRPH. VIENNE: Saint-Priest, Taurion, Bugeat. GRPT. TARN: Albi. GRPH. PYRÉNÉES-EST: Aude, Pyrénées-Orientales. GRPH. PYRÉNÉS-CENTRE: Saint-Girons. GRPH. AQUITAINE: Lot.
+9) SERVICE DE LA PRODUCTION HYDRAULIQUE CLASSEMENT DES CHEFS
+D'USINES HYDRAULIQUES
+HORS CLASSE (échelle 18):
+RHIN: usine de Kembs
+GRPH. RHONE: usines de Génissiat (CNR) dater du 1er janvier 1949
+HORS CLASSE (échelle 17):
+GRPH. RHONE: usine de Cusset
+GRPH. LOIRE TRUYERE: usine de Brommat
+HORS CLASSE (échelle 16-17):
+GRPH. RHIN usine du Lac Noir
+GRPH. MAURIENNE: usines de St-Jean-de -Maurienne (Groupement Centrale EDF + 2
+Centrales A. F. C.) GRPH. DORDOGNE: usine de l'Aigle
+1er CLASSE (échelle 15-16):
+GRPH. RHONE: Usines de Pizançon. Beaumont Monteux.
+GRPH. MAURIENNE: Usine de Bissorte GRPH. DAUPHINÉ: Usines de Sautet, Cordéac GRPH. MÉDITERRANÉE: Usines de l'Argentière, Sainte Tulle. GRPH. LOIRE-TRUYERE: Usines de Sarrans, Monistrol GRPH. DORDOGNE: Usine de Lamativie GRPH. PYRÉNÉES-EST: Usines de Auzat + Bassies, Sabart GRPH AQUITAINE: Usine de Tuilière (usine mixte)
+2e CLASSE (échelle 14-15):
+GRPH. RHIN: Usines de Lebvilliers + Grobois
+GRPH. RHONE: Usines de Mouthier + la Source de la Loue, Bois de Cure + Crescent + Malassis GRPH. SAVOIE: Usines de Beaufort + Fontanus-Vic laire Villard + Queige + Roenger, Chedde,
+
+=== Page 16 ===
+
+16/25
+PERS. 183
+Belleville + Hauteluce, Fayet + Bionnay + Ra teaux, Motz, Bioge + Chevenoz + Bonne-Vaux,
+Plomblière GRPH. MAURIENNE: Usines de Vognotan + Bozel, St Michel + Calypso, la Saussaz, Fond de
+France, Premont, La Praz GRPH. DAUPHINÉ: Usines de Pont-Escoffier, Drac Inférieur + Drac Romanche, Saint
+Guillerme + Chambon, Pierre Eybesse + les Cla vaux, Riouperoux, Lac Mort + Noye Chut +
+Jouchy + Loula, Verney + Fonderie, Livet + Les Vernes GRPH. MÉDITERRANÉE: Usines de Bancairon, V entavon, Castillon, St-D almas, La Brillanne,
+Le Poët GRPH. LOIRE TRUYERE: Usines de Lardit, Versilhac + Vendets GRPH. VIENNE: Usines d'Éguzon, Saillant + Voutezac + Pouch + Biard, Chardes (Usine
+mixte) GRPH. DORDOGNE: Usines de Laval-de-Cère, St-É tienne, Cantalès, St Geniez ô Merle, Val
+Beneyte GRPH. TARN: Usines de Pinet, Ventrou GRPH. PYRÉNÉES-EST: Usines d'Aston, Pradières GRPH. PYRÉNÉES-CENTRE: Usines du Lac d'Oo + Mousqueres, Camon + Valentine, St-Lary + Maison Blanche, Le Portillon, Beyrède GRPH. PYRÉNÉES-OUEST: Usines de Luz, Eygun, Lescun + Esquit, Lau, Balagnas + Arrens,
+Artigues + Gripp GRPH. BRETAGNE: Usine de Guerledan
+3e CLASSE (échelle 13/14)
+GRPH. RHIN: Usine du Refrain
+GRPH. RHONE: Usines de Cize-Bolozon, Saut Mo rtier I et Il, Chartreuse de Vaucluse, Saut de
+la Saisse + Chalain, Bridoire + La meline, Trablettes + Gravières
+GRPH SAVOIE: Usines de Giffre, Venthon, Valliè res, Chavaroche, Brassilly, St Pierre de
+Rumilly, Notre Dame de Briançon, Moutiers GRPH. MAURIENNE: Usines d'Avrieux, Montric her + St-Félix, Glandon, Villard du Planay, La
+Rageat, Bens + Breda. Pontamaffrey, Chatelard GRPH. DAUPHINÉ: Usines de Bournillon, le s Roberts, Avignonet, Le Rivier, Gavet, Champ,
+Bourne + Goule Blanche, Bonne Inférieure GRPH. MÉDITÉRANÉE: Usines de la Siagne, Paganin, Breil GRPH. LOIRE-TRUYERE: Usines de Fades + Chambonnet, Teillet, Ance du Nord, Chatel
+Montagne, Rory St Martin, Pont de Lignon IetII GRPH. VIENNE: Usines de Chatelus + La Chatre, Saint Marc, La Roche, Monceaux la Virole
+GRPH. DORDOGNE: Usine de la Triousoune GRPH. TARN: Usines de Luzières, Baous, Henri Michel, Thuries, La Jourdanie GRPH. PYRÉNÉES-EST: Usines d'Orlu, Cesse, Teich + Orgeix, Escouloubre, St Georges.
+Usson + Rouze GRPH. PYRÉNÉES CENTRE: Usines d'Eylie + Bocard, Cierp, Pique Supérieure, Bordes,
+Bordières, Pointis GRPH. PYRÉNÉES-OUEST: Usines de Nouaux + Arra s, Esterre, Pont de la Reine, Baralet,
+St Cricq, Soeix + Ste Marie + Legugnon, Forges d'Abel + Estaens + Arnousse
+GRPH. AQUITAINE: Usines de Cajarc, Mauzac GRPH. BRETAGNE: Usine de Vezin
+
+=== Page 17 ===
+
+17/25
+PERS. 183
+4e CLASSE (échelle 12/13)
+GRPH. RHIN: Usine de la Pretière
+GRPH. RHONE: Usines de la Serre, Bourg de Sirod GRPH. DAUPHINÉ: Usines de St Maur ice, Bouvante, Pont Haut, Beaumont
+GRPH. MÉDITERRANÉE: Usines du Plan du Var, Champcella Le Largue, Entraigues, Les Claux, La Mes- cla + Bauma-Negra, Pont du Loup. Fontan, St Jean la Rivière
+GRPH. LOIRE-TRUYERE: Usines de Queuille, Sauviat GRPH. VIENNE: Usines de La Roche au Moine, Jousseau, Confolent, Bussy, Maisons Rouges
+GRPH. TARN: Usines de Madières, La Bourelie-Arthez GRPH. PYRÉNÉES-EST: Usines du Castelet, Pas du Loup, Labarre, Le Tech GRPH. PYRÉNÉES-CENTRE: Usines de la Gentille + Miramont, Loudenvielle, Pique inférieure, St Sernin, Guchen, Lacourt, Mancioux GRPH. PYRÉNÉES-OUEST: Usines de Baigts, Castetarbe, Banca GRPH. BRETAGNE: Usines de la Roche qui Bo it, Rophemel, Tremorin + Talhouet + St Adrien
+5e CLASSE (échelle 11/12)
+GRPH. RHIN: Usine de Dampjoux
+GRPH RHONE: Usines de La Canche, Mordane, l'Écancière GRPH. MAURIENNE: Usines de Brides les Bains, St Martin la Chambre, Cernon
+GRPH. DAUPHINÉ: Usines de Baton, La Trinité, St Firmin, Engins
+GRPH. MÉDITÉRANÉE: Usines des Mesce, Barati er, Pont Neuf, Trente Pas, Aix en Provence,
+Fort de la Saulce GRPH. LOIRE-TRUYÉRE: Usines de Charent us, La Vourdiat, St Victor-s-loire
+GRPH. VIENNE: Usines de la Roche Bat, l'Aigue, Chauvan GRPH. TARN: Usines de Truscas, Rabastens, Isle-s-Tarn, Gaillac GRPH. PYRÉNÉES-EST: Usines de Villefranche de Conflent, Vinca, Le Carcanet GRPH. PYRÉNÉES-CENTRE: Usine de Puyoo GRPH. PYRÉNÉES-OUEST: Usines de Peyrouse, Chiroulet GRPH. BRETAGNE: Usine des Ponts Neufs
+10) SERVICE DE LA PRODUCTION HYDRAULIQUE CLASSEMENT DES CHEFS DE
+QUART D'USINES IMPORTANTES
+Échelle 13/14
+Usine de Kembs
+Échelle 12/13
+Usine de Pizançon, Sainte Tuile, Tuilière
+Échelle 11/12
+Usines de Riouperoux, Sautet, Cordéac, Bissort e, l'Argentière, Cusset, Auzat, Beyrède,
+Chedde, St Jean de Maurienne, Sabart
+
+=== Page 18 ===
+
+18/25
+PERS. 183
+11) SERVICE DU TRANSPORT D'ÉNERGIE CLASSEMENT DES CENTRES
+RÉGIONAUX DE TRANSPORT D'ÉNERGIE
+Catégorie B (échelle 20)
+Est, Alpes, Paris.
+Catégorie A (échelles 19/20)
+Nord, Sud-Est, Sud-Ouest, Ouest, Massif-Central.
+12) SERVICE DE TRANSPORT D'ÉNERGIE CLASSEMENT DES POSTES D'ÉTAT-
+MAJOR DES C. R. T. ENCADREMENTS ET CLASSEMENTS MAXIMA
+Catégorie B:
+Échelle 19: Chef des Services Techniques
+Échelle 18-19: 2 Chefs de Service Technique Échelle 17-18: 2 Chefs de Service Technique, 1 Chef des Services Administratifs
+Catégorie A:
+Échelle 18-19: Chef des Services Techniques (1)
+Échelle 17-18: 4 Chefs de Service Technique (1), 1 Chef des Services Administratifs
+13) SERVICE DU TRANSPORT D'ÉNERGIE CLASSEMENT DES CHEFS DE SOUS-
+GROUPES DE TRANSPORT
+Hors Classe (échelle 18-19)
+CRT. PARIS: PARIS A, PARIS B.
+1re Classe (échelle 17-18)
+CRT. Nord: Béthune, Vendin
+CRT. ALPES: Lyonnais CRT. MASSIF-CENTRAL: Gatelier, St-Étienne CRT. SUD-OUEST: Languedoc, Béarn, Pyrénées CRT. OUEST: Saumur CRT. SUD-EST: Marseille CRT. EST: Mulhouse, Creney, Vincey
+
+
+1 Avec possibilité de classer éventuellement en 19 le Chef des Services Techniques, et en 18-19
+deux Chefs de Service Technique.
+
+=== Page 19 ===
+
+19/25
+PERS. 183
+2e Classe (échelle 16-17)
+CRT. NORD: Rouen
+CRT. ALPES: Bourgogne, Dauphiné, Savoie CRT. MASSIF-CENTRAL: Éguzon CRT. Sud-Ouest: Gascogne CRT. OUEST: Pontchâteau (en 1re cl asse au 1er janvier 1948, Aube)
+CRT. SUD-EST: Bagnols CRT. EST: Landres, Briey.
+14) SERVICE DU TRANSPORT D'ÉNERGIE CLASSEMENT DES CHEFS DE
+POSTES-TRANSPORT
+CHEFS DE POSTES HORS-CLASSE (échelles 14-15)
+CRT. PARIS: Ampère, Nanterre, Billancourt, Vitry- Nord. Romainville, Villejuif (1), d'Harcourt.
+CRT. MASSIF-CENTRAL: Larivière, Éguzon. CRT. EST: Creney, lle Napoléon, Landres. CRT. OUEST: Pontchâteau, Lion d'Or, Distré. CRT. ALPES: Henri-Paul (ensemble Génissiat-Arlod). CRT. SUD-EST: Ste-Tulle
+CHEFS DE POSTES 1re Classe Échelle 13/14
+CRT. PARIS: Arcueil, Vincennes, Luisant, Bourges.
+CRT. MASSIF-CENTRAL: Ruevres, Roanne, Le Soleil, Enval, Gatelier, Casseaux.
+CRT. EST: Logelbach, Lanoeuveville, Tonnerre: Ronchamp + Recologne (2). CRT. OUEST: Aube, Cholet. CRT. ALPES: Cusset, La Boisse, Palente, Givors, Pariset. CRT. SUD-OUEST: Verlaguet, Godin. CRT. SUD-EST: Bagnols, Septemes, Nîmes, Arles. CRT. NORD: Gosnay, Mazingarbe 90kV, Mazingarbe 220 kV, Roye, Amiens, La Vaupalière, Maubeuge (3).
+CHEFS DE POSTES 2e Classe Échelles 12/13
+CRT. PARIS: Villevaudé, Issy Sud État.
+MASSIF-CENTRAL: Mont luçon, Le Breuil.
+CRT. EST: Damery, Lutterbach, Vincey. CRT. OUEST: Arnage, Saumur Clos Bonnet. CRT. ALPES: Bolozon.
+
+
+1 A titre provisoire, jusqu’à la date de complète exécution du remaniement en cours du réseau 60 kV
+de la Région Parisienne.
+2 A compter du 1er juin 1948, l’ensemble Ronchamp + Recologne (1re classe) prend la place de
+Ronchamp (3e classe).
+3 A compter du 1er janvier 1949.
+
+=== Page 20 ===
+
+20/25
+PERS. 183
+CRT. SUD-OUEST: Valentine, M ouguerre (1). Sept-Deniers (2).
+CRT. NORD: Calais, Beuvry, Samer, Vendin, B oulogne, Holque, Dunkerque, Abbeville, Arras,
+Haut-Vinage. CRT. SUD-EST: Lingostière, Enco de Botte
+CHEFS DE POSTES DE 3e CLASSE Échelles 11/12
+CRT. PARIS: Villement, Theillay, Châteauroux, Marmagne.
+CRT. MASSIF-CENTRAL: Bayet, Tulle, St-Martin. CRT. EST: Revigny, Ronchamp (3), Yrouerre, Fontoy, Morvillars. CRT. OUEST: Mur de Bretagne, Chatelle rault, Laval, Saintes, Agneaux, Landerneau.
+CRT. ALPES: Aoste, Albertville, Geugnon, Vénissieux, Sombernon, Cruet, St-Jean-de-
+Maurienne. CRT. SUD-OUEST: St-Pierre d'lrrube (4), Cucussac, Tarascon, Marignac, Laubalagnas,
+Pélissier, Monloo, Aureilhan. CRT. SUD-EST: Jonquière (5), Bronzen. CRT. NORD: Doullens, Beauchamps, St-Omer, Hazebrouck, Villemaclet.
+15) SERVICE DU TRANSPORT D'ÉNERGIE CLASSIFICATION DES ÉQUIPES
+D'ENTRETIEN - POSTES-LIGNES
+POSTES LIGNES
+CONTREMAITRES DE 1re CLASSE (Échelles 13/14)
+CRT. PARIS Paris 220 kV, Paris Transfo A. Vitry, Orléans, Bourges, Étréchy.
+CRT. SUD-OUEST Montauban, Oloron Angoulême. CRT. NORD Vendin. CRT. MASSIF-CENTRAL St-Étienne, Gatellie r Liginiac, Éguzon, St-Étienne.
+CRT. ALPES Lyonnais, Bourgogne Lyonnais, Bourgogne, Dauphiné, Savoie. CRT. OUEST Saumur, Pontchâteau Saumur. CRT. EST Creney, Mulhouse, Landres Creney, Landres, Mulhouse. CRT. SUD-EST Saint-Tulle.
+CONTREMAITRE DE 2e CLASSE (Échelles 12-13)
+CRT. PARIS Paris lA, Paris IIA, Paris IB, Paris IIB.
+Paris Transfo B, Paris Transfo C. CRT. SUD-OUEST Bordeaux Bearn.
+
+
+1 A compter du 1er janvier 1949, le poste Dt-Pierre St-Pierre (3e classe CRT Sud-Ouest) et le poste
+de Mouguerre (précédemment rattaché la Distribution) forment un seul ouvrage dénommé « Mouguerre » et classé en 2e classe.
+2 A compter du 1er janvier 1950.
+3 Voir renvoi 2
+4 Voir renvoi 4
+5 A compter du 1er mai 1949, passe de 3e en 2e classe.
+
+=== Page 21 ===
+
+21/25
+PERS. 183
+CRT. NORD Béthune I, Béthune Il, Rouen, Béthune I, Béthune Il.
+Vendin I, Vendin II CRT. MASSIF-CENTRAL Limoges. CRT. OUEST Aube Pontchâteau, Arnage (1re classe au 1er janvier 1948) CRT. EST Briey Briey. CRT. SUD-EST Marseille Bagnols, Lingostière Nîmes.
+CHEFS D'ÉQUIPE (Échelles 11-12)
+CRT. PARIS Bourges I, Bourges II, Orléans Amboise.
+CRT. Sud-Ouest St-Affrique (Nord), St-Affrique (Sud) Albi. CRT. MASSIF-CENTRAL Éguz on Rueyres, Gatellier.
+CRT. ALPES Savoie, Dauphiné CRT. SUD-EST Bagnols Griselles, Arles CRT. OUEST St-Lô.
+16) SERVICE DES MOUVEMENTS D'ÉNERGIE CLASSEMENT DES CENTRES
+RÉGIONAUX DE MOUVEMENTS D'ÉNERGIE
+Catégorie B (Échelle 20)
+CRME. Paris
+Catégorie A (échelle 19-20)
+CRME. Nord. Sud-Ouest, Est. Ouest, Alpes, Sud-Est, Massif-Central.
+17) SERVICE DES MOUVEMENTS D'ÉNERGIE CLASSEMENT DES POSTES
+D'ÉTAT-MAJOR DES C. R. M. E.
+Centre catégorie A
+Échelle 19: Chef de Centre-adjoint.
+Échelle 18: Chef Dispatcher Régional, Chef « Répartition, Décomptes Comptoir ».
+Échelle 17: Chef Répartiteur Régional.
+Échelle 16-17: Ingénieur adjoint au Chef Dispatcher Régional.
+Centre Catégorie B
+Échelle 18-19: Chef de Centre adjoint.
+Échelle 17-18: Chef Dispatcher Régional, Chef « Répartition, Décomptes Comptoir ».
+Échelle 16-17: Chef répartiteur régional, I ngénieur adjoint au Chef Dispatcher Régional.
+
+=== Page 22 ===
+
+22/25
+PERS. 183
+18) SERVICE DES MOUVEMENTS D'ÉNERGIE CLASSEMENT DES CHEFS DE
+DISPATCHINGS DÉTACHÉS
+HORS CLASSE (échelle 17-18)
+CRME. EST: Mulhouse
+CRME. ALPES: Grenoble
+1re CLASSE (échelle 16-17)
+CRME. NORD: Rouen (1), Valenciennes, Vendin, Lille.
+CRME. ALPES: Henri-Paul CRME. SUD-EST: Sainte-Tulle. CRME. SUD-OUEST: Toulouse.
+2e CLASSE (échelle 15-16)
+CRME. NORD: Béthune.
+CRME. ALPES: Venthon. CRME. OUEST: Ponchâteau, Isle-Jourdan, Aube. CRME. MASSIF-CENTRAL: Eguzon, Brommat CRME. PARIS: Creney.
+Nota: Dispatching hors classification - Échelle 14/15
+CRME. EST: CARLING.
+19) CLASSEMENT DES CENTRES AUTONOMES DE PRODUCTION ET DE
+TRANSPORT DE GAZ
+CATÉGORIE E (échelle 20)(2)
+RÉGION PARISIENNE: Paris, Gennevilliers, Nanterre.
+CATÉGORIE D (échelle 20)
+RÉGION PARISIENNE: C. A. T. G. B.
+D. G. NORD: Douai. D. G. EST: Strasbourg. D. G. CENTRE-EST: Lyon. D. G. SUD-EST: Marseille.
+
+
+1 Le dispatching ROUEN passera de 1re classe en hors classe lors de la mise en service des
+Centrales de DIEPPEDALLE ET YAINVILLE.
+2 Avec, en principe, attribution d’une indemnité des fonctions, ainsi que pour les Chefs de Division
+Gazière.
+
+=== Page 23 ===
+
+23/25
+PERS. 183
+CATÉGORIE C (échelle 19-20)
+D. G. OUEST: Rouen, Le Havre, Nantes.
+D. G. SUD-OUEST: Toulouse. D. G. SUD-EST: Nice.
+CATÉGORIE B (échelle 19)
+D. G. NORD: Calais, Boulogne. Dunkerque.
+D. G. EST: Nancy. D. G. CENTRE-EST: Saint-Étienne. D. G. SUD-OUEST: Montpellier, Béziers, Sète.
+CATÉGORIE A (échelle 18-19)
+D. G. OUEST: Rennes, Angers.
+D. G. EST: Reims. D. G. CENTRE-OUEST: Orléans, Blois, Tours, Vierzon. D. G. CENTRE-EST: Dijon, Clermont-Ferrand. D. G. SUD-OUEST: Bayonne D. G. SUD-EST: Nîmes, Toulon.
+20) CLASSEMENT DES INSPECTEURS-COMPTABLES RÉGIONAUX DES CHEFS
+DES SERVICES COMPTABLES ET DES CHEFS COMPTABLES
+Inspecteurs-Comptables Régionaux
+Categorie C (échelles 19-20): File de Paris.
+Catégorie B (échelle 19): Files de Lille, Lyon et Marseille. Catégorie A (échelles 18-19): autres files.
+Chefs des Services Comptables de Centres de Distribution
+Hors-Catégorie: Ces postes font l'objet de cl assements particuliers déterminés selon les
+conditions d'exploitation de chaque Centre. Catégorie D: Échelle 18. Catégorie C: Échelles 17-18. Catégorie BouA: Échelle 17.
+Chefs des Services Comptables ou Chefs Comptables des G. R. P. T.
+Les échelles de classement figurant ci-dessous se rapportent aux fonctions de chef des
+Services Comptables. Dans le cas où ces servic es sont effectivement coiffés par un chef
+commun aux fonctions administratives et comp tables ayant une compétence suffisante pour
+prendre effectivement en charge les Services Comptables, la classification du Chef Comptable
+qui lui est adjoint est limitée l'échelle Edela paire d'échelles indiquée ci-dessous. Dans le cas
+où le Chef Comptable est placé sous l'autor ité d'un chef de Servic e commun plusieurs
+organismes, son classement fonctionnel est ram ené la paire d'échelles inférieures: E-I/E.
+
+=== Page 24 ===
+
+24/25
+PERS. 183
+Échelles 17-18: groupe C
+Échelles 16-17: groupe B Échelles 15-16: groupe A
+Chefs-Comptables des G. R. P. H.
+Échelles 15-16: groupes BetC.
+Échelles 14-15: groupe A.
+Chefs-Comptables des C. R. T.
+Échelles 16-17: centre B.
+Échelles 15-16: centre A.
+Chefs des Services Comptables des C. A. P. T. G.
+Échelles 17-18: Paris, Gennevilliers, Nanterre.
+Échelles 15-16: Marseille, Douai, Strasbourg, N ancy, Rouen, Montpellier, Toulouse, C. A. T. G. B.
+Échelles 15: St-Étienne, Boulogne, Orléans, Dijon. Échelles 14-15: Angers, Tours.
+Chefs des Services Comptables des Régions d'Équipement
+Échelles 17-18: D. E. R. T.
+Échelles 16-17: Régions d'Équipement Thermique et Hydraulique.
+Dans le cas où les Chefs des Services Compt ables sont chargés, en dehors de leurs fonctions
+comptables, de questions relevant de la compétenc e administrative, les échelles indiquées du
+classement ci-dessus pourront être modifiées.
+
+=== Page 25 ===
+
+25/25
+PERS. 183
+A titre d'exemple il est indiqué que dans le ca s particulier des C. A. P. T. G. la correspondance
+des échelles du classement ci-dessus, attr ibuer en cas de double fonction, s'établit comme
+suit:
+
+Chefs des Services Comptables Chefs des Services Comptables
+chargés en plus des questions
+administratives
+15-16
+15 14-15 16 ou 16-17
+15-16 ou 16 15 ou 15-16
