@@ -3,7 +3,7 @@ import pandas as pd
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 
-class vectorizor:
+class Vectorizor:
     def __init__(self, model_name: str = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"):
         """
         Initialise le vectorizor avec un modèle par défaut.
@@ -32,7 +32,7 @@ class vectorizor:
             self.model_name = model_name
             return
         
-        print(f"📦 Chargement du modèle : {model_name}")
+        print(f" Chargement du modèle : {model_name}")
         
         try:
             # Cas spécial : Qwen nécessite trust_remote_code

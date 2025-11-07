@@ -1,25 +1,25 @@
 import numpy as np
 import pandas as pd
-from vectorizor import vectorizor
+from .vectorizor import Vectorizor
 from typing import Tuple, List, Optional
 from pathlib import Path
-from rerank import Reranker
-from chroma_storage import ChromaStorage
+from .rerank import Reranker
+from .chroma_storage import ChromaStorage
 import json
 from datetime import datetime
 import getpass
 from langchain_text_splitters import RecursiveCharacterTextSplitter  
-from config import PROCESSED_TEXTS_DIR, ROOT_DATA_PATH
-from document_processor import DocumentProcessor
+from .config import PROCESSED_TEXTS_DIR, ROOT_DATA_PATH
+from .document_processor import DocumentProcessor
 
-class retrieval :
+class Retrieval :
     def __init__(self, 
              path_doc = ROOT_DATA_PATH, 
              chroma_persist_dir: str = "./chroma_db_local",
              processed_texts_dir: str = PROCESSED_TEXTS_DIR  
             ):
         
-        self.vectorizor = vectorizor()
+        self.vectorizor = Vectorizor()
         self.reranker = Reranker(enabled=True, alpha=0.5)  # moyenne pondérée 50/50
         self.chroma_storage = ChromaStorage(persist_directory=chroma_persist_dir)     
         self.path_doc = Path(path_doc)

@@ -1,7 +1,7 @@
 import numpy as np
 from openai import OpenAI
 
-class llm :
+class LLM :
     def __init__(self, 
                  model = "Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf"  , 
                  base_url="http://127.0.0.1:8080/v1", 
@@ -49,5 +49,5 @@ class llm :
         Utile pour éviter de dépasser la limite de tokens du contexte.
         """
         self.conversation = [self.system_message]
-        print("💬 Conversation LLM réinitialisée")
+        print(" Conversation LLM réinitialisée")
 

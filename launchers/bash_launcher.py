@@ -1,4 +1,4 @@
-from rag import rag
+from src.rag import Rag
 from pathlib import Path
 
 def select_collection_menu(rag_instance):
@@ -104,7 +104,7 @@ def test_complete():
     print("=" * 100)
     
     try:
-        rag_instance = rag()
+        rag_instance = Rag()
         print(" RAG initialisé avec succès")
     except Exception as e:
         print(f" Erreur lors de l'initialisation : {e}")

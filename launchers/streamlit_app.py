@@ -1,6 +1,12 @@
-import streamlit as st
-from rag import rag
+import sys
 from pathlib import Path
+
+# ⚠️ AJOUTER CES 3 LIGNES EN PREMIER (avant tous les autres imports)
+ROOT_DIR = Path(__file__).parent.parent  # Remonte de launchers/ à RAG_CGT/
+sys.path.insert(0, str(ROOT_DIR))
+
+import streamlit as st
+from src.rag import Rag
 
 # Configuration de la page
 st.set_page_config(
@@ -13,18 +19,18 @@ st.set_page_config(
 @st.cache_resource
 def init_rag():
     """Initialise le système RAG une seule fois"""
-    return rag()
+    return Rag()
 
 # Interface principale
 def main():
-    st.title("🤖 Assistant RAG - Base documentaire CGT")
+    st.title(" Assistant RAG - Base documentaire CGT")
     st.markdown("---")
     
     # Initialisation
     try:
         rag_instance = init_rag()
     except Exception as e:
-        st.error(f"❌ Erreur d'initialisation : {e}")
+        st.error(f" Erreur d'initialisation : {e}")
         return
     
     # Sidebar : Sélection de la collection
@@ -35,7 +41,7 @@ def main():
         collections = rag_instance.retrival.chroma_storage.list_collection_names()
         
         if not collections:
-            st.warning("⚠️ Aucune collection disponible")
+            st.warning(" Aucune collection disponible")
             st.info("Utilisez `manage_collections.py` pour créer une collection")
             return
         
@@ -53,14 +59,14 @@ def main():
             # Afficher les stats de la collection
             stats = rag_instance.retrival.get_stats()
             
-            st.metric("📚 Documents", stats['total_documents'])
-            st.metric("📁 Fichiers sources", stats['total_fichiers'])
+            st.metric(" Documents", stats['total_documents'])
+            st.metric(" Fichiers sources", stats['total_fichiers'])
             
             # Métadonnées de la collection
             collection = rag_instance.retrival.chroma_storage.collection
             metadata = collection.metadata
             
-            with st.expander("ℹ️ Détails de la collection"):
+            with st.expander(" Détails de la collection"):
                 if metadata.get("chunk_size"):
                     st.write(f"**Taille chunks :** {metadata.get('chunk_size')} caractères")
                 if metadata.get("overlap"):
@@ -71,7 +77,7 @@ def main():
                     st.write(f"**Créée le :** {metadata.get('created_at')[:10]}")
     
     # Zone principale : Question-Réponse
-    st.header("💬 Posez votre question")
+    st.header(" Posez votre question")
     
     # Champ de saisie de la question
     question = st.text_area(
@@ -84,10 +90,10 @@ def main():
     col1, col2 = st.columns([1, 4])
     
     with col1:
-        submit_button = st.button("🔍 Rechercher", type="primary", use_container_width=True)
+        submit_button = st.button(" Rechercher", type="primary", use_container_width=True)
     
     with col2:
-        clear_button = st.button("🗑️ Effacer", use_container_width=True)
+        clear_button = st.button(" Effacer", use_container_width=True)
     
     # Gestion du bouton Effacer
     if clear_button:
@@ -95,14 +101,14 @@ def main():
     
     # Gestion de la soumission
     if submit_button and question:
-        with st.spinner("🔄 Recherche en cours..."):
+        with st.spinner(" Recherche en cours..."):
             try:
                 # Appel du système RAG
                 reponse = rag_instance.respond(question)
                 
                 # Affichage de la réponse
                 st.markdown("---")
-                st.subheader("✅ Réponse")
+                st.subheader(" Réponse")
                 
                 # Séparer la réponse des sources
                 if "Sources (Top-" in reponse:
@@ -117,29 +123,29 @@ def main():
                 
                 # Afficher les sources dans un expander
                 if sources_text:
-                    with st.expander("📖 Voir les sources", expanded=True):
+                    with st.expander(" Voir les sources", expanded=True):
                         st.text(sources_text)
                 
             except Exception as e:
-                st.error(f"❌ Erreur lors de la génération de la réponse : {e}")
+                st.error(f" Erreur lors de la génération de la réponse : {e}")
     
     elif submit_button and not question:
-        st.warning("⚠️ Veuillez entrer une question")
+        st.warning(" Veuillez entrer une question")
     
     # Section historique (optionnel)
     with st.sidebar:
         st.markdown("---")
         
-        # 🆕 NOUVEAU BOUTON : Réinitialiser la session LLM
-        if st.button("🔄 Réinitialiser la session LLM"):
+        #  Réinitialiser la session LLM
+        if st.button(" Réinitialiser la session LLM"):
             try:
                 rag_instance.llm.reset_conversation()
-                st.success("✅ Session LLM réinitialisée ! L'historique des conversations a été effacé.")
-                st.info("💡 La mémoire du modèle est maintenant vide, vous pouvez poser de nouvelles questions sans risque de dépassement de tokens.")
+                st.success(" Session LLM réinitialisée ! L'historique des conversations a été effacé.")
+                st.info(" La mémoire du modèle est maintenant vide, vous pouvez poser de nouvelles questions sans risque de dépassement de tokens.")
             except Exception as e:
-                st.error(f"❌ Erreur lors de la réinitialisation : {e}")
+                st.error(f" Erreur lors de la réinitialisation : {e}")
         
-        if st.button("🔄 Recharger l'application"):
+        if st.button(" Recharger l'application"):
             st.cache_resource.clear()
             st.rerun()
             

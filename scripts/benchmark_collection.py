@@ -1,4 +1,4 @@
-from code.retrieval import retrieval
+from src.rag import Retrieval
 import time
 from typing import List, Dict, Any
 
@@ -46,7 +46,7 @@ def select_collections_menu() -> List[str]:
     Returns:
         List[str]: Liste des noms de collections sélectionnées
     """
-    r = retrival()
+    r = Retrieval()
     client = r.chroma_storage.chroma_client
     collections = r.chroma_storage.list_collection_names()
     
@@ -158,7 +158,7 @@ def benchmark_collections(collections_to_test: List[str],
         print("=" * 100)
         print(f" Requête : {query}\n")
     
-    rag_instance = retrival()
+    rag_instance = Retrieval()
     client = rag_instance.chroma_storage.chroma_client
     
     results = []

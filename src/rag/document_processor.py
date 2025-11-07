@@ -12,8 +12,8 @@ from datetime import datetime
 from typing import List, Optional, Tuple
 
 from docx import Document
-from ocr_processor import PDFOCRProcessor
-from config import PROCESSED_TEXTS_DIR, ROOT_DATA_PATH
+from .ocr_processor import PDFOCRProcessor
+from .config import PROCESSED_TEXTS_DIR, ROOT_DATA_PATH
 
 class DocumentProcessor:
     """

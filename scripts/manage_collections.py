@@ -1,10 +1,10 @@
-from code.retrieval import retrieval
 import uuid
 from pathlib import Path
-from vectorizor import vectorizor
 import time
 import re
-from config import ROOT_DATA_PATH
+from src.rag.config import ROOT_DATA_PATH
+from src.rag import Retrieval, Vectorizor
+
 
 def add_collection_interactive(client):
     """
@@ -20,7 +20,7 @@ def add_collection_interactive(client):
     print("=" * 100)
     
     # Instance retrival
-    r = retrival()
+    r = Retrieval()
     
     # 1. Afficher les collections existantes
     collections = r.chroma_storage.list_collection_names()  
@@ -135,7 +135,7 @@ def add_collection_interactive(client):
     
     #  7. MODIFIER vectorizor.py temporairement
     print(f"\n Configuration du vectorizor pour {model_short}...")
-    r.vectorizor = vectorizor()  # Recharger avec le modèle par défaut
+    r.vectorizor = Vectorizor()  # Recharger avec le modèle par défaut
     r.vectorizor._load_model(model_name)  # Charger le modèle choisi
     
     # 6. Lancer la vectorisation avec métadonnées
@@ -831,7 +831,7 @@ def batch_create_collections(client):
     
     # ===== ÉTAPE 4 : CONFIRMATION FINALE =====
     print("\n  ATTENTION : Ce processus peut prendre du temps")
-    confirmation = input("\n✅ Lancer la création de TOUTES les collections ? (tapez 'OUI' en majuscules) : ").strip()
+    confirmation = input("\n Lancer la création de TOUTES les collections ? (tapez 'OUI' en majuscules) : ").strip()
     
     if confirmation != "OUI":
         print("Création annulée")
@@ -853,7 +853,7 @@ def batch_create_collections(client):
         try:
             # Configurer le vectorizor
             print(f"🔧 Configuration du vectorizor pour {config['model_short']}...")
-            r.vectorizor = vectorizor()
+            r.vectorizor = Vectorizor()
             r.vectorizor._load_model(config['model_name'])
             
             # Lancer la vectorisation

@@ -1,10 +1,10 @@
 import numpy as np
-from llm import llm
-from code.retrieval import retrieval
+from .llm import LLM
+from .retrieval import Retrieval
 from pathlib import Path
-from config import ROOT_DATA_PATH, CHROMA_PERSIST_DIR, DEFAULT_LLM_MODEL, LLM_BASE_URL
+from .config import ROOT_DATA_PATH, CHROMA_PERSIST_DIR, DEFAULT_LLM_MODEL, LLM_BASE_URL
 
-class rag:
+class Rag:
     # personnalisation des paramètres d'initialisation, les valeurs par défaut sont fournies 
     # toutes les personnalisations sont à fournir lors de l'appel de la classe rag
     def __init__(self, model = DEFAULT_LLM_MODEL, 
@@ -30,12 +30,12 @@ class rag:
             # Fournit un fallback simple pour que le programme ne plante pas
             self.prompt_template = "CONTEXTE:\n{context_concat}\n\nQUESTION:\n{query}"
         
-        self.llm = llm( model=self.model,
+        self.llm = LLM( model=self.model,
                         base_url=self.base_url,
                         api_key=self.api_key
                         )
         
-        self.retrival = retrival(path_doc=self.path_doc,
+        self.retrival = Retrieval(path_doc=self.path_doc,
                                  chroma_persist_dir=self.chroma_persist_dir,
                                  )
         
