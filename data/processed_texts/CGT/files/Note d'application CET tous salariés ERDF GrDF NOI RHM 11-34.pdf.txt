@@ -1,0 +1,590 @@
+=== Page 1 ===
+
+ÀD ERDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE CU
+NOTE D'APPLICATION CONCERNANT LES DISPOSITION S
+RELATIVES AU CET
+ERDF-GrDF NOI-RHM-11/34
+Version 1.3 Nombre de pages: 15
+Tr nnannnannennnnnnnnnnrnrnnrrnrnrrnnrrrnnrrrrnrrrruntrtunnn
+e Résumé
+Les deux accords identiques, signés le 20 juillet 2009 pour ERDF et GrDF sur le temps de travail des cadres
+prévoient, dans leur partie III, des dispositions relatives au Compte Epargne-Temps (CET) pour les cadres
+autonomes au forfait annuel jours et pour les cadres dirigeants. Deux autres accords, signés le 12 décembre 2011
+pour ERDF et GrDF sur le temps de travail des salariés hors cadres au forfait et hors cadres dirigeants, comportent
+également, dans leur partie Il, des dispositions relatives au CET pour les salariés concernés.
+Cette note d'application, qui annule et remplace la note ERDF-GrDF NOI-RHM-09/32, a pour objectif de faciliter la
+mise en œuvre des nouvelles dispositions sur le CET pour tous les salariés, quelle que soit leur catégorie au sens
+des accords précités. Elle est destinée la filière RH et aux encadrants, tout en pouvant être diffusée aux salariés
+qui en feront la demande.
++ Document(s) associé(s) et annexe(s)
+Accords sur le temps de travail des cadres d'ERDF et de GrDF du 20 juillet 2009 et leurs avenants
+Accords nationaux sur le temps de travail d'ERDF et de GrDF du 12 décembre 2011
+Note d'application du forfait jours NOI-RHM-10/20 du 3 mai 2010
+e Historique
+LES Nature de la modification Annule et remplace
+d'application p
+01/01/2012 [Version 1.3 [NOI-RHM-09/32
+° Accessibilité
+m ERDF Électricité Réseau Restreinte | H Confidentielle
+Distribution France —
+m GrDF Gaz Réseau Distribution Rectreinte [1 Confidentielle
+France
+e Destinataire(s) Filière: RH
+e Validation
+Rédacteur(s) Vérificateur(s) Approbateur(s)
+Visa _[Nom - Fonction [Visa [Nom - Fonction" |Signature |Nom-Fonction
+&> [Patrick DUPON( -[Pierre- Charles THOLLET PRSCT -— Eric PERNETTE -
+PRSCT- DRH ERDF DRH ERDF D° 7 DRH ERDF
+- Cécile LE ROUX W Sophie BAUD \ Daniel-Jean VENIAT-
+fi |DRS GrDF ‘IDRS-GrDF 13 /ha_IPRS GrDF
+page 1/15
+
+=== Page 2 ===
+
+S. 0?
+d& =
+© % CRDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE nec
+SOMMAIRE
+1- PRINCIPES, BENEFICIAIRES, MODALITES, PLAFOND sens 1.1 - PRINCIPES GENERAUX ET BENEFICIAIRES DU COMPTE EPARGNE-TEMPS (CET)... 3
+1.2 - MODALITES PRATIQUES D'OUVERTURE DU CET si inrrnrreerneereenreeereenneeneeeneeeeeeennennses À
+1.3 - LA DUREE ET LE PLAFOND GLOBAL D’EPARGNE SUR LE CET... rrrrenennenseneesneneenennensee 3
+2.1 — PLAFONDS DE PLACEMENTS ET SOURCES D’ALIMENTATIO Nsnrrnseernerenmerenneeeneernneeenmeneeenneesneenneeenneeeneeenensses À
+2.1.1 — Tableau récapitulatif des sources d'alimentation... ss 4
+2.1.2 — Précisions sur le plafond annuel d'alimentation en congés annuels... ns 5
+2.1.3 — Le plafond d'alimentation en gratifications 13ème mois... sn D
+2.1.4 -— Valorisation des plafonds d'alimentation et des journées placées... S
+2.2.1. Mesures prévues l'ouverture d’un CET un nnrnrrnrrrrnrnrnrrrneennennenennnnennenennenenneerneeenennenerenerse
+2.2.2 - Mesures transitoires de placement des stocks de congés et RC avant le 31 mars 2012... 6
+2.2.3 - Mesure liée la première signature d’une convention de forfait jours... Ô
+2.2.4 — Mesures d'abondements prévues par les anciens accords de 1999 et de 2007... 6
+2.2.5 - Spécificités en matière de possibilités de placement pour les cadres au forfait jours...
+3 - LES MODALITES D'UTILISATION DU CET seems
+3.1 - LE CONGE EPARGNE-TEMPS sr nrrrnrrnneeneeeenneenneenneeneennreneeeneenneonneeneenneeneeeeeneenmeeneeeennenneemeneeenneseeneeeeseesee À
+3.1.1 - Modalités de demande et durée du congé épargne-temps.... rennes 8
+3.1.2 - Possibilités pour la hiérarchie de différer un départ en congé épargne-temps ss 8
+3.1.3 - Délai de carence entre deux congés épargne-temps rennes À
+3.1.4 - Modalités de congé épargne-temps assouplies en cas de situation ou d'évènements exceptionnels... 8
+3.1.5 - Modalités de fractionnement du congé épargne-temps pour les cadres au forfait jours et dirigeants... 9
+3.1.6 — Décompte des droits et rémunération pendant un congé épargne-temps pour les salariés hors cadres au
+Jorfait jours et dirigeants... sine D
+3.1.7 — Décompte des droits et rémunération pendant un congé épargne-temps pour les cadres au forfait jours et
+impact sur le forfait... innrrrrereneernennenenenneneeeeeneeenenneeeneeeneennenenee À
+3.1.8 - Situation du salarié pendant le congé épargne-temps..... nn 10
+3.1.9- Situation du salarié au retour de son congé épargne-temps rennes 1
+3.1.10 - Dispositions de la Pers 755 sur les congés exceptionnels précédant la retraite... tt
+3.2 - LA MONETISATION srrrrnnnnrerenenneneeneenenennenenneneenenneeenenneeenenenenneneenennenennenenennenenenenneeeneeseneenenenenss ÀÎ
+3.2.1 - Les règles de monétisation ss ÀÂ
+3.2.2 - Les différentes formes de monétisation ss 12
+3.2.3 - Règles respecter pour une demande de monétisation immédiate... 12
+3.2.4 - Règles respecter pour une demande de transfert sur les PEG, PERCO et RSR... ne 13
+4.2 - SUSPENSION DU CONTRAT DE TRAVAIL ssnrrnrnnnnnrnennennneneneeneneneeneeneneenenneneennnenneneneeneeneeeeennenes |3
+4.3 - RUPTURE DU CONTRAT DE TRAVAIL snrrrermeennmrennneenneennneenneennneenneennne senc eneenneeeneeenneenneeneeeeeenneeeneeeneeneeenes Î 2
+4.4 - DECES DU SALARI Esuerreenesreneeneoneneneeneneneenesnenenneneenenneeenenneenneeneeeneneenenneneeneeneneeneneenenennennenenneeenennenennenenens [3
+4,5 - GARANTIE DES DROITS EPARGNES SUR UN CET nn rrrnnrrrrrnnennenrennneneenennerennesseeneeesneeensnes 14
+4.6 - REGLES APPLICABLES EN MATIERE DE COTISATIONS ET D’IMPOT sn rrrnrreneenrerrnreeneenenmennneneneeemeeneeesneenes 14
+ANNEXE: FORMULAIRE D’ALIMENTATION D'UN COMPTE EPARGNE - TEMPS 15
+page 2/15
+
+=== Page 3 ===
+
+9 CRDF GrDF
+
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE RL IE
+1- PRINCIPES, BENEFICIAIRES, MODALITES, PLAFOND
+1.1 - Principes généraux et bénéficiaires du compte épargne-temps (CET)
+Le CET est un dispositif qui permet tout salarié, statutaire ou non statutaire, quelle que soit son ancienneté
+dans l'entreprise, d'épargner du temps ou des éléments de rémunération pour bénéficier ensuite de droits congés rémunérés ou d’une monétisation immédiate ou différée.
+L'ouverture d'un Compte Epargne-Temps, son alimentation et son utilisation sont réalisées la seule initiative
+du salarié.
+Les placements de temps (excepté 5 jours de congés annuels au delà de la 4°" semaine) pourront être
+récupérés au choix du salarié en temps ou en argent.
+Les placements d'argent (primes ou gratifications) sont uniquement récupérables en temps, des dispositions
+ayant déjà été prévues en matière d'épargne salariale pour transférer des droits épargnés du CET vers le
+PEG et le PERCO.
+Les droits épargnés sont la propriété du salarié. Le CET est utilisé dans la limite des droits épargnés. Il n'est
+ainsi pas consenti de prêt ou d'avance au salarié.
+1.2 - Modalités pratiques d'ouverture du CET
+La demande d'ouverture est formalisée par une demande transmise via le portail RH (voir le formulaire en
+annexe) émanant du salarié avec information de la hiérarchie. L'entité en charge du contrat de travail
+confirme par écrit l'ouverture du Compte Epargne-Temps.
+1.3 - La durée et le plafond global d'épargne sur le CET
+La durée de vie du Compte Epargne-Temps et la durée de l'épargne ne sont plus limitées, hormis par la fin du
+contrat de travail (retraite, démission, licenciement.….).
+Cependant, les droits détenus sur le CET sont plafonnés, hors abondement:
+
+- 3213 heures, pour l'ensemble des salariés hormis les cadres dirigeants et les cadres autonomes
+
+ayant conclu une convention de forfait jours,
+- 459 jours pour les cadres dirigeants et cadres autonomes ayant conclu une convention de forfait
+jours.
+Les salariés peuvent alimenter leurs CET pendant une durée indéterminée tant que les droits affectés leur
+compte épargne-temps n'excèdent pas les plafonds globaux.
+Un salarié disposant, en raison de l'ancienneté de son CET, de droits supérieurs 3213 heures ou 459 jours
+conserve ses droits acquis, mais ne peut plus alimenter son CET, tant que son volume de droits est supérieur
+ou égal ce plafond.
+page 3/15
+
+=== Page 4 ===
+
+| &
+So ERDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE EE uncE
+2 - ALIMENTATION DU CET
+2.1 — Plafonds de placements et sources d’alimentation
+2.1.1 — Tableau récapitulatif des sources d'alimentation
+Les sources d'alimentation varient en fonction de la catégorie, au sens des accords relatifs au temps de travail
+et CET, laquelle appartient le salarié au moment du placement. Le tableau suivant précise les plafonds,
+annuels ou non, de placements par source d'alimentation et par catégorie de salariés.
+Autres salariés Cadres autonomes en forfait | Cadres dirigeants
+(exécution, maîtrise et cadres hors forfait | jours
+jours et hors dirigeants)
+Accords du 12 décembre 2011 Accords du 20 juillet 2009 Accords du 20 juillet 2009
+Les congés annuels acquis au- Les congés annuels Les congés annuels
+delà de la 4°"° semaine, c'est-à- acquis au-delà de la acquis au-delà de la 4°"°
+dire au maximum 7 jours, soit 49 4°" semaine, dans la semaine, soit 7 jours
+heures (*)}, par exercice de limite de 7 (**) jours par maximum par exercice de
+référence (1* mai N-1 / 30 avril an (1° mai N-1/30 avril référence (1% mai 7/30
+N). N), travaillés au delà du avril).
+forfait.
+Les congés d'ancienneté (*) Les congés d'ancienneté
+acquis au titre de l'exercice de Les congés acquis au titre de l'exercice
+référence (1* mai N / 30 avril d'ancienneté (1% mai de référence (1° mai / 30
+N+1). N-1 / 30 avril N). avril).
+18 JRTT, soit 126 heures (‘), 23 (**) Jours de Repos Tout ou partie du 13°"°
+acquis au titre de l'aménagement travaillés au-delà du mois dans la limite de 10
+du temps de travail ou de forfait, par an (1° mai N- gratifications annuelles.
+l'Aménagement Individuel 1/30 avril N).
+Annualisé, par année calendaire.
+Tout ou partie du 13°"°
+Tout ou partie du 13°" mois mois dans la limite de
+dans la limite de 10 gratifications 10 gratifications
+annuelles. annuelles.
+Les Repos Compensateurs (***) La RCTD (rétribution de
+issus des HS, hors majorations et la charge de travail et
+hors repos obligatoires. des déplacements).
+Les primes exceptionnelles
+forfaitaires concernant les pertes
+d'amplitudes ou de RCTT.
+(*): voir le $ 2.1.4 ci-après.
+(**): les éventuelles majorations se rajoutent cette limite.
+(***): les RC issus des indemnités telles que l'indemnisation de l'astreinte (JAC), l'indemnité de Jours Fériés
+et l'indemnité de service continu ne sont pas plaçables sur le CET.
+Remarque: Les modalités et périodes de placement de chacune des sources d'alimentation peuvent
+faire aussi l’objet de spécificités décrites ci-dessous.
+page 4/5
+
+=== Page 5 ===: ç =
+5 % CRDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE RE RANEE
+2.1.2 — Précisions sur le plafond annuel d'alimentation en congés annuels
+L'ensemble des salariés, y compris les cadres au forfait jours et les cadres dirigeants, sont soumis la
+législation sur les congés payés qui prévoit qu'un salarié doit prendre 4 semaines de congés payés dans
+l'année et ne peut donc placer plus de 7 jours de congés annuels sur le CET, dont 5 jours ne sont pas
+monétisables.
+2.1.3 — Le plafond d'alimentation en gratifications 13ème mois.
+Le plafond total d'alimentation est limité 10 gratifications annuelles, soit 1517 heures.
+Le placement du 13ème mois s'effectue en pourcentage de la gratification annuelle, comme par le passé.
+Un mois de gratification correspond une rémunération équivalant 151,67 heures ou 21,67 jours pour les
+salariés au forfait.
+Les salariés peuvent donc placer tout ou partie de leur 13ème mois tant que le cumul de ces placements reste
+inférieur aux plafonds de 1517 heures ou 216,7 jours.
+Ces placements pourront s'effectuer sur un nombre d'années supérieur 10 ans.
+Ces plafonds sont fixés sur la base de rémunération temps plein et ne sont pas modifiés pour les salariés
+effectuant des périodes de travail temps réduit.
+Le décompte pour ce plafond commence la date d'entrée en vigueur des accords du 12 décembre 2011 et
+n'inclut donc pas les éventuels placements de gratification 13%" mois effectués auparavant par les salariés.
+Cependant, il tiendra compte des éventuels placements effectués depuis le 20 juillet 2009 par un cadre au
+forfait jours ou un cadre dirigeant.
+2.1.4 — Valorisation des plafonds d'alimentation et des journées placées
+Les accords définissent des plafonds annuels de placement sur le CET qui ne sont pas différenciés pour les
+salariés temps plein ou temps réduit et ne dépendent pas de leur durée journalière moyenne travaillée.
+Tous ces plafonds annuels de placement exprimés en jours sont donc convertis en heures en appliquant
+l'équivalence: 1 jour = 7 heures.
+Par contre, la valorisation en heures des journées placées s'effectue sur la base d’un jour = durée
+journalière effectivement travaillée par le salarié, de façon tenir compte équitablement de la situation de
+chaque salarié.
+Exemple:
+Un salarié en Aménagement du Temps de Travail de type A2, avec une durée journalière travaillée de 8
+heures et bénéficiant de 5 jours de congé d'ancienneté, pourra placer par an jusqu'à:
+7jx7 = 49 h de CA, soit l'équivalent de 6,125 journées de travail de 8 h
+18j x 7 = 126 h de JRTT, soit 15,75 journées de travail de 8 h
+5jx 7 = 35 h de congés d'ancienneté, soit 4,5 journées de travail de 8h
+page 5/15
+
+=== Page 6 ===
+
+5 CRDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE EE rmncE
+2.2 - Mesures spécifiques
+2.2.1. Mesures prévues l'ouverture d'un CET
+Lors de l'ouverture d’un CET, le salarié peut placer tout ou partie de son stock de congés annuels et repos
+compensateurs, auquel peut s'ajouter 7 jours, soit 49 heures, de congés annuels de la dotation en cours,
+Les stocks de congés annuels et de repos compensateurs (hors majoration et repos obligatoires)
+correspondent aux droits détenus par le salarié au 30 avril de l'exercice de référence N-1 reportés sur
+l'exercice en cours.
+Les placements de stocks de congés annuels ne sont pas monétisables. Seuls sont monétisables les 2
+premiers jours de congé placés au titre de la dotation en cours.
+Les salariés peuvent bénéficier de ces dispositions dans le cadre de la première ouverture d'un CET au
+périmètre d'ERDF et de GrDF et ce quelle que soit la date d'ouverture.
+Le salarié, nouvellement muté ou embauché au périmètre d'ERDF et de GrDF dont le CET serait repris au
+titre d’un accord bilatéral entre 2 entreprises ne pourra pas bénéficier de cette mesure.
+Cette mesure est prévue dans les mêmes conditions par les accords du 20 juillet 2009 et du 12 décembre
+2011.
+2.2.2 - Mesures transitoires de placement des stocks de congés et RC avant le 31 mars 2012
+Les salariés hors forfait jours et hors dirigeants disposant d'un CET déjà ouvert la date d'entrée en vigueur
+des accords du 12 décembre 2011 peuvent placer tout ou partie de leurs stocks de congés annuels ou de
+repos compensateurs (RC y compris majoration et hors RC obligatoires) existants la date du 30 avril 2011.
+Les demandes de placement doivent être effectués avant le 31 mars 2012.
+Les cadres dirigeants ainsi que les cadres au forfait jours ou précédemment signataires d'une convention de
+forfait ont déjà bénéficié d'une mesure identique au titre de l'accord du 20 juillet 2009.
+2.2.3 - Mesure liée la première signature d'une convention de forfait jours
+En référence l'avenant du 5 février 2010 l'accord temps de travail des cadres du 20 juillet 2009, il est
+précisé que les salariés signant pour la première fois une convention annuelle de forfait jours et disposant
+d'un CET peuvent y placer tout ou partie de leur stock de congés annuels existant la date du 30 avril
+précédant la signature de leur convention ainsi que tout ou partie de leur stock de repos compensateur. Ces
+plafonds sont effectués en respectant le plafond limite d'alimentation de 459 jours.
+2.2.4 - Mesures d'abondements prévues par les anciens accords de 1999 et de 2007
+Les règles relatives aux abondements sont celles en vigueur la date de placement sur le CET. De ce fait, les
+salariés ayant effectué des placements antérieurement aux accords du 20 juillet 2009 et/ou du 12 décembre
+2011 bénéficient des règles d’abondement spécifiés par les accords en vigueur la date de chacun des
+placements.
+page 6/15
+
+=== Page 7 ===
+
+Ç CS
+&' +
+© % ERDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE D mancE
+Exemple:
+Un salarié du Service Commun, qui relevait de 2 accords distincts (l'accord du 19 novembre 1993
+complété par l'accord du 25 janvier 1999 et l'accord de groupe partiel relatif au Compte Epargne-Temps Gaz de France SA et GRT gaz SA du 3 octobre 2007), continue bénéficier de la disposition la plus
+favorable de ces 2 accords en matière d'abondement, s’il a effectué ses placements avant le:
+- 12 décembre 2011, pour les salariés hors cadres dirigeants et hors cadres au forfait jours,
+- 20 juillet 2009 pour les cadres dirigeants ou les salariés au forfait jours.
+De ce fait, il bénéficie des abondements précisés ci-après:
+- Ja gratification du 13°"° mois est abondée 30 % lors d'un départ en congé épargne-temps (ou 50 %
+dans le cas où le salarié exerce, durant son congé, une activité qui s'inscrit dans le cadre de la politique
+de l'entreprise en faveur de la solidarité et contre l'exclusion ou si le salarié suit une formation de longue
+durée),
+- la prime de mobilité MIPPE est abondée 30 % lors d'un départ en congé épargne-temps,
+- l'intéressement est abondé 100 % au bout de 5 ans.
+2.2.5 - Spécificités en matière de possibilités de placement pour les cadres au forfait jours
+Le cadre au forfait jours ne peut anticiper le placement de jours de repos (JR), de congés annuels et de jours
+de congés d'ancienneté, et doit donc attendre la fin de sa convention annuelle, soit le 30 avril, pour effectuer
+tous placements.
+Seuls les placements de RCTD ou de 13%" mois peuvent être effectués en cours de convention.
+Les placements de jours s'effectuent la fin de la période de référence, soit après le 30 avril, et ce, dans la
+limite des plafonds d'alimentation prévus par l'accord du 20 juillet 2009, soit 30 jours maximum par an (23 JR
+et 7 CA). Les congés d’ancienneté non pris au 30 avril s'ajoutent ces 30 jours autorisés.
+Dans tous les cas, il est entendu que les jours travaillés au-delà du forfait ont fait l'objet des autorisations
+managériales nécessaires, le cas échéant, pour dépasser les seuils de jours majorés tel que définis par les
+accords du 20 juillet 2009.
+Pour les salariés sur RAPSODIE, les formulaires de placements sur CET (voir en annexe) sont visés par la
+hiérarchie pour information, le cas échéant, informatiquement. Ils doivent être transmis pour traitement dans
+les 2 mois suivant l'échéance de la convention, c'est-à-dire avant le 30 juin.
+Pour les salariés sous PGI/GTA, le bilan annuel automatisé dans l'application PGI/GTA permet aux cadres,
+pour les jours supplémentaires non majorés ou majorés de 15 %, de choisir directement dans l'outil le
+placement ou le paiement. Le même principe existe pour les jours majorés 25 % mais avec la validation de
+la hiérarchie.
+page 7/15
+
+=== Page 8 === Œ
+5 ® ERDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE a rANCE
+3 - LES MODALITES D'UTILISATION DU CET
+3.1 - Le congé épargne-temps
+3.1.1 - Modalités de demande et durée du congé épargne-temps
+Le salarié peut prendre un congé épargne-temps d'une durée minimale d'un mois (sauf situations particulières
+mentionnées au $ 3.1.4.) et d'une durée maximale égale la totalité de ses droits épargnés.
+Il doit effectuer sa demande de congé par courrier l'attention du directeur de l'établissement, remis contre
+décharge son responsable hiérarchique ou par mail avec accusé de réception, avec un délai de prévenance
+au moins égal la durée du congé demandé et au plus égal 6 mois.
+Ainsi, lorsque la durée du congé demandé est:
+comprise entre 1 et 6 mois, le délai de prévenance est égal la durée du congé sollicité,
+supérieure ou égale 6 mois, le délai de prévenance est égal 6 mois.
+Ce délai peut cependant être réduit avec l'accord formalisé de la hiérarchie.
+L'engagement du salarié sur la durée demandée est définitif, sauf évènements familiaux exceptionnels
+(décès, invalidité, maladie grave d'un conjoint, ascendant, descendant ….).
+3.1.2 - Possibilités pour la hiérarchie de différer un départ en congé épargne-temps
+La hiérarchie doit répondre la demande du salarié dans un délai de 15 jours pour les demandes de congés
+CET d'un mois et dans la limite d'un mois pour les demandes de congés de durées supérieures.
+Elle peut différer la date de départ en congé épargne-temps dans la limite de trois mois compter de la date
+souhaitée par le salarié sauf pour:
+les salariés moins de 5 ans de la date d'ouverture des droits retraite,
+les salariés sollicitant un congé épargne-temps la suite d'un congé maternité, d'adoption, d'évènements
+familiaux exceptionnels (décès, invalidité, maladie grave d'un conjoint, ascendant, descendant..).
+Le salarié peut renoncer sa demande si sa hiérarchie diffère la date de départ en congé, condition de le
+faire savoir aussitôt après la réponse écrite de celle-ci lui indiquant sa décision.
+3.1.3 - Délai de carence entre deux congés épargne-temps
+Il n'ya pas de délai respecter entre deux congés épargne-temps. Le salarié doit toutefois avoir constitué une
+épargne minimum d'un mois pour prétendre au bénéfice de chaque congé. Les délais de prévenance prévus
+par l'accord (exposés au $ 3-1-1) doivent par ailleurs être respectés.
+3.1.4 - Modalités de congé épargne-temps assouplies en cas de situation ou d'évènements exceptionnels
+En cas d'évènements familiaux exceptionnels (décès, invalidité, maladie grave d'un conjoint, ascendant,
+descendant ….), ou pour les salariés exerçant une activité d'élus (conseiller municipal, élu local, régional,
+maire, ….), la durée totale et les modalités du congé épargne-temps (par exemple le fractionnement par jour
+ou groupe de jours) pourront être adaptées en accord avec la hiérarchie.
+page 8/15
+
+=== Page 9 ===
+
+5 ® ERDF GrDF
+
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE EN RANCE
+3.1.5 - Modalités de fractionnement du congé épargne-temps pour les cadres au forfait jours et dirigeants
+A partir de 50 ans, pour préparer leur retraite, les cadres au forfait jours et les cadres dirigeants ont la
+possibilité de travailler 4 jours par semaine en utilisant leur CET sous forme de congé épargne-temps. Cette
+possibilité leur est offerte par périodes d'une durée minimale d'un an renouvelable (sauf situation
+exceptionnelle) et dont le cumul ne peut excéder 5 ans. La durée pendant laquelle ce fractionnement sera mis
+en place fera l'objet d’un accord formalisé entre le cadre et sa hiérarchie.
+Dans ce cas, il s’agit d’un congé épargne-temps fractionné et non d’un complément de salaire (monétisation)
+permettant d'atteindre un montant de rémunération équivalent au temps plein. Le cadre n'a donc pas financer d'éventuelles cotisations complémentaires sur temps plein.
+3.1.6 — Décompte des droits et rémunération pendant un congé épargne-temps pour les salariés hors cadres
+au forfait jours et dirigeants
+Lors d'un congé épargne-temps, les droits épargnés sont décomptés en fonction de la rémunération perçue
+durant le congé.
+De ce fait:
+- pour tous les salariés temps plein, 1 jour de congé épargne-temps génère un débit de 7 h sur les droits
+épargnés au regard d'une rémunération perçue sur une base hebdomadaire de 35 h du fait de ce décompte
+quotidien 7 h, il n'est plus généré de JRTT ou de JRS pendant le congé épargne-temps -_ pour les salariés temps réduit 32 h (ou moins) au titre d’un temps choisi ou d'une RCTT, 1 jour de
+congé épargne-temps génère un débit de 6,4 h (ou moins, au prorata) sur les droits épargnés au regard d'une
+rémunération perçue sur une base hebdomadaire de 32 h (ou moins).
+Les salariés temps choisi ou en RCTT peuvent, leur demande, continuer percevoir un montant
+équivalent l’aide la réduction du temps de travail (ARTT) qu'ils percevaient en activité.
+Ce complément, auto financé, sera alors décompté des droits acquis sur le CET.
+3.1.7 — Décompte des droits et rémunération pendant un congé épargne-temps pour les cadres au forfait jours
+et impact sur le forfait
+Comme pour les autres salariés, les droits épargnés sont décomptés en fonction de la rémunération perçue
+durant le congé. Si le cadre relevait d'une convention individuelle du forfait annuel de référence (202 jours), il
+reste rémunéré sur cette même base.
+S'il relevait d’un forfait jours réduit d'une durée comprise entre 185 et 201 jours par an, sa rémunération reste
+calculée sur la base du prorata temporis correspondant. Le décompte des jours de congés pris sur le CET est
+ajusté en déduisant le nombre de jours de repos non rémunérés ajoutés sa dotation habituelle (en période
+d'activité) et correspondant son forfait réduit.
+Exemple 1:
+
+Le cadre a un forfait réduit de 190 jours. Il prend un an de congé épargne-temps. Cette année est
+
+constituée de 190 jours ouvrés rémunérés et de 12 (202 — 190) jours de repos non rémunérés. Sa
+
+rémunération principale est inchangée par rapport son forfait réduit.
+L'impact d'un congé épargne-temps sur un cadre au forfait jours dépend de la durée du congé épargne-
+temps pris.
+
+page 9/15
+
+=== Page 10 === €
+9% CRDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE RANCE
+Dans le cas d'un congé épargne-temps égal ou supérieur 2 mois, le « forfait contrat » (nombre de jours travailler fixé dans la convention de forfait) est recalculé en fonction du nombre de mois de présence du
+salarié sur la période de référence et de ses soldes de congés et repos.
+Exemple 2:
+Un cadre au forfait de référence (202 jours) prend un congé épargne-temps de 2 mois du 1° septembre
+au 31 octobre 2011, soit 43 jours de congés qui sont déduits du stock CET.
+Le droit jours de repos (JR) est recalculé par rapport au temps de présence du cadre sur la période de
+référence, en tenant compte du nombre de jours d'absence, selon la formule suivante:
+Nouveau droit JR = Dotation JR de l'année N x (nb de jours ouvrés de l'année — nb de jours ouvrés
+d'absence)/nb de jours ouvrés de l'année.
+Soit pour cet exemple:
+23 * (252-43)/252 = 19,07 jours de repos.
+Le droit JR n'est plus de 23 jours mais de 19 jours. Le salarié a 4 jours de repos en moins et son forfait
+contrat est réévalué d'autant soit: 202 + 4 = 206 jours.
+Ce salarié va donc devoir travailler 206 — 43 = 163 jours sur la période allant du 1° mai 2011 au 30 avril
+2012, déduction faite de son congé épargne-temps.
+La majoration de 15 % sera déclenchée dès le 207° jour du forfait contrat réévalué, c'est-à-dire partir du
+164° jour travaillé.
+Cet impact sera également pris en compte dans le cas d'un congé épargne-temps pris par fractionnement
+avant le départ en retraite, d’une durée cumulée supérieure ou égale 42 jours.
+3.1.8 - Situation du salarié pendant le congé épargne-temps
+Le salarié bénéficie, pendant toute la durée de son congé d'une "rémunération" correspondant au maintien de
+la rémunération principale mensuelle qu'il percevait avant son départ en congé épargne temps (niveau de
+rémunération, échelon d'ancienneté, qui peuvent aussi évoluer durant le congé épargne temps...).
+Le salarié devra, en amont de son départ en congé épargne-temps, procéder aux éventuelles demandes de
+placement et/ou de monétisation. En effet, durant ce congé, seul le placement du 13°" mois sera autorisé.
+Le congé épargne-temps est assimilé une période de travail pour la détermination d’un certain nombre de
+droits:
+- les avancements au choix,
+- l'avancement d'échelon,
+- les droits la retraite et la couverture mutualiste,
+- la qualité d'électeur et l'éligibilité pour les élections des représentants du personnel,
+- la butée d'ancienneté dans le NR,
+- le temps de service nécessaire pour l'obtention des médailles (médaille du Travail et médaille ERDF -
+GrDF),
+- les avantages logements éventuels (maintien du versement de l'AIL, maintien du logement mis disposition
+ou pris bail),
+- le droit aux avantages en nature,
+- les primes de l’article 26 du statut (avantages familiaux),
+page 10/15
+
+=== Page 11 ===
+
+5% CRDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE nue
+- l'AFE/ICFE et le sursalaire familial,
+- le droit aux congés annuels, aux congés d'ancienneté ainsi qu'aux congés spéciaux pour événements
+familiaux,
+- la gratification de fin d'année,
+- la qualification des services,
+- l'intéressement et le cas échéant la participation.
+Le salarié ne peut toutefois pas prétendre au versement des indemnités liées la fonction, l'indemnité
+compensatrice de frais spéciaux ainsi qu'aux indemnités de perte de primes et indemnités résorbables dont le
+versement sera suspendu pendant toute la durée du congé.
+Le salarié en congé épargne-temps continue de figurer l'effectif de l'unité.
+Dans la mesure où le salarié remplit les conditions d'ouverture et respecte les délais de prévenance, le congé
+épargne-temps peut être suivi par tout autre congé sans solde.
+En cas d'arrêt de travail imputable la maladie ou la maternité, le congé épargne-temps est suspendu, et
+ce, dès le premier jour de l'événement l'origine de la suspension.
+Le salarié perçoit alors les indemnités de l'article 22 du Statut National. Le terme initialement prévu du congé
+n'est en principe pas reporté sauf accord entre le salarié et sa hiérarchie. Le solde de l'épargne non utilisé est
+maintenu dans le Compte Epargne-Temps.
+3.1.9- Situation du salarié au retour de son congé épargne-temps
+Lorsque le congé est d'une durée supérieure 3 mois, l'unité peut procéder au remplacement du salarié dans
+son emploi, selon les règles de publication en vigueur.
+A son retour de congé et selon la durée du congé épargne-temps, le salarié retrouve son emploi ou défaut
+un emploi équivalent par mobilité fonctionnelle ou géographique.
+Si le salarié ne souhaite pas déménager, l'entreprise et le salarié examinent toutes les possibilités de mobilité
+fonctionnelle dans la perspective de trouver une solution satisfaisante.
+3.1.10 - Dispositions de la Pers 755 sur les congés exceptionnels précédant la retraite
+Les dispositions de la Pers 755 s'appliquent dans leur intégralité au salarié en congé épargne-temps durant
+tout ou partie de sa dernière année d'activité. Les 18 jours de congés exceptionnels prévus sont pris selon les
+dispositions de cette Pers.
+3.2 - La monétisation
+3.2.1 - Les règles de monétisation
+page 11/15
+
+=== Page 12 ===
+
+© + CRDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE A nuNcE
+Types de placement Monétisable
+
+Les droits épargnés dans les Comptes Epargne-Temps existant au 31 décembre | OUI
+2011, quelle que soit l’origine du placement pour les salariés, hors cadres au forfait
+jours et hors dirigeants (*).
+Congés annuels acquis au delà de la 4°"° semaine
+
+- 2 premiers jours épargnés par an OUI
+
+- du 3° au 7° jour épargnés par an NON (**)
+Congés d'ancienneté OUI
+JRTT (salariés hors cadres au forfait jours et hors dirigeants) OUI
+Jours de repos (cadres au forfait jours) OUI
+Gratification 13°"° mois NON
+Les primes exceptionnelles visés l'article 16 des accords du 12 décembre 2011 NON
+Les Repos Compensateurs hors majorations et hors repos obligatoires OUI
+(*) les accords du 20 juillet 2009 avaient déjà prévu au 1er septembre 2009 une mesure analogue pour les
+cadres au forfait jours et les dirigeants.
+(**) l'interdiction de monétisation ne s'applique pas aux majorations éventuelles portant sur ces congés
+annuels.
+3.2.2 - Les différentes formes de monétisation
+Il existe deux formes de monétisation:
+
+- la monétisation immédiate versée sur paie la demande du salarié,
+
+- la monétisation différée par transfert sur les PEG/PEE, PERCO et Régime Supplémentaire de
+
+Retraite.
+La monétisation est toujours effectuée sur la base du taux horaire ou journalier du salarié la date de sa
+demande et ne nécessite pas l'accord de la hiérarchie.
+3.2.3 - Règles respecter pour une demande de monétisation immédiate
+La demande ne devra pas être inférieure 35 heures (ou 5 jours pour les cadres en forfait jours et
+dirigeants). Le salarié n’a pas justifier d'un motif particulier pour demander la monétisation de tout ou partie
+de ses droits.
+Elle peut être effectuée tout moment et au maximum 2 fois par an, par écrit (portail).
+Les demandes réalisées après le 10 de chaque mois seront prises en compte sur la paie du mois suivant. Le
+règlement est effectué sur paie dans la limite des droits disponibles et monétisables, sans possibilité
+d'avance.
+page 12/15
+
+=== Page 13 ===
+
+d =
+© CRDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE re
+3.2.4 - Règles respecter pour une demande de transfert sur les PEG, PERCO et RSR
+Le salarié peut utiliser tout ou partie de ses droits monétisables provenant de son Compte Epargne-Temps
+pour alimenter le Plan Epargne Groupe (PEG) ou le Plan d'Epargne Retraite COllectif (PERCO) ou son
+compte individuel du Régime Supplémentaire de Retraite, ou le cas échéant des opérations d’actionnariat
+salarié. Les modalités de transfert sont précisées par les accords relatifs ces transferts.
+Les périodes de versement vers le PEG sont portées la connaissance des salariés par l'entreprise.
+Le montant minimum du transfert est de 35 heures (ou 5 jours).
+4 - AUTRES DISPOSITION S
+4.1 - Mutation du salarié
+Si la mutation s'effectue dans un autre établissement d'ERDF et /ou de GrDF, le salarié conserve le bénéfice
+de ses droits épargnés et pourra continuer alimenter et utiliser son CET.
+S'il s'agit d'une mutation dans une autre entreprise qu'ERDF ou GrDF, le salarié pourra transférer ses droits si
+un accord bilatéral existe entre les deux entreprises, sinon une indemnité correspondant la conversion
+monétaire de l’ensemble des droits acquis lui sera versée.
+4.2 - Suspension du contrat de travail
+En cas de suspension du contrat de travail (comme par exemple un détachement, un congé pour création
+d'entreprise) le salarié peut conserver son CET, mais ne pourra ni l'utiliser, ni l’alimenter durant la période de
+suspension.
+Cependant, bien qu'il soit également en suspension du contrat, un salarié en arrêt de travail pour cause de
+maladie ou de longue maladie peut placer des congés annuels, des congés d'ancienneté et des repos
+compensateurs dans les limites prévues au $ 2.1.
+4.3 - Rupture du contrat de travail
+En cas de rupture du contrat de travail, le salarié perçoit une indemnité correspondant la conversion
+monétaire de l'ensemble de ses droits acquis.
+4.4 - Décès du salarié
+En cas de décès d’un salarié titulaire d'un CET, la somme correspondant aux droits acquis dans le CET la
+date du décès entre dans la succession selon les règles en vigueur en matière de sommes restant dues aux
+salariés décédés.
+page 13/15
+
+=== Page 14 ===
+
+5 ® ERDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE DR
+4.5 - Garantie des droits épargnés sur un CET
+Les droits épargnés sur le CET sont garantis par l'AGS (Association pour la Garantie des Salaires) dans la
+limite de 2 plafonds annuels de la sécurité sociale soit 72 744 euros au 01/01/2012.
+ERDF et GrDF se sont engagés mettre en place un système de garantie financière couvrant toutes les
+sommes épargnées au delà du plafond garanti par l'AGS.
+4.6 - Règles applicables en matière de cotisations et d'impôt
+Les règles appliquer diffèrent selon l'utilisation du CET.
+Régime Social
+Impôt sur le revenu
+CSG/CRDS Cotisations SS |Cotisation CNIEG / P
+1% solidarité CAMIEG
+non pour les 10
+_ premiers jours (70 h)
+Transfert PERCO transférés par an,
+oui au dessus
+(*): La période de congé épargne-temps est intégrée dans le calcul des droits validés pour la retraite.
+page 14/15
+
+=== Page 15 ===
+
+€ =
+x \> ERDF GrDF
+ÉLECTRICITÉ RÉSEAU DISTRIBUTION FRANCE NON FRANCE
+ANNEXE: FORMULAIRE D’ALIMENTATION D'UN COMPTE EPARGNE - TEMPS FORMULAIRE D'ALIMENTATION D'UN COMPTE EPARGNE - TEMPS
+NOM: PRENOM:
+DIRECTION:
+Je vous demande de bien vouloir:
+M'ouvrir un Compte Epargne-Temps: Q
+Placer sur mon Compte Epargne-Temps: Q
+d'heures jours
+Es Congés annuels en cours (7 jours / an soit 49 h maxi dont 35 h non _ À
+monétisable
+Congés annuels (stock au 30 avril de l'année N-1 / ouverture ou mesures
+jusqu'au 30 mars 2012)
+n Congés d'ancienneté (de 7 h 35 h maxi dans la limite de la dotation) a |
+un Repos compensateurs hors majoration et hors repos obligatoires |
+Repos compensateurs hors majoration et hors repos obligatoires (stock au
+30 avril de l'année N-1 / ouverture ou mesures jusqu'au 30 mars 2012
+13% Mois (non monétisable, non abondable):
+Acompte de NOVEMBRE Q
+Acompte de DECEMBRE Q
+Acompte de JUIN Q
+E | JRTT (18 JRTT / an soit 126 h maxi): |
+pi ss " UT PL
+Vu pour information par le|Fait à........................... lens
+responsable hiérarchique Signature du salarié:
+Visa:
+Ce formulaire n'est pas utiliser par les cadres au forfait jours disposant de l'automatisation de leur bilan
+annuel, qui peuvent faire informatiquement leur choix d'alimentations de leur CET.
+page 15/15

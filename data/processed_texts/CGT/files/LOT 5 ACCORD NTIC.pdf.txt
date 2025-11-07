@@ -1,0 +1,480 @@
+=== Page 1 ===
+
+
+1
+ACCORD RELATIF AUX CONDITIONS D’ACCES ET D’UTILISATION DES NTIC PAR LES
+ORGANISATIONS SYNDICALES ET LES REPRESENTANTS DU PERSONNEL D’ENEDIS
+
+
+PREAMBULE
+
+Enedis ainsi que les Organisations Syndicales Représentatives signataires reconnaissent que
+l’accès et l’utilisation des Nouvelles Technologie sd’Information et de Communication (NTIC)
+constitue nt une condition importante de l’exercice de leur activité. Cet accord s’inscrit ainsi
+dans une perspective d’enrichissement de la qualité et de la fluidité du dialogue social.
+
+Les signataires du présent accord sont conscients que les ressources informatiques font
+partie intégrante du patrimoine de l’Entreprise. Ils actent que l’utilisation des outils mis disposition par le présent accord s’inscrira dans le respect des dispositions applicables Enedis (UON comprises).
+
+
+=== Page 2 ===
+
+
+2 SOMMAIRE
+
+PREAMBULE............................................................................................................................... 1
+Article 1 – Principes Généraux................................................................................................... 3
+Article 2 – Accès aux sites internet des organisations syndicales présentes dans l’entreprise 3
+2.1 – Principes........................................................................................................................ 3
+2.2 – Conditions d’utilisation................................................................................................. 3
+2.3 – Condition de mise en œuvre......................................................................................... 4
+Article 3 – L’accès la messagerie de l’entreprise par les organisations syndicales et les
+représentants du personnel...................................................................................................... 4
+3.1 Communication avec la direction et entre les bénéficiaires............................................ 4
+3.2 Bénéficiaires..................................................................................................................... 4
+3.3 Communication auprès des salariés................................................................................ 5
+3.4 Création d’un espace collaboratif pour le fonctionnement de l’organisation syndicale 6
+3.5 Création d’une communauté sur l’Intranet Social de l’Entreprise.................................. 6
+Article 4 – Utilisation de l’Intranet et d’Internet....................................................................... 6
+Article 5 – Dotation en matériel................................................................................................ 7
+Articl e 6 – Téléphonie................................................................................................................ 8
+Article 7 – Utilisation des outils mis disposition..................................................................... 8
+Article 8 – Dispositions finales................................................................................................... 9
+8.1 Ch amp d’Application........................................................................................................ 9
+8.2 Entrée en vigueur et durée de l’Accord........................................................................... 9
+8.3 Groupe de Suivi................................................................................................................ 9
+8.4 Révision.......................................................................................................................... 10
+8.5 Communication et publicité de l’accord........................................................................ 10
+ANNEXE 1 – PACKS ET EQUIPEMENT PAR TYPE DE MANDATS................................................ 11
+
+
+=== Page 3 ===
+
+
+3 Article 1 – Principes Généraux
+
+Les signataires souhaitent s’inscrire dans la continuité des dispositions conventionnelles
+antérieures.
+
+Pour autant, certaines adaptations doivent être apportées au regard:
+
+- des évolutions induites par la mise en place des nouvelles institutions
+représentatives du personnel et celles relatives au droit s yndical d’Etablissement
+au sein d’Enedis,
+- des évolutions des standards technologiques dans l’entreprise.
+Article 2 – Accès aux sites internet des organisations syndicales présentes dans
+l’entreprise
+
+2.1 – Principes
+
+L’entreprise ouvre la possibilité chaque salarié de consulter, pour chacune des tendances
+syndicales représentées dans l’entreprise, le site internet de leur organisation syndicale ou
+de leur fédération. A cet effet, les organisations syndicales d’une même tendance syndicale1
+ayant constitué au moins une section syndicale d’établissement dans l’entreprise, fourniront l’administrateur désigné l’adresse du site de leur organisation qu’elles souhaitent ouvrir la consultation des salariés de l’entreprise ainsi que le nom de la personne désignée comme
+responsable et interlocuteur du représentant d’Enedis.
+
+2.2 – Conditions d’utilisation
+
+Les contenus des sites identifiés conformément l’article 2.1 sont librement déterminés par
+les organisations syndicales dans le respect des conditions d’exercice du droit syndical.
+
+Les informations figurant sur ces sites pourront être librement consultées p ar les salariés
+dans le respect des dispositions applicables Enedis.
+
+Il est par ailleurs précisé que pour assurer la sécurité du système d’information et sa
+disponibilité, certaines ressources figurant sur ces sites pourraient ne pas être accessibles
+pour des raisons techniques liées leur format (certains fichiers audio ou vidéo, par
+exemple). De même, les liens figurant sur ces sites se référant des contenus externes au
+site de l’organisation syndicale pourraient ne pas être activés.
+
+
+1 On entend par tendance syndicale, au sens du présent accord, soit une organisation syndicale isolée, soit
+l’ensemble des structures syndicales implantées dans l’entreprise et rattachées une même organisation
+syndicale (F édération par exemple).
+
+=== Page 4 ===
+
+
+4 2.3 – Conditi on de mise en œuvre
+
+Le processus de gestion technique est confié l’opérateur informatique et
+télécommunications de l’entreprise.
+
+Article 3 – L’accès la messagerie de l’entreprise par les organisations syndicales et les
+représentants du personnel
+
+3.1 Communication avec la direction et entre les bénéficiaires
+
+Des adresses emails, génériques et non nominatives (BAL fonctionnelle), sont attribuées aux
+section s syndicale sd’établissement. Une adresse email générique au périmètre des
+délégués syndicaux centraux sera également attribuée et uti lisable par les personnes
+habilitées
+
+3.2 Bénéficiaires
+
+L’utilisation de la messagerie, mise disposition dans le cadre de l’article 3.1, est
+strictement réservée l’exercice des activités syndicales ou représenta tives au sein
+d’Enedis, dès lors qu’ell e est utilisée au titre de l’u ndes mandats ci -dessous:
+
+- de Délégué Syndical Central (DSC), d’Adjoint au Délégué Syndical Central, de Délégué
+Syndical (DS), de Délégué Syndical Supplémentaire (DSS), de Représentant de Section
+Syndicale (RSS), de Coordinateur Syndical - de Membre au Comité Social et Economique (CSE) ou Représentant Syndical au CSE
+(RS CSE) - de Membre au Comité Social et Economique Central (CSE -C) ou Représentant
+Syndical au CSE Central (RS CSE -C) - de Membre de la Commission Questions Individuelles et Collectives
+- de Représentant de Proximité (RP) - de Membre de la Commission Secondaire du Personnel (CSP).
+L’utilisation de la messagerie de la section syndicale ou du salarié mandaté, sera privilégiée
+dans l’échange des communications écrites entre les sections syndicales, les représentants
+syndicaux, les représentants du personnel et la direction de l’établissement. Cette utilisation
+pourra conduire dans le cadre des politiques de développement durable de l’entreprise une réduction corrélative des consommations de papier.
+
+Cela concern e notamment la correspondance officielle entre les membres des IRP et les
+présidents d’organismes ou les représentant s:
+
+=== Page 5 ===
+
+
+5
+- l’envoi des ordres du jour des différentes réuni ons, des pièces jointes des dossiers
+(les diffusions relatives aux IRP font l’objet de l’utilisation exclusive de la BDES ),
+- des demandes de détach ements ponctuels (ré unions 028, utilisation du « L »),
+- des échang es de courrier,
+- des convocations aux réunions de négociations.
+
+3.3 Communication auprès des salariés
+
+La messagerie fonctionnelle peut être aussi utilisée pour communiquer auprès des salariés dans ce cas, son utilisation est autorisée dans le respect des conditions suivantes:
+
+- la diffusion est strictement limitée au périmètre de l’établissement concerné dans
+lequel une section syndicale a été constituée (existence de DS, DSS ou RSS) ou dans
+lequel l’IRP est compétente - la direction mettra disposition des Organisations Syndicales les listes jour des
+salariés d’Enedis dont les UON (nom et prénom des salariés ainsi que leur adresse
+mail, sous format Excel ), raison de 4 fois par an, qu’elles conservent pour leur
+propre usage. Les listes seront envoyées, la maille appropriée: par la DRH TS aux
+délégués syndicaux centraux pour la maille nationale et par les Unités aux délégués
+syndicaux - chaque message diffusé par les DS, DSS, RSS ou les représentants du personnel devra
+comporter une mention précisant que le récepteur a la possi bilité de demander ne
+plus recevoir ce type de message - le volume de chaque message diffusé dans ce cadre devra respecter les limites des
+messageries de l’entreprise sans dépasser 10 Méga octets2. Seules les pièces jointes
+compatibles avec les paliers t echniques en vigueur (de type Word, Powerpoint,
+Excel, pdf, jpeg, Zip, etc.) sont autorisées. La création d’un lien v ers un document
+d’un SharePoint ou d’une communauté sera privilégiée par rapport l’envoi de
+pièces jointes - afin d’optimiser le fonction nement de cette boite aux lettres, les utilisateurs
+s’engagent archiver régulièrement leur messagerie.
+
+
+2 Données techniques la date de signature de l’accord.
+
+=== Page 6 ===
+
+
+6 3.4 Création d’un espace collaboratif pour le fonctionnement de l’organisation
+syndicale
+
+Afin de faciliter le fonctionnement du collectif, un espace collaboratif SharePoint sera créé
+pour chaque section syndicale et animé / administré sous la responsabilité des DS ou des
+RSS.
+
+Dans ce cadre, les organisations syndicales bénéficieront d’un accompagnement de
+l’entreprise.
+
+Les espaces partagés sur serveur actuellement mis en place seront fermés au 30 juin 2020,
+laissant ainsi la possibilité l’ensemble des utilisateurs concernés la possibilité de procéder la migration des données vers le nouvel espace.
+
+3.5 Création d’une communauté sur l’Intranet Social de l’Entreprise
+
+Une communauté publique sera créée pour chaque organisation syndicale représentative la maille nationale dans l’Intranet social de l’entreprise.
+
+Cette communauté, unique pour chacune des organisations syndicales, sera animée /
+administrée sous la responsabilité et la modération du Délégué Syndical Central.
+
+Dans ce cadre, les organisations syndicales bénéficieront d’un accompagnement de
+l’entreprise.
+
+Article 4 – Utilisation de l’Intranet et d’Internet
+
+L’utilisation de l’Intranet et d’Internet est réservée l’exercice des activités des sections
+syndicales d’établissement et des personnes titulaires d’un des mandats précisés l’article
+3.2, dans le respect des dispositions applicables Enedis.
+
+Ainsi, en accédant ce s services, l’utilisateur s’engage:
+- utiliser les données mises en ligne sur l’Intranet qui sont et restent la propriété
+d’Enedis dans des conditions qui ne nuiront pas aux intérêts de cette dernière,
+- utiliser l’accès Internet dans le seul cadre de l’exe rcice de leur activité syndicale
+et/ou représentative.
+- respecter les consignes de sécurité et de bon usage en vigueur Enedis et dans ses
+établissements. En particulier, s’engager ne pas connecter le poste de travail fixe
+mis disposition sur un autre réseau que l’Intranet (ni réseau téléphonique par
+modem, ni l’Internet direct par ADSL, ni réseau sans fil, etc.), et ne pas connecter
+un équipement non autorisé par l’entreprise sur l’accès réseau Intranet mis disposition dans le local syndical ou cel ui des IRP.
+
+=== Page 7 ===
+
+
+7 - Pour les salariés dotés d’un équipement mobile, respecter les consignes d’accès au
+réseau inform atique d’entreprise distance.
+L’opérateur informatique de l’entreprise sera chargé de veiller au respect de ces
+dispositions.
+
+Article 5 – Dotation en matériel
+
+Afin de permettre la mise en œuvre des articles 3 et 4 de l’accord, l’entreprise mettra disposition ou donnera accès du matériel informatique dans les plus brefs délais,
+conformément au tableau figurant l’annexe 1. Ces équipeme nts par type de mandat ou
+type de local sont fixés au niveau national et ne pourront pas faire l’objet d’adaptation
+locale.
+
+En cas de situation particulière justifiant un examen spécifique, celui -ci sera réalisé par la
+DRHTS d’Enedis en liaison avec l’Unité employeur.
+
+Les salariés en situation de handicap et relevant du présent accord bénéficieront des
+équipements adaptés.
+
+Il sera mis disposition de chaque section syndicale dans l’établissement, et de chaque
+représentant du personnel qui n’en disp ose pas déjà au titre de son emploi, un micro -
+ordinateur ( Cf. Annexe ), configuré dans un environnement logiciel standard, connecté au
+réseau téléinformatique de l’entreprise, ainsi que d’un accès au système de messagerie de
+type Microsoft Office.
+
+Par principe, le matériel fourni est équivalent au standard déterminé au sein de
+l’établissement pour ses salariés. S’agissant du poste mis disposition du Délégué Syndical
+(ou d’une tierce personne désignée par ses soins), il pou rra être installé, sa d emande: un
+logiciel permettant la modification de fichiers de type PDF, un logiciel de Publication
+Assistée par Ordinateur (PAO) et de retouche d’image conforme au cadre de référence de
+l’entreprise (avec les didacticiels associés).
+
+Tout autre matériel ou logiciel ne peut être installé qu’après accord de l’opérateur
+informatique en conformité avec le cadre de référence d’entreprise.
+
+L’entretien courant, les mises niveau et les remplacements des matériels sont réalisés par
+l’opérateur informatique dans les conditions du cadre de référence défini par l’entreprise
+pour l’ensemble de ses salariés.
+
+L’ensemble des matériels et logiciels demeure la propriété de l’entreprise. Ces matériels
+sont sous l’entière responsabilité de leur bénéficiaire qui devra pren dre toute mesure
+nécessaire pour éviter le vol ou la détérioration. En cas de détérioration liée un non -
+
+=== Page 8 ===
+
+
+8 respect des consignes de sécurité, le matériel ne sera pas remplacé sauf situation
+particulière validée par la Direction de l’Unité concernée.
+
+Article 6 – Téléphonie
+
+Dans le cadre de leur mission, les représentants du personnel ou les représentants
+syndicaux visés dans l’annexe du présent accord, disposent d’un téléphone portable
+professionnel (Smartphone) ainsi que d’un forfait illimité.
+
+Conforméme nt la Politique Téléphonie Mobile en vigueur au sein d’Enedis, les mandatés
+éligibles pourront opter pour:
+
+ l’offre 100% pro
+ l’offre dite « BYOD » (Bring Your Own Device)
+Les salariés titulaires d’un détachement 100% sont éligibles aux deux offres pr ésentées ci -
+dessus leur choix.
+
+Les salariés détachés titulaires de mandats syndicaux et/ou représentatifs 50% seront
+quant eux éligibles l’offre 100% pro ou l’offre BYOD en fonction de leur emploi/activité
+professionnelle.
+
+Les salariés détenant un mandat électif ou syndical disposeront d’une ligne téléphonique
+excluant toute possibilité d’interception de leurs communications ou d’identification de
+leurs correspondants, en raison du principe de libre exercice des fonctions syndicales.
+
+Ces dispositions s’appliqueront également aux lignes fixes mises disposition dans les
+locaux syndicaux dans le cadre du présent accord.
+
+Toutes les évolutions technologiques qui pourraient intervenir, devront garantir la
+préservation de la confidentialité liée aux mandats.
+
+Article 7 – Utilisation des outils mis disposition
+
+Les outils et ressources informatiques mis disposition dans le cadre du présent accord font
+partie intégrante du patrimoine de l’entreprise.
+
+Toute utilisation non conforme aux disp ositions du présent accord ainsi qu’aux règl es en
+vigueur Enedis, relativ es notamment l’exercice du droit syndical, l’utilisation des outils
+informatiques et la protection des données, fera l’objet d’un rappel la règle par la
+Direction des Ressou rces Humaines de l’établissement concerné ou de la DRHTS.
+
+Le groupe de suivi constitué l’ article 8.3 sera informé des utilisations non -conformes.
+
+=== Page 9 ===
+
+
+9 En cas de nouvelle utilisation irrégulière dans un délai de 6 mois, la suspension de ces
+services sera effe ctuée pour une durée d’un mois afin de faire cesser l’usage non conforme la charte informatique, des accès numériques attribués la section syndicale.
+
+En cas de nouvelle récidive, il sera procédé la fermeture définitive des connexions réseaux.
+Le mat ériel devra être immédiatement restitué.
+
+Par ailleurs, les logos et autres éléments d’identités visuelles d’Enedis ne pourront être
+utilisés par les bénéficiaires du présent accord sauf autorisation expresse de l’employeur.
+
+Article 8 – Dispositions finales
+
+8.1 Champ d’Application
+
+Le présent accord fixe les conditions d’accès aux NTIC par les Organisations Syndicales et les
+représentants des salariés au sein des IRP pour Enedis (UON comprises).
+
+Il concerne tous les salariés titulai res de mandats représentatifs et/ou syndicaux selon sa
+situation au regard de son ou de ses mandats
+
+8.2 Entrée en vigueur et durée de l’Accord
+
+Le présent accord entrera en vigueur compter du 14 novembre 2019 après avoir été
+régulièrement et préalablement déposé auprès des autorités compétentes.
+
+Il est conclu pour une durée déterminée de 4 ans.
+
+Trois mois avant l’arrivée au terme, les parties signataires conviennent de se réunir afin
+d’examiner les éventuelles suites donner.
+
+8.3 Groupe de Suivi
+
+Un groupe de suivi composé de deux représentants maximum par organisation syndicale
+représentative signataire de l’accord et de représentants de la Direction est mis en place. Il
+veillera la mise en œuvr e de l’ensemble des dispositions de l’accord et pourra, en cas
+d’inobservation ou de manquement ces dispositions, proposer toute recommandation
+compatible avec le présent accord, et de nature résoudre les difficultés constatées. Il
+dressera, l’issue de la période d’application, un bilan afin de proposer les éventuelles
+adaptations nécessaires.
+
+Ce groupe se réunit une fois par an. Il peut également se réunir sur demand edela Direction
+ou d’une des o rganisation s syndicales représentatives signataire, notamment en fonction
+des évolutions technologiques.
+
+=== Page 10 ===
+
+
+10
+8.4 Révision
+
+A la demande d’une ou plusieurs organisations syndicales représentatives ou de
+l’employeur, il peut être convenu d’ouvrir une négociation de révision du présent accord
+dans les conditions prévues par les dispositions des articles L.2261 -7-1 du Code du travail.
+
+La demande de révision devra être adressée par lettre recommandée motivée aux autres
+parties.
+
+Cette lettre devra indiquer les points concernés par la demande de révision et être
+accompagnée de propositions écrites de substitution. A compter de la réception de la
+demande de révision, les parties se rencontreront dans un délai de deux mois.
+
+8.5 Communication et publicité de l’accord
+
+Le présent accord, une fois signé, sera notifié l’ensemble des organisations syndicales
+représentativ es conformément aux dispositions de l’article L 2231 -5 du Code du travail.
+
+Il donnera lieu dépôt dans les conditions prévues aux articles L. 2231 -6 et D. 2231 -2 du
+Code du travail.
+
+Fait Courbevoie, le
+
+Pour Enedis:
+
+
+Pour les Organisations Syndicales Représentatives:
+
+CFDT CFE-CGC CGT FO
+
+
+Représentée par:
+Représentée par:
+Représentée par:
+
+Représentée par:
+
+
+=== Page 11 ===
+
+
+11 ANNEXE 1 – PACKS ET EQUIPEMENT PAR TYPE DE MANDATS
+
+Type de Pack Moyens NTIC Associés Mandats Eligibles
+
+
+Sédentaire
+- Micro Fixe en libre accès
+
+- Services: Messagerie Outlook 1 Go, Microsoft
+Lync, ligne fixe, Internet Web2, Intranet - 1 imprimante noir et blanc et accès un
+mopieur partagé
+
+- Casque collaboratif sur demande
+
+- Conférencier collaboratif sur demande.
+
+
+- Local CSE Central
+
+- Local CSE
+
+- Local Section Syndicale
+
+- Local commun section syndicale
+
+
+Mobilité
+
+- Ordinateur Portable (avec socle, écran, clavier,
+souris, adaptateur VGA et HDMI ) - Outil de connexion distance
+
+- Smartphone avec forfait entreprise ou offre
+BYOD et accès MMO - Services: Messagerie Outlook 1 Go, Microsoft
+Lync, WIFI SWAT, Security Box, Internet
+Web2, Intranet - Casque collaboratif sur demande.
+
+- Filtre de confidentialité sur demande
+
+- Accès aux imprimantes partagées
+
+- Sacoche ou sac dos sur demande
+
+
+- Délégués Syndicaux, Délégués
+Syndicaux Supplémentaires,
+Responsable de Section Syndicale
+
+- Membres du CSE des DR (Titulaires,
+Suppléants, Représentants syndicaux)
+
+- Membres de la Commission Questions
+Individuelles et Collectives
+
+- Membres CSP Maille locale
+
+
+Mobilité +
+
+
+Pack mobilité avec Ordinateur Ultra portable
+- Délégués Syndicaux Centraux et Adjoints
+
+- Coordinateurs Syndicaux
+
+- Membres du CSE Central (Titulaires,
+Suppléants, Représentants syndicaux)
+
+- Délégués Syndicaux Fonctions Centrales
+d’Enedis et UON
+
+- Membres du CSE des Fonctions
+Centrales d’Enedis et des UON
+(Titulaires, Suppléants et Représentants
+syndicaux)
+- Représentants de proximité
+
+- Membres CSP Enedis Maille Nationale
+
+
+=== Page 12 ===
+
+
+12
+NB:
+ Tout titulaire d'un mandat disposant au titre de son emploi d'un des matériels énumérés
+ci-dessus ne se verra pas doté d'un nouveau matériel.
+ Tout titulaire de plusieurs mandats ne sera équipé que pour la dotation la plus complète
+ Tout titulaire d'un mandat disposant déjà de matériel au titre de son précédent mandat
+verra son matériel mis en conformité si nécessaire.

@@ -1,0 +1,876 @@
+=== Page 1 ===
+
+
+ELECTRICITE DE FRANCE GAZ DE FRANCE
+
+
+M3E
+
+
+METHODE D'ENTREPRISE D'EVALUATION DES EMPLOIS
+
+GUIDE DE DESCRIPTION
+
+DES EMPLOIS
+
+=== Page 2 ===
+
+AVERTISSEMENT
+
+Ce guide comporte trois parties:
+La première partie "Préambule" situe la démarche de descripti on des emplois dans
+l'ensemble de la Méthode d'Entrepr ise d'Evaluation des Emplois.
+La deuxième partie "Principes Généraux de la démarche de description des emplois"
+expose les concepts, les processus et les acteurs de la description d'emploi.
+La troisième partie "Guide détaillé de descr iption des emplois" apporte toutes les
+indications permettant de mener bien la description d'un emploi. Elle présente les
+aspects techniques de la démarche et s'adresse plus particulièrement aux
+responsables hiérarchiques chargés de la mise en place de la M3E dans les Unités
+ainsi, bien sûr, qu'àl'expertise M3E.
+La lecture des trois parties est conseill ée aux personnes qui seront chargées dans
+leur unité de décrire les emplois.
+La lecture des deux premières parties sera suffisante pour les personnes qui, bien
+que n'ayant pas réaliser elles-mê mes des descriptions, ont besoin d'une
+information précise mais succincte sur le sujet.
+Quant aux personnes qui souhaitent se fair e une idée simple de la question, elles
+pourront se limiter la lect ure de la première partie.
+NB: Le mot "Entreprises", avec un E ma juscule, désigne les entreprises EDF et
+GDF.
+
+=== Page 3 ===
+
+PREAMBULE
+Un guide de description des emplois: pour quoi faire?
+La méthode actuelle d'évaluation des em plois date des années 1946 et 1947. Elle
+est fondée sur le catalogue des fonctions et sur les postes repères. Créée une
+époque où les organisations étaient standardis ées, elle s'avère aujourd'hui de moins
+en moins adaptée l'évolution des besoins des deux Entreprises.
+En effet, les Entreprises se décentralisent et différencient leurs modes d'organisation.
+Une nouvelle façon d'assurer la cohér ence des classements par une meilleure
+évaluation des emplois, étudiés loca lement, doit accompagner ce mouvement.
+La Méthode d'Entreprise d'Evaluation des Emplois (M3E) répond cet objectif.
+La M3E est une méthode analytique d'évaluation qui s'appuie sur une description
+précise des emplois. Cette description relève de la responsabilité de la hiérarchie.
+Le présent guide de description des emplois, que complète un guide d'évaluation des
+emplois, est destiné:
+– aux Chefs d'Unité et leur équipe de Direction,
+– aux personnes chargées de la mise en place de la M3E dans les Unités,
+– l'encadrement intermédiaire (Chefs de groupe responsable, Chefs de section...),
+– l'expertise M3E,
+– aux représentants des organisations syndicales.
+Il ne constitue pas un ensemble rigide de r ègles et de prescriptions mais une base
+méthodique simple qu'ils pourront facilement s'approprier.
+Ce guide s'enrichira de l'expérience de ses utilisateurs afin de répondre encore plus
+concrètement leurs attentes et besoins spécifiques.
+La description des emplois con cerne tous les responsables
+hiérarchiques
+Ce guide a pour objet d'aider le s responsables hiérarchiques décrire avec clarté et
+objectivité les emplois dont ils ont la responsabilité. Il leur permettra de formaliser et
+de rendre plus cohérentes leur s pratiques en ce domaine.
+La description d'emploi leur fournit égalem ent un support une concertation locale
+élargie avec les Organisations Syndicales.
+Pourquoi décrire les emplois?
+parce que la M3E en fait un préalable pour déterminer le classement des emplois
+
+=== Page 4 ===
+
+Dans le cadre de la M3E, une descripti on des emplois organisée et précise est
+un préalable pour asseoir l'évaluation sur des bases objectives et concrètes.
+La description d'emploi, ainsi conçue, est un moyen d'assurer l'équité de
+l'évaluation.
+parce que la description des emploi s est un outil de m anagement pour les
+Entreprises et un objet de dialogue ent re responsable hiérarchique et agent
+Elle permet: – de disposer d'une base objective défin issant les exigences requises par
+l'emploi,
+– d'examiner l'évolution du cont exte et du contenu des emplois,
+– de faciliter le recrutem ent interne et externe.
+La description d'emploi, démarche de forma lisation d'informations objectives et
+concrètes, apporte chaque agent des Entreprises un progrès en matière d'équité:
+– les emplois, étudiés localement, sont décrits selon un canevas commun – leurs titulaires (lorsque les emplois sont occupés) sont associés la démarche – la méthode repose sur des règles claires, communes et connues de tous.
+
+=== Page 5 ===
+
+M3E
+METHODE D'ENTREPRISE D'EVALUATION DES EMPLOIS
+Principes généraux
+de la démarche de description des emplois
+
+=== Page 6 ===
+
+La description des emplois fournit les él éments nécessaires pour les évaluer.
+1 - Qu'est-ce qu'un emploi?
+C'est une unité élémentaire de l'organisa tion regroupant un ensem ble de tâches et
+de responsabilités qui requièrent des compétences identifiées.
+2 - Quatre postulats pour décrire les emplois
+La description des emplois s'inscrit dans un cadre défini par quatre postulats:
+premier postulat: un emploi peut et doit être décrit indépendamment de
+la personne qui l'exerce
+S'il est difficile de décrire un emploi sans obs erver son titulaire, il doit cependant être
+décrit indépendamment de la personne qui l'exerce un moment donné.
+Dans chaque cas, on adoptera un point de vue le plus objectif possible en décrivant
+un emploi qui réponde aux besoins de l'or ganisation et non pas tel que les personnes
+concernées peuvent le percevoir. On pr endra garde de ne pas porter d'appréciation
+sur la manière dont il est tenu.
+deuxième postulat: la contribution spéc ifique de chaque emploi peut et
+doit être identifiée
+Les emplois sont en interaction mais il faut cerner la contribution respective de
+chacun d'eux aux résultats permanents de l' organisation: ceci suppose que le rôle
+de tout emploi dans l'obtention des résultats ait été défini av ec clarté et précision au
+regard de l'organisation laquelle il appartient.
+Il est possible d'identifier l'apport spéc ifique de chaque emploi par une démarche
+systématique distinguant ce qui est essentiel pour la mission générale de l'emploi de
+ce qui lui est accessoire.
+troisième postulat: une descripti on peut et doit restituer les
+caractéristiques essentielles et "permanentes" d'un emploi
+Un emploi occupé n'est pas une réalité figée.
+Cependant, la plupart des variations qui l' affectent sont généralement de faible
+importance, réversibles, et sans effe t sur les résultats permanents qui en sont
+attendus.
+Il est donc possible de saisir l'emploi par une description, condition de:
+
+=== Page 7 ===
+
+– s'attacher ses résultats permanents pl utôt qu'à des aspects transitoires (par
+exemple: variations annuelles d'objectifs ou de priorités...),
+– trouver un équilibre entre une présentation trop exhausti ve et précise et une
+approche trop générale et abstraite.
+quatrième postulat: une description d'em ploi peut et doit être rédigée en
+quelques pages
+L'expérience montre que 4 5 pages suffi sent pour donner une description précise
+d'un emploi.
+3- La structure d'une description d'emploi
+La description d'un emploi se compose d'un intitulé suivi de quatre chapitres.
+L'intitulé
+L'intitulé est la carte d'identité qui permet le repérage d'un emploi. Il comporte un certain nombre de mentions obligatoires: – Unité, sous-Unité, famille professi onnelle, métier, appellation de l'emploi,
+rattachement hiérarchique, date de mise jour, validation par le responsable
+hiérarchique.
+Premier chapitre: la mission générale de l'emploi
+La mission générale exprime la re lation entre les finalités attendues de l'emploi et les
+activités permettant de les atteindre, en s pécifiant le cadre( 1) dans lequel elles
+s'insèrent.
+C'est un résumé en quelques lignes de l'ensemble de la description.
+Deuxième chapitre: l'environnement de l'emploi
+L'environnement de l'emploi présente:
+– la place de l'emploi dans l'organisation,
+– le contexte dans lequel s'inscrivent les éléments ayant une répercussion sur ses
+activités ou ses résultats.
+Troisième chapitre: les activités de l'emploi
+Les activités de l'emploi représentent l'ens emble des travaux intellectuels et manuels
+effectués par l'emploi ou sous sa responsabilité.
+
+1 Il s’agit de tout ce qui encadre la liberté de réflexion et d’action de l’emploi, par
+exemple: une politique de l’Unité, des consignes de travail, un budget, des méthodes, des instructions, etc.
+
+=== Page 8 ===
+
+Les activités spécifiques de l'emploi font l'objet d'une présent ation détaillée les
+activités de l'organisation subordonnée sont indiquées de façon synthétique.
+Quatrième chapitre: les finalités de l'emploi
+Les finalités expriment la participation attendue de l'emploi aux résultats permanents
+de l'organisation. Elles sont d'or dre primordial ou contributif.
+Une finalité est dite primordiale si l'on att end du titulaire de l'emploi qu'il soit garant
+du résultat: "Le titulaire garantit tel résultat en exerçant telle activité".
+Elle est dite contributive si le titulaire par ticipe l'obtention du résu ltat: "Le titulaire
+contribue tel résultat en exerçant telle activité".
+Ainsi, la description d'emploi permet d'établir les liens entre:
+– la mission générale et les finalités,
+– l'environnement (externe et interne, tec hnique et organisationnel) et les activités,
+– les activités concrètes et les résult ats permanents attendus par l'organisation.
+Tous ces éléments sont nécessaires. Ils perme ttent de "faire le tour" de l'emploi sans
+laisser place d'éventuelles extrapolations lors de l'évaluation.
+DE LA QUALITE DE LA DESCRIPTION DEPEND LA QUALITE DE
+L'EVALUATION.
+4 - LES ACTEURS DE LA DEMARCHE
+Les responsables hiérarchiques initient la démarche de description des emplois.
+Pour mener bien ce travail, ils s'appuient sur leur s connaissances du fonctionnement de l'organisation.
+Un responsable hiérarchique peut décider d'e ffectuer seul la description d'un emploi,
+il peut aussi recourir aux services de l'expertise M3E.
+Lorsque les emplois étudiés sont occupés, leurs titulaires sont associés la
+démarche.
+4.1 - Les responsables hiérarchiques, premiers acteurs de la démarche
+Les responsables d'une organisation savent ce qu'ils attendent des emplois qui la
+composent et ils l'expriment:
+– l'occasion des entretiens annuels,
+– lors de conversations régulières avec les titulaires des emplois concernés,
+– au cours de discussions avec leur propre hiérarchie,
+– lorsqu'ils sont conduits présenter le contenu d'un emploi un candidat,
+
+=== Page 9 ===
+
+– etc.
+La démarche de description de la M3E consti tue un outil d'aide la formalisation de
+ces attentes.
+Outre l'utilisation de documents divers (pl ans stratégiques, contrats de gestion,
+lettres de mission, schémas d'organisation, etc. ), ils ont, par ailleurs, la possibilité de
+s'adresser l'expertise de la M3E.
+4.2 - Rôle éventuel de l'expertise de la M3E
+L'expertise M3E peut assister les respons ables hiérarchiques dans le recueil et
+l'analyse des informations qui servent décrire un emploi.
+Elle peut également aider le responsable hiérar chique et le titulaire converger vers
+une vision objective de l'emploi, sans s'inte rposer dans leur relation hiérarchique.
+Cette expertise requiert:
+– une formation préalable la méthode,
+– une compétence dans le domaine de la relation et du conseil,
+– une capacité d'analyse des problèmes,
+– une aptitude rédiger de manière précise.
+Lorsque le responsable hiérarchique choisit de recourir aux services de l'expertise
+M3E, notamment lors des premières descrip tions d'emplois de son organisation, leur
+coopération pourra se dérouler selon le processus suivant:
+– la décision étant prise de décrire un emploi, le responsable hiérarchique et
+l'expertise de la méthode M3E définissent le s modalités de leur coopération et leur
+rôle respectif.
+– ils procèdent alors l'ét ude de l'emploi puis la rédaction du document descriptif
+final en se référant aux principes méthodi ques présentés dans le guide détaillé ci-
+après.
+– l'issue de ce processus la descr iption est validée par le responsable
+hiérarchique.
+4.3 - Association du titulaire de l'emploi
+Dans le cas où les emplois étudiés sont occ upés, leurs titulaires sont associés la
+démarche de description.
+Le titulaire fournit un cert ain nombre d'éléments nécessaires la description de
+l'emploi qu'il occupe, par exemple au cours d'un entretien.
+Ces éléments complètent et enrichissent ceux apportés par l'étude d'un certain
+nombre de documents existants et l'éventuelle interview du responsable hiérarchique
+par un expert M3E.
+
+=== Page 10 ===
+
+A tout moment du processus relatif la description et l'évaluation de l'emploi qu'il
+occupe, le titulaire doit avoir la possibilit é de faire part de ses observations sur la
+description de son emploi sous la forme qu'il juge appropriée.
+A l'issue du processus de concertation, la description définitive de son emploi lui est
+communiquée.
+4.4 - Association des Orga nisations Syndicales locales
+Dans le cadre des modalit és de concertation définies avec les Organisations
+Syndicales locales sur chaque description et évaluation au sein de l'Unité, les
+organisations syndicales sont appelées faire part de leurs remarques sur les
+projets de descriptions qui leur sont adressés.
+Cette concertation précède les échanges sur l'évaluation de l'emploi. En fin de processus, la décis ion du Chef d'Unité relative l'évaluation, accompagnée
+du document descriptif final, leur est communiqué pour information.
+
+=== Page 11 ===
+
+M3E
+METHODE D'ENTREPRISE D'EVALUATION DES EMPLOIS
+GUIDE DETAILLE DE DESCRIPTION
+DES EMPLOIS
+
+=== Page 12 ===
+
+1 - Qu'est-ce qu'une description d'emploi?
+Une description est une photographie de l' emploi. Elle apporte une réponse aux
+questions suivantes:
+– pourquoi existe-t-il, quelle est sa vo cation, quelle contri bution apporte-t-il l'organisation, quels résultats doit-il atteindre?
+– pour atteindre ces résultats, quels types de problèmes son titulaire doit-il identifier et
+résoudre?
+– dans quel cadre agit-il: sa place dans l' organisation, ses liaisons internes et
+externes, son autonomie de décision?
+– de quels moyens d'action dispose-t-il, quel rôle joue-t-il dans la définition de ces
+moyens?
+– quelles activités son titulaire doit-il ex ercer pour remplir la mission qui lui est
+confiée?
+1.1 - Comment recueillir l'information sur l'emploi?
+Les principales sources d'information sont:
+– le responsable hiérarchique(2),
+– le titulaire auprès duquel les informati ons peuvent être recueillies lors d'un
+entretien,
+– un ensemble de documents (plans stratégi ques, contrats de gestion, lettres de
+mission, règles d'organisation, organigramme, etc.).
+Le responsable hiérarchique peut décrire lu i-même l'emploi et s'appuyer sur
+l'expertise M3E pour préciser et enrichi r le document en respectant les règles
+imposées par la méthode.
+Il peut également demander cette expertise la réalisation de l'ensemble de la
+description.
+Dans la suite du guide, pour ne pas alourdir le propos, le terme "rédacteur" sera
+utilisé pour désigner celui qui réalise la description d'emploi.
+1.2 - La description d'un emploi est rédigée dans un style simple et
+accessible
+La description d'un emploi est rédigée dans un style simple et accessible caractérisé
+par:
+– son caractère concret (description de faits, informations chiffrées),
+– l'absence de langage spécialisé, de sigles et d'abréviations (lorsqu'ils ne peuvent
+être évités, il faut veiller les expliquer),
+
+2 Il s’agit ici d’une personne ayant au moins un rôle d’organisation et d’appréciation du
+travail effectué par le titulaire de l’emploi étudié. Elle possède une connaissance approfondie de cet emploi et pour en faire une étude objective.
+
+=== Page 13 ===
+
+– l'utilisation de verbes d'action au mode actif,
+– un équilibre permanent entre le souci du détail et la concision(3),
+– le recours des phrases courtes et des schémas.
+2 - La structure d'une description d'emploi
+Une fois effectué le travail de recueil et d'analyse de l'information, une description
+d'emploi s'organise de la manière suivante:
+Intitulé de l'emploi Premier chapitre: la mission générale de l'emploi Deuxième chapitre: l'environnement de l'emploi Troisième chapitre: les activités de l'emploi Quatrième chapitre: les finalités de l'emploi
+3 - La rédaction d'une description d'emploi
+Les étapes de rédaction d'une description d' emploi ne suivent pas l'ordre de la
+présentation du document final. Les quatrième et premier chapitres se rédigent en
+effet sur la base des informations collectées sur l'environnement et les activités de
+l'emploi.
+3.1 - L'intitulé
+L'intitulé est la carte d'identité de l'em ploi. Il comporte les éléments suivants:
+– l'Unité d'affectation,
+– la sous-Unité,
+– la famille professionnelle,
+– le métier,
+– l'appellation de l'emploi et son rattachement hiérarchique,
+– la date de mise jour de la description,
+– la validation de la description par le responsable hiérarchique.
+Vous trouverez au verso de cette page:
+
+3 A titre d’exemple, il est plus précis d’écrire « identifier les besoins du client, lui faire
+comprendre la structure des différents tarifs, l’aider choisir celui qui lui convient » que « connaître la tarification ».
+
+=== Page 14 ===
+
+l'exemple d'emploi n° 13
+illustrant:
+« L’ENVIRONNEMENT »
+Place de l’emploi dans l’organisation
+Famille professionnelle: Electronique, Automatique, Informatique Industrielle.
+Métier: Responsable Automaticien
+
+=== Page 15 ===
+
+
+Environnement A - Place de l'emploi dans l'organisation
+L'emploi appartient, au sein du Service Auto matismes Electricité d'une centrale
+nucléaire de 2 tranches 900 MW, la sect ion Automatismes/Analogiques. Il est
+rattaché au contrôleur technique (CT). Les emplois collatéraux sont tenus par un
+contremaître principal chargé de la prépar ation des modifications et un autre
+contremaître principal ayant le même rôle que l'emploi.
+Son organisation subordonnée comporte 16 te chniciens et 2 agents d'exécution.
+Dans le domaine des Ressources Humaines, l'emploi est contrôlé mensuellement sur
+l'évolution des éléments variables d'activi té (heures supplémentaires, etc.) de son
+équipe.
+Dans le domaine technique, l'emploi est c ontrôlé par le CT partir d'indicateurs
+mensuels et d'appréciations hebdomadaires su rl'état des portefeuilles de Demandes
+d'Intervention formulées par les services c lients (volume et qualité, traitement des
+priorités).
+
+
+=== Page 16 ===
+
+3.2 - L'environnement
+Pour bien décrire un emploi, il est nécessaire de considérer:
+– non seulement sa place dans l'organisation,
+– mais également le contexte dans lequel s'inscrivent les éléments internes et
+externes qui ont une répercussion sur ses activités ou ses résultats.
+A - La place de l'emploi dans l'organisation
+Ce paragraphe doit mettre en évidence:
+– le rattachement hiérarchique de l'emploi,
+– les emplois de même rattachement hiérarchique et de même niveau,
+– l'organisation qui lui est directement subordonnée,
+
+A l'organigramme positionnant l' emploi dans une structure
+formelle, il convient d'ajouter des indications restituant le
+fonctionnement réel de l'organi sation. Celles-ci doivent
+préciser le réseau de relations non formalisées dans lequel l'emploi est inséré.
+– la responsabilité fonctionnelle(4) qu'il exerce ou dont il dépend,
+– la marge de manoeuvre fixée par l'organisation:
+– les délégations de pouvoir,
+– les règles de fonctionnement,
+– les contrôles auxquels est soumis l'emploi et leur périodicité.
+
+4 La responsabilité fonctionnelle est exercée, en dehors de tout lien hiérarchique, par un
+agent chargé d’une mission cet effet et détenant un savoir spécifique dans un ou plusieurs domaines spécialisés.
+
+=== Page 17 ===
+
+
+Vous trouverez au verso de cette page:
+l'exemple d'emploi n° 13
+
+illustrant:
+« L’ENVIRONNEMENT »
+Le contexte
+Famille professionnelle: Electronique, Automatique, Informatique Industrielle.
+Métier: Responsable Automaticien
+
+=== Page 18 ===
+
+
+Environnement B - Contexte
+L'emploi exerce son activité dans une c entrale nucléaire (2 tranches 900 MW) l'intérieur d'un service Automatismes/E lectricité qui assure des dépannages, la
+maîntenance lourde en arrêt de tranches et les modifications. La section
+"Automatismes Analogiques" intervient sur l'installation - soit pour effectuer des
+réparations (travaux fortuits), elle r épond ainsi des demandes d'intervention émises
+quotidiennement par les entit és clientes, soit des travaux systématiques
+(programmes annuels préventifs de base locaux ou nationaux), - soit des travaux de
+modifications (définies nat ionalement pour l'année). La répartition de l'activité est
+fonction de l'état de la tranche (en fonctionnement ou en arrêt).
+Après analyse des différentes sollicitations fortuites ou systématiques, notamment au
+regard de leur urgence, l'emploi planifie, en accord avec le représentant du Service
+Conduite, les travaux sur une semaine. Les contraintes de temps prises en compte
+sont constituées d'échéances liées, d'une part la sûreté de l'installation (respect de
+la périodicité sur le préventif et des délais de réalisation), d'autre part la
+disponibilité de la tranche.
+Tous les travaux sur les matériels ou proc ess importants pour la sûreté (IPS) sont
+réalisés selon des procédures écrites ( gammes). Tout non respect de procédure peut
+avoir un impact sur l'environnement.
+Les autorités de sûreté et leurs mandataire s: Direction Régionale de l'Industrie, de la
+Recherche et de l'Environnement (DRIRE), Direction de la Sûreté des Installations
+Nucléaires (DSIN), Service Central de Prot ection contre les rayonnements ionisants
+(SCPRI) viennent régulièrement faire des visites d'inspection de l'installation
+nucléaire. Les inspections ont un caractèr e formel et portent notamment sur la
+vérification des dossiers des interventions réalisées.
+L'emploi respecte et fait respecter les r ègles techniques et de sécurité, en particulier,
+il se conforme au carnet de prescription du personnel.
+Conditions d'exercice: L'emploi est astreint. Pendant l'astreinte, il peut être appelé intervenir lui-même sur
+l'ensemble du matériel dans son domaine technique.
+Il a également un rôle d'astreinte en cas de Plan d'Urgence Interne (PUI = Plan de
+coordination des moyens mis en place en cas d'incident ou d'accident). Il est chargé
+des moyens techniques de liaison (moyens de télécommunication) dans un des
+postes de commandement de gestion de la crise.
+
+=== Page 19 ===
+
+B - Le contexte de l'emploi
+Ce paragraphe met en évidence les influences réelles, durables et significatives
+qu'exerce l'environnement interne et exte rne sur les activités ou les missions
+confiées l'emploi. Il doit notamment aborder:
+– le champ d'intervention de l'emploi (domaine d'appartenance: technologique,
+économique, administratif, juridique, z one d'intervention géographique: locale ou
+régionale, etc.),
+– les situations auxquelles l'emploi est c onfronté(5) (situati on économique, politique
+d'entreprise, technologie, marché, clients, concurrence, réglem entation, écologie,
+etc.),
+– les ressources disponibles (ressources humaines, systèmes d'information et de
+documentation, moyens de production, moyens financiers, équipements divers,
+etc.),
+– les contraintes administratives et techni ques (autorité de tutelle, cadre juridique et
+réglementaire, méthodes, procédures et c onsignes, règles de sécurité, normes,
+standards, etc.),
+– les conditions d'exercice (les sujétions de service, les modalités particulières
+d'organisation du travail: services continus..., la protection contre les risques, les
+techniques mises en oeuvre, les outils utilisés, etc.),
+– etc.
+De ces éléments doivent resso rtir les enjeux, les difficultés, les problèmes résoudre
+par l'emploi.
+
+Il s'agit de circonscrire le contexte spécifique de l'emploi en considérant ce qui l'influence directement. Cette approche évite de prendre en co mpte des éléments qui
+pourraient conduire décrire les contextes d'emplois de niveau hiérarchique supérieur, ceux d'emplois collatéraux ou celui de l'unité d'appartenance.
+A l'issue de ce travail, le rédacteur- doit être en mesure de répondre de façon
+satisfaisante aux questions suivantes:
+– la place de l'emploi dans l'organisation met- elle clairement en évidence la nature
+des relations hiérarchiques?
+– les éléments qui régissent l'activité générale de l'emploi s ont-ils précisés
+(délégation de pouvoir, règles de fonc tionnement, contraintes techniques et
+professionnelles, contrôles et périodicité)?
+– un schéma restitue-t-il le fonctionnement réel de l'organisation d'appartenance?
+– la définition de l'environnem ent donne-t-elle une idée claire des situations dans
+lesquelles se trouve l'emploi?
+
+5 Des indications sont données qui concernent leur stabilité ou leur caractère évolutif.
+
+=== Page 20 ===
+
+Le rédacteur doit aussi s'assurer que le document descriptif fournit des éléments
+pertinents sur les sujets suivants:
+– quelles sont les difficultés princi pales rencontrées par l'emploi?
+– quelle est l'étendue du domaîne d'intervention de l'emploi?
+– quelles règles de sécurité l'emploi doit-il respecter ou faire respecter?
+– quelles méthodes emploie-t-il? quels techniques, outils et équipements met-il
+en oeuvre?
+
+=== Page 21 ===
+
+
+Vous trouverez au verso de cette page:
+l'exemple d'emploi n° 13
+
+illustrant:
+« LES ACTIVITES »
+Activités de management
+Activités spécifiques
+Famille professionnelle: Electronique, Automatique, Informatique Industrielle.
+Métier: Responsable Automaticien
+
+=== Page 22 ===
+
+Activités
+Les activités sont liées l'état des tranches. Pendant la période conditionnée par un
+arrêt de tranche (environ 3 mois/an/tranche), un des 2 contremaîtres principaux est
+responsable de l'arrêt de tranche dans la spécialité "automatismes analogiques",
+tandis que l'autre l'est pour la tranche en service. Les rôles sont assurés en
+alternance. Quand la tranche est en foncti onnement, la répartition des interventions
+entre les deux contremaîtres et la cons titution des équipes se fait chaque semaine
+lors d'une réunion pilotée par le contrôleur technique.
+TRANCHE EN FONCTIONNEMENT Activités de management
+L'emploi gère le planning des absences,
+il organise les équipes en fonction des complémentarités, il planifie l'activité de sa section en respectant les priorités, il donne son avis sur les avancements au choix des agents, il assure pour ses techniciens des séances de formation et d'information sur les nouveaux process installés.
+Activités spécifiques
+L'emploi sensibilise les équipes d'interventi on sur les risques de déclenchement de la
+tranche lors de travaux et insist e sur les précautions prendre.
+Sur les matériels importants pour la Sûreté, les interventions se font avec des
+gammes qualité surveillée. La requalificati on de ces matériels (vérification de la
+capacité des matériels être nouveau opérat oires intrinsèquement et l'intérieur
+d'un process) est réalisée systématiquement par le tec hnicien et particulièrement
+contrôlée travers une analyse des comptes -rendus par l'emploi, qui va la prononcer
+en liaison avec l'exploitant.
+Il effectue un suivi des équipes sur les c hantiers, de façon exercer un double rôle
+de conseil technique (apport d'expertise dans les cas difficiles) et de contrôle.
+Par une analyse de l'intervention projetée, il adapte le régime d'intervention
+(prévision des consignations de matéri els) et en informe l'exploitant.
+A l'occasion de modifications de matériels, il anime des réunions d'information ou de
+courtes séances de formation, destinati on des exploitants, centrées sur les
+nouvelles fonctionnalités développées.
+– Pour les activités en arrêt de tranches vo ir description complète en fin du présent
+guide.
+
+=== Page 23 ===
+
+3.3 - Les activités de l'emploi
+Les activités représentent l'ensemble des tr avaux intellectuels et manuels effectués
+par l'emploi étudié ou sous sa responsabilité.
+1 - les activités spécifiques de l'emploi
+Les activités spécifiques sont exercées directement par l'emploi concerné.
+Elles doivent être clairement distinguées les unes des autres. Lorsque l'emploi décrit est un emploi de re sponsable hiérarchique, ses activités de
+management doivent faire l'objet d'un développement particulier.
+Les activités de management(6) concernent généralement: – la planification de l'activité (définiti on des objectifs et des plans d'action...),
+– l'organisation (choix des méthodes et des moyens, des procédés techniques, des
+principes d'organisation, rôle joué - propos ition ou décision - dans la définition et
+l'évolution de ces moyens),
+– la gestion des ressources humaines (c hoix des hommes, aide l'obtention des
+objectifs, coordination, motiva tion, communication, etc.),
+– le contrôle (évaluation des résultats, révision des plans et des politiques, etc.),
+
+Si certaines des activités recensées mettent l'emploi
+en relation avec des interloc uteurs, le rédacteur les
+identifie et indique quels sont la nature et le but des
+échanges.
+
+6 Ces activités ne supposent pas nécessairement l’existence d’une organisation
+subordonnée.
+
+=== Page 24 ===
+
+2 - les activités de l'organisation subordonnée
+Elles doivent être indiquées de façon synthétique.
+
+Les activités liées la sûre té et la sécurité, qu'elles
+concernent la conception ou l'application de règles, sont mentionner explicitement.
+A l'issue de ce travail, le rédacteur doit être en mesure de répondre de façon
+satisfaisante aux questions suivantes:
+– la formulation des activités est-elle claire et précise?
+– les activités spécifiques sont-elles exercées directement par l'emploi?
+– les activités suffisent-elles pour compr endre globalement quels sont les résultats
+attendus sans pour autant entrer dans le dét ail des opérations néc essaires leur
+obtention?
+– ont-elles été décrites sans omettre de précis er: les relations de l'emploi avec ses
+interlocuteurs, la nature et le but des échanges, les activités liées l'organisation
+(planification, préparation...) ainsi qu'à la sûreté et la sécurité?
+
+=== Page 25 ===
+
+Vous trouverez au verso de cette page:
+l'exemple d'emploi n° 13
+
+illustrant:
+« LES FINALITES »
+Finalités primordiales
+Finalités contributives
+Famille professionnelle: Electronique, Automatique, Informatique Industrielle.
+Métier: Responsable Automaticien
+
+=== Page 26 ===
+
+Finalités
+Finalités primordiales
+Garantir la bonne qualité des interventions en effectuant un choix judicieux des
+agents intervenants, en les sensibilisant la qualité du travail et en effectuant un
+suivi des équipes sur les chantiers en terme de conseil et de contrôle.
+Garantir la sécurité des intervenants en adaptant correctement le type de régime
+d'intervention et en assurant une bonne comm unication entre les différents services
+(maintenance, conduite).
+Garantir le renforcement du professionnalisme individuel et collectif de son équipe en
+organisant les chantiers par compagnonnage, et en conseillant ses subordonnés
+dans les cas difficiles.
+Garantir l'enclenchement opt imal des interventions en déterminant le volume de
+personnel nécessaire, en répartissant les dossi ers entre les techniciens, en révisant
+les prévisions initiales.
+Finalités contributives
+Contribuer la bonne coordination des différ entes spécialités de la centrale en
+participant aux réunions d'arrêt de tranche et en intégrant dans son activité les
+contraintes des autres sections.
+Contribuer au respect des priorités en pl anifiant les activités de sa section.
+Contribuer au bon déroulement des interventi ons futures en renseignant l'historique
+et en participant au retour d'expérience.
+
+=== Page 27 ===
+
+
+3.4 - Les finalités
+La composition de ce chapitre exige une réflexion approfondie et une formalisation
+rigoureuse. Le rédacteur quitte en effet le mode descriptif pour exploiter les
+informations collectées en vue d'en tirer une synthèse.
+A - La définition
+Les finalités expriment la participation attendue de l'emploi aux résultats permanents
+de l'organisation.
+Si le titulaire de l'emploi peut être tenu pour le seul garant du résu ltat, la finalité est
+dite "primordiale".
+S'il contribue l'obtention du ré sultat avec d'autres emploi s, elle est naturellement
+dite "contributive".
+B - Comment identifier une finalité?
+Pour identifier les finalités d'un emploi, il faut passer en revue les activités afin de
+déterminer celles d'entre elles - en les r egroupant éventuellement - qui peuvent être
+associées un résultat permanent de l'organisation.
+C - Comment rédiger une finalité?
+La rédaction d'une finalité doit obligatoirement comporter:
+– un verbe d'impact qui indique le niveau de responsabilité l'égard du résultat:
+– garantir..., dans le cas d'une finalité primordiale,
+– contribuer..., dans le cas d'une finalité contributive,
+- un résultat permanent attendu,
+- le rappel des activités conduisant ce résultat.
+
+Le rédacteur doit formuler av ec précision le ou les
+résultats permanents attendus de l'emploi. Ceux sur
+lesquels l'emploi n'exerce qu'une influence lointaine difficile apprécier ne seront pas retenus.
+Tout emploi comporte, en général, 3 8 fi nalités. L'expérience montre qu'en deçà de
+3, on peut supposer que des résultats attendus de l'emploi ont été omis. Au-delà de
+8, des résultats sur lesquels l'emploi n'a qu'un effet très lointain ont été probablement
+pris en compte.
+
+
+=== Page 28 ===
+
+Exemple de répartition des finalités entre les emplois de responsables
+hiérarchiques de différentes enti tés d'une Agence donnée d'EDF GDF
+SERVICES
+N. B. Cet exemple donné titre d'illust ration, n'est pas représentatif de l' organisation de l'ensemble des Agences
+d'EDF GDF SERVICES.
+
+Cet exemple compare entre elles les finalités des emplois suivants:
+
+• responsable du groupe développement des ventes,
+• responsable du groupe technique d’Agence, • responsable d’une Agence d’exploitation, • responsable de la section clintèle.
+
+En matière d’organisation, l’examen co mparé des finalités de ces différents
+emplois doit permettre de:
+- vérifier que l'ensemble des résultat s est parfaitement réparti entre les
+emplois, sans recouvrement ni discontinuité,
+- s'assurer que le rôle de chaque emploi dans l'atteinte des résultats est
+défini avec clarté et précision.
+Le tableau ci-dessous donne un exemple de r épartition de quelques finalités entre 4
+emplois:
+
+EMPLOIS
+FINALITES Responsable du
+Groupe
+"Développement des
+ventes" Responsable du
+Groupe "Technique
+d'Agence Responsable
+de l'Agence
+d'Exploitation Responsable
+de la Section
+"Clientèle"
+Accroissement du volume des ventes PCCC
+Permanence de la fourniture CP
+Satisfaction des demandes de la
+clietèle CCCP
+Connaissance permanente et
+exploitation de l'image de l'entreprise CCP
+Optimisation du recouvrement CP
+
+
+P: Primordiale
+C: Contributive
+
+
+=== Page 29 ===
+
+
+A l'issue de ce travail, le rédacteur doit être en mesure de répondre de façon
+satisfaisante aux questions suivantes:
+– chaque finalité est-elle composée d'un verbe d'impact, d'un résultat permanent
+attendu et de l'activité correspondante?
+– le résultat exprimé est- il bien un résultat permanent?
+– chaque finalité est-elle associée une activité au moins?
+
+=== Page 30 ===
+
+
+Vous trouverez au verso de cette page:
+l'exemple d'emploi n° 13
+
+illustrant:
+
+« LA MISSION GENERALE »
+Famille professionnelle: Electronique, Automatique, Informatique Industrielle.
+Métier: Responsable Automaticien
+
+=== Page 31 ===
+
+
+Mission Générale
+Dans le cadre des règles générales d'exploitation et des gammes de
+travail en découlant, l'emploi consti tue et conduit des équipes chargées
+d'assurer l'exécution de la maintenance et des modifications des automatismes analogiques afin de c ontribuer la sûreté et la
+disponibilité des tranches.
+
+=== Page 32 ===
+
+3.5 - La mission générale
+A - La définition
+La mission générale résume en quelques lignes la description de l'emploi en ne
+reprenant que l'essentiel des finalités et des activités de l'emploi, ainsi que du cadre
+qui les régit.
+Bien qu'elle soit l'aboutissement du travail de description, elle se place en tête du
+document final (cf chapitre 2).
+B - Comment la rédiger?
+Comme pour les finalités, la rédaction de la mission générale est très formalisée. On
+doit y trouver:
+– le cadre d'activité de l'emploi
+Il est indispensable de commencer la rédac tion de la mission générale par: "Dans le
+cadre de..."
+
+Il s'agit de tout ce qui encadre la liberté de réflexion et d'action de l'emploi, par exemple: une politique de l'unité, des consignes de travail, un budget, des normes, des méthodes, des instructions, etc. Ce ne peut en aucun cas être l'organisation elle-même(7).
+– la (ou les) activité(s) essentielle(s),
+Il s'agit d'exprimer la (ou les) activité(s ) essentielle(s) de l'emploi l'aide d'un verbe
+d'action suivi d'un complément d'objet.
+– le résultat permanent attendu.
+Le résultat permanent attendu doit être formulé de façon précise: "afin de garantir..." ou "afin de contribuer..."
+A l'issue de ce travail, le rédacteur doit être en mesure de répondre de façon
+satisfaisante aux questions suivantes:
+– la mission générale exprime-t-elle une i dée claire, précise et complète des
+responsabilités de l'emploi et des résultats attendus?
+– le cadre d'activité de l'emploi est-il indiqué?
+
+7 S’il convient d’écrire: « Dans le cadre des procédures budgétaires et comptables, il
+gère les budgets de... », il faut proscrire la formule « Dans le cadre de l’unité laquelle il appartient, il gère les budgets de... ».
+
+=== Page 33 ===
+
+CONTROLE GLOBAL DE COHERENCE DE LA DESCRIPTION
+Pour effectuer ce contrôle, le rédacteur doit d'abord disposer les chapitres de la
+description dans l'ordre du document final.
+Il convient ensuite de relire ce document dans son ordre de présentation en passant
+d'un chapitre l'autre, tout en se posant au fur et mesure de cette lecture les
+questions suivantes.
+Celles-ci doivent permettre de faire le lien entre:
+1 - la mission générale et les finalités
+La lecture de la mission générale permet-elle de se faire une idée "claire" de l'emploi
+et reprend-elle l'essentiel des finalités?
+2 - la mission générale et l'environnement
+Retrouve-t-on dans le descriptif de l'envir onnement le cadre évoqué dans la mission
+générale?
+3 - l'environnement et les activités
+Les caractéristiques essentielles de l'environnem ent sontelles celles qui sont les plus
+pertinentes au regard des activités exercées par l'emploi?
+4 - les activités et les finalités
+Toutes les activités considérées comme essentielles se retrouvent-elles prises en
+compte dans les finalités?
+
+=== Page 34 ===
+
+ANNEXE 1
+M3E
+METHODE D'ENTREPRISE D'EVALUATION DES EMPLOIS
+DESCRIPTION DE L'EXEMPLE D'EMPLOI n° 13
+FAMILLE PROFESSIONNELLE: Electronique,
+Automatique, Informatique Industrielle.
+METIER: Responsable Automaticien
+
+=== Page 35 ===
+
+Mission Générale
+Dans le cadre des règles générales d'exploitati on et des gammes de travail en découlant, l'emploi
+constitue et conduit des équipes chargées d'assu rer l'exécution de la maintenance et des
+modifications des automatismes analogiques afin de c ontribuer la sûreté et la disponibilité des
+tranches.
+Environnement
+A - Place de l'emploi dans l'organisation L'emploi appartient, au sein du Service Automati smes Electricité d'une centrale nucléaire de
+2 tranches 900 MW, la section Automatismes/Anal ogiques. Il est rattaché au contrôleur technique
+(CT). Les emplois collatéraux sont tenus par un contremaître principal chargé de la préparation des
+modifications et un autre contremaître principal ayant le même rôle que l'emploi.
+Son organisation subordonnée comporte 16 techniciens et 2 agents d'exécution. Dans le domaine des Ressources Humaines, l'emploi est contrôlé mensuellement sur l'évolution des
+éléments variables d'activité (heures supplémentaires, etc.) de son équipe.
+
+Dans le domaine technique, l'emploi est contrôlé par le CT partir d'indicateurs mensuels et
+d'appréciations hebdomadaires sur l'état des portefeu illes de Demandes d'Intervention formulées par
+les services clients (volume et qua lité, traitement des priorités).
+
+
+=== Page 36 ===
+
+
+B - Contexte
+L'emploi exerce son activité dans une centrale nucléaire (2 tranches 900 MW) l'intérieur
+d'un service Automatismes/Electricité qui assure des dépannages, la maintenance lourde en arrêt de tranches et les modifications. La section "Automatismes Analogiques" intervient sur l'installation - soit pour effectuer des réparations (travaux fortuits), elle répond ainsi des demandes d'intervention émises quotidiennement par les entités clientes, soit des travaux systématiques (programmes annuels préventifs de base locaux ou nationaux), - soit des travaux de modifications (définies nationalement pour l'année). La répartition de l'activité est fonction de l'état de la tranche (en fonctionnement ou en arrêt).
+Après analyse des différentes sollicitations fortuites ou systématiques, notamment au regard
+de leur urgence, l'emploi planifie, en accord avec le représentant du Service Conduite, les travaux sur une semaine. Les contraintes de temps prises en compte sont constituées d'échéances liées, d'une part la sûreté de l'installation (respect de la périodicité sur le préventif et des délais de réalisation), d'autre part la disponibilité de la tranche.
+Tous les travaux sur les matériels ou process importants pour la sûreté (IPS) sont réalisés
+selon des procédures écrites (gammes). Tout non respect de procédure peut avoir un impact sur l'environnement.
+Les autorités de sûreté et leurs mandataires: Direction Régionale de l'Industrie, de la
+Recherche et de l'Environnement (DRIRE), Direction de la Sûreté des Installations Nucléaires (DSIN), Service Central de Protection contre les rayonnements ionisants (SCPRI) viennent régulièrement faire des visites d'inspection de l'installation nucléaire. Les inspections ont un caractère formel et portent notamment sur la vérification des dossiers des interventions réalisées.
+L'emploi respecte et fait respecter les règles techniques et de sécurité, en particulier, il se
+conforme au carnet de prescription du personnel.
+Conditions d'exercice: L'emploi est astreint. Pendant l'astreinte, il peut être appelé intervenir lui-même sur
+l'ensemble du matériel dans son domaine technique.
+Il a également un rôle d'astreinte en cas de Plan d'Urgence Interne (PUI = Plan de
+coordination des moyens mis en place en cas d'incident ou d'accident). Il est chargé des moyens techniques de liaison (moyens de télécommunication) dans un des postes de commandement de gestion de la crise.
+
+=== Page 37 ===
+
+
+Activités
+Les activités sont liées l'état des tranches. Pendant la période conditionnée par un arrêt de
+tranche (environ 3 mois/an/tranche), un des 2 contremaîtres principaux est responsable de l'arrêt de tranche dans la spécialité "automatismes analogiques", tandis que l'autre l'est pour la tranche en service. Les rôles sont assurés en alternance. Quand la tranche est en fonctionnement, la répartition des interventions entre les deux contremaîtres et la constitution des équipes se fait chaque semaine lors d'une réunion pilotée par le contrôleur technique.
+TRANCHE EN FONCTIONNEMENT
+Activités de management
+
+L'emploi gère le planning des absences,
+il organise les équipes en fonction des complémentarités, il planifie l'activité de sa section en respectant les priorités, il donne son avis sur les avancements au choix des agents, il assure pour ses techniciens des séances de formation et d'information sur les nouveaux process installés.
+Activités spécifiques
+
+L'emploi sensibilise les équipes d'intervention sur les risques de déclenchement de la
+tranche lors de travaux et insiste sur les précautions prendre.
+Sur les matériels importants pour la Sûreté, les interventions se font avec des gammes qualité surveillée. La requalification de ces matériels (vérification de la capacité des matériels être nouveau opératoires intrinsèquement et l'intérieur d'un process) est réalisée systématiquement par le technicien et particulièrement contrôlée travers une analyse des comptes-rendus par l'emploi, qui va la prononcer en liaison avec l'exploitant.
+Il effectue un suivi des équipes sur les chantiers, de façon exercer un double rôle de
+conseil technique (apport d'expertise dans les cas difficiles) et de contrôle.
+Par une analyse de l'intervention projetée, il adapte le régime d'intervention (prévision des
+consignations de matériels) et en informe l'exploitant.
+A l'occasion de modifications de matériels, il anime des réunions d'information ou de courtes
+séances de formation, destination des exploitants, centrées sur les nouvelles fonctionnalités développées.
+
+=== Page 38 ===
+
+
+ARRET DE TRANCHES
+Activités de management
+
+Il évalue la charge de travail et détermine le volume de personnel nécessaire. Au cas où ce
+volume excède les possibilités internes, il demande au contrôleur technique de passer commande pour les compétences et la période souhaitée des entreprises extérieures.
+Il planifie les différentes interventions où la section est autonome. Pour les chantiers où
+différentes spécialités sont concernées la section Planification impose les dates.
+Il répartit en fonction des compétences les dossiers (fortuits, préventifs, modifications) aux
+différents techniciens.
+Il renforce le professionnalisme de ses équipes en confiant des chantiers des binômes
+constitués d'un agent ayant déjà réalisé ce type d'intervention avec un agent former. Il équilibre ainsi les savoir-faire et assure la polyvalence.
+Il organise les interventions des entreprises extérieures. Il organise la réalisation par des techniciens du suivi des interventions des entreprises
+extérieures. Il contrôle la qualité de ces interventions par une analyse des comptes-rendus de travaux.
+Activités spécifiques
+
+Il participe aux réunions de préparation d'arrêt de tranches avec les représentants de chaque
+spécialité et analyse l'enclenchement des travaux en repérant les prestations demandée par les autres sections.
+Finalités
+Finalités primordiales
+
+Garantir la bonne qualité des interventions en effectuant un choix judicieux des agents
+intervenants, en les sensibilisant la qualité du travail et en effectuant un suivi des équipes sur les chantiers en terme de conseil et de contrôle.
+Garantir la sécurité des intervenants en adaptant correctement le type de régime
+d'intervention et en assurant une bonne communication entre les différents services (maintenance, conduite).
+Garantir le renforcement du professionnalisme individuel et collectif de son équipe en
+organisant les chantiers par compagnonnage, et en conseillant ses subordonnés dans les cas difficiles.
+Garantir l'enclenchement optimal des interventions en déterminant le volume de personnel
+nécessaire, en répartissant les dossiers entre les techniciens, en révisant les prévisions initiales.
+
+=== Page 39 ===
+
+Finalités contributives
+Contribuer la bonne coordination des différentes spécialités de la centrale en participant
+aux réunions d'arrêt de tranche et en intégrant dans son activité les contraintes des autres sections.
+Contribuer au respect des priorités en planifiant les activités de sa section. Contribuer au bon déroulement des interventions futures en renseignant l'historique et en
+participant au retour d'expérience.

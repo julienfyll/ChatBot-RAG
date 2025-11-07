@@ -1,0 +1,139 @@
+=== Page 1 ===
+
+ELECTRICITE DE FRANCE GAZ DE FRANCE N. 75 - 22
+PERS. 661
+DIRECTION DU PERSONNEL
+Manuel Pratique: 182
+30 mai 1975
+
+Objet: Classification des fonctions
+Sections approvisionnements des
+centres de distribution
+La présente circulaire fixe, en annexe, après avis de la Commission supérieure nationale du
+personnel, la classification des fonctions de:
+– chef de section,
+– chef de groupe «liaisons-ordinateur»,
+– chef de groupe principal «liaisons-ordinateur»,
+dans les sections approvisionnements des centres de distribution.
+Ses dispositions prennent effet du 1er juillet 1974. Elles annulent et remplacent, compter de
+la même date, celles des circulaires A. 1069-B.909 du 31 mars 1961 et Pers. 499 du 17 avril
+1967 relatives la classification de la fonction de chef de section «commandes-magasin».
+Certaines autres fonctions (rédacteurs, chefs de gr oupe...) exercées dans les diverses activités
+(commande achats, vérification des factures) de ces sections ne font pas l'objet d'une
+classification spécifique elles doivent être clas sées par référence aux dispositions en vigueur
+et notamment aux définitions générales des fonction s mixtes de commandement et de
+technicité de la circulaire A. 1069-B.909 du 31 mar s 1961, aux dispositions de la circulaire A.
+1075-B.914 du 30 mai 1961, et de la circulaire Pers. 587 du 13 juin 1972.
+Par ailleurs, lorsque certaines fonctions faisant l 'objet de définitions spécifiques (circulaire A.
+1108-B.943 du 13 février 1962) sont effectivement e xercées dans des conditions analogues
+dans ces sections, les postes correspondants sont c lassés par référence ces définitions.
+Le Directeur Général
+d'ELECTRICITE DE FRANCE
+M. BOITEUX
+Le Directeur Général
+du GAZ DE FRANCE
+
+=== Page 2 ===
+
+2/5
+PERS. 661
+ANNEXE 1
+(Pers. 661)
+DIRECTION DE LA DISTRIBUTION
+Chef de section approvisionnements dans les centres
+1 - DEFINITION
+La section approvisionnements de centre (S. A. C.) es t placée sous les ordres du chef de service
+administratif ou de son adjoint.
+Son rôle s'exerce dans les domaines ci-après:
+- Définition des besoins
+La section approvisionnements est chargée de l'appl ication du plan d'approvisionnement.
+- Commandes
+La section approvisionnements est chargée de:
+– répartir les demandes de matériels entre la S. A. C. et le S. R. A. M.,
+– émettre les bons de commande de livraison sur marc hé de matériels,
+– passer les commandes et marchés de matériels ainsi que les marchés de travaux et services
+qui sont de son ressort,
+– veiller la bonne application des règles administ ratives et clauses commerciales,
+– contrôler a posteriori les commandes passées par p etits bons par les services et
+subdivisions.
+- Contrôle de l'exécution des commandes
+La S. A. C. contrôle l'ensemble des factures de matér iels ainsi que les factures de travaux et
+services de son ressort. Elle relance les fournisse urs de matériels.
+
+=== Page 3 ===
+
+3/5
+PERS. 661
+- Magasinage
+La S. A. C. est responsable du magasin du centre lors qu'il existe et est chargée dans le cadre du
+plan d'approvisionnement:
+– de la visite périodique des autres magasins et des dépôts,
+– du contrôle du niveau des stocks,
+– des transferts entre magasins et entre magasins et dépôts,
+– de la liquidation des vieux métaux et matériels dé classés.
+Pour l'ensemble de ces domaines, la S. A. C. est char gée de veiller la bonne qualité de la
+collecte et de la saisie des informations, de redre sser éventuellement les erreurs et anomalies
+constatées et d'assurer les relations nécessaires a vec les services concernés.
+2 - CLASSEMENT
+Au 1er juillet 1974, le classement des postes de ch ef de section approvisionnements des
+centres de distribution figure au tableau ci-dessou s:
+
+
+VOIR DOCUMENT PAPIER
+
+RECUEIL DES PERS.
+
+AU FOND DOCUMENTAIRE
+
+
+=== Page 4 ===
+
+4/5
+PERS. 661
+3 - REVISION
+La révision du classement des postes de chef de sec tion approvisionnements interviendra en
+même temps que celle des postes de chef de service des centres de distribution, sauf
+modifications par suite de changement de structures.
+A titre d'information, la formule partir de laque lle sont calculés les paramètres caractéristiques
+de chaque poste de chef de section, est indiquée ci -dessous:
+Paramètre P = 0,5 E + 20 M + 3 D + 10 S + 3 F
+dans laquelle:
+E est l'effectif du centre. Il s'agit de l'effectif statutaires + temporaires temps plein. Pour les
+centres supports d'une Direction Régionale, il ya lieu d'ajouter les effectifs de cette dernière.
+M est le nombre de magasins du centre: magasin cen tral ou magasins de subdivision.
+D est le nombre de dépôts de district.
+S est le montant en millions de francs des sorties de stock (compte 94).
+F est le montant en millions de francs des factures payées par le centre (compte 400).
+Le classement au 1er juillet des postes est détermi né tous les 3 ans sur la base des éléments
+caractéristiques ci-après:
+– pour les termes E, MetD, situation au 31 décembr e précédent,
+– pour les termes SetF, moyenne arithmétique des s ituations des trois années civiles
+précédentes.
+ANNEXE 2
+(Pers. 661)
+DIRECTION DE LA DISTRIBUTION
+Sections approvisionnements des centres
+1 - Chef de groupe «liaisons-ordinateur» - catégori e 6 -
+(fonction de technicité ou fonction mixte de comman dement et de technicité)
+Agent placé sous l'autorité du chef de section appr ovisionnements et chargé d'assurer, dans le
+cadre de directives permanentes, seul ou éventuelle ment avec l'aide d'un ou plusieurs agents
+d'exécution, les travaux suivants:
+
+=== Page 5 ===
+
+5/5
+PERS. 661
+– redresser chaque traitement les erreurs ou anoma lies décelées par l'ordinateur,
+– enregistrer les modifications des caractéristiques et la valeur des paramètres
+d'approvisionnement,
+– veiller la qualité et la conformité des inform ations adressées l'ordinateur, ainsi qu'à la
+bonne utilisation des moyens et méthodes de collect e dans ce cadre, il effectue les visites
+des points de stockage,
+– participer la mise jour ou la création des c artes guides.
+2 - Chef de groupe principal «liaisons-ordinateur» - catégorie 7
+(fonction de technicité ou fonction mixte de comman dement et de technicité)
+Cet agent assume les activités figurant dans la déf inition de la fonction de chef de groupe
+«liaisons-ordinateur».
+A partir de l'analyse des restitutions, il propose des modifications aux paramètres de gestion.
+Cette fonction existe dans les sections approvision nements ne comportant pas d'agent de
+maitrise, autre que le chef de section, particulièr ement chargé de ces dernières activités.

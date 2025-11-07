@@ -1,0 +1,147 @@
+=== Page 1 ===
+
+Histoire de l'intelligence artific ielle
+L’intelligence artificielle (IA) est une discipline jeune d’une soixante d’a nnées, qui est un ensemble
+de sciences, théories et techniques (notamment logique mathématique, statistiques, probabilités,
+neurobiologie computationnelle, informatique) qui ambitionne d’imiter les capacités cognitives d’un
+être humain. Initiés dans le sou ffle de la seconde guerre mondiale, ses développements sont
+intimement liés ceux de l’informatique et ont conduit les ordinateurs réaliser des tâches de plus
+en plus complexes, qui ne pouvaient être auparavant que déléguées un humain.
+Cette automatis ation demeure toutefois loin d’une intelligence humaine au sens strict, ce qui rend la
+dénomination critiquable pour certains experts. Le stade ultime de leurs recherches (une IA « forte »,
+c’est -à-dire en capacité de contextualiser des problèmes spécialis és très différents de manière
+totalement autonome) n’est absolument pas comparable aux réalisations actuelles (des IA « faibles »
+ou « modérées », extrêmement performantes dans leur domaine d’entraînement). L’IA « forte », qui
+ne s’est encore matérialisée qu’en science -fiction, nécessiterait des progrès en recherche
+fondamentale (et non de simples améliorations de performance) pour être en capacité de modéliser le
+monde dans son ensemble.
+
+Depuis 2010, la discipline connaît toutefois un nouvel essor du fait, principalement, de l’amélioration
+considérable de la puissance de calcul des ordinateurs et d’un accès des quantités massives de
+données.
+Les promesses, renouvelées, et les inquiétudes, parfois fantasmées, complexifient une compréhension
+objective du phénomène. De brefs rappels historiques peuvent contribuer situer la discipline et
+éclairer les débats actuels.
+
+1940 -1960: Naissance de l’IA dans le sillage de la cybernétique
+L’époque entre 1940 et 1960 a été for tement marquée par la conjonction de développements
+technologiques (dont la seconde guerre mondiale a été un accélérateur) et la volonté de comprendre
+comment faire se rejoindre le fonctionnement des machines et des êtres organiques. Ainsi pour
+Norbert Wie ner, pionnier de la cybernétique, l’objectif était d’unifier la théorie mathématique,
+l’électronique et l’automatisation en tant que « théorie entière de la commande et de la
+communication, aussi bien chez l’animal que dans la machine ». Juste auparavant, un premier modèle
+mathématique et informatique du neurone biologique (neurone formel) avait été mis au point par
+Warren McCulloch et Walter Pitts dès 1943.
+
+
+=== Page 2 ===
+
+Début 1950, John Von Neumann et Alan Turing ne vont pas créer le terme d’IA mais vont être les
+pères fondateurs de la technologie qui la sous -tend: ils ont opéré la transition entre les calculateurs la logique décimale du XIXème siècle (qui traitaient donc des valeurs de 0 9) et des machines la
+logique binaire (qui s’appuient sur l’algèbre booléen ne, traitant des chaines plus ou moins importantes
+de 0 ou de 1). Les deux chercheurs ont ainsi formalisé l’architecture de nos ordinateurs contemporains
+et ont démontré qu’il s’agissait là d’une machine universelle, capable d’exécuter ce qu’on lui
+program me. Turing posera bien en revanche pour la première fois la question de l’éventuelle
+intelligence d’une machine dans son célèbre article de 1950 « Computing Machinery and Intelligence
+» et a décrit un « jeu de l’imitation », où un humain devrait arriver distinguer lors d’un dialogue par
+téléscripteur s’il converse avec un homme ou une machine. Pour polémique que soit cet article (ce «
+test de Turing » n’apparaît pas qualifiant pour nombre d’experts), il sera souvent cité comme étant la source du questio nnement de la limite entre l’humain et la machine.
+La paternité du terme « IA » pourrait être attribué John McCarthy du MIT (Massachusetts Institute
+of Technology), terme que Marvin Minsky (université de Carnegie -Mellon) définit comme « la
+construction de programmes informatiques qui s’adonnent des tâches qui sont, pour l’instant,
+accomplies de façon plus satisfaisante par des êtres humains car elles demandent des processus
+mentaux de haut niveau tels que: l’apprentissage perceptuel, l’organisation de la mémoire et le
+raisonnement critique ». La conférence durant l’été 1956 au Dartmouth College (financée par le
+Rockefeller Institute) est considérée comme fondatrice de la discipline. De manière anecdotique, il
+convient de relever le grand succès d’estime de ce qui n’était pas une conférence mais plutôt un atelier
+de travail. Seulement six personnes, dont McCarthy et Minsky, étaient restées présentes de manière
+constante tout au long de ces travaux (qui s’appuyaient essentiellement sur des développements b asés
+sur de la logique formelle).
+Si la technologie demeurait fascinante et remplie de promesse (voir notamment dans le domaine
+judiciaire l’article de Reed C. Lawlor, avocat au barreau de Californie, de 1963 « What Computers
+Can Do: Analysis and Predictio n of Judicial Decisions »), l’engouement est retombé au début des
+années 1960. Les machines disposaient en effet de très peu de mémoire, rendant malaisé l’utilisation
+d’un langage informatique. On y retrouvait toutefois déjà certains fondements encore prés ents
+aujourd’hui comme les arbres de recherche de solution pour résoudre des problèmes: l’IPL,
+information processing language, avait permis ainsi d’écrire dès 1956 le programme LTM (logic
+theorist machine) qui visait démontrer des théorèmes mathématiqu es.
+Herbert Simon, économiste et sociologue, a eu beau prophétiser en 1957 que l’IA arriverait battre
+un humain aux échecs dans les 10 années qui suivraient, l’IA est entrée alors dans un premier hiver.
+La vision de Simon s’avérera pourtant juste… 30 ann ées plus tard.
+
+1980 -1990: Les systèmes experts
+En 1968 Stanley Kubrick réalisera le film « 2001 l’Odyssée de l’espace » où un ordinateur – HAL
+9000 (distant que d’une seule lettre de celles d’IBM) résume en lui -même to ute la somme de questions
+éthiques posées par l’IA: arrivée un haut niveau de sophistication, celle -ci représentera -t-elle un
+bien pour l’humanité ou un danger? L’impact du film ne sera naturellement pas scientifique mais il
+contribuera vulgariser le thème, tout comme l’auteur de science -fiction Philip K. Dick, qui ne
+cessera de s’interroger si, un jour, les machines éprouveront des émotions.
+C’est avec l’avènement des premiers microprocesseurs fin 1970 que l’IA reprend un nouvel essor et
+entre dans l ’âge d’or des systèmes experts.
+
+=== Page 3 ===
+
+La voie avait été en réalité ouverte au MIT dès 1965 avec DENDRAL (système expert spécialisé dans
+la chimie moléculaire) et l’université de Stanford en 1972 avec MYCIN (système spécialisé dans le
+diagnostic des maladies du sang et la prescription de médicaments). Ces systèmes s’appuyaient sur
+un « moteur d’inférence », qui était programmé pour être un miroir logique d’un raisonnement
+humain. En entrant des données, le moteur fournissait ainsi des réponses d’un haut niveau d ’expertise.
+Les promesses laissaient envisager un développement massif mais l’engouement retombera nouveau fin 1980, début 1990. La programmation de telles connaissances demandait en réalité
+beaucoup d’efforts et partir de 200 300 règles, il y avait un effet « boîte noire » où l’on ne savait
+plus bien comment la machine raisonnait. La mise au point et la maintenance devenaient ainsi
+extrêmement problématiques et – surtout – on arrivait faire plus vite et aussi bien d’autres manières
+moins complexes, moins chères. Il faut rappeler que dans les années 1990, le terme d’intelligence
+artificielle était presque devenu tabou et des déclinaisons plus pudiques étaient même entrées dans le
+langage universitaire, comme « informatique avancée ».
+Le succès en mai 1997 de Deep Blue (système expert d’IBM) au jeu d’échec contre Garry Kasparov
+concrétisera 30 ans plus tard la prophétie de 1957 d’Herbert Simon mais ne permettra pas de soutenir
+les financements et les développements de cette forme d’IA. Le fonctionnemen t de Deep Blue
+s’appuyait en effet sur un algorithme systématique de force brute, où tous les coups envisageables
+étaient évalués et pondérés. La défaite de l’humain est restée très symbolique dans l’histoire mais
+Deep Blue n’était en réalité parvenu ne traiter qu’un périmètre très limité (celui des règles du jeu
+d’échec), très loin de la capacité modéliser la complexité du monde.
+
+Depuis 2010: un nouvel essor partir des données massives et d’une nouvelle puissance de
+calcul
+Deux facteurs expliquent le nouvel essor de la discipline aux alentours de 2010.
+- L’accès tout d’abord des volumes massifs des données. Pour pouvoir utiliser des algorithmes de
+classification d’image et de reconnaissance d’un chat par exemple, il fallait auparavant réaliser soi -
+même un échantillonnage. Aujourd’hui, une simple recherche sur Google permet d’en trouver des
+millions.
+- Ensuite la découverte de la très grande efficacité des processeurs de cartes graphiques des
+ordinateurs pour accél érer le calcul des algorithmes d’apprentissage. Le processus étant très itératif,
+cela pouvait prendre des semaines avant 2010 pour traiter l’intégralité d’un échantillonnage. La
+puissance de calcul de ces cartes, (capables de plus de mille milliards d’opé rations par seconde) a
+permis un progrès considérable pour un coût financier restreint (moins de 1000 euros la carte).
+Ce nouvel attirail technologique a permis quelques succès publics significatifs et a relancé les
+financements: en 2011, Watson, l’IA d’IBM, remportera les parties contre 2 champions du «
+Jeopardy! ». En 2012, Google X (laboratoire de recherche de Google) arrivera faire reconnaître une IA des chats sur une vidéo. Pl us de 16 000 processeurs ont été utilisés pour cette dernière tâche,
+mais le potentiel est alors extraordinaire: une machine arrive apprendre distinguer quelque chose.
+En 2016, AlphaGO (IA de Google spécialisée dans le jeu de Go) battra le champion d’ Europe (Fan
+Hui) et le champion du monde (Lee Sedol) puis elle -même (AlphaGo Zero). Précisons que le jeu de
+Go a une combinatoire bien plus importante que les échecs (plus que le nombre de particules dans
+l’univers) et qu’il n’est pas possible d’avoir des résultats aussi significatifs en force brute (comme
+pour Deep Blue en 1997).
+
+=== Page 4 ===
+
+D’où vient ce miracle? D’un changement complet de paradigme par rapport aux systèmes experts.
+L’approche est devenue inductive: il ne s’agit plus de coder les règles comme pour les systèmes
+experts, mais de laisser les ordinateurs les découvrir seuls par corrélation et classification, sur la base
+d’une quantité massive de données.
+Parmi les techniques d’apprentissage machine (machine learning), c’est celle de l’apprentissage
+profond (deep learning) qui paraît la plus prometteuse pour un certain nombre d’application (dont la
+reconnaissance de voix ou d’images). Dès 2003, Geoffrey Hinton (de l’Université de Toronto),
+Yoshua Bengio (de l’Université de Montréal) et Yann LeCun (de l’Un iversité de New York) avaient
+décidé de démarrer un programme de recherche pour remettre au goût du jour les réseaux neuronaux.
+Des expériences menées simultanément Microsoft, Google et IBM avec l’aide du laboratoire de
+Toronto de Hinton ont alors démont ré que ce type d’apprentissage parvenait diminuer de moitié les
+taux d’erreurs pour la reconnaissance vocale. Des résultats similaires ont été atteints par l’équipe de
+Hinton pour la reconnaissance d’image.
+Du jour au lendemain, une grande majorité des é quipes de recherche se sont tournées vers cette
+technologie aux apports incontestables. Ce type d’apprentissage a aussi permis des progrès
+considérables pour la reconnaissance de texte, mais, d’après les experts comme Yann LeCun, il ya
+encore beaucoup de chemin parcourir pour produire des systèmes de compréhension de texte. Les
+agents conversationnels illustrent bien ce défi: nos smartphones savent déjà retranscrire une
+instruction mais ne parviennent pas la contextualiser pleinement et analyser nos i ntentions.
+Source: https://www. coe. int/fr/web/artificial -intelligence/history -of-ai

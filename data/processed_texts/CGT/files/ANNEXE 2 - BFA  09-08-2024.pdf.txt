@@ -1,0 +1,106 @@
+=== Page 1 ===
+
+NNI: Département de Travail: 33
+D. Naissance: Commune de Travail: PAUILLAC
+Prénom-Nom:
+GAIN Annuel 1ère
+année
+Commentaires
+Emploi: Emploi:
+Plage M3E: Plage M3E:
+GF: GF:
+NR: NR:
+Echelon: Echelon: 0
+Majoration Résidentielle: Majoration Résidentielle: 24,0%
+Indemn. Comp. de Résidence: - €
+Type de Temps de travail: Type de Temps de travail: 0
+Durée hebdomadaire: Durée hebdomadaire: 0
+Salaire de base brut annuel: #N/A Salaire de base brut annuel: #N/A
+ARTT: #N/A ARTT: #N/A
+Salaire brut annuel: #N/A Salaire brut annuel: #N/A #N/A
+RPCC: RPCC: - €
+RPCM: RPCM: - €
+RCTD: RCTD: - €
+PVA: PVA: - €
+Autre: Autre: - €
+MIPPE encouragée: - € - €
+MIPPE prioritaire: - € - €
+PIF 1 mois: - € - €
+Prime mobilité fonctionnelle: - € - €
+Prime de Reconversion: - € - €
+Prime d'adaptation: - € - €
+Prestation recherche d'emploi:
+Salaire mensuel du conjoint: Indemnité annuelle (Max SNB): - €
+Article 30: #N/A #N/A
+Composition du foyer: Sans enfant
+Capital Attractivité Mobilité Total: #N/A #N/A
+Type de Mobilité: Naturelle *1
+AIL/ANL 12 derniers mois: - € - €
+ICFS: ICFS: - € - €
+Prise ou Maintien de l'astreinte: ( ou Permanence Dir)
+IZHA annuelle: IZHA annuelle: - € - €
+MSD IdF: 0 IZHA
+Indemnité Astreinte annuelle: Indemnité Astreinte annuelle: - € - €
+Sous réserve du roulement réel
+Prime de perte d'astreinte: - € - €
+Durée de prise d'astreinte: Plus de 2 ans
+Prime de perte d'astreinte: - € - €
+Indemnité S. Continus 10%:
+Indemnité S. Continus 40%: Prime de perte des SC: - € - €
+Indemnité S. Continus 50%: Durée de prise des SC: Moins d'un an
+Durée totale de prise des SC: + Sortie de quart définitive: - €
+= Indemnisation totale SC: - €
+Prise ou Maintien des SC:
+Indemnité SC 10%: - € - €
+Indemnité SC 40%: - € - €
+Indemnité SC 50%: - € - €
+09/08/2024Bilan total annuel
+1ère année#N/A
+Le bilan financier est un outil d'aide la décision pour les salariés. Les informations sont données sous réserve que les conditions d’éligibilité, prises comme hypothèses au moment du bilan
+financier, se concrétisent et soient vérifiées. Il appartient au salarié de vérifier ces informations et de signaler toute anomalie, incompréhension ou ambigüité l’émetteur. Une fois transmis au
+salarié, le bilan financier est réputé accepté par le salarié sauf désaccord écrit de sa part sous 8 jours. Dans l’hypothèse où des données fournies par le salarié et prises en
+considération dans le calcul s’avèreraient fausses ou non assorties des justificatifs nécessaires, ce bilan deviendrait automatiquement caduc.
+Le Bilan Financier ne vaut pas décision de nomination.
+Conformément la loi n°78-17 du 6 janvier 1978 modifiée et au règlement (UE) n°2016/679 du 27 avril 2016, les informations recueillies sont enregistrées dans un fichier informatisé par ENEDIS en sa qualité de responsable de traitement dans le cadre de votre contrat de travail. Elles
+sont conservées a minima pendant la durée du contrat de travail et conformément aux durées fixées par l’arrêté du 21 décembre 2001 relatif la composition du dossier individuel des agents publics et sont destinées la Mission RH de l'unité qui a publié l'emploi sur lequel vous vous
+êtes porté candidat. Vous pouvez exercer votre droit d'accès, de rectification, d’opposition et d’effacement pour des motifs légitimes et vous bénéficiez d’un droit la limitation du traitement et la portabilité aux données caractère personnel vous concernant. Vous pouvez exercer vos
+droits auprès de la Mission RH de l'unité qui a publié l'emploi sur lequel vous vous êtes porté candidat. Votre demande sera accompagné de votre nom et prénom, votre adresse actuelle et d’une pièce justificative d’identité.
+Conformément la loi « informatique et libertés », vous disposez de la faculté d’introduire une réclamation auprès de la CNIL. Attractivité / MobilitéPerte
+d'emploiAstreinte Services ContinusNombre d'enfants justifier. Le CAM est conditionné un logement situé 45 minutes MAX du lieu
+de travail, porte porte, et sur la ZHA en cas d'astreinteAide la recherche d'un emploi pour le conjoint
+Perte d'astreinte:
+Perte de SC: Choix du CAM
+Vous avez un prêt bonifié et ne venez pas du Groupe EDF? Votre
+mutation Enedis entraîne la débonification de votre prêt.
+Sortie d'astr. la demande du Manager (Capital): Cette situation ne tient pas compte
+des éventuelles mesures salariales
+qui pourraient être décidées
+ultérieurement. Merci de saisir les informationsVersion 5.2. h du 01/08/24Primes Mobilité Part Variable Salaire FixeSituation APRES Situation AVANT
+Mesures exceptionnelles
+ou d'accompagnement
+des réorganisationsMerci de saisir les informations
+Edité par PIERRE LHOMME pour la DIRECTION SERVICES SUPPORTS
+① Montants non
+contractuels.
+② Sous réserve de
+l'évaluation de la
+performance attendue.
+① La prime de perte d'astreinte est une estimation. ②
+Elle sera recalculée par le CT la mutation: si ce
+montant est plus favorable, il sera retenu et versé. Sinon,
+cette estimation du BFA sera retenue.
+① La prime de perte de SC est une estimation.
+② Elle sera recalculée par le CT la mutation: si ce
+montant est plus favorable, il sera retenu et versé. Sinon,
+cette estimation du BFA sera retenue. Base de données du
+01/08/23 au 31/07/24
+Grille Salaires 01/01/24
+Impôts: Le taux non
+personnalisé s’applique sur
+les 2 premiers mois après
+mutation ou embauche en
+cas de changement
+d’employeur: EDF vers
+Enedis, GRDF vers
+Enedis…
+Mon Bilan Financier

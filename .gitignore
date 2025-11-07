@@ -1,21 +1,12 @@
+# Data
+data/raw/
 
 # ChromaDB local storage
 chroma_db_local/
-chroma_db_local_backup/
-*.sqlite3
-*.bin
-*.pickle
 
-code/tests/
-benchmark_results.txt
-code/base_test/DATA_Test/
-code/test_texts
-code/processed_texts
+#Tests
+tests/
 
-code/__pycache__/
-
-# Données sources
-code/base_test/base_test_cgt/Domaine*/
-Domaine*/
+src/rag/__pycache__/
 
 models/

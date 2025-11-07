@@ -1,0 +1,79 @@
+=== Page 1 ===
+
+ELECTRICITE DE FRANCE GAZ DE FRANCE
+N. 99-10
+
+
+PERS. 970
+
+
+DIRECTION DU PERSONNEL
+ET DES RELATIONS SOCIALES
+
+
+29 octobre 1999
+Diffusion
+Générale
+
+
+Objet: Modification du dispositif de calcul des rémunérations complémentaires
+
+
+L'accord du 25 janvier 1999, signé EDF et Gaz de Fr ance, "articule la réduction du temps de travail
+de tous, la création d'un maximum d'emplois compatibles avec les objectifs de compétitivité, la modernisation des entreprises, l'optimisation de l'outil de travail, l'amélioration de la qualité et de la
+disponibilité des services aux clients. Il apporte aux agents et aux entreprises des bénéfices équilibrés,
+par une contribution partagée".
+En particulier, cet accord organise la réducti on du temps de travail 35 heures avec maintien du
+salaire. Il précise notamment dans son paragraphe 1.4 relatif aux "rémunérations complémentaires":
+"Une répartition simplifiée et plus équitable des rémunérations complémentaires fera l'objet de
+discussions avec les partenaires sociaux, dès la signature du présent accord. A cette occasion,
+différentes formules pourront être examinées. A défaut d'une conclusion avant le 1
+er octobre 1999, les
+rémunérations complémentaires aujourd'hui calcul ées sur la base du taux horaire seront exprimées en
+pourcentage du salaire mensuel (àl'exception des heures supplémentaires) et les textes réglementaires concernés (visés l’annexe 2) seront adaptés en ce sens".
+L'objectif de cette circulaire PERS. est d'adapter les textes réglementaires concernés pour leurs
+dispositions qui déterminent les modalités de calcul des indemnités liées au taux horaire:
+• les bases actuelles d'existence et de paiement des rémunérations complémentaires calculées
+sur un taux horaire sont maintenues,
+• l'effet mécanique de la hausse du taux horaire entraînée par la réduction du temps de travail
+avec maintien du salaire est neutralisé.
+Les heures indemnisées considérées sont rémunérées pa r application d'un coefficient la rémunération
+mensuelle brute temps plein.
+
+Après avis de la Commission Supérieure Nationale du Personnel, le dispositif technique de calcul des
+indemnités, basées précédemment sur un taux horaire, est modifié comme suit pour toutes les
+
+=== Page 2 ===
+
+circulaires PERS. concernées et pour chacune des indemnités calculées sur la base du taux horaire qui
+y figurent:
+• abandon de la référence au "taux horaire de ré férence" remplacée par la référence "rémunération
+mensuelle brute temps plein",
+• abandon du "taux spécifique" prévu dans chaque circulaire PERS. remplacé par un "coefficient
+spécifique" égal au résultat de la division de ce taux spécifique par 164,67.
+La formule générale de calcul des indemnités versées
+• pour N heures effectuées,
+• pour une "référence salariale" RS considérée (il peut s'agir suivant l'indemnité concernée de
+la "rémunération brute temps plein" du classemen t de l'agent, de la "rémunération brute temps plein" l'échelon 1 du classement de l'agen t, d'une "rémunération brute temps plein"
+plancher, etc.),
+• pour un "taux spécifique" TS défini dans la circulaire PERS. concernée (et donc un
+"coefficient spécifique" CS égal TS / 164,67),
+était précédemment la suivante:
+I = N * (RS / 164,67)* TS.
+Elle est remplacée par la formule générale de calcul des indemnités suivante:
+I = N * RS * CS = N * RS * (TS / 164,67).
+Le dispositif de calcul ci-dessus se substitue aux di spositions des circulaires PERS. suivantes:
+• PERS. 749 (à ce titre, il complète ou modifie les PERS. 537, 575, 663 et 664),
+• PERS. 530 (à ce titre, il complète ou modifie les PERS. 194, 472, 557, 849 et 937),
+• PERS. 939 (à ce titre, il complète ou modifie les PERS. 805 et 810),
+• PERS. 610,
+• PERS. 691.
+La présente circulaire prend e ffet compter du 1er octobre 1999.
+
+Le Président
+d'ELECTRICITE DE FRANCE
+
+François ROUSSELY Le Président
+de GAZ DE FRANCE
+
+Pierre GADONNEIX

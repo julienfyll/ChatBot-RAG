@@ -1,0 +1,65 @@
+=== Page 1 ===
+
+PERSONNEL ENSEIGNANT page 1 ii A
+(CLASSEMENT DES FONCTIONS) ès Ne
+CHAPITRE 191
+1- PERSONNEL ENSEIGNANT
+11-Professeurs
+- (Pers. 760) Professeur de techniques opératoires (fonction de technicité) (G. F.9)
+- (Pers. 760) Professeur de techniques d'installations (fonction de technicité) (G. F. 10)
+- (Pers. 760) Professeur d'enseignement général et/ou de techniques générales (G. F. 12)
+12 -Chef d'atelier
+- (Pers. 760) (G. F. 12)
+13 - Chef de section d'enseignement
+- (Pers. 760) (G. F. 13)
+2- AUTRES CATEGORIES DE FORMATEURS
+21-Attaché au chef des services technique et pédagogique
+- (Pers. 761) (G. F. 13)
+22 -Formateurs de formateurs
+- (Pers. 761) Cadre formateur ler degé(G. F.13)
+- (Pers. 761) Cadre formateur 2ème degré (G. F.15)
+- (Pers. 761) Cadre d'intervention pédagogique (G. F.13)
+(Pers. 761) Chef de service d'intervention pédagogique (G. F.15)
+23 - Personnel socio-éducatif
+- (Pers. 761) Animateur socio-culturel (fonction de technicité) (G. F.9)
+- (Pers. 761) Conseiller d'éducation (G. F. 12)
+
+=== Page 2 ===
+
+ENSEMBLE ELECTRONIQUE DE GESTION Page 1 DRE
+(CLASSEMENT DES FONCTIONS) aa |
+CHAPITRE 192 8
+1- ANALYSTES
+- (41170) Analyste (G. F. 15)
+- (A1170) Analyste 2ème échelon (G. F.13) 9
+- (41170) Analyste ler échelon - Analyste programmeur (G. F. 12)
+2- PROGRAMMEUR (fonction de technicité)
+- (A 1170 et Pers. 694) (G. F. 9 et 10)
+3- CHEF DE POSTE
+- (A1170) (G. F. 12)
+4- OPERATEUR PUPITRE SUR ENSEMBLE ELECTRONIQUE (fonction mixte)
+- (A 1170 et Pers. 694) (G. F. 10)
+5- CHEF DE GROUPE OPERATEUR - AIDE PUPITREUR (fonction mixte)
+- (Pers. 647 et Pers. 694) (G. F. 9)
+6- OPERATEUR MANIPULANT
+- (A 1170 et Pers. 694) Opérateur manipulant sur ensemble électronique (fonction de M
+technicité)
+- 2ème échelon (G. F.8)
+- leréchelon(G. F.7)
+- débutant (G. F.3)
+7- CONDUCTEURS SUR MACHINES AUXILIAIRES DU TRAITEMENT ELECTRO:
+NIQUE DE L'INFORMATION
+- (Pers. 603) Conducteur sur machines auxiliaires du traitement électronique de
+l'information ou Conducteur principal sur machines auxiliaires du traitement
+électronique de l'information (GE. 3)
+
+=== Page 3 ===
+
+| ENSEMBLE ELECTRONIQUE DE GESTION Page 2 go
+| (CLASSEMENT DES FONCTIONS) pd 4.
+8- BIBLIOTHECAIRES DE SUPPORTS
+- (Pers. 647 et Pers. 694) Bibliothécaire de supports (fonction de technicité) (G. F.7)
+- (Pers. 647 et Pers. 694) Bibliothécaire principal de supports (fonction de technicité ou
+fonction mixte) (G. F.8)
+9- CHEF DE POSTE TERMINAL D'ORGANISME (fonction mixte)
+- (Pers. 647 et Pers. 694) (G. F.9)
