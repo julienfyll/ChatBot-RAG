@@ -18,9 +18,8 @@ class llm :
         )
         self.LLAMA_MODEL = model 
         
-        
-        self.conversation = [
-            {"role": "system", "content": "You are a helpfull assistant. / no_think"}] # message system
+        self.system_message = {"role": "system", "content": "You are a helpfull assistant. / no_think"}
+        self.conversation = [self.system_message] # message system
         return
 
     def prompt(self):
@@ -43,3 +42,12 @@ class llm :
             # On l'ajoute dans la conversation pour garder le contexte
         self.conversation.append({"role": "assistant", "content": reply})
         return reply 
+    
+    def reset_conversation(self):
+        """
+        Réinitialise l'historique de la conversation en conservant uniquement le message système.
+        Utile pour éviter de dépasser la limite de tokens du contexte.
+        """
+        self.conversation = [self.system_message]
+        print("💬 Conversation LLM réinitialisée")
+
