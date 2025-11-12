@@ -1,5 +1,10 @@
-import uuid
+import sys
 from pathlib import Path
+
+ROOT_DIR = Path(__file__).parent.parent  # Remonte de launchers/ à RAG_CGT/
+sys.path.insert(0, str(ROOT_DIR))
+
+import uuid
 import time
 import re
 from src.rag.config import ROOT_DATA_PATH

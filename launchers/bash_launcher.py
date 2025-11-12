@@ -1,5 +1,10 @@
-from src.rag import Rag
+import sys
 from pathlib import Path
+
+ROOT_DIR = Path(__file__).parent.parent  # Remonte de launchers/ à RAG_CGT/
+sys.path.insert(0, str(ROOT_DIR))
+
+from src.rag import Rag
 
 def select_collection_menu(rag_instance):
     """

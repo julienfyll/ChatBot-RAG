@@ -1,7 +1,6 @@
 import sys
 from pathlib import Path
 
-# ⚠️ AJOUTER CES 3 LIGNES EN PREMIER (avant tous les autres imports)
 ROOT_DIR = Path(__file__).parent.parent  # Remonte de launchers/ à RAG_CGT/
 sys.path.insert(0, str(ROOT_DIR))
 
