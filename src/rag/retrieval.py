@@ -303,6 +303,13 @@ class Retrieval :
 
     
     def query(self, query, n):
+
+        if self.chroma_storage.collection is None:
+            raise RuntimeError(
+                "Aucune collection active. "
+                "Utilisez manage_collections.py pour charger une collection "
+                "ou lancez d'abord la vectorisation."
+            )
   
         try:
             # Adapter le modèle à la collection active

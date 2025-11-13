@@ -24,7 +24,7 @@ def add_collection_interactive(client):
     print(" CRÉATION D'UNE NOUVELLE COLLECTION")
     print("=" * 100)
     
-    # Instance retrival
+    # Instance retrieval
     r = Retrieval()
     
     # 1. Afficher les collections existantes
@@ -112,7 +112,7 @@ def add_collection_interactive(client):
     
     # 4. Demander le chemin source
     print("\n Source des documents :")
-    chemin_source = input("   Chemin vers le dossier (ex: base_test/DATA_Test) : ").strip()
+    chemin_source = input("   Chemin vers le dossier (ex: data/raw/DATA_Test) : ").strip()
     
     if not chemin_source:
         print(" Chemin invalide")
@@ -307,10 +307,10 @@ def rename_collection(old_name: str, new_name: str, client) -> bool:
         print(f" Erreur suppression : {e}")
         return False
 
-def add_documents_to_collection_interactive(r: retrival, client):
+def add_documents_to_collection_interactive(r: Retrieval, client):
     """
     Menu interactif pour ajouter de nouveaux documents à une collection existante.
-    Délègue la logique métier à la classe retrival.
+    Délègue la logique métier à la classe retrieval.
     """
     print("\n" + "=" * 100)
     print(" AJOUT DE DOCUMENTS À UNE COLLECTION EXISTANTE")
@@ -512,7 +512,7 @@ def delete_source_interactive(client):
     print(" SUPPRESSION DE DOCUMENTS SOURCES")
     print("=" * 100)
     
-    r = retrival()
+    r = Retrieval()
 
    # 1. Lister les collections disponibles
     collections = r.chroma_storage.list_collection_names()     
@@ -688,8 +688,8 @@ def batch_create_collections(client):
     print("\nCe module vous permet de créer plusieurs collections successivement")
     print("avec des paramètres différents pour chaque collection.\n")
     
-    # Instance retrival
-    r = retrival()
+    # Instance retrieval
+    r = Retrieval()
     
     # ===== ÉTAPE 1 : DEMANDER LE NOMBRE DE COLLECTIONS =====
     print("=" * 100)
@@ -737,8 +737,8 @@ def batch_create_collections(client):
         # ----- Source -----
         print(f"\n Base de données source pour '{nom_collection}' :")
         print("   Exemples :")
-        print("   • code/base_test/DATA_Test")
-        print("   • code/base_test/DATA_Production")
+        print("   • data/raw/DATA_Test")
+        print("   • data/raw/DATA_Production")
         
         source_folder = input("\n   Chemin : ").strip()
         
@@ -941,7 +941,7 @@ def batch_create_collections(client):
     input("\nAppuyez sur Entrée pour revenir au menu principal...")
 
 
-def manage_cache_menu(r: retrival):
+def manage_cache_menu(r: Retrieval):
     """Menu interactif pour gérer le cache des documents."""
     while True:
         print("\n" + "=" * 100)
@@ -956,7 +956,7 @@ def manage_cache_menu(r: retrival):
         choix = input("\nVotre choix (1-5) : ").strip()
 
         if choix == '1':
-            # Appel de la méthode list_cache via l'instance de retrival
+            # Appel de la méthode list_cache via l'instance de retrieval
             r.document_processor.list_cache()
 
         elif choix == '2':
@@ -994,7 +994,7 @@ def manage_collections():
     - Permet de renommer une collection (pseudo-renommage)
     """
     
-    r = retrival()
+    r = Retrieval()
     client = r.chroma_storage.chroma_client
     
     while True:

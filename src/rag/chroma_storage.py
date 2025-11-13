@@ -23,11 +23,8 @@ class ChromaStorage:
         self.persist_directory = persist_directory
         self.chroma_client = chromadb.PersistentClient(path=persist_directory)
 
-        self.collection_name = "documents_sensibles"
-        self.collection = self.chroma_client.get_or_create_collection(
-            name=self.collection_name,
-            metadata={"description": "Documents sensibles - stockage local seulement"}
-        )
+        self.collection_name = None
+        self.collection = None
     
     def switch_collection(self, collection_name: str):
         """
@@ -327,8 +324,7 @@ class ChromaStorage:
         
         # Trier pour un affichage cohérent
         sources_summary.sort(key=lambda x: (-x['nb_chunks'], x['filename']))
-        # --- Fin de la logique déplacée ---
-
+        
         # Construire le dictionnaire de statistiques final
         stats = {
             'total_documents': count,
@@ -392,7 +388,7 @@ class ChromaStorage:
         ids_to_update, metadatas_to_update = [], []
         total_modified_count = 0
         
-        # NOUVEAU : Définir une taille de lot
+        #  Définir une taille de lot
         batch_size = 1000
         
         for i in range(len(data['ids'])):
@@ -413,7 +409,7 @@ class ChromaStorage:
                     ids_to_update.append(doc_id)
                     metadatas_to_update.append(new_metadata)
 
-                    # NOUVEAU : Si le lot est plein, on l'envoie et on vide les listes
+                    #  Si le lot est plein, on l'envoie et on vide les listes
                     if len(ids_to_update) >= batch_size:
                         print(f"  Traitement d'un lot de {len(ids_to_update)} documents...")
                         self.collection.update(ids=ids_to_update, metadatas=metadatas_to_update)
@@ -423,7 +419,7 @@ class ChromaStorage:
             except ValueError:
                 continue
 
-        # NOUVEAU : Traiter le dernier lot s'il en reste
+        # Traiter le dernier lot s'il en reste
         if ids_to_update:
             print(f"  Traitement du dernier lot de {len(ids_to_update)} documents...")
             self.collection.update(ids=ids_to_update, metadatas=metadatas_to_update)

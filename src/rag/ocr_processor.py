@@ -95,62 +95,50 @@ class PDFOCRProcessor:
             print(f" Erreur lors de la lecture du PDF : {e}")
             return True
 
-    def extract_text_and_post_process(self, pdf_path: str, output_dir: str = 'code/test_texts/test_post_treat', output_filename: Optional[str] = None) -> str:
+    def extract_text_and_post_process(self, pdf_path: str) -> str:
         """
         Extrait le texte d'un PDF avec PyPDF2 et applique le post-traitement
         """
+
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"Le fichier {pdf_path} n'existe pas")
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
-            print(f"Dossier créé : {output_dir}")
+     
         print(f"Extraction du texte depuis le PDF (PyPDF2)...")
         full_text = ""
+
         try:
             with open(pdf_path, 'rb') as file:
+
                 pdf_reader = PyPDF2.PdfReader(file)
                 total_pages = len(pdf_reader.pages)
                 print(f"Nombre de pages : {total_pages}")
+
                 for page_num in range(total_pages):
+
                     print(f"Extraction page {page_num + 1}/{total_pages}...")
                     page = pdf_reader.pages[page_num]
                     page_text = page.extract_text()
+
                     if page_text.strip():
                         full_text += f"\n=== Page {page_num + 1} ===\n\n{page_text}\n"
+
         except Exception as e:
             print(f" Erreur lors de l'extraction : {e}")
             raise
+
         if not full_text.strip():
             print("  Aucun texte extractible trouvé dans le PDF")
             return None
+        
         print(f"✓ Texte extrait : {len(full_text)} caractères")
         print("Application du post-traitement...")
         cleaned_text = self.post_process_text(full_text)
-        if output_filename is None:
-            pdf_name = Path(pdf_path).stem
-            output_filename = f"{pdf_name}_extracted_pypdf2.txt"
-        if not output_filename.endswith('.txt'):
-            output_filename += '.txt'
-        output_path = os.path.join(output_dir, output_filename)
-        if os.path.exists(output_path):
-            base_name = output_filename.replace('.txt', '')
-            counter = 1
-            while os.path.exists(output_path):
-                output_filename = f"{base_name}_{counter}.txt"
-                output_path = os.path.join(output_dir, output_filename)
-                counter += 1
-            print(f"  Fichier existant, création de : {output_filename}")
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(cleaned_text)
-        lines_count = cleaned_text.count('\n') + 1
-        words_count = len(re.findall(r'\b\w+\b', cleaned_text))
-        print(f"\n✓ Fichier .txt sauvegardé : {output_path}")
+        
         print(f"  Caractères avant post-traitement : {len(full_text)}")
         print(f"  Caractères après post-traitement : {len(cleaned_text)}")
         print(f"  Réduction : {100 - (len(cleaned_text) / len(full_text) * 100):.1f}%")
-        print(f"  Lignes : {lines_count}")
-        print(f"  Mots : {words_count}")
-        return cleaned_text # Retourne le texte nettoyé au lieu du chemin
+
+        return cleaned_text 
 
     # --- STRUCTURE DE POST-TRAITEMENT ---
 
