@@ -58,7 +58,7 @@ def main():
             # Afficher les stats de la collection
             stats = rag_instance.retrival.get_stats()
             
-            st.metric(" Documents", stats['total_documents'])
+            st.metric(" Chunks", stats['total_documents'])
             st.metric(" Fichiers sources", stats['total_fichiers'])
             
             # Métadonnées de la collection
