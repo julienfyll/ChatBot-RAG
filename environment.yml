@@ -78,10 +78,10 @@ dependencies:
       - langchain-community>=0.0.1
 
       # === AJOUTS POUR LLMs LOCAUX === 
-      - llama-cpp-python
-      - sse-starlette
-      - starlette-context
-      - fastapi
-      - uvicorn
+      - llama-cpp-python == 0.3.16
+      - sse-starlette == 3.0.2
+      - starlette-context == 0.4.0
+      - fastapi == 0.120.2
+      - uvicorn == 0.38.0
 
-      - streamlit
+      - streamlit == 1.51.0
