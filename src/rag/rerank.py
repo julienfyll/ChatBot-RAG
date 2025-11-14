@@ -2,6 +2,7 @@ import re
 import numpy as np
 from typing import List, Dict, Any
 
+
 class Reranker:
     """
     Reranker simple et stable :
@@ -9,24 +10,30 @@ class Reranker:
     par une moyenne pondérée directe (sans normalisation).
     """
 
-    def __init__(self, enabled: bool = True , alpha: float = 0.2, method = "heuristic",
-                 jaccard_weight: float = 0.5, 
-                 density_weight: float = 0.3, 
-                 exact_weight: float = 0.2
-                 ):
+    def __init__(
+        self,
+        enabled: bool = True,
+        alpha: float = 0.2,
+        method="heuristic",
+        jaccard_weight: float = 0.5,
+        density_weight: float = 0.3,
+        exact_weight: float = 0.2,
+    ):
         """
         Args:
             enabled (bool): active/désactive le reranking.
             alpha (float): poids du score d'embedding (entre 0 et 1).
                            Exemple : 0.5 => pondération égale embedding / heuristique.
-                           
+
             method (str): méthode de scoring lexical à utiliser. Options :
-                          - "heuristic" : score heuristique combiné (par défaut)    
+                          - "heuristic" : score heuristique combiné (par défaut)
                             - "bm25" : score BM25 (non implémenté ici)
                             - "llm" : score basé sur un LLM (non implémenté ici)
         """
         if not 0.0 <= alpha <= 1.0:
-            raise ValueError(f"Le paramètre 'alpha' doit être compris entre 0.0 et 1.0, mais a reçu {alpha}")
+            raise ValueError(
+                f"Le paramètre 'alpha' doit être compris entre 0.0 et 1.0, mais a reçu {alpha}"
+            )
         self.enabled = enabled
         self.alpha = float(alpha)
         self.method = method
@@ -34,12 +41,13 @@ class Reranker:
         total_weight = jaccard_weight + density_weight + exact_weight
         if not np.isclose(total_weight, 1.0):
             # On utilise np.isclose pour gérer les imprécisions des floats
-            print(f"AVERTISSEMENT: La somme des poids heuristiques n'est pas égale à 1.0 (total={total_weight:.2f})")
+            print(
+                f"AVERTISSEMENT: La somme des poids heuristiques n'est pas égale à 1.0 (total={total_weight:.2f})"
+            )
 
         self.jaccard_weight = jaccard_weight
         self.density_weight = density_weight
         self.exact_weight = exact_weight
-
 
     # --- Fonctions internes de similarité heuristique ---
     def _normalize(self, text: str) -> str:
@@ -79,12 +87,16 @@ class Reranker:
 
     def _local_score_heuristic(self, q: str, passage: str) -> float:
         """Score heuristique global combinant plusieurs signaux lexicaux."""
-        return (self.jaccard_weight * self._score_kw_jaccard(q, passage)
-              + self.density_weight * self._score_density(q, passage)
-              + self.exact_weight * self._score_exact(q, passage))
+        return (
+            self.jaccard_weight * self._score_kw_jaccard(q, passage)
+            + self.density_weight * self._score_density(q, passage)
+            + self.exact_weight * self._score_exact(q, passage)
+        )
 
     # --- Fonction principale : réévaluation et tri des candidats ---
-    def rescore(self, query: str, candidates: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    def rescore(
+        self, query: str, candidates: List[Dict[str, Any]]
+    ) -> List[Dict[str, Any]]:
         """
         Recalcule un score final pour chaque passage.
         Combine la similarité sémantique (retrieval) et lexicale (heuristique).
@@ -101,7 +113,7 @@ class Reranker:
                 - "score_final"
             triés par score_final décroissant.
         """
-        
+
         if not self.enabled or len(candidates) <= 1:
             out = []
             for c in candidates:
@@ -111,8 +123,6 @@ class Reranker:
                 out.append(c2)
             out.sort(key=lambda x: x["score_final"], reverse=True)
             return out
-
-        
 
         rescored = []
         for c in candidates:
@@ -126,7 +136,7 @@ class Reranker:
                 score_loc = self._local_score_llm(query, c.get("batch", ""))
             else:
                 score_loc = 0.0
-            
+
             score_loc = score_loc / 2.0  # sur 0.5
 
             score_final = score_emb + score_loc  # somme = score total sur 1.0
@@ -137,5 +147,5 @@ class Reranker:
             rescored.append(c2)
 
         rescored.sort(key=lambda x: x["score_final"], reverse=True)
-        print( score_loc, score_emb, score_final)
+        print(score_loc, score_emb, score_final)
         return rescored
