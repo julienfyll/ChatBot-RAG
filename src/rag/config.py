@@ -5,10 +5,10 @@ from pathlib import Path
 # On part du principe que les scripts sont lancés depuis la racine du projet (RAG_CDL25/).
 
 # Chemin racine des données sources.
-ROOT_DATA_PATH = Path("code/base_test")
+ROOT_DATA_PATH = Path("data/raw")
 
 # Dossier où le cache des textes extraits sera stocké.
-PROCESSED_TEXTS_DIR = Path("processed_texts")
+PROCESSED_TEXTS_DIR = Path("data/processed_texts")
 
 # Dossier où la base de données ChromaDB est persistée.
 CHROMA_PERSIST_DIR = Path("chroma_db_local")

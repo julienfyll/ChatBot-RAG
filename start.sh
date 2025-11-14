@@ -16,7 +16,7 @@ OS="$(uname -s)"
 case "$OS" in
     Linux*)
         if [ -f /etc/debian_version ]; then
-            PACKAGES="libreoffice tesseract-ocr tesseract-ocr-fra wget"
+            PACKAGES="libreoffice tesseract-ocr tesseract-ocr-fra wget poppler-utils"
             for pkg in $PACKAGES; do
                 if ! dpkg -l | grep -q "ii  $pkg "; then
                     echo "Installation de $pkg..."

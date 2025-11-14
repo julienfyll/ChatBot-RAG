@@ -4,41 +4,38 @@ from .retrieval import Retrieval
 from pathlib import Path
 from .config import ROOT_DATA_PATH, CHROMA_PERSIST_DIR, DEFAULT_LLM_MODEL, LLM_BASE_URL
 
+
 class Rag:
-    # personnalisation des paramètres d'initialisation, les valeurs par défaut sont fournies 
+    # personnalisation des paramètres d'initialisation, les valeurs par défaut sont fournies
     # toutes les personnalisations sont à fournir lors de l'appel de la classe rag
-    def __init__(self, model = DEFAULT_LLM_MODEL, 
-                 base_url=LLM_BASE_URL,
-                 api_key="pas_de_clef"
-                 ):
-          
-          
-          
-         # Initialisation des composants LLM et Retrieval avec paramètres personnalisés        
+    def __init__(
+        self, model=DEFAULT_LLM_MODEL, base_url=LLM_BASE_URL, api_key="pas_de_clef"
+    ):
+        # Initialisation des composants LLM et Retrieval avec paramètres personnalisés
         self.model = model
-        self.base_url = base_url 
-        self.api_key = api_key  
+        self.base_url = base_url
+        self.api_key = api_key
         self.path_doc = ROOT_DATA_PATH
-        self.chroma_persist_dir = CHROMA_PERSIST_DIR    
-        
+        self.chroma_persist_dir = CHROMA_PERSIST_DIR
+
         try:
             # Construit le chemin vers le fichier de prompt de manière robuste
             prompt_path = Path(__file__).parent / "prompts" / "rag_template.txt"
             self.prompt_template = prompt_path.read_text(encoding="utf-8")
         except FileNotFoundError:
-            print("ERREUR : Le fichier de prompt 'prompts/rag_template.txt' est introuvable.")
+            print(
+                "ERREUR : Le fichier de prompt 'prompts/rag_template.txt' est introuvable."
+            )
             # Fournit un fallback simple pour que le programme ne plante pas
             self.prompt_template = "CONTEXTE:\n{context_concat}\n\nQUESTION:\n{query}"
-        
-        self.llm = LLM( model=self.model,
-                        base_url=self.base_url,
-                        api_key=self.api_key
-                        )
-        
-        self.retrival = Retrieval(path_doc=self.path_doc,
-                                 chroma_persist_dir=self.chroma_persist_dir,
-                                 )
-        
+
+        self.llm = LLM(model=self.model, base_url=self.base_url, api_key=self.api_key)
+
+        self.retrival = Retrieval(
+            path_doc=self.path_doc,
+            chroma_persist_dir=self.chroma_persist_dir,
+        )
+
         return
 
     def respond(self, query: str) -> str:
@@ -50,12 +47,18 @@ class Rag:
 
         # 2) Appel au retriever (avec les scores)
         try:
-            contextes, sources, scores = self.retrival.query(query, n=top_k) # top_k est le nombre de contextes à récupérer
+            contextes, sources, scores = self.retrival.query(
+                query, n=top_k
+            )  # top_k est le nombre de contextes à récupérer
         except FileNotFoundError:
             # Cas où la base vectorielle n'existe pas encore
-            print("La base documentaire n'est pas prête. Lance d'abord la vectorisation (update) pour créer la BDD.")
-            return ("La base documentaire n'est pas prête. "
-                    "Lance d'abord la vectorisation (update) pour créer la BDD.")
+            print(
+                "La base documentaire n'est pas prête. Lance d'abord la vectorisation (update) pour créer la BDD."
+            )
+            return (
+                "La base documentaire n'est pas prête. "
+                "Lance d'abord la vectorisation (update) pour créer la BDD."
+            )
         except Exception as e:
             print(f"Une erreur est survenue pendant la recherche du contexte : {e}")
             return f"Une erreur est survenue pendant la recherche du contexte : {e}"
@@ -82,7 +85,7 @@ class Rag:
             return f"Une erreur est survenue pendant l'inférence du LLM : {e}"
 
         # 6) Affichage clair des sources + scores
-        
+
         sources_lines = []
         for i, (chemin, score) in enumerate(zip(sources, scores), start=1):
             if score is not None:
@@ -90,7 +93,9 @@ class Rag:
             else:
                 sources_lines.append(f"[{i}] {chemin}")
         if sources_lines:
-            reponse = f"{reponse}\n\nSources (Top-{len(sources_lines)}):\n" + "\n".join(sources_lines)
+            reponse = f"{reponse}\n\nSources (Top-{len(sources_lines)}):\n" + "\n".join(
+                sources_lines
+            )
 
         return reponse
 
