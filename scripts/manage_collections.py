@@ -1068,62 +1068,76 @@ def manage_collections():
         collections = r.chroma_storage.list_collection_names()
 
         if not collections:
-            print("\n Aucune collection trouvée dans ChromaDB")
-            print(
-                "   Utilisez 'add_new_domain.py' pour créer votre première collection."
-            )
-            break
+            print("\n ⚠️  Aucune collection trouvée dans ChromaDB.")
+            print("    La base de données est vide ou vient d'être réinitialisée.")
+            
+            print("\n Que voulez-vous faire ?")
+            print("   1. Créer ma première collection maintenant (Recommandé)")
+            print("   2. Accéder au menu avancé (Maintenance, Batch...)")
+            print("   3. Quitter")
+            
+            choix_vide = input("\nVotre choix (1-3) : ").strip()
+            
+            if choix_vide == "1":
+                add_collection_interactive(client)
+                continue  # On relance la boucle pour afficher la nouvelle collection
+            elif choix_vide == "3":
+                print("Au revoir !")
+                break
+            # Si choix 2, on laisse le code continuer vers le menu principal ci-dessous
+            pass
 
-        print(f"\n {len(collections)} collection(s) existante(s) :\n")
+        if collections:
+            print(f"\n {len(collections)} collection(s) existante(s) :\n")
 
-        # Afficher chaque collection avec ses stats
-        for col_name in collections:
-            col = client.get_collection(col_name)
-            count = col.count()
-            metadata = col.metadata
+            # Afficher chaque collection avec ses stats
+            for col_name in collections:
+                col = client.get_collection(col_name)
+                count = col.count()
+                metadata = col.metadata
 
-            # Récupérer les infos clés
-            chunk_size = metadata.get("chunk_size", "N/A")
-            overlap = metadata.get("overlap")
-            created_at = metadata.get("created_at", "N/A")
-            created_by = metadata.get("created_by", "N/A")
-            source_folder = metadata.get("source_folder", "N/A")
-            model_name = metadata.get("model", "N/A")
+                # Récupérer les infos clés
+                chunk_size = metadata.get("chunk_size", "N/A")
+                overlap = metadata.get("overlap")
+                created_at = metadata.get("created_at", "N/A")
+                created_by = metadata.get("created_by", "N/A")
+                source_folder = metadata.get("source_folder", "N/A")
+                model_name = metadata.get("model", "N/A")
 
-            # Affichage
-            print(f"   • {col_name}")
-            print(f"      Documents : {count}")
+                # Affichage
+                print(f"   • {col_name}")
+                print(f"      Documents : {count}")
 
-            if source_folder != "N/A":
-                print(f"      Source : {source_folder}")
+                if source_folder != "N/A":
+                    print(f"      Source : {source_folder}")
 
-            if model_name != "N/A":
-                model_short = {
-                    "Qwen/Qwen3-Embedding-0.6B": "Qwen3-Embedding-0.6B",
-                    "sentence-transformers/paraphrase-multilingual-mpnet-base-v2": "MPNet",
-                    "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2": "MiniLM",
-                }.get(model_name, model_name)  # Si inconnu, afficher le nom complet
+                if model_name != "N/A":
+                    model_short = {
+                        "Qwen/Qwen3-Embedding-0.6B": "Qwen3-Embedding-0.6B",
+                        "sentence-transformers/paraphrase-multilingual-mpnet-base-v2": "MPNet",
+                        "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2": "MiniLM",
+                    }.get(model_name, model_name)  # Si inconnu, afficher le nom complet
 
-                print(f"      Modèle : {model_short}")
+                    print(f"      Modèle : {model_short}")
 
-            if chunk_size != "N/A":
-                overlap_str = f"{overlap} caractères" if overlap else "N/A"
-                print(
-                    f"      Paramètres : {chunk_size} caractères, {overlap_str} overlap"
-                )
+                if chunk_size != "N/A":
+                    overlap_str = f"{overlap} caractères" if overlap else "N/A"
+                    print(
+                        f"      Paramètres : {chunk_size} caractères, {overlap_str} overlap"
+                    )
 
-            if created_at != "N/A":
-                date_only = (
-                    str(created_at).split("T")[0]
-                    if "T" in str(created_at)
-                    else created_at
-                )
-                print(f"      Créée le : {date_only}")
+                if created_at != "N/A":
+                    date_only = (
+                        str(created_at).split("T")[0]
+                        if "T" in str(created_at)
+                        else created_at
+                    )
+                    print(f"      Créée le : {date_only}")
 
-            if created_by != "N/A":
-                print(f"      Créée par : {created_by}")
+                if created_by != "N/A":
+                    print(f"      Créée par : {created_by}")
 
-            print()
+                print()
 
         # Menu d'actions
         print("=" * 100)
