@@ -67,7 +67,7 @@ class Vectorizor:
 
             else:
                 # Autres modèles (BERT, MPNet, MiniLM, etc.)
-                model = SentenceTransformer(model_name, device="gpu")
+                model = SentenceTransformer(model_name, device="cuda")
 
             # Stocker dans le cache
             self._model_cache[model_name] = model
@@ -92,7 +92,7 @@ class Vectorizor:
             if model_name != fallback_model:
                 print(f"   → Fallback final vers {fallback_model}")
                 try:
-                    model = SentenceTransformer(fallback_model, device="gpu")
+                    model = SentenceTransformer(fallback_model, device="cuda")
                     self._model_cache[fallback_model] = model
                     self.model = model
                     self.model_name = fallback_model
