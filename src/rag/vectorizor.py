@@ -45,7 +45,7 @@ class Vectorizor:
                     model = SentenceTransformer(
                         model_name,
                         tokenizer_kwargs={"padding_side": "left"},
-                        device="cpu",
+                        device="cuda",
                         trust_remote_code=True,  #  CRUCIAL pour Qwen3
                     )
                 except Exception as qwen_error:
@@ -56,13 +56,18 @@ class Vectorizor:
                     fallback_model = (
                         "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
                     )
-                    model = SentenceTransformer(fallback_model, device="cpu")
+                    model = SentenceTransformer(fallback_model, device="cuda")
                     model_name = fallback_model  # Mettre à jour le nom
                     print(f" Fallback réussi : {fallback_model}")
 
+                    import torch
+                    print(f"🎮 GPU disponible : {torch.cuda.is_available()}")
+                    print(f"🎮 GPU utilisé : {next(model.parameters()).device}")
+
+
             else:
                 # Autres modèles (BERT, MPNet, MiniLM, etc.)
-                model = SentenceTransformer(model_name, device="cpu")
+                model = SentenceTransformer(model_name, device="cuda")
 
             # Stocker dans le cache
             self._model_cache[model_name] = model
@@ -70,6 +75,11 @@ class Vectorizor:
             self.model_name = model_name
 
             print(f" Modèle chargé : {model_name}")
+
+            import torch
+            print(f"🎮 GPU disponible : {torch.cuda.is_available()}")
+            print(f"🎮 GPU utilisé : {next(model.parameters()).device}")
+
 
         except Exception as e:
             print(f" ERREUR CRITIQUE lors du chargement de {model_name} : {e}")
@@ -82,7 +92,7 @@ class Vectorizor:
             if model_name != fallback_model:
                 print(f"   → Fallback final vers {fallback_model}")
                 try:
-                    model = SentenceTransformer(fallback_model, device="cpu")
+                    model = SentenceTransformer(fallback_model, device="cuda")
                     self._model_cache[fallback_model] = model
                     self.model = model
                     self.model_name = fallback_model

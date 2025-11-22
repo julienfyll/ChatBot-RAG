@@ -22,8 +22,8 @@ def select_collection_menu(rag_instance):
     print(" SÉLECTION DE LA COLLECTION À TESTER")
     print("=" * 100)
 
-    client = rag_instance.retrival.chroma_storage.chroma_client
-    collections = rag_instance.retrival.chroma_storage.list_collection_names()
+    client = rag_instance.retrieval.chroma_storage.chroma_client
+    collections = rag_instance.retrieval.chroma_storage.list_collection_names()
 
     if not collections:
         print("\n Aucune collection trouvée dans ChromaDB")
@@ -79,7 +79,7 @@ def select_collection_menu(rag_instance):
 
     # Traiter le choix
     if choix.lower() == "default":
-        default_collection = rag_instance.retrival.chroma_storage.collection_name
+        default_collection = rag_instance.retrieval.chroma_storage.collection_name
         print(f"\n Collection par défaut utilisée : {default_collection}")
         return default_collection
 
@@ -123,8 +123,8 @@ def test_complete():
     print("=" * 100)
 
     # Vérifier que ChromaDB a des collections
-    client = rag_instance.retrival.chroma_storage.chroma_client
-    collections = rag_instance.retrival.chroma_storage.list_collection_names()
+    client = rag_instance.retrieval.chroma_storage.chroma_client
+    collections = rag_instance.retrieval.chroma_storage.list_collection_names()
     if not collections:
         print(" Aucune collection ChromaDB trouvée")
         print("   Utilisez 'manage_collections.py' pour créer une collection")
@@ -152,16 +152,16 @@ def test_complete():
         return
 
     # Basculer vers la collection sélectionnée
-    rag_instance.retrival.chroma_storage.switch_collection(selected_collection)
+    rag_instance.retrieval.chroma_storage.switch_collection(selected_collection)
 
     # Afficher les statistiques de la collection
-    stats = rag_instance.retrival.get_stats()
+    stats = rag_instance.retrieval.get_stats()
     print(f"\n Statistiques de '{selected_collection}' :")
     print(f"   • Total documents : {stats['total_documents']}")
     print(f"   • Total fichiers : {stats['total_fichiers']}")
 
     # Afficher les métadonnées si disponibles
-    collection = rag_instance.retrival.chroma_storage.collection
+    collection = rag_instance.retrieval.chroma_storage.collection
     metadata = collection.metadata
 
     if metadata.get("chunk_size"):

@@ -1,12 +1,12 @@
 import sys
-from pathlib import Path
-from src.rag import Retrieval
 import time
 from typing import List, Dict, Any
-
+from pathlib import Path
 ROOT_DIR = Path(__file__).parent.parent  # Remonte de launchers/ à RAG_CGT/
 sys.path.insert(0, str(ROOT_DIR))
 
+
+from src.rag import Retrieval
 
 def get_collection_metadata(collection) -> Dict[str, Any]:
     """

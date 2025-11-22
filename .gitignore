@@ -12,3 +12,7 @@ scripts/__pycache__/
 launchers/__pycache__/
 
 models/
+
+archives/
+
+.env
