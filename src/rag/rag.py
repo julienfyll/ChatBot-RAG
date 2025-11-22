@@ -19,13 +19,12 @@ class Rag:
         self.chroma_persist_dir = CHROMA_PERSIST_DIR
 
         try:
-            # ✅ CORRECTION : Remonter de src/rag/ vers src/
             project_root = Path(__file__).parent.parent  # src/rag/ -> src/
             prompt_path = project_root / "prompts" / "rag_template.txt"
             self.prompt_template = prompt_path.read_text(encoding="utf-8")
             print(f"✓ Prompt chargé depuis : {prompt_path}")
         except FileNotFoundError:
-            print(f"❌ ERREUR : Le fichier de prompt '{prompt_path}' est introuvable.")
+            print(f" ERREUR : Le fichier de prompt '{prompt_path}' est introuvable.")
             self.prompt_template = "CONTEXTE:\n{context_concat}\n\nQUESTION:\n{query}"
 
         self.llm = LLM(model=self.model, base_url=self.base_url, api_key=self.api_key)
