@@ -5,7 +5,7 @@
       "api_key": "pas_de_clef",
       "paths": {
         "docs": "/app/data/raw",
-        "emb": "/app/data/processed_texts",
+        "cache": "/app/data/processed_texts",
         "chroma_dir": "/app/chroma_db_local"
       },
       "retrieval": {
