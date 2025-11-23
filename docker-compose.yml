@@ -1,0 +1,39 @@
+services:
+  rag-backend:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag_container
+    ports:
+      - "8001:8000"  # Port hôte 8001 -> Port conteneur 8000
+    volumes:
+      # Montage de la config
+      - ./config.json:/app/config.json
+      
+      # Montage des données (IMPORTANT : adapte le chemin gauche à ton PC)
+      # Ici je suppose que tu as un dossier 'data' à la racine de ton projet
+      - ./data/raw:/app/data/raw
+      
+      # Persistance de ChromaDB
+      - ./chroma_db_local:/app/chroma_db_local
+      
+      # Persistance du cache OCR (pour ne pas refaire l'OCR à chaque reboot)
+      - ./data/processed_texts:/app/data/processed_texts
+
+      - ./scripts:/app/scripts
+      
+    extra_hosts:
+      - "host.docker.internal:host-gateway" # Permet au conteneur de voir ton LLM local (Linux)
+    environment:
+      - PYTHONUNBUFFERED=1
+      # Ces variables aident parfois PyTorch à trouver le driver
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
