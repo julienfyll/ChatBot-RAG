@@ -1,15 +1,12 @@
 import httpx
 from openai import OpenAI
-# 1. On importe les variables centralisées depuis ton fichier config.py
-from .config import LLM_BASE_URL, DEFAULT_LLM_MODEL
 
 class LLM:
     def __init__(
         self,
-        # 2. On utilise les constantes du config.py comme valeurs par défaut
-        model=DEFAULT_LLM_MODEL,
-        base_url=LLM_BASE_URL,
-        api_key="pas_de_clef",
+        model: str = "Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf",
+        base_url: str = "http://127.0.0.1:8080/v1",
+        api_key: str = "pas_de_clef",
     ):
         self.model_name = model
         self.base_url = base_url

@@ -9,21 +9,22 @@ import json
 from datetime import datetime
 import getpass
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from .config import PROCESSED_TEXTS_DIR, ROOT_DATA_PATH
 from .document_processor import DocumentProcessor
 
 
 class Retrieval:
     def __init__(
         self,
-        path_doc=ROOT_DATA_PATH,
+        path_doc=Path("data/raw"),
         chroma_persist_dir: str = "./chroma_db_local",
-        processed_texts_dir: str = PROCESSED_TEXTS_DIR,
+        processed_texts_dir: str = "data/processed_texts",
     ):
         self.vectorizor = Vectorizor()
         self.reranker = Reranker(enabled=True, alpha=0.5)  # moyenne pondérée 50/50
-        self.chroma_storage = ChromaStorage(persist_directory=chroma_persist_dir)
+
+        self.chroma_storage = ChromaStorage(persist_directory=str(chroma_persist_dir))
         self.path_doc = Path(path_doc)
+
         self.document_processor = DocumentProcessor(
             path_doc=self.path_doc, processed_texts_dir=Path(processed_texts_dir)
         )

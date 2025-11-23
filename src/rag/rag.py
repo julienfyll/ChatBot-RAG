@@ -2,21 +2,29 @@ import numpy as np
 from .llm import LLM
 from .retrieval import Retrieval
 from pathlib import Path
-from .config import ROOT_DATA_PATH, CHROMA_PERSIST_DIR, DEFAULT_LLM_MODEL, LLM_BASE_URL
 
 
 class Rag:
     # personnalisation des paramètres d'initialisation, les valeurs par défaut sont fournies
     # toutes les personnalisations sont à fournir lors de l'appel de la classe rag
     def __init__(
-        self, model=DEFAULT_LLM_MODEL, base_url=LLM_BASE_URL, api_key="pas_de_clef"
+        self, 
+        model="Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf", 
+        base_url="http://127.0.0.1:8080/v1", 
+        api_key="pas_de_clef",
+        # Valeurs par défaut locales
+        path_doc="data/raw",
+        chroma_persist_dir="./chroma_db_local",
+        processed_texts_dir="data/processed_texts"
     ):
         # Initialisation des composants LLM et Retrieval avec paramètres personnalisés
         self.model = model
         self.base_url = base_url
         self.api_key = api_key
-        self.path_doc = ROOT_DATA_PATH
-        self.chroma_persist_dir = CHROMA_PERSIST_DIR
+
+        self.path_doc = Path(path_doc)
+        self.chroma_persist_dir = Path(chroma_persist_dir)
+        self.processed_texts_dir = Path(processed_texts_dir)
 
         try:
             project_root = Path(__file__).parent.parent  # src/rag/ -> src/
@@ -32,6 +40,7 @@ class Rag:
         self.retrieval = Retrieval(
             path_doc=self.path_doc,
             chroma_persist_dir=self.chroma_persist_dir,
+            processed_texts_dir=self.processed_texts_dir,
         )
 
         return

@@ -10,7 +10,6 @@ from typing import List, Optional, Tuple
 
 from docx import Document
 from .ocr_processor import PDFOCRProcessor
-from .config import PROCESSED_TEXTS_DIR, ROOT_DATA_PATH
 
 
 class DocumentProcessor:
@@ -22,8 +21,8 @@ class DocumentProcessor:
 
     def __init__(
         self,
-        path_doc: Path = ROOT_DATA_PATH,
-        processed_texts_dir: Path = PROCESSED_TEXTS_DIR,
+        path_doc: Path = Path("data/raw"),
+        processed_texts_dir: Path = Path("data/processed_texts"),
     ):
         """
         Initialise le processeur de documents.
