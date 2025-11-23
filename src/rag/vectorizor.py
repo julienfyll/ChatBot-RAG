@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
-
+import torch
 
 class Vectorizor:
     def __init__(
@@ -18,8 +18,16 @@ class Vectorizor:
         self.model_name = model_name
         self.model = None
         self._model_cache = {}  # Cache des modèles chargés
+
+        if torch.cuda.is_available():
+            self.device = "cuda"
+            print(f" GPU détecté : {torch.cuda.get_device_name(0)}")
+        else:
+            self.device = "cpu"
+            print(" Aucun GPU détecté. Passage en mode CPU (plus lent).")
+
         self._load_model(model_name)
-        return
+        
 
     def _load_model(self, model_name: str):
         """
@@ -45,32 +53,25 @@ class Vectorizor:
                     model = SentenceTransformer(
                         model_name,
                         tokenizer_kwargs={"padding_side": "left"},
-                        device="cuda",
+                        device=self.device,
                         trust_remote_code=True,  #  CRUCIAL pour Qwen3
                     )
-                    model.half()  # Utilisation de la moitié de précision pour économiser la VRAM
+
                 except Exception as qwen_error:
                     print(f"  Impossible de charger Qwen : {qwen_error}")
-                    print("   → Fallback vers MPNet")
-
-                    # Fallback vers MPNet
-                    fallback_model = (
-                        "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
-                    )
-                    model = SentenceTransformer(fallback_model, device="cuda")
-                    model.half()  
-                    model_name = fallback_model  # Mettre à jour le nom
-                    print(f" Fallback réussi : {fallback_model}")
-
-                    import torch
-                    print(f"🎮 GPU disponible : {torch.cuda.is_available()}")
-                    print(f"🎮 GPU utilisé : {next(model.parameters()).device}")
-
+                    fallback = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+                    print(f"   → Fallback vers {fallback}")
+                    model = SentenceTransformer(fallback, device=self.device)
+                    model_name = fallback
 
             else:
                 # Autres modèles (BERT, MPNet, MiniLM, etc.)
-                model = SentenceTransformer(model_name, device="cuda")
-                model.half()  
+                model = SentenceTransformer(model_name, device=self.device)
+
+            # Optimisation FP16 uniquement si GPU
+            if self.device == "cuda":
+                print(" Passage en FP16 (Half Precision) pour économiser la VRAM")
+                model.half()
 
             # Stocker dans le cache
             self._model_cache[model_name] = model
@@ -78,11 +79,6 @@ class Vectorizor:
             self.model_name = model_name
 
             print(f" Modèle chargé : {model_name}")
-
-            import torch
-            print(f"🎮 GPU disponible : {torch.cuda.is_available()}")
-            print(f"🎮 GPU utilisé : {next(model.parameters()).device}")
-
 
         except Exception as e:
             print(f" ERREUR CRITIQUE lors du chargement de {model_name} : {e}")
@@ -95,12 +91,13 @@ class Vectorizor:
             if model_name != fallback_model:
                 print(f"   → Fallback final vers {fallback_model}")
                 try:
-                    model = SentenceTransformer(fallback_model, device="cuda")
-                    model.half()
+                    model = SentenceTransformer(fallback_model, device=self.device)
+                    if self.device == "cuda":
+                        model.half()
                     self._model_cache[fallback_model] = model
                     self.model = model
                     self.model_name = fallback_model
-                    print(f" Fallback final réussi")
+                    print(" Fallback final réussi")
                 except Exception as final_error:
                     print(f" FALLBACK ÉCHOUÉ : {final_error}")
                     raise RuntimeError("Impossible de charger un modèle d'embedding")
@@ -141,7 +138,7 @@ class Vectorizor:
         if required_model is None:
             print(f"\n  Métadonnées manquantes (model={original_model})")
             print(f"   → Conservation du modèle actuel : {self.model_name}")
-            print(f"    Conseil : Recréez cette collection avec manage_collections.py")
+            print("    Conseil : Recréez cette collection avec manage_collections.py")
             return  # Ne rien changer
 
         #  CAS 2 : Modèle identique, pas de rechargement
@@ -149,7 +146,7 @@ class Vectorizor:
             return  # Rien à faire
 
         #  CAS 3 : Changement nécessaire
-        print(f"\n Changement de modèle détecté :")
+        print("\n Changement de modèle détecté :")
         print(f"   Actuel : {self.model_name}")
         print(f"   Requis : {required_model}")
 
