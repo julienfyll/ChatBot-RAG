@@ -48,6 +48,7 @@ class Vectorizor:
                         device="cuda",
                         trust_remote_code=True,  #  CRUCIAL pour Qwen3
                     )
+                    model.half()  # Utilisation de la moitié de précision pour économiser la VRAM
                 except Exception as qwen_error:
                     print(f"  Impossible de charger Qwen : {qwen_error}")
                     print("   → Fallback vers MPNet")
@@ -57,6 +58,7 @@ class Vectorizor:
                         "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
                     )
                     model = SentenceTransformer(fallback_model, device="cuda")
+                    model.half()  
                     model_name = fallback_model  # Mettre à jour le nom
                     print(f" Fallback réussi : {fallback_model}")
 
@@ -68,6 +70,7 @@ class Vectorizor:
             else:
                 # Autres modèles (BERT, MPNet, MiniLM, etc.)
                 model = SentenceTransformer(model_name, device="cuda")
+                model.half()  
 
             # Stocker dans le cache
             self._model_cache[model_name] = model
@@ -93,6 +96,7 @@ class Vectorizor:
                 print(f"   → Fallback final vers {fallback_model}")
                 try:
                     model = SentenceTransformer(fallback_model, device="cuda")
+                    model.half()
                     self._model_cache[fallback_model] = model
                     self.model = model
                     self.model_name = fallback_model
