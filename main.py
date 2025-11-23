@@ -1,53 +1,44 @@
-import os
-import json
 import uvicorn
 from fastapi import FastAPI, Request
-from pathlib import Path
 import traceback
 
-# Import de ta classe RAG
+# Import des Settings
+from src.rag.settings import GlobalConfig
+# Import de la classe RAG
 from src.rag.rag import Rag 
 
 app = FastAPI()
 
-# Variable globale (sert de fallback ou pour le démarrage)
+# Variable globale
 rag_instance = None
-
-def load_config():
-    """Charge la configuration depuis le fichier JSON monté"""
-    config_path = Path("config.json")
-    if not config_path.exists():
-        raise FileNotFoundError("Le fichier config.json est manquant !")
-    
-    with open(config_path, "r", encoding="utf-8") as f:
-        return json.load(f)
 
 @app.on_event("startup")
 async def startup_event():
-    """Initialisation au démarrage (Optionnel avec le Hot-Reload, mais bon pour tester)"""
+    """Initialisation au démarrage"""
     global rag_instance
     print(" Démarrage du RAG Container...")
     try:
-        config = load_config()
-        params = config["rag"]
+        # 1. Chargement intelligent (Docker vs Local)
+        config = GlobalConfig.load_config("config.json")
         
-        # Instance globale de démarrage
+        # On a maintenant des objets typés, pas des dictionnaires !
+        # config.rag.paths.docs  au lieu de  config["rag"]["paths"]["docs"]
+        
         rag_instance = Rag(
-            model=params["model"],
-            base_url=params["base_url"],
-            api_key=params.get("api_key", "pas_de_clef")
+            model=config.rag.model,
+            base_url=config.rag.base_url,
+            api_key=config.rag.api_key,
+            path_doc=config.rag.paths.docs,
+            chroma_persist_dir=config.rag.paths.chroma_dir,
+            processed_texts_dir=config.rag.paths.cache
         )
         print(" RAG Initialisé (Global)")
     except Exception as e:
-        print(f" Erreur d'init globale (non critique si Hot-Reload actif) : {e}")
+        print(f" Erreur d'init globale : {e}")
+        traceback.print_exc()
 
 @app.post("/query")
 async def handle_query(request: Request):
-    """
-    Endpoint d'interrogation.
-    Utilise une variable LOCALE pour garantir que la config est fraîche 
-    et éviter les conflits entre requêtes simultanées.
-    """
     data = await request.json()
     question = data.get("query", "")
     
@@ -55,66 +46,82 @@ async def handle_query(request: Request):
         return {"error": "Question vide"}
 
     try:
-        # 1. Chargement Dynamique de la config
-        config = load_config()
-        params = config["rag"]
+        # 1. Chargement Config
+        config = GlobalConfig.load_config("config.json")
         
-        # 2. Création d'une instance LOCALE (Thread-safe)
+        # 2. Création Instance
         current_rag = Rag(
-            model=params["model"],
-            base_url=params["base_url"],
-            api_key=params.get("api_key", "pas_de_clef")
+            model=config.rag.model,
+            base_url=config.rag.base_url,
+            api_key=config.rag.api_key,
+            path_doc=config.rag.paths.docs,
+            chroma_persist_dir=config.rag.paths.chroma_dir,
+            processed_texts_dir=config.rag.paths.cache
         )
         
-        # 3. ACTIVATION DE LA COLLECTION (Le Correctif Vital)
-        # Récupère le nom dans le JSON, ou utilise 'documents_sensibles' par défaut
-        col_name = params["retrieval"].get("collection_name", "documents_sensibles")
-        
+        # 3. Activation Collection
+        col_name = config.rag.retrieval.collection_name
         print(f" Query sur la collection : {col_name}")
         current_rag.retrieval.chroma_storage.switch_collection(col_name)
         
         # 4. Réponse
         response = current_rag.respond(question)
         
-        return {
-            "query": question, 
-            "response": response
-        }
+        return {"query": question, "response": response}
             
     except Exception as e:
-        traceback.print_exc() # Affiche l'erreur dans les logs Docker
+        traceback.print_exc() 
         return {"error": str(e)}
 
 @app.post("/ingest")
 async def trigger_ingest():
-    """Endpoint pour déclencher la vectorisation"""
+    """
+    Endpoint pour déclencher la vectorisation AVANCÉE.
+    Utilise vectorize_with_config pour gérer les métadonnées et la création propre.
+    """
     try:
-        config = load_config()
-        # On lit la collection cible depuis la config
-        col_name = config["rag"]["retrieval"].get("collection_name", "documents_sensibles")
+        # 1. Chargement de la configuration fraîche
+        config = GlobalConfig.load_config("config.json")
         
-        # On crée une instance temporaire dédiée à l'ingestion
+        # 2. Création de l'instance RAG temporaire
+        # Elle est configurée avec les bons chemins (paths)
         ingest_rag = Rag(
-            base_url=config["rag"]["base_url"]
+            model=config.rag.model,
+            base_url=config.rag.base_url,
+            api_key=config.rag.api_key,
+            path_doc=config.rag.paths.docs,
+            chroma_persist_dir=config.rag.paths.chroma_dir,
+            processed_texts_dir=config.rag.paths.cache
         )
         
-        print(f"📥 Début ingestion vers : {col_name}")
+        col_name = config.rag.retrieval.collection_name
+        print(f" Début ingestion vers : {col_name} (via vectorize_with_config)")
         
-        # Appel de la méthode d'ajout
-        success = ingest_rag.retrieval.add_documents(
+        # 3. Appel de la méthode RICHE (vectorize_with_config)
+        # On passe tous les paramètres issus du fichier de config
+        success = ingest_rag.retrieval.vectorize_with_config(
+            chunk_size=config.rag.retrieval.chunk_size,
+            overlap=config.rag.retrieval.overlap,
             collection_name=col_name,
-            source_path="/app/data/raw", 
-            overwrite_duplicates=False
+            # On force le chemin source défini dans les paths (converti en string)
+            source_folder=str(config.rag.paths.docs), 
+            # On utilise le modèle défini dans la config
+            model_name=config.rag.retrieval.embedding_model, 
         )
         
         if success:
-            return {"status": f"Succès : Documents ajoutés à '{col_name}'"}
+            return {
+                "status": "Succès",
+                "collection": col_name,
+                "chunk_size": config.rag.retrieval.chunk_size,
+                "nb_files": "Voir logs" 
+            }
         else:
-            return {"error": "Echec de l'ingestion (voir logs)"}
+            return {"error": "Echec de la vectorisation (voir logs Docker)"}
             
     except Exception as e:
         traceback.print_exc()
         return {"error": str(e)}
-
+    
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
