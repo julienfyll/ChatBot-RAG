@@ -27,5 +27,8 @@ RUN mkdir -p data/raw data/processed_texts chroma_db_local
 # Cela permet de faire "from src.rag import ..."
 ENV PYTHONPATH=/app
 
+# Le Flag pour settings.py
+ENV RAG_ENVIRONMENT="docker"
+
 # 7. Lancement de l'API
 CMD ["python", "main.py"]
