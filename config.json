@@ -11,7 +11,8 @@
       "retrieval": {
         "chunk_size": 1000,
         "overlap": 200,
-        "collection_name": "documents_sensibles"
+        "collection_name": "test",
+        "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2" 
       }
     }
   }
