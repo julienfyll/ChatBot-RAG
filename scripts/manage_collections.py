@@ -7,8 +7,22 @@ sys.path.insert(0, str(ROOT_DIR))
 import uuid
 import time
 import re
-from src.rag.config import ROOT_DATA_PATH
 from src.rag import Retrieval, Vectorizor
+from src.rag.settings import GlobalConfig
+
+def get_retrieval_instance() -> Retrieval:
+    """
+    Charge la configuration et retourne une instance de Retrieval configurée.
+    Gère automatiquement le contexte (Docker vs Local) via settings.py.
+    """
+    # Charge la config (JSON si Docker, Défauts si Local)
+    config = GlobalConfig.load_config("config.json")
+    
+    return Retrieval(
+        path_doc=config.rag.paths.docs,
+        chroma_persist_dir=str(config.rag.paths.chroma_dir),
+        processed_texts_dir=str(config.rag.paths.cache)
+    )
 
 
 def add_collection_interactive(client):
@@ -25,9 +39,9 @@ def add_collection_interactive(client):
     print("=" * 100)
 
     # Instance retrieval
-    r = Retrieval()
+    r = get_retrieval_instance()
 
-    # 1. Afficher les collections existantes
+    # Afficher les collections existantes
     collections = r.chroma_storage.list_collection_names()
 
     if collections:
@@ -35,7 +49,7 @@ def add_collection_interactive(client):
         for col_name in collections:
             col = client.get_collection(col_name)
             count = col.count()
-            metadata = col.metadata
+            metadata = col.metadata or {}
             chunk_size = metadata.get("chunk_size", "N/A")
             overlap = metadata.get("overlap")
             model_name = metadata.get("model", "N/A")
@@ -49,7 +63,7 @@ def add_collection_interactive(client):
     else:
         print("\n Aucune collection existante")
 
-    # 2. Demander le nom de la nouvelle collection
+    # Demander le nom de la nouvelle collection
     print("\n" + "=" * 100)
     nom_collection = input(" Nom de la nouvelle collection : ").strip()
 
@@ -81,7 +95,7 @@ def add_collection_interactive(client):
             print(" Opération annulée")
             return False
 
-    #  3. NOUVEAU : Choix du modèle d'embedding
+    #  Choix du modèle d'embedding
     print("\n Modèle d'embedding :")
     print("   1. Qwen3-Embedding-0.6B (1024 dim, qualité maximale, lent)")
     print("   2. MPNet (768 dim, bon compromis qualité/vitesse)")
@@ -104,7 +118,7 @@ def add_collection_interactive(client):
 
     print(f"    Modèle sélectionné : {model_short}")
 
-    # 3. Demander les paramètres de chunking
+    #  Demander les paramètres de chunking
     print("\n Paramètres de chunking :")
 
     chunk_size_input = input(
@@ -118,7 +132,7 @@ def add_collection_interactive(client):
     #  Affichage mis à jour
     print(f"   • Paramètres : {chunk_size} caractères, {overlap} caractères overlap")
 
-    # 4. Demander le chemin source
+    # Demander le chemin source
     print("\n Source des documents :")
     chemin_source = input(
         "   Chemin vers le dossier (ex: data/raw/DATA_Test) : "
@@ -134,7 +148,7 @@ def add_collection_interactive(client):
         print(f"   Répertoire courant : {Path.cwd()}")
         return False
 
-    # 5. Confirmation avant création
+    #  Confirmation avant création
     print("\n" + "=" * 100)
     print(" RÉCAPITULATIF :")
     print(f"   • Nom : {nom_collection}")
@@ -148,12 +162,11 @@ def add_collection_interactive(client):
         print(" Création annulée")
         return False
 
-    #  7. MODIFIER vectorizor.py temporairement
     print(f"\n Configuration du vectorizor pour {model_short}...")
     r.vectorizor = Vectorizor()  # Recharger avec le modèle par défaut
     r.vectorizor._load_model(model_name)  # Charger le modèle choisi
 
-    # 6. Lancer la vectorisation avec métadonnées
+    # Lancer la vectorisation avec métadonnées
     print("\n Vectorisation en cours...\n")
 
     try:
@@ -178,7 +191,7 @@ def add_collection_interactive(client):
             # Afficher les stats
             r.chroma_storage.switch_collection(nom_collection)
             stats = r.chroma_storage.get_stats()
-            print(f"\n Statistiques :")
+            print("\n Statistiques :")
             print(f"   • Total chunks : {stats['total_documents']}")
             print(f"   • Total fichiers : {stats['total_fichiers']}")
 
@@ -221,7 +234,7 @@ def rename_collection(old_name: str, new_name: str, client) -> bool:
     old_count = old_col.count()
     old_metadata = old_col.metadata
 
-    print(f"\n Collection source :")
+    print("\n Collection source :")
     print(f"   Nom : {old_name}")
     print(f"   Documents : {old_count}")
 
@@ -301,7 +314,7 @@ def rename_collection(old_name: str, new_name: str, client) -> bool:
     # 5. Vérifier le résultat
     new_count = new_col.count()
 
-    print(f"\n Vérification :")
+    print("\n Vérification :")
     print(f"   Ancienne : {old_count} docs")
     print(f"   Nouvelle : {new_count} docs")
 
@@ -545,12 +558,12 @@ def delete_source_interactive(client):
     Menu interactif pour supprimer un document source.
     Détecte automatiquement la taille de la collection.
     """
-
+    
+    r = get_retrieval_instance()
+    
     print("\n" + "=" * 100)
     print(" SUPPRESSION DE DOCUMENTS SOURCES")
     print("=" * 100)
-
-    r = Retrieval()
 
     # 1. Lister les collections disponibles
     collections = r.chroma_storage.list_collection_names()
@@ -701,7 +714,7 @@ def delete_source_interactive(client):
             new_count = collection.count()
             deleted = total_chunks - new_count
 
-            print(f"\n Suppression réussie !")
+            print("\n Suppression réussie !")
             print(f"   • Chunks supprimés : {deleted}")
             print(f"   • Collection : {total_chunks} → {new_count} chunks")
             return True
@@ -730,7 +743,7 @@ def batch_create_collections(client):
     print("avec des paramètres différents pour chaque collection.\n")
 
     # Instance retrieval
-    r = Retrieval()
+    r = get_retrieval_instance()
 
     # ===== ÉTAPE 1 : DEMANDER LE NOMBRE DE COLLECTIONS =====
     print("=" * 100)
@@ -872,14 +885,14 @@ def batch_create_collections(client):
             f"   • Chunking : {config['chunk_size']} caractères, {config['overlap']} caractères overlap"
         )
         if config["ecraser"]:
-            print(f"     ÉCRASERA la collection existante")
+            print("     ÉCRASERA la collection existante")
 
     # Estimation du temps
     total_files = sum(c["total_files"] for c in collections_configs)
     estimated_time_min = total_files * 0.5  # 30s par fichier en moyenne
 
     print("\n" + "=" * 100)
-    print(f" Statistiques globales :")
+    print(" Statistiques globales :")
     print(f"   • Collections à créer : {len(collections_configs)}")
     print(f"   • Fichiers à traiter : {total_files}")
     print(f"   • Temps estimé : ~{estimated_time_min:.0f} minutes")
@@ -940,7 +953,7 @@ def batch_create_collections(client):
                 # Afficher les stats
                 r.chroma_storage.switch_collection(config["nom"])
                 stats = r.chroma_storage.get_stats()
-                print(f"    Statistiques :")
+                print("    Statistiques :")
                 print(f"      • Total chunks : {stats['total_documents']}")
                 print(f"      • Total fichiers : {stats['total_fichiers']}")
             else:
@@ -953,7 +966,7 @@ def batch_create_collections(client):
 
         # Pause entre collections (optionnel)
         if i < len(collections_configs):
-            print(f"\n⏸ Pause de 2 secondes avant la prochaine collection...")
+            print("\n⏸ Pause de 2 secondes avant la prochaine collection...")
             time.sleep(2)
 
     # ===== ÉTAPE 6 : RAPPORT FINAL =====
@@ -1056,7 +1069,7 @@ def manage_collections():
     - Permet de renommer une collection (pseudo-renommage)
     """
 
-    r = Retrieval()
+    r = get_retrieval_instance()
     client = r.chroma_storage.chroma_client
 
     while True:
@@ -1176,7 +1189,7 @@ def manage_collections():
             if nom_col in collections:
                 r.chroma_storage.switch_collection(nom_col)
                 # On passe le chemin racine de la config à la fonction de migration
-                r.chroma_storage.migrate_paths_to_relative(ROOT_DATA_PATH)
+                r.chroma_storage.migrate_paths_to_relative(r.path_doc)
             else:
                 print(f"Collection '{nom_col}' introuvable.")
             input("\nAppuyez sur Entrée pour continuer...")
@@ -1308,7 +1321,7 @@ def manage_collections():
 
             # Afficher ce qui va être supprimé
             total_docs = 0
-            print(f"\n Collections à supprimer :")
+            print("\n Collections à supprimer :")
             for nom in noms_list:
                 col = client.get_collection(nom)
                 count = col.count()
@@ -1368,7 +1381,7 @@ def manage_collections():
 
             # Confirmation
             confirmation = (
-                input(f"\n Confirmer la suppression ? (o/n) : ").strip().lower()
+                input("\n Confirmer la suppression ? (o/n) : ").strip().lower()
             )
 
             if confirmation != "o":

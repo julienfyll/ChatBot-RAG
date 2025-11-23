@@ -1,0 +1,18 @@
+{
+    "rag": {
+      "model": "Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf",
+      "base_url": "http://192.168.1.12:8080/v1", 
+      "api_key": "pas_de_clef",
+      "paths": {
+        "docs": "/app/data/raw",
+        "cache": "/app/data/processed_texts",
+        "chroma_dir": "/app/chroma_db_local"
+      },
+      "retrieval": {
+        "chunk_size": 1000,
+        "overlap": 200,
+        "collection_name": "test",
+        "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2" 
+      }
+    }
+  }

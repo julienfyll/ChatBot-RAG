@@ -1,0 +1,29 @@
+# .dockerignore
+
+# 1. Ignorer les Modèles (LE PLUS IMPORTANT - 4.7 Go économisés)
+models/
+*.gguf
+
+# 2. Ignorer les environnements virtuels (Conda / Venv)
+ragcdl/
+env/
+venv/
+.venv/
+
+# 3. Ignorer les bases de données et fichiers générés (montés en volume)
+chroma_db_local/
+data/processed_texts/
+# Si tu veux copier tes PDF sources dans l'image, n'ignore pas data/raw.
+# Mais vu que tu as un volume, autant ignorer data/ pour alléger l'image :
+data/
+
+# 4. Ignorer Git et fichiers système
+.git/
+.gitignore
+.DS_Store
+
+# 5. Ignorer le cache Python (inutile dans Linux)
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage

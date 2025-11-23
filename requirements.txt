@@ -1,0 +1,19 @@
+fastapi
+pydantic-settings
+uvicorn
+python-multipart
+python-dotenv
+chromadb
+sentence-transformers
+# Pour ton OCR et traitement de fichiers
+pytesseract
+pdf2image
+python-docx
+pypdf2
+pandas
+numpy
+openai
+httpx
+# Langchain (tu l'utilises dans retrieval.py pour le splitter)
+langchain
+langchain-text-splitters
