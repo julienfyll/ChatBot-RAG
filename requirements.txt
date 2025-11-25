@@ -1,19 +1,58 @@
-fastapi
-pydantic-settings
-uvicorn
-python-multipart
-python-dotenv
-chromadb
-sentence-transformers
-# Pour ton OCR et traitement de fichiers
-pytesseract
-pdf2image
-python-docx
-pypdf2
-pandas
-numpy
-openai
-httpx
-# Langchain (tu l'utilises dans retrieval.py pour le splitter)
-langchain
-langchain-text-splitters
+# === CŒUR & UTILITAIRES ===
+python-dotenv==1.2.1
+jinja2==3.1.6
+markupsafe==3.0.3
+numpy==2.3.3
+pandas==2.3.2
+pillow==11.3.0
+requests==2.32.5
+tqdm==4.67.1
+orjson==3.11.4
+watchfiles==1.1.1
+pyyaml==6.0.3
+filelock==3.19.1
+
+# === VECTOR DB (CRITIQUE : Version 1.1.1 imposée) ===
+chromadb==1.1.1
+chroma-hnswlib==0.7.6
+hnswlib==0.8.0
+
+# === CORE IA & TORCH ===
+torch==2.9.1
+sentence-transformers==5.1.1
+transformers==4.56.2
+tokenizers==0.22.1
+safetensors==0.6.2
+scikit-learn==1.7.2
+scipy==1.16.2
+
+# === LLM & API ===
+openai==2.6.1
+httpx==0.27.2
+httpcore==1.0.9
+
+# === BACKEND & API ===
+fastapi==0.120.2
+uvicorn==0.38.0
+pydantic==2.12.3
+pydantic-settings==2.11.0
+starlette-context==0.4.0
+sse-starlette==3.0.2
+# Ajout validé en étape 2
+python-multipart==0.0.20
+
+# === LANGCHAIN ===
+langchain==1.0.3
+langchain-text-splitters==1.0.0
+langchain-community==0.4.1
+
+# === TRAITEMENT DOCUMENTS & OCR ===
+pytesseract==0.3.13
+pdf2image==1.17.0
+# Version headless pour Docker pour éviter les erreurs de libs graphiques (X11)
+# Tout en gardant la version stricte 4.10.0.84 de votre local
+opencv-python-headless==4.10.0.84
+pymupdf==1.25.5
+python-docx==1.1.0
+pycryptodome==3.23.0
+PyPDF2==3.0.1
