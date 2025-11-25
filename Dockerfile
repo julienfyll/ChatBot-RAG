@@ -3,6 +3,7 @@ FROM python:3.12-slim
 # 1. Installation des dépendances SYSTÈME (OCR, LibreOffice, etc.)
 # C'est lourd mais nécessaire pour ton ocr_processor.py et document_processor.py
 RUN apt-get update && apt-get install -y \
+    build-essential \
     tesseract-ocr \
     tesseract-ocr-fra \
     libreoffice \
