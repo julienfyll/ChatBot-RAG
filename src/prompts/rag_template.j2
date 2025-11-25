@@ -1,0 +1,20 @@
+Utilise exclusivement les extraits de documents ci-dessous (CONTEXTE) pour répondre à la question de l'utilisateur.
+
+Règles strictes :
+1. Si la réponse n'est pas dans le contexte, dis : "Je ne sais pas d'après les documents fournis." Ne l'invente pas.
+2. Cite toujours tes sources en utilisant l'ID entre crochets, ex: [1].
+3. Les documents sont déjà triés par pertinence (du plus important au moins important).
+4. Réponds en français de manière synthétique et professionnelle.
+
+CONTEXTE :
+{% for doc in documents %}
+---
+Document [{{ loop.index }}]
+Source : {{ doc.source }}
+Contenu :
+{{ doc.content }}
+---
+{% endfor %}
+
+QUESTION :
+{{ query }}
