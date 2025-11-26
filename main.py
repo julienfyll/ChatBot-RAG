@@ -1,10 +1,10 @@
 import uvicorn
 from fastapi import FastAPI, Request
 import traceback
+from pydantic import BaseModel, Field  
+from typing import Optional, List, Any
 
-# Import des Settings
 from src.rag.settings import GlobalConfig
-# Import de la classe RAG
 from src.rag.rag import Rag 
 
 app = FastAPI()
@@ -12,17 +12,34 @@ app = FastAPI()
 # Variable globale
 rag_instance = None
 
+# --- Modèles de données (Contrat d'Interface) ---
+
+class LegacyQueryRequest(BaseModel):
+    """
+    Reflète la requête envoyée par le Backend Node.js.
+    Le backend envoie toujours : { "question": "...", "history": [...] }
+    Note: 'history' est accepté pour ne pas casser la validation, mais ignoré par la logique.
+    """
+    # Node.js envoie souvent "query" ou "question", j'utilise un alias pour accepter "query"
+    query: str 
+    history: Optional[List[Any]] = Field(default=None)
+
+class LegacyQueryResponse(BaseModel):
+    """
+    Reflète la réponse attendue par le Backend Node.js.
+    Le backend attend : data.response
+    """
+    response: str
+
+
 @app.on_event("startup")
 async def startup_event():
     """Initialisation au démarrage"""
     global rag_instance
     print(" Démarrage du RAG Container...")
     try:
-        # 1. Chargement intelligent (Docker vs Local)
+        # Chargement intelligent (Docker vs Local)
         config = GlobalConfig.load_config("config.json")
-        
-        # On a maintenant des objets typés, pas des dictionnaires !
-        # config.rag.paths.docs  au lieu de  config["rag"]["paths"]["docs"]
         
         rag_instance = Rag(
             model=config.rag.model,
@@ -37,19 +54,23 @@ async def startup_event():
         print(f" Erreur d'init globale : {e}")
         traceback.print_exc()
 
-@app.post("/query")
-async def handle_query(request: Request):
-    data = await request.json()
-    question = data.get("query", "")
+@app.post("/query", response_model=LegacyQueryResponse)
+async def handle_query(payload: LegacyQueryRequest):
+    """
+    Endpoint query adapté.
+    Reçoit : JSON strict (query, history)
+    Renvoie : JSON strict (response)
+    """
+    # Extraction propre via Pydantic
+    question = payload.query
     
+    # Validation
     if not question:
-        return {"error": "Question vide"}
+        return LegacyQueryResponse(response="Erreur : Question vide")
 
     try:
-        # 1. Chargement Config
         config = GlobalConfig.load_config("config.json")
-        
-        # 2. Création Instance
+
         current_rag = Rag(
             model=config.rag.model,
             base_url=config.rag.base_url,
@@ -59,19 +80,19 @@ async def handle_query(request: Request):
             processed_texts_dir=config.rag.paths.cache
         )
         
-        # 3. Activation Collection
+        # Activation Collection
         col_name = config.rag.retrieval.collection_name
         print(f" Query sur la collection : {col_name}")
         current_rag.retrieval.chroma_storage.switch_collection(col_name)
         
-        # 4. Réponse
-        response = current_rag.respond(question)
+        response_text = current_rag.respond(question)
         
-        return {"query": question, "response": response}
+        # Formatage pour le Node.js (champ 'response')
+        return LegacyQueryResponse(response=response_text)
             
     except Exception as e:
         traceback.print_exc() 
-        return {"error": str(e)}
+        return LegacyQueryResponse(response=f"Error processing request: {str(e)}")
 
 @app.post("/ingest")
 async def trigger_ingest():
@@ -80,11 +101,10 @@ async def trigger_ingest():
     Utilise vectorize_with_config pour gérer les métadonnées et la création propre.
     """
     try:
-        # 1. Chargement de la configuration fraîche
+        # Chargement de la configuration fraîche
         config = GlobalConfig.load_config("config.json")
         
-        # 2. Création de l'instance RAG temporaire
-        # Elle est configurée avec les bons chemins (paths)
+        # Création de l'instance RAG temporaire
         ingest_rag = Rag(
             model=config.rag.model,
             base_url=config.rag.base_url,
@@ -97,15 +117,12 @@ async def trigger_ingest():
         col_name = config.rag.retrieval.collection_name
         print(f" Début ingestion vers : {col_name} (via vectorize_with_config)")
         
-        # 3. Appel de la méthode RICHE (vectorize_with_config)
-        # On passe tous les paramètres issus du fichier de config
+
         success = ingest_rag.retrieval.vectorize_with_config(
             chunk_size=config.rag.retrieval.chunk_size,
             overlap=config.rag.retrieval.overlap,
             collection_name=col_name,
-            # On force le chemin source défini dans les paths (converti en string)
             source_folder=str(config.rag.paths.docs), 
-            # On utilise le modèle défini dans la config
             model_name=config.rag.retrieval.embedding_model, 
         )
         
