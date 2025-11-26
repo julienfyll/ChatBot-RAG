@@ -2,7 +2,7 @@ import numpy as np
 from .llm import LLM
 from .retrieval import Retrieval
 from pathlib import Path
-
+from jinja2 import Template
 
 class Rag:
     # personnalisation des paramètres d'initialisation, les valeurs par défaut sont fournies
@@ -27,13 +27,26 @@ class Rag:
         self.processed_texts_dir = Path(processed_texts_dir)
 
         try:
-            project_root = Path(__file__).parent.parent  # src/rag/ -> src/
-            prompt_path = project_root / "prompts" / "rag_template.txt"
-            self.prompt_template = prompt_path.read_text(encoding="utf-8")
-            print(f"✓ Prompt chargé depuis : {prompt_path}")
-        except FileNotFoundError:
-            print(f" ERREUR : Le fichier de prompt '{prompt_path}' est introuvable.")
-            self.prompt_template = "CONTEXTE:\n{context_concat}\n\nQUESTION:\n{query}"
+            current_file = Path(__file__).resolve()
+            project_root = current_file.parent.parent.parent
+            
+            prompt_path = project_root / "prompts" / "rag_template.j2"
+            
+            # Sécurité : Si on est dans Docker, le WORKDIR est /app, donc prompts est souvent à /app/prompts
+            if not prompt_path.exists():
+                prompt_path = Path("/app/prompts/rag_template.j2")
+
+            if not prompt_path.exists():
+                 raise FileNotFoundError(f"Template introuvable à : {project_root / 'prompts'}")
+
+            with open(prompt_path, "r", encoding="utf-8") as f:
+                self.template = Template(f.read())
+            print(f"✓ Template Jinja2 chargé depuis : {prompt_path}")
+            
+        except Exception as e:
+            print(f" ERREUR CRITIQUE : Impossible de charger le template Jinja2 ({e})")
+            # Fallback de secours (très basique) pour éviter le crash
+            self.template = Template("CONTEXTE:\n{% for d in documents %}{{ d.content }}\n{% endfor %}\nQUESTION:\n{{ query }}")
 
         self.llm = LLM(model=self.model, base_url=self.base_url, api_key=self.api_key)
 
@@ -46,44 +59,39 @@ class Rag:
         return
 
     def respond(self, query: str) -> str:
-        top_k = 5  # Nombre de contextes à récupérer
+        top_k = 5 
 
         # 1) Garde-fou minimal
-        if not query or not isinstance(query, str) or query.strip() == "":
+        if not query or not isinstance(query, str) or not query.strip():
             return "Merci de préciser votre question."
 
-        # 2) Appel au retriever (avec les scores)
+        # 2) Appel au retriever
         try:
-            contextes, sources, scores = self.retrieval.query(
-                query, n=top_k
-            )  # top_k est le nombre de contextes à récupérer
+            contextes, sources, scores = self.retrieval.query(query, n=top_k)
         except FileNotFoundError:
-            # Cas où la base vectorielle n'existe pas encore
-            print(
-                "La base documentaire n'est pas prête. Lance d'abord la vectorisation (update) pour créer la BDD."
-            )
-            return (
-                "La base documentaire n'est pas prête. "
-                "Lance d'abord la vectorisation (update) pour créer la BDD."
-            )
+            return "La base documentaire n'est pas prête."
         except Exception as e:
-            print(f"Une erreur est survenue pendant la recherche du contexte : {e}")
             return f"Une erreur est survenue pendant la recherche du contexte : {e}"
 
-        # 3) Construit le CONTEXTE avec les sources intégrées et numérotées
-        blocks = []
+        # 3) PRÉPARATION DES DONNÉES (ViewModel pour Jinja2)
+        # C'EST ICI QUE CA CHANGE : On ne concatène plus de texte manuellement.
+        documents_context = []
+        
+        # On itère sur les résultats du retriever
         for i, (ctx, src, sc) in enumerate(zip(contextes, sources, scores), start=1):
-            label_src = str(src)
-            score_txt = f"(score: {sc:.3f})" if sc is not None else ""
-            blocks.append(f"[{i}] Source: {label_src} {score_txt}\n{ctx}")
+            documents_context.append({
+                "id": i,
+                "source_name": Path(src).name, # Juste le nom du fichier (plus propre)
+                "score": float(sc) if sc is not None else 0.0,
+                "content": ctx.strip()
+            })
 
-        context_concat = "\n\n---\n\n".join(blocks)
-
-        # 4) Prépare le prompt
-        prompt = self.prompt_template.format(context_concat=context_concat, query=query)
-
-        print(prompt)
-        print("=== PROMPT ENVOYÉ AU LLM ===")
+        # 4) RENDU DU PROMPT VIA JINJA
+        # On passe la liste d'objets au template
+        prompt = self.template.render(
+            documents=documents_context,
+            query=query
+        )
 
         # 5) Appel du LLM
         try:
@@ -91,18 +99,13 @@ class Rag:
         except Exception as e:
             return f"Une erreur est survenue pendant l'inférence du LLM : {e}"
 
-        # 6) Affichage clair des sources + scores
-
+        # 6) Affichage des sources en bas de réponse
         sources_lines = []
-        for i, (chemin, score) in enumerate(zip(sources, scores), start=1):
-            if score is not None:
-                sources_lines.append(f"[{i}] {chemin} (score: {score:.3f})")
-            else:
-                sources_lines.append(f"[{i}] {chemin}")
+        for doc in documents_context:
+            sources_lines.append(f"[{doc['id']}] {doc['source_name']} (score: {doc['score']:.3f})")
+            
         if sources_lines:
-            reponse = f"{reponse}\n\nSources (Top-{len(sources_lines)}):\n" + "\n".join(
-                sources_lines
-            )
+            reponse = f"{reponse}\n\nSources (Top-{len(sources_lines)}):\n" + "\n".join(sources_lines)
 
         return reponse
 
