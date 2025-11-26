@@ -1,0 +1,31 @@
+L'intelligence artificielle est utilisée dans Wikipédia et d'autres projets Wikimédia dans l'objectif de développer et améliorer ces projets. L'interaction entre les humains et les robots dans ces projets  est routinière et itérative.
+
+Utilisation de l'intelligence artificielle pour les projets Wikimedia
+De nombreux projets visent à améliorer Wikipédia et ses projets frères en utilisant des outils d’intelligence artificielle.
+
+ORES
+Le projet Objective Revision Evaluation Service (ORES) est un service d'intelligence artificielle permettant d'évaluer la qualité des modifications apportées à Wikipédia. La Fondation Wikimedia a présenté le projet ORES en novembre 2015. Mais il est prévu qu'il soit remplacé par Lift Wing depuis 2023.
+
+Les robots wiki
+Detox
+Detox était un projet de Google, en collaboration avec la Fondation Wikimédia, visant à rechercher des méthodes pouvant être utilisées pour traiter les utilisateurs publiant des commentaires désobligeants dans les discussions de la communauté Wikimédia. Parmi les autres volets du projet Detox, il y a la collaboration entre la Fondation Wikimédia et Scie Sauteuse pour utiliser l'intelligence artificielle pour la recherche fondamentale et développer des solutions techniques[Par exemple ?] pour résoudre le problème. En octobre 2016, ces organisations ont publié "Ex Machina: Attaques personnelles vues à grande échelle" décrivant leurs conclusions. Divers médias populaires ont rendu compte de la publication de cet article et ont décrit le contexte social de la recherche.
+
+Réduction des biais
+En août 2018, une société appelée Primer a signalé avoir tenté d'utiliser l'intelligence artificielle pour créer des articles Wikipédia sur les femmes afin de lutter contre les préjugés sexistes sur Wikipédia.
+
+Modèles génératifs
+Texte
+En 2022, la sortie publique de ChatGPT a inspiré davantage d'expérimentations avec l'IA et la rédaction d'articles sur Wikipédia. Un débat a été lancé sur la question de savoir si et dans quelle mesure de tels modèles linguistiques de grande envergure sont adaptés à de telles fins, compte tenu de leur tendance à générer des informations erronées qui semblent plausibles, y compris de fausses références, à générer une prose qui n'a pas un ton encyclopédique et à reproduire des biais. À compter de mai 2023, un projet de politique de Wikipédia sur ChatGPT et les grands modèles linguistiques (LLM) similaires recommandait aux utilisateurs qui ne sont pas familiers avec les LLM d'éviter de les utiliser en raison des risques susmentionnés, ainsi que du risque de diffamation ou de violation du droit d'auteur.
+
+Autres médias
+Il existe un projet Wiki pour rechercher et supprimer le texte et les images générés par l'IA, appelé WikiProject AI Cleanup.
+
+Utiliser les projets Wikimedia pour l'intelligence artificielle
+Le contenu des projets Wikimedia est utile en tant qu’ensemble de données pour faire progresser la recherche et les applications en matière d’intelligence artificielle. Par exemple, dans le développement de l' API Perspective de Google qui identifie les commentaires toxiques dans les forums en ligne, un ensemble de données contenant des centaines de milliers de commentaires de pages de discussion de Wikipédia avec des niveaux de toxicité étiquetés par des humains a été utilisé. Les sous-ensembles du corpus de Wikipédia sont considérés comme les plus grands ensembles de données bien organisées disponibles pour la formation de l'IA.
+Un article de 2012 a révélé que plus de 1 000 articles universitaires, y compris ceux utilisant l'intelligence artificielle, examinent Wikipédia, réutilisent des informations de Wikipédia, utilisent des extensions techniques liées à Wikipédia ou effectuent des recherches sur Wikipédia. Un article de 2017 décrit Wikipédia comme la mine d'or du texte généré par l'homme disponible pour l'apprentissage automatique.
+Un projet de recherche de 2016 intitulé «One Hundred Year Study on Artificial Intelligence» a désigné Wikipédia comme l'un des premiers projets clés pour comprendre l'interaction entre les applications de l'intelligence artificielle et l'engagement humain.
+Il existe une préoccupation concernant le manque d'attribution des articles de Wikipédia dans les modèles à grands langages comme ChatGPT. Bien que la politique de licence de Wikipédia autorise quiconque à utiliser ses textes, y compris sous des formes modifiées, elle impose la condition que le crédit soit accordé, ce qui implique que l'utilisation de son contenu dans les réponses des modèles d'IA sans clarifier la source peut violer ses conditions d'utilisation.
+
+Références
+
+ Portail de Wikimédia   Portail de l’intelligence artificielle
