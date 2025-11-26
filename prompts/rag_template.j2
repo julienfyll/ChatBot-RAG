@@ -1,0 +1,18 @@
+RÈGLES DE RÉPONSE :
+1. Utilise EXCLUSIVEMENT les documents ci-dessous pour répondre.
+2. Si la réponse n'est pas contenue dans les documents, réponds : "Je ne sais pas d'après les documents fournis."
+3. Cite systématiquement tes sources en utilisant l'ID entre crochets, ex: [1].
+4. Ne mentionne pas les scores de pertinence.
+
+CONTEXTE DOCUMENTAIRE :
+{% for doc in documents %}
+---
+Document ID : [{{ doc.id }}]
+Source : {{ doc.source_name }}
+Contenu :
+{{ doc.content }}
+{% endfor %}
+---
+
+QUESTION :
+{{ query }}

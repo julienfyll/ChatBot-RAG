@@ -221,16 +221,15 @@ class DocumentProcessor:
             if not fichier.is_file():
                 continue
             fichier_abs = fichier.resolve()
-            chemin_normalise = fichier.as_posix()
 
             # On calcule le chemin relatif par rapport à la racine des données
             try:
                 chemin_relatif = (
-                    fichier.resolve().relative_to(self.path_doc.resolve()).as_posix()
+                    fichier_abs.relative_to(self.path_doc.resolve()).as_posix()
                 )
             except ValueError:
                 print(
-                    f"  /!\\ Avertissement : Le fichier {fichier.resolve()} n'est pas dans le ROOT_DATA_PATH ({self.path_doc.resolve()}). Il sera ignoré."
+                    f"  /!\\ Avertissement : Le fichier {fichier_abs} n'est pas dans le ROOT_DATA_PATH ({self.path_doc.resolve()}). Il sera ignoré."
                 )
                 continue  # On ignore ce fichier car on ne peut pas créer de chemin relatif fiable
 
