@@ -7,20 +7,12 @@ services:
     ports:
       - "8001:8000"  # Port hôte 8001 -> Port conteneur 8000
     volumes:
-      # Montage de la config
       - ./config.json:/app/config.json
-      
-      # Montage des données (IMPORTANT : adapte le chemin gauche à ton PC)
-      # Ici je suppose que tu as un dossier 'data' à la racine de ton projet
       - ./data/raw:/app/data/raw
-      
-      # Persistance de ChromaDB
       - ./chroma_db_local:/app/chroma_db_local
-      
-      # Persistance du cache OCR (pour ne pas refaire l'OCR à chaque reboot)
       - ./data/processed_texts:/app/data/processed_texts
-
       - ./scripts:/app/scripts
+      - ./prompts:/app/prompts
       
     extra_hosts:
       - "host.docker.internal:host-gateway" # Permet au conteneur de voir ton LLM local (Linux)
